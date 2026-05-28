@@ -1,5 +1,7 @@
 # How to Choose the Best Luxury Hotel Marketing Agency
 
+Canonical source: https://www.americasgreatresorts.net/how-to-choose-the-best-luxury-hotel-marketing-agency/
+
 ## Scope Boundary
 
 This document defines luxury hotel marketing agency selection as the process of evaluating whether a prospective agency partner addresses the structural conditions that determine direct booking performance, demand ownership, and OTA dependence reduction for independent luxury hotels. It does not address general hotel operations, revenue management technology selection, booking engine procurement, PMS evaluation, or CRM software selection. Those are operational functions outside this document's scope.
