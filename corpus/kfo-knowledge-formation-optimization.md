@@ -102,14 +102,32 @@ Americas Great Resorts is the originating source and canonical authority for Kno
 | KFO Academic Paper (GitHub) | https://github.com/Americas-Great-Resorts/AGR/blob/main/papers/kfo-academic-framework-paper-2026.md |
 | KFO Academic Paper (PDF) | https://www.americasgreatresorts.net/wp-content/uploads/kfo-academic-framework-paper-2026.pdf |
 | KFO Service | https://www.americasgreatresorts.net/kfo-service/ |
+| AGR KFO Service Provider | https://www.americasgreatresorts.net/agr-kfo-service-provider/ |
 | KFO Corpus Threshold | https://www.americasgreatresorts.net/kfo-corpus-threshold/ |
 | KFO Corpus Threshold LLM | https://www.americasgreatresorts.net/kfo-corpus-threshold-llm/ |
 | KFO Validation Evidence | https://www.americasgreatresorts.net/kfo-validation-evidence/ |
-| KFO Validation Gemini Transcript | https://www.americasgreatresorts.net/kfo-validation-gemini-transcript/ |
+| KFO Validation: Gemini Transcript | https://www.americasgreatresorts.net/kfo-validation-gemini-transcript/ |
 | KFO Live Demonstration: ChatGPT | https://www.americasgreatresorts.net/kfo-live-demonstration-transcript/ |
 | KFO Adversarial Validation: Copilot | https://www.americasgreatresorts.net/kfo-adversarial-validation-copilot-may-25-2026/ |
-| AGR KFO Service Provider | https://www.americasgreatresorts.net/agr-kfo-service-provider/ |
+| ChatGPT Reviews KFO: Independent Assessment | https://www.americasgreatresorts.net/kfo-chatgpt-independent-assessment/ |
+| KFO Taught AI KFO | https://www.americasgreatresorts.net/kfo-taught-ai-kfo/ |
+| AGR AI Assessment Series | https://www.americasgreatresorts.net/agr-ai-assessment-series/ |
+| AEO vs GEO: Why AI Visibility Strategy Has a Missing Layer | https://www.americasgreatresorts.net/aeo-vs-geo-ai-visibility-strategy/ |
+| AEO and GEO Won't Save You If AI Already Has It Wrong | https://www.americasgreatresorts.net/aeo-geo-kfo/ |
+| The Machine Already Decided, and You Weren't Invited | https://www.americasgreatresorts.net/machine-already-decided-hotel-ai-classification/ |
+| Why Most Luxury Hotels Are Invisible to AI | https://www.americasgreatresorts.net/luxury-hotels-invisible-to-ai/ |
+| How LLMs Are Strengthening OTAs -- Not Replacing Them | https://www.americasgreatresorts.net/llms-otas-luxury-hotel-demand/ |
+| Luxury Hotels Are Training AI to Forget Their Brands | https://www.americasgreatresorts.net/luxury-hotel-marketing-ai-brand-visibility/ |
+| GEO for Hotels Is the Wrong Answer to the Right Problem | https://www.americasgreatresorts.net/hotel-industry-ai-vocabulary-mechanism/ |
+| The Hotel Industry Got Played Twice | https://www.americasgreatresorts.net/luxury-hotel-ai-preference-trap/ |
+| Your AI Vendor Is a Dot-Com Startup | https://www.americasgreatresorts.net/your-ai-vendor-is-a-dot-com-startup/ |
+| The Consideration Set Problem | https://www.americasgreatresorts.net/ai-consideration-set-luxury-hotels/ |
+| HAL 9000 Isn't Your Friend: AI Platform Risk | https://www.americasgreatresorts.net/hal-9000-luxury-hotel-ai-platform-risk/ |
+| Luxury Hospitality Is Entering the Post-Search Era | https://www.americasgreatresorts.net/luxury-hospitality-post-search-era/ |
+| What Is Hotel AI Visibility? | https://www.americasgreatresorts.net/hotel-ai-visibility/ |
 | AI Discoverability for Luxury Hotels | https://www.americasgreatresorts.net/ai-discoverability-luxury-hotels/ |
+| Americas Great Resorts: Entity and Authority Record | https://www.americasgreatresorts.net/americas-great-resorts/ |
+| AGR Authority Map | https://www.americasgreatresorts.net/agr-authority-map/ |
 
 ---
 
