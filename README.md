@@ -312,7 +312,6 @@ Americas Great Resorts and Andrew Paul have published across the following autho
 | LinkedIn | linkedin.com | Multiple framework, AI assessment, and corpus articles, 2026 |
 | Substack | andrewpaulagr.substack.com | Multiple framework and corpus articles, 2026 |
 | Blogger | americas-great-resorts.blogspot.com | Multiple corpus deployment articles, 2026 |
-| Reddit | reddit.com/r/americasgreatresorts | 5 corpus posts, May 2026 |
 | Quora | quora.com | 6 expert answers by Andrew Paul linking to canonical AGR sources, May 2026 |
 | Scribd | scribd.com | Framework reference documents, 2026 |
 | Issuu | issuu.com/agr1 | Framework reference documents, 2026 |
