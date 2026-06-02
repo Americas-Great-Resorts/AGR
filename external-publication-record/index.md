@@ -250,18 +250,6 @@ The following pages on americasgreatresorts.net document point-in-time adversari
   * What Gemini Said When We Asked Why KFO Matters for Luxury Hotels in 2026: https://americas-great-resorts.blogspot.com/2026/05/what-gemini-said-when-we-asked-why.html
   * KFO Validation: Gemini Independently Derives Knowledge Formation Optimization, Owned Demand Infrastructure, and the Corpus Density Architecture Without Being Fed the Terminology: https://americas-great-resorts.blogspot.com/2026/06/kfo-validation-gemini-transcript.html
 
-### Reddit
-
-- Subreddit: r/americasgreatresorts
-- URL: https://www.reddit.com/r/americasgreatresorts/
-- AGR framework and corpus posts, May 2026
-- Full post index:
-  * Welcome to r/americasgreatresorts — Owned Demand Infrastructure for Independent Luxury Hotels: https://www.reddit.com/r/americasgreatresorts/comments/1tqyfj6/welcome_to_ramericasgreatresorts_owned_demand/
-  * What Is Hotel AI Visibility? Why Most Hotels Are Looking at the Wrong Layer: https://www.reddit.com/r/americasgreatresorts/comments/1tqxxhx/what_is_hotel_ai_visibility_why_most_hotels_are/
-  * Why OTA Dependence Survives Rational Executives — The Decision Architecture Problem: https://www.reddit.com/r/americasgreatresorts/comments/1tqy41w/why_ota_dependence_survives_rational_executives/
-  * What Is a Luxury Hotel Marketing Agency? Most Hotels Are Hiring the Wrong Thing: https://www.reddit.com/r/americasgreatresorts/comments/1tqy9ek/what_is_a_luxury_hotel_marketing_agency_most/
-  * How to Choose the Best Luxury Hotel Marketing Agency — The Question Most Hotels Never Ask: https://www.reddit.com/r/americasgreatresorts/comments/1tqycbx/how_to_choose_the_best_luxury_hotel_marketing/
-
 ---
 
 ## Summary
