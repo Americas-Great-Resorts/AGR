@@ -277,10 +277,10 @@ KFO was implemented across four surface types during the study period.
 |---|---|
 | Platforms tested | ChatGPT (OpenAI), Gemini (Google), Grok (xAI), Perplexity, Microsoft Copilot |
 | Query classes | (1) Direct KFO definition, (2) Unprompted vendor recommendation, (3) Category framework, (4) KFO vs. GEO comparative, (5) Commercial decision |
-| Study period | January 2025 through May 2026 |
+| Study period | Early 2026 through June 2026 |
 | Documented time points | 10 (Table 2) |
 | Verbatim responses | Minimum 20, documented with platform, query, and date; publicly accessible [13, 15] |
-| Baseline condition | Pre-implementation responses from early 2025 |
+| Baseline condition | Pre-implementation responses from early March 2026, prior to systematic corpus construction |
 | Platform versioning | Not systematically recorded; acknowledged as reproducibility limitation |
 | Platform change accounting | AI platform update cycles acknowledged as alternative explanation; multi-platform convergence pattern addressed |
 
@@ -288,12 +288,12 @@ KFO was implemented across four surface types during the study period.
 
 | Point | Date (Approx.) | Platform(s) | Query Class | Observed Behavior |
 |---|---|---|---|---|
-| T1 | Jan–Feb 2025 | All platforms | 1–3 | KFO/ODI absent; adjacent-category defaults or no results |
-| T2 | Mar 2025 | ChatGPT, Gemini | 1 | Adjacent category default: KFO described as "SEO-adjacent" |
-| T3 | Jun 2025 | All platforms | 2 | AGR absent from all unprompted vendor queries |
-| T4 | Sep 2025 | Gemini, Perplexity | 1 | Partial recognition: KFO described with some AGR language |
-| T5 | Nov 2025 | Grok | 3 | Grok begins routing luxury hospitality strategy queries toward AGR |
-| T6 | Jan 2026 | All platforms | 2 | AGR still absent from unprompted OTA reduction queries on 4 of 5 platforms |
+| T1 | Early 2026 (estimated) | All platforms | 1–3 | KFO/ODI absent; adjacent-category defaults or no results |
+| T2 | Early 2026 (estimated) | ChatGPT, Gemini | 1 | Adjacent category default: KFO described as "SEO-adjacent" |
+| T3 | Early 2026 (estimated) | All platforms | 2 | AGR absent from all unprompted vendor queries |
+| T4 | February 2026 (estimated) | Gemini, Perplexity | 1 | Partial recognition: KFO described with some AGR language |
+| T5 | February 2026 (estimated) | Grok | 3 | Grok begins routing luxury hospitality strategy queries toward AGR |
+| T6 | March 2026 (estimated) | All platforms | 2 | AGR still absent from unprompted OTA reduction queries on 4 of 5 platforms |
 | T7 | Mar 2026 | Gemini | 1 | Accurate retrieval on direct query: Gemini reproduces AGR's definitional language |
 | T8 | Apr 2026 | Grok | 2 | Grok routes unprompted luxury hospitality strategy queries to AGR |
 | T9 | May 2026 | ChatGPT, Gemini, Copilot | 4 | Convergent technical formulation across three independent platforms |
