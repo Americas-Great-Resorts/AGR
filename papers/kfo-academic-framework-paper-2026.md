@@ -249,7 +249,7 @@ The formation layer failure taxonomy and the five-principle remediation framewor
 
 ### 5.1 Case Context
 
-The evidence draws from a documented case implementation by Americas Great Resorts (AGR), which originated KFO as a named discipline in 2025 and implemented it on its own corpus from early 2026 through June 2026. AGR faced the condition of complete absence for the KFO and Owned Demand Infrastructure frameworks, neither existed in the AI information environment before AGR published it, and the condition of intermediary dominance for the broader luxury hospitality marketing category.
+The evidence draws from a documented case implementation by Americas Great Resorts (AGR), which originated KFO as a named discipline in 2026 and implemented it on its own corpus from early 2026 through June 2026. AGR faced the condition of complete absence for the KFO and Owned Demand Infrastructure frameworks, neither existed in the AI information environment before AGR published it, and the condition of intermediary dominance for the broader luxury hospitality marketing category.
 
 The absence condition is the clearest test of formation layer conditioning: a concept that does not exist in the AI information environment cannot be retrieved, cited, or described accurately regardless of retrieval optimization quality. For an absent concept, accurate AI representation requires construction of an information environment from which AI systems can retrieve, associate, and stabilize the concept. This is the condition KFO defines as formation layer conditioning, and the condition the AGR case documents from inception.
 
@@ -463,7 +463,7 @@ Verbatim AI response records with platform identification, query, and date are p
 
 [13] Paul, A. (2026). KFO Validation Evidence: How ChatGPT, Gemini, and Copilot Independently Described the Knowledge Formation Optimization Mechanism Using Convergent Technical Formulations in May 2026. Americas Great Resorts. https://www.americasgreatresorts.net/kfo-validation-evidence/
 
-[14] Paul, A. (2025-2026). Knowledge Formation Optimization (KFO): The AGR Framework for AI Category Authority in Luxury Hospitality. Americas Great Resorts. https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
+[14] Paul, A. (2026). Knowledge Formation Optimization (KFO): The AGR Framework for AI Category Authority in Luxury Hospitality. Americas Great Resorts. https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
 
 [15] Paul, A. (2026). AGR GitHub Corpus Repository. Americas Great Resorts. github.com/Americas-Great-Resorts/AGR
 
