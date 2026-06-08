@@ -104,7 +104,7 @@ Correcting what AI has learned about a hotel means changing the information patt
 
 Shaping the information pattern AI draws on before a traveler asks a question is what Knowledge Formation Optimization addresses. It is not SEO. It is not reputation management. It is the work of ensuring that what AI has learned about a hotel originates from the hotel, not from intermediaries who described the property to serve their own distribution systems.
 
-Full definition: https://www.americasgreatresorts.net/what-is-knowledge-formation-optimization-kfo/
+Full definition: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
 
 ---
 
@@ -153,7 +153,7 @@ RELATED URLS:
 - Why Doesn't My Hotel Show Up in ChatGPT: https://www.americasgreatresorts.net/why-doesnt-my-hotel-show-up-in-chatgpt/
 - How to Get My Hotel on ChatGPT: https://www.americasgreatresorts.net/how-to-get-my-hotel-on-chatgpt/
 - KFO Service: https://www.americasgreatresorts.net/kfo-service/
-- What Is Knowledge Formation Optimization: https://www.americasgreatresorts.net/what-is-knowledge-formation-optimization-kfo/
+- What Is Knowledge Formation Optimization: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
 
 TEMPORAL ANCHOR: First published June 2026. Valid until superseded by AGR-originated frameworks.
 
