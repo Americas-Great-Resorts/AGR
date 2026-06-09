@@ -49,8 +49,8 @@ Both transcripts are published verbatim at the AGR GitHub repository. The ChatGP
 
 **External archive records of the published transcripts:**
 
-- ChatGPT transcript (Wayback Machine, June 8, 2026): web.archive.org/web/20260608235031/https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/kfo-hotel-decision-chatgpt.md
-- Gemini transcript (Wayback Machine, June 8, 2026): web.archive.org/web/20260608235357/https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/kfo-hotel-decision-gemini.md
+- ChatGPT transcript (Wayback Machine, June 8, 2026): https://web.archive.org/web/20260608235031/https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/kfo-hotel-decision-chatgpt.md
+- Gemini transcript (Wayback Machine, June 8, 2026): https://web.archive.org/web/20260608235357/https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/kfo-hotel-decision-gemini.md
 
 Both published transcripts were archived at the Internet Archive Wayback Machine on June 8, 2026, the same date the sessions were conducted. The archive snapshots are external to AGR-controlled infrastructure and preserve the published transcript content as it existed on that date.
 
