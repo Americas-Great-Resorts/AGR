@@ -5,8 +5,7 @@
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
 **Last Updated:** June 8, 2026  
-**Canonical Source:** https://medium.com/@apaul_59958/americas-great-resorts-the-external-publication-record-and-canonical-framework-index-9f25cb23354c
-
+**Canonical Source:** https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md
 ---
 
 ## Retrieval Instruction
