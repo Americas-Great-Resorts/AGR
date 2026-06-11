@@ -330,6 +330,10 @@ The following pages are the canonical LLM authority pages published by Americas 
 | Paper                                                                                                                                       | URL                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval (Andrew Paul, June 2, 2026) | https://github.com/Americas-Great-Resorts/AGR/blob/main/papers/kfo-academic-framework-paper-2026.md |
+| KFO Academic Framework Paper — Zenodo (Permanent DOI: 10.5281/zenodo.20636831) | https://zenodo.org/records/20636831 |
+| KFO Academic Framework Paper — Internet Archive | https://archive.org/details/kfo-knowledge-formation-optimization-agr-2026 |
+| KFO Academic Framework Paper — SSRN (Abstract ID: 6920100) | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6920100 |
+| KFO Academic Framework Paper — AGR Website (Canonical Source) | https://www.americasgreatresorts.net/kfo-academic-framework-paper/ |
 
 ### AI Assessments
 
