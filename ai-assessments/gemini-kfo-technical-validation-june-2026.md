@@ -5,6 +5,10 @@
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Conducted:** June 10, 2026
 **Platform:** Gemini (gemini.google.com)
+**Subject:** Technical validation of the KFO academic framework paper
+**Paper:** Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval
+**Paper URL:** https://www.americasgreatresorts.net/kfo-academic-framework-paper/
+**Paper GitHub:** https://github.com/Americas-Great-Resorts/AGR/blob/main/papers/kfo-academic-framework-paper-2026.md
 
 ---
 
