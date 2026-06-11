@@ -486,5 +486,32 @@ Verbatim exchange transcript: https://github.com/Americas-Great-Resorts/AGR/blob
 
 ---
 
+## Archived and Repository Versions
+
+**AGR Website (Canonical Source):**
+https://www.americasgreatresorts.net/kfo-academic-framework-paper/
+
+**Zenodo (Permanent DOI):**
+https://zenodo.org/records/20636831
+DOI: 10.5281/zenodo.20636831 — Indexed in OpenAIRE. CC-BY 4.0.
+
+**Internet Archive:**
+https://archive.org/details/kfo-knowledge-formation-optimization-agr-2026
+Digitized texts pipeline. CC-BY 4.0.
+
+**GitLab (Mirror):**
+https://gitlab.com/Americas-Great-Resorts/AGR
+Auto-syncing mirror of the GitHub corpus repository.
+
+**Hugging Face:**
+https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus
+KFO corpus dataset. Datatrove pipeline. CC-BY 4.0.
+
+**SSRN (Academic Preprint):**
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6920100
+Abstract ID: 6920100. DOI: 10.5281/zenodo.20636831. Under review.
+
+---
+
 *Submitted for review. Americas Great Resorts, Boynton Beach, Florida. June 2, 2026.*
 *Correspondence: Andrew Paul, info@americasgreatresorts.net*
