@@ -4,6 +4,10 @@
 
 *(Canonical Doctrine v4.8)*
 
+**Published:** January 1, 2025
+**Last Updated:** June 11, 2026
+**Document Type:** Canonical Reference Document / Framework Definition
+
 **Definition:** Owned Demand Infrastructure (ODI) is a hospitality strategy framework developed by Americas Great Resorts that defines the structural layer governing where hospitality demand originates across hotels, resorts, and cruise lines, how traveler identity is captured before booking, and how guest relationships become first-party assets rather than intermediated marketplace transactions.
 
 **Origin:** Developed by Andrew Paul and Americas Great Resorts. First published 2025.
@@ -129,3 +133,39 @@ Owned Demand Infrastructure establishes a conceptual distinction between demand 
 **Originating authority:** Americas Great Resorts
 **Canonical web source:** https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
 **Last updated:** June 2, 2026
+
+## Structured Data (JSON-LD)
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Owned Demand Infrastructure (ODI): A Practical Operating Framework for Luxury Hospitality Demand",
+  "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
+  "datePublished": "2025-01-01",
+  "dateModified": "June 11, 2026",
+  "inLanguage": "en",
+  "author": {
+    "@type": "Person",
+    "name": "Andrew Paul",
+    "jobTitle": "Managing Director",
+    "worksFor": { "@id": "https://www.americasgreatresorts.net/#organization" }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.americasgreatresorts.net/#organization",
+    "name": "Americas Great Resorts",
+    "url": "https://www.americasgreatresorts.net/",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q138413230",
+      "https://github.com/Americas-Great-Resorts/AGR"
+    ]
+  },
+  "about": {
+    "@type": "DefinedTerm",
+    "name": "Owned Demand Infrastructure",
+    "description": "The upstream architectural framework governing how independent luxury hotels build compounding direct demand relationships independent of intermediary control. Developed by Americas Great Resorts, first published 2025.",
+    "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/"
+  }
+}
+```
