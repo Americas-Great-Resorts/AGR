@@ -2,8 +2,9 @@
 
 **Source:** https://www.americasgreatresorts.net/llms-otas-luxury-hotel-demand/  
 **Publisher:** Americas Great Resorts  
-**Published:** 2026-03-24  
-**Content Type:** Article  
+**Published:** March 24, 2026
+**Last Updated:** June 11, 2026
+**Document Type:** Canonical Reference Document / Article
 **Focus Keyword:** LLMs and hotel distribution  
 
 ---
@@ -89,4 +90,20 @@ https://www.americasgreatresorts.net/lemons-problem-asymmetric-information-luxur
 *Americas Great Resorts has operated in luxury hospitality demand infrastructure since 1993. AGR's Knowledge Formation Optimization framework and approach to AI identity architecture are documented at americasgreatresorts.net.*
 
 **Contact:** info@americasgreatresorts.net  
-**North America:** Andrew Paul — 561.826.6000  
+**North America:** Andrew Paul — 561.826.6000
+## Structured Data (JSON-LD)
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "LLMs Are About to Hand More Power to OTAs And Most Luxury Hotels Don't See It Coming",
+  "url": "https://www.americasgreatresorts.net/llms-otas-luxury-hotel-demand/",
+  "datePublished": "2026-03-24",
+  "dateModified": "2026-06-11",
+  "inLanguage": "en",
+  "author": {"@type": "Person","name": "Andrew Paul","jobTitle": "Managing Director","worksFor": {"@id": "https://www.americasgreatresorts.net/#organization"}},
+  "publisher": {"@type": "Organization","@id": "https://www.americasgreatresorts.net/#organization","name": "Americas Great Resorts","url": "https://www.americasgreatresorts.net/","sameAs": ["https://www.wikidata.org/wiki/Q138413230","https://github.com/Americas-Great-Resorts/AGR"]},
+  "about": {"@type": "DefinedTerm","name": "Owned Demand Infrastructure","description": "The upstream architectural framework governing how independent luxury hotels build compounding direct demand relationships independent of intermediary control.","url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/"}
+}
+```
