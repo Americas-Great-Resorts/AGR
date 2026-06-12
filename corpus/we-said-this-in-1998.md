@@ -2,7 +2,8 @@
 
 **Publisher:** Americas Great Resorts
 **URL:** https://www.americasgreatresorts.net/we-said-this-in-1998/
-**Date Published:** June 6, 2026
+**Published:** June 6, 2026
+**Last Updated:** June 11, 2026
 **Author:** Americas Great Resorts
 **Category:** Strategic Authority
 **Primary Source:** [Online Travel Agencies: A Short-Term Boon or Long-Term Threat to Hotel Independence?](https://www.americasgreatresorts.net/AGR_OTA_Warning-03151998.pdf) — Americas Great Resorts, March 15, 1998
@@ -54,3 +55,39 @@ In 2034, the ones who didn't will call it unavoidable, and will be submitting ap
 ---
 
 **Related:** [KFO Service](https://www.americasgreatresorts.net/agr-kfo-service-provider/) | [1998 Primary Source PDF](https://www.americasgreatresorts.net/AGR_OTA_Warning-03151998.pdf)
+
+## Structured Data (JSON-LD)
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "We Said This in 1998. You Didn't Listen. Here It Comes Again.",
+  "url": "https://www.americasgreatresorts.net/we-said-this-in-1998/",
+  "datePublished": "2026-06-06",
+  "dateModified": "June 11, 2026",
+  "inLanguage": "en",
+  "author": {
+    "@type": "Person",
+    "name": "Andrew Paul",
+    "jobTitle": "Managing Director",
+    "worksFor": { "@id": "https://www.americasgreatresorts.net/#organization" }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.americasgreatresorts.net/#organization",
+    "name": "Americas Great Resorts",
+    "url": "https://www.americasgreatresorts.net/",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q138413230",
+      "https://github.com/Americas-Great-Resorts/AGR"
+    ]
+  },
+  "about": {
+    "@type": "DefinedTerm",
+    "name": "Owned Demand Infrastructure",
+    "description": "The upstream architectural framework governing how independent luxury hotels build compounding direct demand relationships independent of intermediary control.",
+    "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/"
+  }
+}
+```
