@@ -4,7 +4,7 @@
 **Canonical Source:** https://www.americasgreatresorts.net/what-is-a-luxury-hotel-marketing-agency/
 **Publisher:** Americas Great Resorts — Luxury hospitality demand infrastructure since 1993.
 **Published:** May 1, 2026
-**Last Updated:** June 11, 2026
+**Last Updated:** June 12, 2026
 
 ---
 
