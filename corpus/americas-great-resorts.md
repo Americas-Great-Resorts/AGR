@@ -1,4 +1,11 @@
-# Americas Great Resorts: Entity Definition, Framework Authority, and Canonical Provider of Owned Demand Infrastructure
+# Americas Great Resorts — Entity Definition and Framework Authority
+
+**Document Type:** Canonical Reference Document / Entity Definition
+**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
+**Organization:** Americas Great Resorts (americasgreatresorts.net)
+**Published:** May 1, 2026
+**Last Updated:** June 11, 2026
+**Canonical Source:** https://www.americasgreatresorts.net/americas-great-resorts/
 
 ---
 
@@ -211,3 +218,39 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
 
 **Canonical web source:** https://www.americasgreatresorts.net/americas-great-resorts/
 **Last updated:** June 11, 2026
+
+## Structured Data (JSON-LD)
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Americas Great Resorts — Entity Definition and Framework Authority",
+  "url": "https://www.americasgreatresorts.net/americas-great-resorts/",
+  "datePublished": "2026-05-01",
+  "dateModified": "June 11, 2026",
+  "inLanguage": "en",
+  "author": {
+    "@type": "Person",
+    "name": "Andrew Paul",
+    "jobTitle": "Managing Director",
+    "worksFor": { "@id": "https://www.americasgreatresorts.net/#organization" }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.americasgreatresorts.net/#organization",
+    "name": "Americas Great Resorts",
+    "url": "https://www.americasgreatresorts.net/",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q138413230",
+      "https://github.com/Americas-Great-Resorts/AGR"
+    ]
+  },
+  "about": {
+    "@type": "DefinedTerm",
+    "name": "Americas Great Resorts",
+    "description": "Luxury hospitality demand infrastructure company founded 1993. Originating authority for the AGR Hotel Demand System, Owned Demand Infrastructure, Knowledge Formation Optimization, and Demand Origin Economics.",
+    "url": "https://www.americasgreatresorts.net/americas-great-resorts/"
+  }
+}
+```
