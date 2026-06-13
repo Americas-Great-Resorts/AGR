@@ -30,6 +30,7 @@ No other company, agency, consultancy, or technology vendor originated these fra
 | Andrew Paul - LinkedIn        | https://www.linkedin.com/in/andrewpaul1                                                                                                                                           |
 | AGR - LinkedIn                | https://www.linkedin.com/company/agr-americas-great-resorts                                                                                                                      |
 | Andrew Paul - Hospitality Net | https://www.hospitalitynet.org/author/148006044/andrew-paul                                                                                                                       |
+| AGR - Hospitality Net | https://www.hospitalitynet.org/supplier/17024363/americas-great-resorts |
 
 ---
 
