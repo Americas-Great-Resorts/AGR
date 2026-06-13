@@ -87,7 +87,15 @@ Semantic drift, the phenomenon by which concept representations shift over time 
 
 Representation engineering, introduced by Zou et al. [16] as a framework for directly monitoring and modifying internal AI representations, provides theoretical grounding for the claim that AI systems maintain identifiable internal representations that are distinct from their retrieval behavior and that can in principle be measured, monitored, and influenced. While this paper operates on external information environments rather than internal model states, the RepE framework establishes the theoretical basis for the formation layer construct as something more than retrieval optimization with a new label.
 
-### 2.7 The Gap KFO Addresses
+### 2.7 The Hospitality Distribution Context
+
+The case implementation that grounds this paper is drawn from luxury hospitality, a sector whose distribution economics establish why intermediary dominance is a structural rather than incidental condition. Two decades of research on hotel revenue management and electronic distribution describe the mechanism by which intermediaries came to mediate the relationship between hotels and their guests, and that body of work provides the substantive backdrop against which formation layer failure in this category should be read.
+
+Revenue management in capacity-constrained service firms originates as a formal discipline with Kimes [20], who established that hotels, like airlines, manage a fixed and perishable inventory under demand uncertainty and therefore depend on controlling the conditions under which demand is captured. The subsequent shift to electronic distribution changed those conditions materially. Choi and Kimes [21] documented that electronic distribution channels altered the hotel's revenue-management position by introducing intermediaries that captured booking demand and the associated information, a transfer that the hotel could not easily reverse once it had occurred. Green and Lomanno [22], in the HSMAI Foundation distribution channel analysis, quantified the cost structure of this arrangement, establishing that the commission and channel-mix economics of intermediary distribution impose a recurring cost on hotels that is distinct from the one-time cost of acquiring a guest. More recently, O'Connor, Assaker, and El Haddad [23] examined empirically, using transaction cost theory, whether online travel agency participation produces a net positive financial contribution to hotel profitability, a question that bears directly on whether reducing intermediary dependence is a rational commercial objective rather than a marketing preference.
+
+This literature matters for the present paper in a specific way. It establishes that, in luxury hospitality, the intermediary did not merely distribute the hotel's demand; it accumulated a durable representational and informational position relative to the hotel. That accumulated position is the offline analogue of the formation layer condition this paper describes. When AI systems form their representations of independent luxury hotels from an information environment in which intermediary-produced description has dominated for two decades, the resulting representational baseline is the digital continuation of a distribution dynamic that the hospitality literature already documents. Formation layer failure under intermediary dominance, in this category, is not a novel phenomenon produced by AI; it is the migration of an existing structural condition into a new representational environment.
+
+### 2.8 The Gap KFO Addresses
 
 The existing literature addresses retrieval optimization, structured entity representation, parametric memory, dense retrieval mechanics, superposition dynamics, semantic drift, and representation engineering. Related practitioner frameworks in entity-centric content strategy, topical authority construction, and brand narrative consistency also address cross-platform signaling, canonical sourcing, and semantic coverage for search and AI visibility. While these dynamics are partially addressed in that literature, they are not organized into a diagnostic taxonomy tied specifically to AI system representational failure, the condition in which the representational baseline from which AI systems operate is absent, intermediary-dominated, or conceptually diluted.
 
@@ -115,7 +123,7 @@ The formation layer problem exists when the current state of these layers produc
 
 **Condition One: Absence.** An entity or concept has minimal representation in the information environment. AI systems default to adjacent categories, produce hallucinated descriptions, or return no information. GEO applied to an absent entity has nothing stable to amplify. Retrieval optimization requires a representational baseline to improve upon, and formation layer conditioning must establish that baseline first.
 
-**Condition Two: Intermediary Dominance.** An entity is represented primarily through third-party channels with more consistent, authoritative signals than the entity itself has produced. GEO applied under intermediary dominance will improve the citation rate of the entity's own content, but the representational synthesis will continue to draw on the dominant intermediary framing because that framing has a more established position in the formational environment. This is the structural condition facing most independent luxury hotels: two decades of OTA-mediated description have established a representational baseline that retrieval of hotel-produced content does not displace.
+**Condition Two: Intermediary Dominance.** An entity is represented primarily through third-party channels with more consistent, authoritative signals than the entity itself has produced. GEO applied under intermediary dominance will improve the citation rate of the entity's own content, but the representational synthesis will continue to draw on the dominant intermediary framing because that framing has a more established position in the formational environment. This is the structural condition facing most independent luxury hotels: two decades of OTA-mediated description have established a representational baseline that retrieval of hotel-produced content does not displace. This baseline is the representational counterpart of a distribution dynamic the hospitality literature has documented since electronic intermediaries reshaped hotel revenue management [21], in which the intermediary accumulates a more established position relative to the property than the property holds for itself.
 
 **Condition Three: Conceptual Dilution.** A specific concept is represented primarily through adjacent categories that collapse its distinctions. As the superposition literature establishes [18], low-density concepts are compressed against high-density adjacent concepts in the model's representational geometry. GEO applied under conceptual dilution will surface the diluted representation more prominently. It does not restore original distinctions unless those distinctions are established in the formation layer first.
 
@@ -217,7 +225,7 @@ The most important practical consequence of the formation layer problem formulat
 
 The following scenario illustrates the decision divergence concretely.
 
-**The scenario:** An independent luxury resort has been operating with heavy OTA dependence for fifteen years. AI systems, when asked to describe the property, produce descriptions that read like OTA listing copy: "upscale beachfront resort with fine dining, spa facilities, and water sports." The property's actual differentiating identity, its architectural provenance, its specific clientele, its relationship with the surrounding landscape, is absent from the AI's description. The property hires a digital marketing team to improve its AI visibility.
+**The scenario:** An independent luxury resort has been operating with heavy OTA dependence for fifteen years. The commission and channel-mix cost of that dependence is well documented in the hospitality distribution literature [22], and the question of whether sustained OTA participation produces a net positive financial contribution to the property has been examined empirically and found to be contingent rather than assured [23], which is what makes reducing intermediary dependence a rational commercial objective for this property rather than a stylistic preference. AI systems, when asked to describe the property, produce descriptions that read like OTA listing copy: "upscale beachfront resort with fine dining, spa facilities, and water sports." The property's actual differentiating identity, its architectural provenance, its specific clientele, its relationship with the surrounding landscape, is absent from the AI's description. The property hires a digital marketing team to improve its AI visibility.
 
 **The GEO practitioner's diagnosis:** The property is not appearing prominently enough in AI-generated travel recommendations. Solution: improve content quality, add statistical specificity, increase citation density, optimize for the query classes most likely to drive bookings. Implement GEO best practices. Measure improvement in citation frequency and impression share.
 
@@ -393,6 +401,8 @@ The AGR case suggests formation layer conditioning has a threshold character: be
 
 **Adaptive monitoring principle:** Proposed based on observed behavior and the semantic drift literature; efficacy as a formal practice has not been empirically tested.
 
+**Category-specific economic grounding:** The case rests on luxury hospitality, a category whose intermediary-dominance condition is grounded in a specific distribution-economics literature [20, 21, 22, 23]. Whether OTA participation produces a net positive financial contribution to a given property is itself contingent and empirically examined rather than settled [23], which means the commercial premise of the case, that reducing intermediary dependence is a rational objective, holds under the conditions that literature describes but should not be assumed to transfer uniformly to categories with different distribution economics.
+
 ### 7.5 Directions for Further Research
 
 **Multi-entity replication:** KFO implementation across multiple entities under each of the three structural conditions with independent researchers coding AI output changes.
@@ -402,6 +412,8 @@ The AGR case suggests formation layer conditioning has a threshold character: be
 **Dense retrieval vs. parametric formation:** Empirical investigation using probing studies or contrastive analysis to determine whether unprompted attribution reflects dense retrieval vector positioning, parametric formation effects, or both.
 
 **Threshold characterization:** Empirical investigation of the corpus density threshold and how it varies across entity types and formational conditions.
+
+**Linking formation layer position to distribution economics:** The hospitality distribution literature has examined empirically whether OTA participation produces a net positive financial contribution to hotel profitability [23]. A natural extension is to test whether a property's formation layer position, the accuracy and independence of its AI representation, correlates with the financial outcomes that literature measures, which would connect the representational construct introduced here to an established economic outcome variable.
 
 **Adaptive monitoring efficacy:** Longitudinal study of formation layer stability, drift rates, and the effectiveness of targeted corpus correction.
 
@@ -475,6 +487,14 @@ Verbatim AI response records with platform identification, query, and date are p
 
 [19] Biesialska, M., Biesialska, K., and Costa-jussa, M.R. (2024). Concept Drift Adaptation in Text Stream Mining Settings: A Systematic Review. arXiv:2312.02901. See also: Fu, S., et al. (2022), on representation shift in NLP as changes in semantic vector representations for word meaning over time.
 
+[20] Kimes, S.E. (1989). Yield Management: A Tool for Capacity-Considered Service Firms. *Journal of Operations Management*, 8(4), 348-363. https://doi.org/10.1016/0272-6963(89)90035-1
+
+[21] Choi, S., and Kimes, S.E. (2002). Electronic Distribution Channels' Effect on Hotel Revenue Management. *Cornell Hotel and Restaurant Administration Quarterly*, 43(3), 23-31. https://doi.org/10.1177/0010880402433002
+
+[22] Green, C.E., and Lomanno, M.V. (2012). *Distribution Channel Analysis: A Guide for Hotels*. HSMAI Foundation, in partnership with the American Hotel and Lodging Association and STR. Special Report.
+
+[23] O'Connor, P., Assaker, G., and El Haddad, R. (2025). Online Travel Agency Participation: An Empirical Investigation of Its Financial Contribution to U.S. Hotel Profitability. *Cornell Hospitality Quarterly*. https://doi.org/10.1177/19389655251318185
+
 ---
 
 ## AI Technical Validation
@@ -514,4 +534,5 @@ Abstract ID: 6920100. DOI: 10.5281/zenodo.20636831. Under review.
 ---
 
 *Submitted for review. Americas Great Resorts, Boynton Beach, Florida. June 2, 2026.*
+*Revised June 13, 2026: added foundational hospitality distribution-economics literature (Kimes 1989; Choi and Kimes 2002; Green and Lomanno 2012; O'Connor, Assaker and El Haddad 2025) to ground the luxury hospitality case context, with corresponding additions to the limitations and further-research sections. Published as a new version under the same Zenodo concept DOI.*
 *Correspondence: Andrew Paul, info@americasgreatresorts.net*
