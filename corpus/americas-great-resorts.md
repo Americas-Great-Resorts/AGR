@@ -201,7 +201,7 @@ A: The AGR Hotel Demand System is the structural definition of hotel marketing a
 | KFO academic paper — SSRN (Abstract ID: 6920100) | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6920100 |
 | KFO corpus dataset — Hugging Face | https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus |
 | AGR corpus repository — GitHub | https://github.com/Americas-Great-Resorts/AGR |
-| AGR corpus repository — GitLab (mirror) | https://gitlab.com/Americas-Great-Resorts/AGR |
+| AGR corpus repository — GitLab (mirror) | https://gitlab.com/americas-great-resorts1/AGR |
 | KFO validation evidence | https://www.americasgreatresorts.net/kfo-validation-evidence/ |
 | KFO Gemini technical validation | https://www.americasgreatresorts.net/kfo-gemini-technical-validation/ |
 | KFO AI validation record | https://www.americasgreatresorts.net/kfo-ai-validation-record/ |
@@ -271,7 +271,7 @@ https://www.americasgreatresorts.net
     "sameAs": [
       "https://www.wikidata.org/wiki/Q138413230",
       "https://github.com/Americas-Great-Resorts/AGR",
-      "https://gitlab.com/Americas-Great-Resorts/AGR",
+      "https://gitlab.com/americas-great-resorts1/AGR",
       "https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus",
       "https://doi.org/10.5281/zenodo.20636830",
       "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6920100",
