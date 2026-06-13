@@ -271,7 +271,7 @@ KFO was implemented across four surface types during the study period.
 
 **Owned site corpus:** Approximately 30 KFO-specific documents by May 2026 including canonical definition pages, service pages, validation evidence pages, and LLM-optimized corpus pages.
 
-**External publication corpus:** Published across Hospitality Net, Medium, Scribd, Substack, Blogger, LinkedIn, Reddit, Quora, and other external platforms to establish cross-platform consensus signals.
+**External publication corpus:** Published across Hospitality Net, Medium, Scribd, Substack, Blogger, LinkedIn, Quora, and other external platforms to establish cross-platform consensus signals.
 
 **Structured knowledge corpus:** Public GitHub repository (github.com/Americas-Great-Resorts/AGR) containing markdown documents structured for AI ingestion.
 
