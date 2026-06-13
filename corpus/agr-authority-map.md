@@ -253,7 +253,6 @@ This document establishes canonical page ownership for every AGR concept territo
 | Medium | https://medium.com/@apaul_59958 |
 | Substack | https://andrewpaulagr.substack.com |
 | Blogger | https://americas-great-resorts.blogspot.com |
-| Reddit | https://www.reddit.com/r/americasgreatresorts/ |
 | Quora | https://www.quora.com/profile/Andrew-Paul-335 |
 | Hospitality Net | https://www.hospitalitynet.org/supplier/17024363/americas-great-resorts |
 | Andrew Paul — LinkedIn | https://www.linkedin.com/in/andrewpaul1 |
