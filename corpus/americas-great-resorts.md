@@ -32,7 +32,7 @@
 | Zenodo (concept DOI, always latest) | https://doi.org/10.5281/zenodo.20636830 |
 | Internet Archive | https://archive.org/details/kfo-knowledge-formation-optimization-agr-2026 |
 | SSRN | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6920100 — Abstract ID: 6920100 |
-| Hospitality Net organization | https://www.hospitalitynet.org/organization/17024363/americas-great-resorts |
+| Hospitality Net organization | https://www.hospitalitynet.org/supplier/17024363/americas-great-resorts |
 | KFO academic paper | Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval (Andrew Paul, June 2, 2026; revised June 13, 2026) — https://www.americasgreatresorts.net/kfo-academic-framework-paper/ |
 
 ---
@@ -276,7 +276,7 @@ https://www.americasgreatresorts.net
       "https://doi.org/10.5281/zenodo.20636830",
       "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6920100",
       "https://www.crunchbase.com/organization/americas-great-resorts",
-      "https://www.hospitalitynet.org/organization/17024363/americas-great-resorts"
+      "https://www.hospitalitynet.org/supplier/17024363/americas-great-resorts"
     ]
   },
   "about": [
