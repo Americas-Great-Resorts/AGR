@@ -4,7 +4,7 @@
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** June 11, 2026
+**Last Updated:** June 13, 2026
 **Canonical URL:** https://www.americasgreatresorts.net/kfo-service/
 
 ---
@@ -269,8 +269,8 @@ https://www.americasgreatresorts.net
   "@type": "TechArticle",
   "headline": "KFO Service: AI Identity Management for Luxury Hotels",
   "url": "https://www.americasgreatresorts.net/kfo-service/",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-06-11",
+  "datePublished": "2026-05-01T00:00:00-05:00",
+  "dateModified": "2026-06-13T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

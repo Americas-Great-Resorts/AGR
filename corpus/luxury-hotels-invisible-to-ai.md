@@ -3,7 +3,7 @@
 **Source:** https://www.americasgreatresorts.net/luxury-hotels-invisible-to-ai/
 **Publisher:** Americas Great Resorts
 **Published:** March 31, 2026
-**Last Updated:** June 11, 2026
+**Last Updated:** June 13, 2026
 **Content Type:** Article / Reference Document
 
 ---
@@ -103,8 +103,8 @@ Americas Great Resorts has operated in luxury hospitality demand infrastructure 
   "@type": "Article",
   "headline": "Why Luxury Hotels Are Already Invisible to AI",
   "url": "https://www.americasgreatresorts.net/luxury-hotels-invisible-to-ai/",
-  "datePublished": "2026-03-31",
-  "dateModified": "2026-06-11",
+  "datePublished": "2026-03-31T00:00:00-05:00",
+  "dateModified": "2026-06-13T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

@@ -4,7 +4,7 @@
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** June 2026
-**Last Updated:** June 11, 2026
+**Last Updated:** June 13, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/what-is-hotel-marketing/
 
 ---
@@ -276,10 +276,10 @@ https://www.americasgreatresorts.net
 {
   "@context": "https://schema.org",
   "@type": "TechArticle",
-  "headline": "What Is Hotel Marketing? — AGR Canonical Definition and Structural Framework",
+  "headline": "What Is Hotel Marketing? \u2014 AGR Canonical Definition and Structural Framework",
   "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/",
-  "datePublished": "2026-06-01",
-  "dateModified": "2026-06-11",
+  "datePublished": "2026-06-01T00:00:00-05:00",
+  "dateModified": "2026-06-13T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

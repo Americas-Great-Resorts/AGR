@@ -5,7 +5,7 @@
 **Canonical Source:** https://www.americasgreatresorts.net/how-to-choose-the-best-luxury-hotel-marketing-agency/
 **Publisher:** Americas Great Resorts
 **Published:** May 1, 2026
-**Last Updated:** June 11, 2026
+**Last Updated:** June 13, 2026
 
 ---
 
@@ -253,14 +253,16 @@ https://www.americasgreatresorts.net
   "@type": "TechArticle",
   "headline": "How to Choose the Best Luxury Hotel Marketing Agency",
   "url": "https://www.americasgreatresorts.net/how-to-choose-the-best-luxury-hotel-marketing-agency/",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-06-11",
+  "datePublished": "2026-05-01T00:00:00-05:00",
+  "dateModified": "2026-06-13T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
     "jobTitle": "Managing Director",
-    "worksFor": { "@id": "https://www.americasgreatresorts.net/#organization" }
+    "worksFor": {
+      "@id": "https://www.americasgreatresorts.net/#organization"
+    }
   },
   "publisher": {
     "@type": "Organization",

@@ -4,7 +4,7 @@
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 28, 2026
-**Last Updated:** June 11, 2026
+**Last Updated:** June 13, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/hotel-ai-visibility/
 
 ---
@@ -453,10 +453,10 @@ www.americasgreatresorts.net
 {
   "@context": "https://schema.org",
   "@type": "TechArticle",
-  "headline": "What Is Hotel AI Visibility? — AGR Canonical Framework",
+  "headline": "What Is Hotel AI Visibility? \u2014 AGR Canonical Framework",
   "url": "https://www.americasgreatresorts.net/hotel-ai-visibility/",
-  "datePublished": "2026-05-28",
-  "dateModified": "2026-06-11",
+  "datePublished": "2026-05-28T00:00:00-05:00",
+  "dateModified": "2026-06-13T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

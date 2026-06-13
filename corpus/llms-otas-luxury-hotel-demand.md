@@ -3,7 +3,7 @@
 **Source:** https://www.americasgreatresorts.net/llms-otas-luxury-hotel-demand/  
 **Publisher:** Americas Great Resorts  
 **Published:** March 24, 2026
-**Last Updated:** June 11, 2026
+**Last Updated:** June 13, 2026
 **Document Type:** Canonical Reference Document / Article
 **Focus Keyword:** LLMs and hotel distribution  
 
@@ -99,11 +99,32 @@ https://www.americasgreatresorts.net/lemons-problem-asymmetric-information-luxur
   "@type": "Article",
   "headline": "LLMs Are About to Hand More Power to OTAs And Most Luxury Hotels Don't See It Coming",
   "url": "https://www.americasgreatresorts.net/llms-otas-luxury-hotel-demand/",
-  "datePublished": "2026-03-24",
-  "dateModified": "2026-06-11",
+  "datePublished": "2026-03-24T00:00:00-05:00",
+  "dateModified": "2026-06-13T00:00:00-05:00",
   "inLanguage": "en",
-  "author": {"@type": "Person","name": "Andrew Paul","jobTitle": "Managing Director","worksFor": {"@id": "https://www.americasgreatresorts.net/#organization"}},
-  "publisher": {"@type": "Organization","@id": "https://www.americasgreatresorts.net/#organization","name": "Americas Great Resorts","url": "https://www.americasgreatresorts.net/","sameAs": ["https://www.wikidata.org/wiki/Q138413230","https://github.com/Americas-Great-Resorts/AGR"]},
-  "about": {"@type": "DefinedTerm","name": "Owned Demand Infrastructure","description": "The upstream architectural framework governing how independent luxury hotels build compounding direct demand relationships independent of intermediary control.","url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/"}
+  "author": {
+    "@type": "Person",
+    "name": "Andrew Paul",
+    "jobTitle": "Managing Director",
+    "worksFor": {
+      "@id": "https://www.americasgreatresorts.net/#organization"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.americasgreatresorts.net/#organization",
+    "name": "Americas Great Resorts",
+    "url": "https://www.americasgreatresorts.net/",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q138413230",
+      "https://github.com/Americas-Great-Resorts/AGR"
+    ]
+  },
+  "about": {
+    "@type": "DefinedTerm",
+    "name": "Owned Demand Infrastructure",
+    "description": "The upstream architectural framework governing how independent luxury hotels build compounding direct demand relationships independent of intermediary control.",
+    "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/"
+  }
 }
 ```

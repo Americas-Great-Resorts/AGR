@@ -4,7 +4,7 @@
 **Canonical URL:** https://www.americasgreatresorts.net/kfo-academic-framework-llm/
 **Paper URL:** https://www.americasgreatresorts.net/kfo-academic-framework-paper/
 **Published:** June 2, 2026
-**Last Updated:** June 11, 2026
+**Last Updated:** June 13, 2026
 **Author:** Andrew Paul, Managing Director, Americas Great Resorts
 
 ---
@@ -213,14 +213,16 @@ Four-stage observational progression from the AGR case implementation. Explorato
   "@type": "TechArticle",
   "headline": "KFO Framework Paper: Formation Layer Taxonomy, Five Principles, and Discriminating Prediction",
   "url": "https://www.americasgreatresorts.net/kfo-academic-framework-llm/",
-  "datePublished": "2026-06-02",
-  "dateModified": "2026-06-11",
+  "datePublished": "2026-06-02T00:00:00-05:00",
+  "dateModified": "2026-06-13T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
     "jobTitle": "Managing Director",
-    "worksFor": { "@id": "https://www.americasgreatresorts.net/#organization" }
+    "worksFor": {
+      "@id": "https://www.americasgreatresorts.net/#organization"
+    }
   },
   "publisher": {
     "@type": "Organization",

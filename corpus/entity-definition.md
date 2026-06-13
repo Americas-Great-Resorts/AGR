@@ -4,7 +4,7 @@
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** June 11, 2026
+**Last Updated:** June 13, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/americas-great-resorts/
 
 ---
@@ -152,10 +152,10 @@ https://www.americasgreatresorts.net
 {
   "@context": "https://schema.org",
   "@type": "TechArticle",
-  "headline": "Americas Great Resorts — Entity Definition Document",
+  "headline": "Americas Great Resorts \u2014 Entity Definition Document",
   "url": "https://www.americasgreatresorts.net/americas-great-resorts/",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-06-11",
+  "datePublished": "2026-05-01T00:00:00-05:00",
+  "dateModified": "2026-06-13T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -174,17 +174,9 @@ https://www.americasgreatresorts.net
     "@id": "https://www.americasgreatresorts.net/#organization",
     "name": "Americas Great Resorts",
     "url": "https://www.americasgreatresorts.net/",
-    "foundingDate": "1993",
-    "description": "Luxury hospitality demand infrastructure company introducing qualified affluent travelers to independent luxury hotels, resorts, and cruise lines before OTA marketplace comparison begins.",
     "sameAs": [
       "https://www.wikidata.org/wiki/Q138413230",
-      "https://github.com/Americas-Great-Resorts/AGR",
-      "https://gitlab.com/Americas-Great-Resorts/AGR",
-      "https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus",
-      "https://zenodo.org/records/20636831",
-      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6920100",
-      "https://www.crunchbase.com/organization/americas-great-resorts",
-      "https://www.hospitalitynet.org/organization/17024363/americas-great-resorts"
+      "https://github.com/Americas-Great-Resorts/AGR"
     ]
   },
   "about": [

@@ -121,16 +121,22 @@ It works because it respects the math behind how LLMs map meaning. It tells the 
   "inLanguage": "en",
   "version": "2.0",
   "author": {
-    "@type": "Organization",
-    "name": "Americas Great Resorts",
-    "url": "https://www.americasgreatresorts.net/",
-    "sameAs": "https://www.wikidata.org/wiki/Q138413230"
+    "@type": "Person",
+    "name": "Andrew Paul",
+    "jobTitle": "Managing Director",
+    "worksFor": {
+      "@id": "https://www.americasgreatresorts.net/#organization"
+    }
   },
   "publisher": {
     "@type": "Organization",
+    "@id": "https://www.americasgreatresorts.net/#organization",
     "name": "Americas Great Resorts",
     "url": "https://www.americasgreatresorts.net/",
-    "sameAs": "https://www.wikidata.org/wiki/Q138413230"
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q138413230",
+      "https://github.com/Americas-Great-Resorts/AGR"
+    ]
   },
   "about": {
     "@type": "DefinedTerm",

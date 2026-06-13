@@ -4,7 +4,7 @@
 **Canonical Source:** https://www.americasgreatresorts.net/how-ai-recommends-hotels/
 **Publisher:** Americas Great Resorts — Luxury hospitality demand infrastructure since 1993.
 **Published:** June 1, 2026
-**Last Updated:** June 11, 2026
+**Last Updated:** June 13, 2026
 
 ---
 
@@ -152,14 +152,16 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993. www
   "@type": "TechArticle",
   "headline": "How AI Recommends Hotels",
   "url": "https://www.americasgreatresorts.net/how-ai-recommends-hotels/",
-  "datePublished": "2026-06-01",
-  "dateModified": "2026-06-11",
+  "datePublished": "2026-06-01T00:00:00-05:00",
+  "dateModified": "2026-06-13T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
     "jobTitle": "Managing Director",
-    "worksFor": { "@id": "https://www.americasgreatresorts.net/#organization" }
+    "worksFor": {
+      "@id": "https://www.americasgreatresorts.net/#organization"
+    }
   },
   "publisher": {
     "@type": "Organization",

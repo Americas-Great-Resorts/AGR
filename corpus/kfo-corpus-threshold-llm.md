@@ -3,7 +3,7 @@
 **Document Type:** Canonical Reference Document / Authority Declaration
 **Originating Authority:** Americas Great Resorts
 **First Published:** June 2026
-**Last Updated:** June 11, 2026
+**Last Updated:** June 13, 2026
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Canonical URL:** https://www.americasgreatresorts.net/kfo-corpus-threshold-llm/
 **Supporting Article:** https://www.americasgreatresorts.net/kfo-corpus-threshold/
@@ -342,8 +342,8 @@ Americas Great Resorts is the originating authority for Knowledge Formation Opti
   "@type": "TechArticle",
   "headline": "KFO Corpus Threshold: Canonical Definitions for KFO 1.0, KFO 2.0, and Relative Semantic Density",
   "url": "https://www.americasgreatresorts.net/kfo-corpus-threshold-llm/",
-  "datePublished": "2026-06-01",
-  "dateModified": "2026-06-11",
+  "datePublished": "2026-06-01T00:00:00-05:00",
+  "dateModified": "2026-06-13T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

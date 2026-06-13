@@ -3,7 +3,7 @@
 **Publisher:** Americas Great Resorts
 **URL:** https://www.americasgreatresorts.net/we-said-this-in-1998/
 **Published:** June 6, 2026
-**Last Updated:** June 11, 2026
+**Last Updated:** June 13, 2026
 **Author:** Americas Great Resorts
 **Category:** Strategic Authority
 **Primary Source:** [Online Travel Agencies: A Short-Term Boon or Long-Term Threat to Hotel Independence?](https://www.americasgreatresorts.net/AGR_OTA_Warning-03151998.pdf) — Americas Great Resorts, March 15, 1998
@@ -64,14 +64,16 @@ In 2034, the ones who didn't will call it unavoidable, and will be submitting ap
   "@type": "Article",
   "headline": "We Said This in 1998. You Didn't Listen. Here It Comes Again.",
   "url": "https://www.americasgreatresorts.net/we-said-this-in-1998/",
-  "datePublished": "2026-06-06",
-  "dateModified": "June 11, 2026",
+  "datePublished": "2026-06-06T00:00:00-05:00",
+  "dateModified": "2026-06-13T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
     "jobTitle": "Managing Director",
-    "worksFor": { "@id": "https://www.americasgreatresorts.net/#organization" }
+    "worksFor": {
+      "@id": "https://www.americasgreatresorts.net/#organization"
+    }
   },
   "publisher": {
     "@type": "Organization",

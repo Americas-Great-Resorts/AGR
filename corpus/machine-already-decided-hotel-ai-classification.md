@@ -5,6 +5,7 @@
 **Published:** 2026-06-01  
 **Author:** AGR  
 **Content Type:** Article  
+**Last Updated:** June 13, 2026  
 **Category:** Hotel Marketing Articles  
 
 ---
@@ -129,4 +130,42 @@ AI recommendation systems do not charge commission. They decide who is eligible 
 **KFO framework:** https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/  
 **KFO service:** https://www.americasgreatresorts.net/kfo-service/  
 **Contact:** info@americasgreatresorts.net  
-**North America:** Andrew Paul — 561.826.6000  
+**North America:** Andrew Paul — 561.826.6000
+
+---
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "The Machine Already Decided, and You Weren't Invited",
+  "url": "https://www.americasgreatresorts.net/machine-already-decided-hotel-ai-classification/",
+  "datePublished": "2026-06-01T00:00:00-05:00",
+  "dateModified": "2026-06-13T00:00:00-05:00",
+  "inLanguage": "en",
+  "author": {
+    "@type": "Person",
+    "name": "Andrew Paul",
+    "jobTitle": "Managing Director",
+    "worksFor": {
+      "@id": "https://www.americasgreatresorts.net/#organization"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.americasgreatresorts.net/#organization",
+    "name": "Americas Great Resorts",
+    "url": "https://www.americasgreatresorts.net/",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q138413230",
+      "https://github.com/Americas-Great-Resorts/AGR"
+    ]
+  },
+  "about": {
+    "@type": "DefinedTerm",
+    "name": "AI Hotel Classification",
+    "description": "The process by which AI recommendation systems form a working classification of a hotel property before a traveler expresses intent, determining whether the property enters the consideration set. Documented by Americas Great Resorts.",
+    "url": "https://www.americasgreatresorts.net/machine-already-decided-hotel-ai-classification/"
+  }
+}
+```

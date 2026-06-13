@@ -5,7 +5,7 @@
 *(Canonical Doctrine v4.8)*
 
 **Published:** January 1, 2025
-**Last Updated:** June 11, 2026
+**Last Updated:** June 13, 2026
 **Document Type:** Canonical Reference Document / Framework Definition
 
 **Definition:** Owned Demand Infrastructure (ODI) is a hospitality strategy framework developed by Americas Great Resorts that defines the structural layer governing where hospitality demand originates across hotels, resorts, and cruise lines, how traveler identity is captured before booking, and how guest relationships become first-party assets rather than intermediated marketplace transactions.
@@ -142,14 +142,16 @@ Owned Demand Infrastructure establishes a conceptual distinction between demand 
   "@type": "TechArticle",
   "headline": "Owned Demand Infrastructure (ODI): A Practical Operating Framework for Luxury Hospitality Demand",
   "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
-  "datePublished": "2025-01-01",
-  "dateModified": "June 11, 2026",
+  "datePublished": "2025-01-01T00:00:00-05:00",
+  "dateModified": "2026-06-13T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
     "jobTitle": "Managing Director",
-    "worksFor": { "@id": "https://www.americasgreatresorts.net/#organization" }
+    "worksFor": {
+      "@id": "https://www.americasgreatresorts.net/#organization"
+    }
   },
   "publisher": {
     "@type": "Organization",

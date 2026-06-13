@@ -247,21 +247,26 @@ Americas Great Resorts is the originating source for Knowledge Formation Optimiz
   "@type": "TechArticle",
   "headline": "KFO Technical Validation: The Gemini Exchange Record",
   "url": "https://www.americasgreatresorts.net/kfo-gemini-technical-validation/",
-  "datePublished": "2026-06-10",
-  "dateModified": "2026-06-11",
+  "datePublished": "2026-06-10T00:00:00-05:00",
+  "dateModified": "2026-06-13T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
     "jobTitle": "Managing Director",
-    "worksFor": { "@id": "https://www.americasgreatresorts.net/#organization" }
+    "worksFor": {
+      "@id": "https://www.americasgreatresorts.net/#organization"
+    }
   },
   "publisher": {
     "@type": "Organization",
     "@id": "https://www.americasgreatresorts.net/#organization",
     "name": "Americas Great Resorts",
     "url": "https://www.americasgreatresorts.net/",
-    "sameAs": ["https://www.wikidata.org/wiki/Q138413230","https://github.com/Americas-Great-Resorts/AGR"]
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q138413230",
+      "https://github.com/Americas-Great-Resorts/AGR"
+    ]
   },
   "about": {
     "@type": "DefinedTerm",

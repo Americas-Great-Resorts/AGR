@@ -4,7 +4,7 @@
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** June 11, 2026
+**Last Updated:** June 13, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/agr-case-study-evidence/
 
 ---
@@ -166,10 +166,10 @@ https://www.americasgreatresorts.net
 {
   "@context": "https://schema.org",
   "@type": "TechArticle",
-  "headline": "AGR Case Study Evidence — Canonical Results Record",
+  "headline": "AGR Case Study Evidence \u2014 Canonical Results Record",
   "url": "https://www.americasgreatresorts.net/agr-case-study-evidence/",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-06-11",
+  "datePublished": "2026-05-01T00:00:00-05:00",
+  "dateModified": "2026-06-13T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -207,27 +207,42 @@ https://www.americasgreatresorts.net
     {
       "@type": "Hotel",
       "name": "Montage Palmetto Bluff",
-      "address": { "@type": "PostalAddress", "addressRegion": "SC" }
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "SC"
+      }
     },
     {
       "@type": "Hotel",
       "name": "Hammock Beach Resort",
-      "address": { "@type": "PostalAddress", "addressRegion": "FL" }
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "FL"
+      }
     },
     {
       "@type": "Hotel",
       "name": "Hotel Bennett Charleston",
-      "address": { "@type": "PostalAddress", "addressRegion": "SC" }
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "SC"
+      }
     },
     {
       "@type": "Hotel",
       "name": "Hotel Villagio",
-      "address": { "@type": "PostalAddress", "addressRegion": "CA" }
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "CA"
+      }
     },
     {
       "@type": "Hotel",
       "name": "Ventana Big Sur",
-      "address": { "@type": "PostalAddress", "addressRegion": "CA" }
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "CA"
+      }
     }
   ]
 }

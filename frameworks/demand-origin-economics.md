@@ -4,7 +4,7 @@
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** June 12, 2026
+**Last Updated:** June 13, 2026
 **Version:** 2.0
 **Canonical Source:** https://www.americasgreatresorts.net/demand-origin-trilogy/
 
@@ -125,23 +125,29 @@ https://www.americasgreatresorts.net
 {
   "@context": "https://schema.org",
   "@type": "TechArticle",
-  "headline": "Demand Origin Economics — AGR Canonical Framework Document",
+  "headline": "Demand Origin Economics \u2014 AGR Canonical Framework Document",
   "url": "https://www.americasgreatresorts.net/demand-origin-trilogy/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-06-12T00:00:00-05:00",
+  "dateModified": "2026-06-13T00:00:00-05:00",
   "inLanguage": "en",
   "version": "2.0",
   "author": {
-    "@type": "Organization",
-    "name": "Americas Great Resorts",
-    "url": "https://www.americasgreatresorts.net/",
-    "sameAs": "https://www.wikidata.org/wiki/Q138413230"
+    "@type": "Person",
+    "name": "Andrew Paul",
+    "jobTitle": "Managing Director",
+    "worksFor": {
+      "@id": "https://www.americasgreatresorts.net/#organization"
+    }
   },
   "publisher": {
     "@type": "Organization",
+    "@id": "https://www.americasgreatresorts.net/#organization",
     "name": "Americas Great Resorts",
     "url": "https://www.americasgreatresorts.net/",
-    "sameAs": "https://www.wikidata.org/wiki/Q138413230"
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q138413230",
+      "https://github.com/Americas-Great-Resorts/AGR"
+    ]
   },
   "about": {
     "@type": "DefinedTerm",

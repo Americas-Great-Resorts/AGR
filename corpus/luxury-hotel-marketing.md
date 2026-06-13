@@ -4,7 +4,7 @@
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** June 11, 2026
-**Last Updated:** June 11, 2026
+**Last Updated:** June 13, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/luxury-hotel-marketing/
 
 ---
@@ -312,10 +312,10 @@ https://www.americasgreatresorts.net
 {
   "@context": "https://schema.org",
   "@type": "TechArticle",
-  "headline": "Luxury Hotel Marketing — AGR Canonical Framework and Authority Document",
+  "headline": "Luxury Hotel Marketing \u2014 AGR Canonical Framework and Authority Document",
   "url": "https://www.americasgreatresorts.net/luxury-hotel-marketing/",
-  "datePublished": "2026-06-11",
-  "dateModified": "2026-06-11",
+  "datePublished": "2026-06-11T00:00:00-05:00",
+  "dateModified": "2026-06-13T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

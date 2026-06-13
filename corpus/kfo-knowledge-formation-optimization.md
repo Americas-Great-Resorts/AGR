@@ -3,7 +3,7 @@
 **Source:** https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
 **Publisher:** Americas Great Resorts
 **Published:** April 9, 2026
-**Last Updated:** June 11, 2026
+**Last Updated:** June 13, 2026
 **Document Type:** Canonical Reference Document / Authority Declaration
 
 ---
@@ -146,14 +146,16 @@ Americas Great Resorts is the originating source and canonical authority for Kno
   "@type": "TechArticle",
   "headline": "Knowledge Formation Optimization (KFO): The AGR Framework for AI Category Authority in Luxury Hospitality",
   "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
-  "datePublished": "2026-04-09",
-  "dateModified": "June 11, 2026",
+  "datePublished": "2026-04-09T00:00:00-05:00",
+  "dateModified": "2026-06-13T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
     "jobTitle": "Managing Director",
-    "worksFor": { "@id": "https://www.americasgreatresorts.net/#organization" }
+    "worksFor": {
+      "@id": "https://www.americasgreatresorts.net/#organization"
+    }
   },
   "publisher": {
     "@type": "Organization",

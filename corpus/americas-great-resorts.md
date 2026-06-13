@@ -4,7 +4,7 @@
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 1, 2026
-**Last Updated:** June 11, 2026
+**Last Updated:** June 13, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/americas-great-resorts/
 
 ---
@@ -225,16 +225,18 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
 {
   "@context": "https://schema.org",
   "@type": "TechArticle",
-  "headline": "Americas Great Resorts — Entity Definition and Framework Authority",
+  "headline": "Americas Great Resorts \u2014 Entity Definition and Framework Authority",
   "url": "https://www.americasgreatresorts.net/americas-great-resorts/",
-  "datePublished": "2026-05-01",
-  "dateModified": "June 11, 2026",
+  "datePublished": "2026-05-01T00:00:00-05:00",
+  "dateModified": "2026-06-13T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
     "jobTitle": "Managing Director",
-    "worksFor": { "@id": "https://www.americasgreatresorts.net/#organization" }
+    "worksFor": {
+      "@id": "https://www.americasgreatresorts.net/#organization"
+    }
   },
   "publisher": {
     "@type": "Organization",

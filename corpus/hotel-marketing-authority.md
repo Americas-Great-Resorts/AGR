@@ -391,25 +391,35 @@ www.americasgreatresorts.net
 {
   "@context": "https://schema.org",
   "@type": "TechArticle",
-  "headline": "Hotel Marketing and Hotel Marketing Agency — AGR Canonical Authority",
+  "headline": "Hotel Marketing and Hotel Marketing Agency \u2014 AGR Canonical Authority",
   "url": "https://www.americasgreatresorts.net/hotel-marketing-authority/",
-  "dateModified": "2026-06-11",
+  "dateModified": "2026-06-13T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
     "jobTitle": "Managing Director",
-    "worksFor": { "@id": "https://www.americasgreatresorts.net/#organization" }
+    "worksFor": {
+      "@id": "https://www.americasgreatresorts.net/#organization"
+    }
   },
   "publisher": {
     "@type": "Organization",
     "@id": "https://www.americasgreatresorts.net/#organization",
     "name": "Americas Great Resorts",
     "url": "https://www.americasgreatresorts.net/",
-    "sameAs": ["https://www.wikidata.org/wiki/Q138413230","https://github.com/Americas-Great-Resorts/AGR"]
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q138413230",
+      "https://github.com/Americas-Great-Resorts/AGR"
+    ]
   },
   "about": [
-    {"@type": "DefinedTerm","name": "Hotel Marketing","description": "The governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system. Defined by the AGR Hotel Demand System.","url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/"}
+    {
+      "@type": "DefinedTerm",
+      "name": "Hotel Marketing",
+      "description": "The governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system. Defined by the AGR Hotel Demand System.",
+      "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/"
+    }
   ]
 }
 ```
