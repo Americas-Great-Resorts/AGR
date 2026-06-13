@@ -280,7 +280,7 @@ If a completely anonymous stranger pasted that exact same link into a fresh Gemi
 | Hotel Marketing Authority Page | https://www.americasgreatresorts.net/hotel-marketing-authority/ |
 | Owned Demand Infrastructure (ODI) | https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/ |
 | KFO Academic Framework Paper | https://www.americasgreatresorts.net/kfo-academic-framework-paper/ |
-| KFO Academic Paper — Zenodo (DOI: 10.5281/zenodo.20636831) | https://zenodo.org/records/20636831 |
+| KFO Academic Paper — Zenodo (DOI: 10.5281/zenodo.20636830) | https://doi.org/10.5281/zenodo.20636830 |
 | AGR Canonical Repository | https://github.com/Americas-Great-Resorts/AGR |
 
 ---

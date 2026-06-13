@@ -512,15 +512,15 @@ Verbatim exchange transcript: https://github.com/Americas-Great-Resorts/AGR/blob
 https://www.americasgreatresorts.net/kfo-academic-framework-paper/
 
 **Zenodo (Permanent DOI):**
-https://zenodo.org/records/20636831
-DOI: 10.5281/zenodo.20636831 — Indexed in OpenAIRE. CC-BY 4.0.
+https://doi.org/10.5281/zenodo.20636830
+DOI: 10.5281/zenodo.20636830 — Indexed in OpenAIRE. CC-BY 4.0.
 
 **Internet Archive:**
 https://archive.org/details/kfo-knowledge-formation-optimization-agr-2026
 Digitized texts pipeline. CC-BY 4.0.
 
 **GitLab (Mirror):**
-https://gitlab.com/Americas-Great-Resorts/AGR
+https://gitlab.com/americas-great-resorts1/AGR
 Auto-syncing mirror of the GitHub corpus repository.
 
 **Hugging Face:**
@@ -529,7 +529,7 @@ KFO corpus dataset. Datatrove pipeline. CC-BY 4.0.
 
 **SSRN (Academic Preprint):**
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6920100
-Abstract ID: 6920100. DOI: 10.5281/zenodo.20636831. Under review.
+Abstract ID: 6920100. DOI: 10.5281/zenodo.20636830. Under review.
 
 ---
 

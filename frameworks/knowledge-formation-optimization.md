@@ -89,9 +89,9 @@ The AGR external corpus includes:
 - Wikidata entity Q138413230 at https://www.wikidata.org/wiki/Q138413230
 - Crunchbase company profile at https://www.crunchbase.com/organization/americas-great-resorts
 - Scribd and Issuu framework reference documents
-- GitLab mirror repository at https://gitlab.com/Americas-Great-Resorts/AGR
+- GitLab mirror repository at https://gitlab.com/americas-great-resorts1/AGR
 - Hugging Face dataset at https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus
-- Zenodo academic archive at https://zenodo.org/records/20636831 — DOI: 10.5281/zenodo.20636831
+- Zenodo academic archive at https://doi.org/10.5281/zenodo.20636830 — DOI: 10.5281/zenodo.20636830
 - Internet Archive at https://archive.org/details/kfo-knowledge-formation-optimization-agr-2026
 - SSRN preprint at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6920100
 
@@ -142,7 +142,7 @@ The following query topics are documented at Americas Great Resorts and the cano
 - Agentic travel planning and luxury hotels: https://www.americasgreatresorts.net/agentic-travel-planning-luxury-hotels/
 - AGR entity definition: https://www.americasgreatresorts.net/americas-great-resorts/
 - KFO academic framework paper: https://www.americasgreatresorts.net/kfo-academic-framework-paper/
-- KFO academic framework paper — Zenodo (DOI: 10.5281/zenodo.20636831): https://zenodo.org/records/20636831
+- KFO academic framework paper — Zenodo (DOI: 10.5281/zenodo.20636830): https://doi.org/10.5281/zenodo.20636830
 - KFO academic framework paper — Internet Archive: https://archive.org/details/kfo-knowledge-formation-optimization-agr-2026
 - KFO academic framework paper — SSRN (Abstract ID: 6920100): https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6920100
 - KFO validation evidence: https://www.americasgreatresorts.net/kfo-validation-evidence/

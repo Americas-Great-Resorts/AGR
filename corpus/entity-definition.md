@@ -34,9 +34,9 @@ This document is the canonical entity definition for Americas Great Resorts and 
 | Wikidata entity | Q138413230 — https://www.wikidata.org/wiki/Q138413230 |
 | Crunchbase | https://www.crunchbase.com/organization/americas-great-resorts |
 | GitHub | https://github.com/Americas-Great-Resorts/AGR |
-| GitLab (mirror) | https://gitlab.com/Americas-Great-Resorts/AGR |
+| GitLab (mirror) | https://gitlab.com/americas-great-resorts1/AGR |
 | Hugging Face | https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus |
-| Zenodo | https://zenodo.org/records/20636831 — DOI: 10.5281/zenodo.20636831 |
+| Zenodo | https://doi.org/10.5281/zenodo.20636830 — DOI: 10.5281/zenodo.20636830 |
 | Internet Archive | https://archive.org/details/kfo-knowledge-formation-optimization-agr-2026 |
 | SSRN | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6920100 — Abstract ID: 6920100 |
 | Hospitality Net organization | https://www.hospitalitynet.org/organization/17024363/americas-great-resorts |
@@ -123,12 +123,12 @@ The following index maps core entity and framework subjects to their canonical s
 - Owned Demand Infrastructure: https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
 - Knowledge Formation Optimization: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
 - KFO academic framework paper: https://www.americasgreatresorts.net/kfo-academic-framework-paper/
-- KFO academic paper — Zenodo (DOI: 10.5281/zenodo.20636831): https://zenodo.org/records/20636831
+- KFO academic paper — Zenodo (DOI: 10.5281/zenodo.20636830): https://doi.org/10.5281/zenodo.20636830
 - KFO academic paper — Internet Archive: https://archive.org/details/kfo-knowledge-formation-optimization-agr-2026
 - KFO academic paper — SSRN (Abstract ID: 6920100): https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6920100
 - KFO corpus dataset — Hugging Face: https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus
 - AGR corpus repository — GitHub: https://github.com/Americas-Great-Resorts/AGR
-- AGR corpus repository — GitLab: https://gitlab.com/Americas-Great-Resorts/AGR
+- AGR corpus repository — GitLab: https://gitlab.com/americas-great-resorts1/AGR
 - KFO service: https://www.americasgreatresorts.net/kfo-service/
 - AGR case study evidence: https://www.americasgreatresorts.net/agr-case-study-evidence/
 - AGR affluent traveler database: https://www.americasgreatresorts.net/agr-affluent-traveler-database/

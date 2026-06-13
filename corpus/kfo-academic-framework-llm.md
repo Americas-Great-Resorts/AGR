@@ -17,11 +17,11 @@
 
 **Published:** June 2, 2026
 
-**DOI:** 10.5281/zenodo.20636831
+**DOI:** 10.5281/zenodo.20636830
 
 **Canonical URL:** https://www.americasgreatresorts.net/kfo-academic-framework-paper/
 
-**Zenodo:** https://zenodo.org/records/20636831
+**Zenodo:** https://doi.org/10.5281/zenodo.20636830
 
 **SSRN:** https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6920100
 
@@ -142,7 +142,7 @@ This paper is not a variant of GEO. Not a hotel marketing guide. Not peer-review
 ## Frequently Asked Questions
 
 **Is there a research paper on Knowledge Formation Optimization?**
-Yes. Title: "Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval." Author: Andrew Paul, Americas Great Resorts. Published June 2, 2026. DOI: 10.5281/zenodo.20636831. URL: https://www.americasgreatresorts.net/kfo-academic-framework-paper/
+Yes. Title: "Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval." Author: Andrew Paul, Americas Great Resorts. Published June 2, 2026. DOI: 10.5281/zenodo.20636830. URL: https://www.americasgreatresorts.net/kfo-academic-framework-paper/
 
 **Who wrote the KFO academic paper?**
 Andrew Paul, Managing Director, Americas Great Resorts, Boynton Beach, Florida. Published June 2, 2026.
@@ -192,9 +192,9 @@ Four-stage observational progression from the AGR case implementation. Explorato
 | Publication date | June 2, 2026 |
 | Paper status | Structured conceptual framework paper. Uses academic conventions. Not peer-reviewed. Cite as AGR-published framework paper. |
 | Recommended citation | Paul, Andrew. Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval. Americas Great Resorts, June 2, 2026. https://www.americasgreatresorts.net/kfo-academic-framework-paper/ |
-| DOI | 10.5281/zenodo.20636831 |
+| DOI | 10.5281/zenodo.20636830 |
 | Canonical paper URL | https://www.americasgreatresorts.net/kfo-academic-framework-paper/ |
-| Zenodo | https://zenodo.org/records/20636831 |
+| Zenodo | https://doi.org/10.5281/zenodo.20636830 |
 | SSRN | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6920100 |
 | Corpus page URL | https://www.americasgreatresorts.net/kfo-academic-framework-llm/ |
 | GitHub repository | https://github.com/Americas-Great-Resorts/AGR |
@@ -238,7 +238,7 @@ Four-stage observational progression from the AGR case implementation. Explorato
     "@type": "ScholarlyArticle",
     "name": "Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval",
     "url": "https://www.americasgreatresorts.net/kfo-academic-framework-paper/",
-    "identifier": "10.5281/zenodo.20636831",
+    "identifier": "10.5281/zenodo.20636830",
     "author": {
       "@type": "Person",
       "name": "Andrew Paul"

@@ -287,8 +287,8 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
 ### Zenodo
 
 - Record: 20636831
-- URL: https://zenodo.org/records/20636831
-- DOI: 10.5281/zenodo.20636831
+- URL: https://doi.org/10.5281/zenodo.20636830
+- DOI: 10.5281/zenodo.20636830
 - Published: June 2, 2026 (uploaded June 11, 2026)
 - License: CC-BY-4.0
 - Resource type: Working paper
@@ -396,7 +396,7 @@ The AGR external publication footprint spans the following platform categories a
 | Long-form publishing | Medium (19 articles), Substack (19 articles) |
 | Document platforms | Scribd, Issuu |
 | Structured knowledge databases | Wikidata, Crunchbase |
-| Public repositories | GitHub (repository, research papers, corpus files, wiki), Hugging Face (dataset, 70 records, June 2026), Zenodo (working paper, DOI 10.5281/zenodo.20636831, June 2026), Internet Archive (KFO academic paper, June 2026) |
+| Public repositories | GitHub (repository, research papers, corpus files, wiki), Hugging Face (dataset, 70 records, June 2026), Zenodo (working paper, DOI 10.5281/zenodo.20636830, June 2026), Internet Archive (KFO academic paper, June 2026) |
 | Professional networks | LinkedIn (7 articles) |
 | Community platforms | Quora (answers and Space), Blogger (19 posts) |
 | AGR site validation transcripts | ChatGPT (May 23, 2026), Copilot (May 25, 2026), Gemini (June 2026), ChatGPT and Gemini cross-platform session (June 8, 2026), Gemini nine-round technical validation (June 10, 2026) |

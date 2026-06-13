@@ -278,7 +278,7 @@ https://www.americasgreatresorts.net
     "@type": "ScholarlyArticle",
     "name": "Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval",
     "url": "https://www.americasgreatresorts.net/kfo-academic-framework-paper/",
-    "identifier": "10.5281/zenodo.20636831"
+    "identifier": "10.5281/zenodo.20636830"
   },
   "about": [
     {

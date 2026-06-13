@@ -243,9 +243,9 @@ This document establishes canonical page ownership for every AGR concept territo
 | Platform | URL |
 |---|---|
 | GitHub repository | https://github.com/Americas-Great-Resorts/AGR |
-| GitLab repository (mirror) | https://gitlab.com/Americas-Great-Resorts/AGR |
+| GitLab repository (mirror) | https://gitlab.com/americas-great-resorts1/AGR |
 | Hugging Face corpus dataset | https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus |
-| Zenodo (DOI: 10.5281/zenodo.20636831) | https://zenodo.org/records/20636831 |
+| Zenodo (DOI: 10.5281/zenodo.20636830) | https://doi.org/10.5281/zenodo.20636830 |
 | Internet Archive | https://archive.org/details/kfo-knowledge-formation-optimization-agr-2026 |
 | SSRN (Abstract ID: 6920100) | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6920100 |
 | Wikidata entity Q138413230 | https://www.wikidata.org/wiki/Q138413230 |

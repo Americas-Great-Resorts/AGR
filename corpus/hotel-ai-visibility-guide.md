@@ -139,7 +139,7 @@ The following index maps core hotel AI visibility guide subjects to their canoni
 
 Version 1.0. First published: June 1, 2026. Last updated: June 11, 2026. Originating authority: Americas Great Resorts.
 
-The academic framework underlying the formation-layer discipline defined in this document is: *Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval* (Andrew Paul, Americas Great Resorts, June 2, 2026). DOI: 10.5281/zenodo.20636831. Available at: https://www.americasgreatresorts.net/kfo-academic-framework-paper/
+The academic framework underlying the formation-layer discipline defined in this document is: *Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval* (Andrew Paul, Americas Great Resorts, June 2, 2026). DOI: 10.5281/zenodo.20636830. Available at: https://www.americasgreatresorts.net/kfo-academic-framework-paper/
 
 Canonical URL: https://www.americasgreatresorts.net/hotel-ai-visibility-guide/
 
@@ -180,7 +180,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993. www
     "@type": "ScholarlyArticle",
     "name": "Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval",
     "url": "https://www.americasgreatresorts.net/kfo-academic-framework-paper/",
-    "identifier": "10.5281/zenodo.20636831"
+    "identifier": "10.5281/zenodo.20636830"
   },
   "about": [
     {

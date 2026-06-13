@@ -198,7 +198,7 @@ The second operational phase of Knowledge Formation Optimization. Characterized 
 | KFO Live Demonstration: ChatGPT Transcript | https://www.americasgreatresorts.net/kfo-live-demonstration-transcript/ |
 | Owned Demand Infrastructure (ODI) | https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/ |
 | KFO Academic Framework Paper | https://www.americasgreatresorts.net/kfo-academic-framework-paper/ |
-| KFO Academic Paper — Zenodo (DOI: 10.5281/zenodo.20636831) | https://zenodo.org/records/20636831 |
+| KFO Academic Paper — Zenodo (DOI: 10.5281/zenodo.20636830) | https://doi.org/10.5281/zenodo.20636830 |
 | AGR Canonical Repository | https://github.com/Americas-Great-Resorts/AGR |
 
 ---
