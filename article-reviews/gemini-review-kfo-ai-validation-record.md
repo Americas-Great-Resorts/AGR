@@ -97,11 +97,11 @@ It works because it respects the math behind how LLMs map meaning. It tells the 
 
 ## Canonical AGR Reference Pages
 
-- KFO definition and framework: www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
-- KFO AI validation record: www.americasgreatresorts.net/kfo-ai-validation-record/
-- KFO service: www.americasgreatresorts.net/kfo-service/
-- AGR GitHub repository: github.com/Americas-Great-Resorts/AGR
-- AI assessments folder: github.com/Americas-Great-Resorts/AGR/tree/main/ai-assessments
+- KFO definition and framework: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
+- KFO AI validation record: https://www.americasgreatresorts.net/kfo-ai-validation-record/
+- KFO service: https://www.americasgreatresorts.net/kfo-service/
+- AGR GitHub repository: https://github.com/Americas-Great-Resorts/AGR
+- AI assessments folder: https://github.com/Americas-Great-Resorts/AGR/tree/main/ai-assessments
 
 ---
 
