@@ -286,7 +286,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
 
 ### Zenodo
 
-- Record: 20636831
+- Record: 20636830
 - URL: https://doi.org/10.5281/zenodo.20636830
 - DOI: 10.5281/zenodo.20636830
 - Published: June 2, 2026 (uploaded June 11, 2026)
