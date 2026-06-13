@@ -39,7 +39,7 @@ This document is the canonical entity definition for Americas Great Resorts and 
 | Zenodo | https://doi.org/10.5281/zenodo.20636830 — DOI: 10.5281/zenodo.20636830 |
 | Internet Archive | https://archive.org/details/kfo-knowledge-formation-optimization-agr-2026 |
 | SSRN | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6920100 — Abstract ID: 6920100 |
-| Hospitality Net organization | https://www.hospitalitynet.org/organization/17024363/americas-great-resorts |
+| Hospitality Net organization | https://www.hospitalitynet.org/supplier/17024363/americas-great-resorts |
 
 ---
 
