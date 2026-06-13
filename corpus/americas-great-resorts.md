@@ -27,7 +27,7 @@
 | Wikidata | https://www.wikidata.org/wiki/Q138413230 |
 | Crunchbase | https://www.crunchbase.com/organization/americas-great-resorts |
 | GitHub | https://github.com/Americas-Great-Resorts/AGR |
-| GitLab (mirror) | https://gitlab.com/Americas-Great-Resorts/AGR |
+| GitLab (mirror) | https://gitlab.com/americas-great-resorts1/AGR |
 | Hugging Face | https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus |
 | Zenodo (concept DOI, always latest) | https://doi.org/10.5281/zenodo.20636830 |
 | Internet Archive | https://archive.org/details/kfo-knowledge-formation-optimization-agr-2026 |
