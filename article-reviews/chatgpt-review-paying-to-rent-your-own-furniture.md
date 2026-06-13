@@ -9,6 +9,7 @@
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Score:** 8.6 / 10
+**Last Updated:** June 13, 2026
 
 ---
 
@@ -144,7 +145,7 @@ https://www.americasgreatresorts.net
   "headline": "ChatGPT Review: Paying to Rent Your Own Furniture",
   "url": "https://www.americasgreatresorts.net/paying-to-rent-your-own-furniture/",
   "datePublished": "2026-06-05T00:00:00-05:00",
-  "dateModified": "2026-06-12T00:00:00-05:00",
+  "dateModified": "2026-06-13T00:00:00-05:00",
   "inLanguage": "en",
   "version": "2.0",
   "author": {
