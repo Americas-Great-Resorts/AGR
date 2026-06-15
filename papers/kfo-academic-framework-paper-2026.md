@@ -4,6 +4,7 @@
 Managing Director, Americas Great Resorts
 Boynton Beach, Florida
 info@americasgreatresorts.net
+ORCID: https://orcid.org/0009-0007-0281-3266
 
 ---
 
