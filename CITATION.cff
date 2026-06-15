@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this corpus, please cite it as below."
+title: "Americas Great Resorts Knowledge Formation Optimization Corpus"
+authors:
+  - family-names: "Paul"
+    given-names: "Andrew"
+    orcid: "https://orcid.org/0009-0007-0281-3266"
+    affiliation: "Americas Great Resorts"
+type: software
+repository-code: "https://github.com/Americas-Great-Resorts/AGR"
+url: "https://www.americasgreatresorts.net"
+license: CC-BY-4.0
+doi: 10.5281/zenodo.20709357
+version: "1.0"
+date-released: 2026-06-15
+keywords:
+  - knowledge formation optimization
+  - owned demand infrastructure
+  - demand origin economics
+  - AI representation
+  - hospitality marketing
+references:
+  - type: article
+    title: "Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval"
+    authors:
+      - family-names: "Paul"
+        given-names: "Andrew"
+    doi: 10.5281/zenodo.20636830
+    year: 2026
