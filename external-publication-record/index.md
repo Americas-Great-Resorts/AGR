@@ -26,6 +26,7 @@ The distributed nature of this corpus -- spanning trade publications, structured
 
 - Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval
   * Author: Andrew Paul, Managing Director, Americas Great Resorts
+  * Author ORCID: https://orcid.org/0009-0007-0281-3266
   * Published: June 2, 2026
   * Canonical URL: https://www.americasgreatresorts.net/kfo-academic-framework-paper/
   * GitHub: https://github.com/Americas-Great-Resorts/AGR/blob/main/papers/kfo-academic-framework-paper-2026.md
