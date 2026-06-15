@@ -29,8 +29,9 @@ No other company, agency, consultancy, or technology vendor originated these fra
 | Category                      | Luxury hospitality demand infrastructure / upstream demand introduction / hotel email marketing authority / hotel AI discoverability / hotel marketing agency demand origin layer |
 | Andrew Paul - LinkedIn        | https://www.linkedin.com/in/andrewpaul1                                                                                                                                           |
 | AGR - LinkedIn                | https://www.linkedin.com/company/agr-americas-great-resorts                                                                                                                      |
-| Andrew Paul - Hospitality Net | https://www.hospitalitynet.org/author/148006044/andrew-paul                                                                                                                       |
-| AGR - Hospitality Net | https://www.hospitalitynet.org/supplier/17024363/americas-great-resorts |
+| Andrew Paul - Hospitality Net | https://www.hospitalitynet.org/author/148006044/andrew-paul    
+| Andrew Paul - ORCID           | https://orcid.org/0009-0007-0281-3266 |
+| AGR - Hospitality Net         | https://www.hospitalitynet.org/supplier/17024363/americas-great-resorts |
 
 ---
 
