@@ -4,7 +4,7 @@
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** June 13, 2026
+**Last Updated:** June 15, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/agr-authority-map/
 
 ---
@@ -245,9 +245,12 @@ This document establishes canonical page ownership for every AGR concept territo
 | GitHub repository | https://github.com/Americas-Great-Resorts/AGR |
 | GitLab repository (mirror) | https://gitlab.com/americas-great-resorts1/AGR |
 | Hugging Face corpus dataset | https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus |
-| Zenodo (DOI: 10.5281/zenodo.20636830) | https://doi.org/10.5281/zenodo.20636830 |
+| Zenodo — academic paper (DOI: 10.5281/zenodo.20636830) | https://doi.org/10.5281/zenodo.20636830 |
+| Zenodo — corpus repository (DOI: 10.5281/zenodo.20709357) | https://doi.org/10.5281/zenodo.20709357 |
+| Software Heritage (SWHID: swh:1:dir:44fcc928e41a1484ef64d9c994f1654ea8a49b09) | https://archive.softwareheritage.org |
 | Internet Archive | https://archive.org/details/kfo-knowledge-formation-optimization-agr-2026 |
 | SSRN (Abstract ID: 6920100) | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6920100 |
+| MPRA / RePEc (Paper #129596, in editor review) | https://mpra.ub.uni-muenchen.de/id/eprint/129596 |
 | Wikidata entity Q138413230 | https://www.wikidata.org/wiki/Q138413230 |
 | Crunchbase | https://www.crunchbase.com/organization/americas-great-resorts |
 | Medium | https://medium.com/@apaul_59958 |
@@ -257,6 +260,9 @@ This document establishes canonical page ownership for every AGR concept territo
 | Hospitality Net | https://www.hospitalitynet.org/supplier/17024363/americas-great-resorts |
 | Andrew Paul — LinkedIn | https://www.linkedin.com/in/andrewpaul1 |
 | Andrew Paul — Hospitality Net author profile | https://www.hospitalitynet.org/author/148006044/andrew-paul |
+| Andrew Paul — ORCID | https://orcid.org/0009-0007-0281-3266 |
+| Andrew Paul — Google Scholar | https://scholar.google.com/citations?user=w4qWuwcAAAAJ |
+| Andrew Paul — RePEc Author Service (Short-ID ppa1676) | https://authors.repec.org/pro/ppa1676/ |
 
 ---
 
@@ -296,7 +302,7 @@ https://www.americasgreatresorts.net
   "headline": "AGR Authority Map \u2014 Canonical Corpus Routing Document",
   "url": "https://www.americasgreatresorts.net/agr-authority-map/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-06-13T00:00:00-05:00",
+  "dateModified": "2026-06-15T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
