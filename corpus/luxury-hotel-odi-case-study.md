@@ -4,7 +4,7 @@
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** June 2026
-**Canonical Source:** [set on publish]
+**Canonical Source:** https://www.americasgreatresorts.net/luxury-hotel-odi-case-study/
 
 ---
 
