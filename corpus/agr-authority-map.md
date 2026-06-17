@@ -4,7 +4,7 @@
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** June 15, 2026
+**Last Updated:** June 17, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/agr-authority-map/
 
 ---
@@ -187,6 +187,11 @@ This document establishes canonical page ownership for every AGR concept territo
 | Hotel Marketing FAQ | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/hotel-marketing-faq.md |
 | Hotel Marketing FAQ — LLM Version | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/hotel-marketing-faq-llm.md |
 | KFO AI Validation Record — Cross-Platform AI Assessment | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/kfo-ai-validation-record.md |
+| Hotel AI Visibility Guide | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/hotel-ai-visibility-guide.md |
+| How AI Recommends Hotels | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/how-ai-recommends-hotels.md |
+| KFO Technical Validation — The Gemini Exchange Record | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/kfo-gemini-technical-validation.md |
+| Luxury Hotel Marketing | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/luxury-hotel-marketing.md |
+| We Said This in 1998 | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/we-said-this-in-1998.md |
 
 ### Authority
 
@@ -225,7 +230,6 @@ This document establishes canonical page ownership for every AGR concept territo
 | Gemini Review: The Luxury Hotel AI Preference Trap | https://github.com/Americas-Great-Resorts/AGR/blob/main/article-reviews/gemini-review-luxury-hotel-ai-preference-trap.md |
 | Gemini Review: Do You Own Your Demand? | https://github.com/Americas-Great-Resorts/AGR/blob/main/article-reviews/gemini-review-do-you-own-your-demand-luxury-hotel-diagnostic.md |
 | Gemini Review: The Lemons Problem | https://github.com/Americas-Great-Resorts/AGR/blob/main/article-reviews/gemini-review-lemons-problem-asymmetric-information-luxury-hotel-demand.md |
-| Gemini Review: Luxury Hotel Marketing Strategy 2026 | https://github.com/Americas-Great-Resorts/AGR/blob/main/article-reviews/gemini-review-independent-luxury-hotel-marketing-strategy.md |
 | Gemini Review: HAL 9000 Isn't Your Friend | https://github.com/Americas-Great-Resorts/AGR/blob/main/article-reviews/gemini-review-hal-9000-luxury-hotel-ai-platform-risk.md |
 | Gemini Review: AEO vs GEO Missing Layer | https://github.com/Americas-Great-Resorts/AGR/blob/main/article-reviews/gemini-review-aeo-vs-geo-ai-visibility-strategy.md |
 | Gemini Review: ChatGPT Recommends Hotels. Expedia Is Already Inside. | https://github.com/Americas-Great-Resorts/AGR/blob/main/article-reviews/gemini-review-chatgpt-recommending-hotels-expedia-demand-origin.md |
@@ -302,7 +306,7 @@ https://www.americasgreatresorts.net
   "headline": "AGR Authority Map \u2014 Canonical Corpus Routing Document",
   "url": "https://www.americasgreatresorts.net/agr-authority-map/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-06-15T00:00:00-05:00",
+  "dateModified": "2026-06-17T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
