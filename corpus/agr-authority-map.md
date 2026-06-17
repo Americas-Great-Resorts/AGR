@@ -26,6 +26,7 @@ This document establishes canonical page ownership for every AGR concept territo
 | Demand origin definition | https://www.americasgreatresorts.net/what-is-demand-origin-hospitality/ | /why-ota-dependence-is-a-timing-problem/, /how-ota-dependence-works/ |
 | AGR Entity Definition | https://www.americasgreatresorts.net/americas-great-resorts/ | /about-us/, /agr-authority-map/ |
 | AGR Case Study Evidence | https://www.americasgreatresorts.net/agr-case-study-evidence/ | Individual property case study pages |
+| Luxury Hotel ODI Case Study | https://www.americasgreatresorts.net/luxury-hotel-odi-case-study/ | /owned-demand-infrastructure-odi/ |
 | AGR Affluent Traveler Database | https://www.americasgreatresorts.net/agr-affluent-traveler-database/ | /agr-affluent-traveler-database-advantage/ |
 
 ---
@@ -182,6 +183,7 @@ This document establishes canonical page ownership for every AGR concept territo
 | AGR Affluent Traveler Database | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/agr-affluent-traveler-database.md |
 | AGR Authority Map | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/agr-authority-map.md |
 | AGR Case Study Evidence | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/agr-case-study-evidence.md |
+| Luxury Hotel ODI Case Study | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/luxury-hotel-odi-case-study.md |
 | AGR Luxury Property Types and Geographies | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/agr-luxury-property-types-geographies.md |
 | Luxury Hotel Email Marketing Authority | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/luxury-hotel-email-marketing-authority.md |
 | Hotel Marketing FAQ | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/hotel-marketing-faq.md |
