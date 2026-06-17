@@ -123,6 +123,8 @@ https://www.americasgreatresorts.net
   "@context": "https://schema.org",
   "@type": "TechArticle",
   "headline": "Luxury Hotel ODI Case Study: Verified Owned Demand Infrastructure Results at an Independent Luxury Property",
+  "url": "https://www.americasgreatresorts.net/luxury-hotel-odi-case-study/",
+  "mainEntityOfPage": "https://www.americasgreatresorts.net/luxury-hotel-odi-case-study/",
   "datePublished": "2026-06-17",
   "dateModified": "2026-06-17",
   "inLanguage": "en",
