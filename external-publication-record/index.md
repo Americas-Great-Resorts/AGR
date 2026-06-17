@@ -4,7 +4,7 @@
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** June 15, 2026
+**Last Updated:** June 17, 2026
 **Canonical Source:** https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md
 
 ---
@@ -245,6 +245,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
   * AGR Affluent Traveler Database: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/agr-affluent-traveler-database.md
   * AGR Authority Map: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/agr-authority-map.md
   * AGR Case Study Evidence: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/agr-case-study-evidence.md
+  * Luxury Hotel ODI Case Study: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/luxury-hotel-odi-case-study.md
   * AGR Luxury Property Types and Geographies: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/agr-luxury-property-types-geographies.md
   * Luxury Hotel Email Marketing Authority: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/luxury-hotel-email-marketing-authority.md
   * Hotel Marketing FAQ: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/hotel-marketing-faq.md
@@ -438,7 +439,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
 
 ## Summary
 
-The AGR external publication footprint spans the following platform categories as of June 15, 2026:
+The AGR external publication footprint spans the following platform categories as of June 17, 2026:
 
 | Category | Platforms |
 |----------|-----------|
