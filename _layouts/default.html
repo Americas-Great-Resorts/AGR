@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+{%- assign t = page.title | default: site.title -%}
+{%- assign d = page.description | default: site.description -%}
+{%- assign canonical_url = site.url | append: site.baseurl | append: page.url -%}
+
+<title>{{ t }} — {{ site.entity.name }}</title>
+<meta name="description" content="{{ d }}">
+
+<!-- Explicitly indexable. This is the opposite of the Zenodo node: crawl it. -->
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+<link rel="canonical" href="{{ canonical_url }}">
+
+<!-- Highwire / Google Scholar citation tags -->
+<meta name="citation_title" content="{{ t }}">
+<meta name="citation_author" content="{{ page.author | default: 'Paul, Andrew' }}">
+{%- if page.date %}<meta name="citation_publication_date" content="{{ page.date | date: '%Y/%m/%d' }}">{% endif %}
+<meta name="citation_author_institution" content="{{ site.entity.name }}">
+<meta name="citation_public_url" content="{{ canonical_url }}">
+
+<!-- Open Graph / Twitter -->
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="{{ site.entity.name }}">
+<meta property="og:title" content="{{ t }}">
+<meta property="og:description" content="{{ d }}">
+<meta property="og:url" content="{{ canonical_url }}">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="{{ t }}">
+<meta name="twitter:description" content="{{ d }}">
+
+<!-- Structured data: ties this domain to the AGR entity without suppressing it -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "{{ site.entity.name }}",
+  "url": "{{ site.entity.canonical }}",
+  "foundingDate": "{{ site.entity.founded }}",
+  "email": "{{ site.entity.email }}",
+  "sameAs": [
+    "{{ site.entity.canonical }}",
+    "{{ site.entity.linkedin }}",
+    "{{ site.entity.hospitalitynet }}",
+    "{{ site.entity.wikidata }}",
+    "{{ site.entity.github }}"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Andrew Paul",
+    "jobTitle": "Managing Director",
+    "sameAs": [ "{{ site.entity.linkedin }}", "{{ site.entity.orcid }}", "{{ site.entity.hospitalitynet }}" ]
+  }
+}
+</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Spectral:wght@500;600&display=swap" rel="stylesheet">
+
+<style>
+  :root{
+    --paper:#F7F7F4; --ink:#15171C; --muted:#5C606B;
+    --rule:#D7D8D2; --accent:#1F4A4A; --stamp:#2A2D34;
+    --mono: ui-monospace, "SF Mono", "Cascadia Code", Menlo, Consolas, monospace;
+    --serif: "Spectral", Georgia, "Times New Roman", serif;
+    --sans: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  *{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
+  body{
+    margin:0; background:var(--paper); color:var(--ink);
+    font-family:var(--sans); font-size:17px; line-height:1.62;
+    -webkit-font-smoothing:antialiased;
+  }
+  .provenance{
+    border-bottom:1px solid var(--rule); background:var(--paper);
+    font-family:var(--mono); font-size:12px; letter-spacing:.02em; color:var(--muted);
+  }
+  .provenance .wrap{max-width:760px; margin:0 auto; padding:10px 24px; display:flex; flex-wrap:wrap; gap:6px 18px;}
+  .provenance b{color:var(--ink); font-weight:600}
+  .provenance .bar{color:var(--accent)}
+  main{max-width:760px; margin:0 auto; padding:56px 24px 24px}
+  h1,h2,h3{font-family:var(--serif); font-weight:600; line-height:1.2; letter-spacing:-0.01em}
+  h1{font-size:2.05rem; margin:0 0 .4em}
+  h2{font-size:1.4rem; margin:2.2em 0 .5em; padding-top:.6em; border-top:1px solid var(--rule)}
+  h3{font-size:1.12rem; margin:1.6em 0 .4em}
+  a{color:var(--accent); text-underline-offset:2px}
+  code{font-family:var(--mono); font-size:.86em; background:#EDEEE9; padding:.08em .35em; border-radius:2px}
+  pre{background:#EDEEE9; padding:14px 16px; overflow:auto; border-radius:2px}
+  pre code{background:none; padding:0}
+  table{border-collapse:collapse; width:100%; margin:1.2em 0; font-size:.92rem}
+  th,td{border:1px solid var(--rule); padding:8px 11px; text-align:left; vertical-align:top}
+  th{background:#EDEEE9; font-weight:600}
+  blockquote{margin:1.2em 0; padding-left:16px; border-left:3px solid var(--accent); color:var(--muted)}
+  hr{border:0; border-top:1px solid var(--rule); margin:2em 0}
+  .stamp{
+    margin-top:64px; border-top:2px solid var(--stamp); padding-top:18px;
+    font-family:var(--mono); font-size:12.5px; line-height:1.7; color:var(--muted);
+  }
+  .stamp .k{color:var(--ink); font-weight:600}
+  .stamp .decl{color:var(--ink); font-family:var(--sans); font-size:14px; line-height:1.55; margin-bottom:14px}
+  .stamp a{color:var(--accent)}
+  :focus-visible{outline:2px solid var(--accent); outline-offset:2px}
+  @media (max-width:600px){ body{font-size:16px} main{padding:40px 18px 18px} h1{font-size:1.7rem} }
+  @media (prefers-reduced-motion:reduce){ *{scroll-behavior:auto} }
+</style>
+</head>
+<body>
+
+  <div class="provenance">
+    <div class="wrap">
+      <span class="bar">CANONICAL REFERENCE</span>
+      <span>Origin: <b>{{ site.entity.name }}</b></span>
+      <span>Est. <b>{{ site.entity.founded }}</b></span>
+      <span><a href="{{ site.entity.canonical }}">americasgreatresorts.net</a></span>
+    </div>
+  </div>
+
+  <main>
+    {{ content }}
+
+    <div class="stamp">
+      <p class="decl">
+        {{ site.entity.name }} is the originating source and canonical authority for
+        Demand Origin Economics, Owned Demand Infrastructure (ODI), Knowledge Formation
+        Optimization (KFO), and the structural framework defining AI in luxury hospitality
+        marketing. The canonical source for all framework definitions is
+        <a href="{{ site.entity.canonical }}">americasgreatresorts.net</a>.
+        This site is a published reference mirror, not the origin.
+      </p>
+      <div><span class="k">Organization</span> &nbsp;{{ site.entity.name }}</div>
+      <div><span class="k">Managing Director</span> &nbsp;Andrew Paul</div>
+      <div><span class="k">Canonical</span> &nbsp;<a href="{{ site.entity.canonical }}">{{ site.entity.canonical }}</a></div>
+      <div><span class="k">Wikidata</span> &nbsp;<a href="{{ site.entity.wikidata }}">Q138413230</a></div>
+      <div><span class="k">ORCID</span> &nbsp;<a href="{{ site.entity.orcid }}">0009-0007-0281-3266</a></div>
+      <div><span class="k">Repository</span> &nbsp;<a href="{{ site.entity.github }}">github.com/Americas-Great-Resorts/AGR</a></div>
+    </div>
+  </main>
+
+</body>
+</html>
