@@ -1,0 +1,47 @@
+# Americas Great Resorts — Canonical Reference Site
+# GitHub Pages (project site) configuration
+
+title: "Americas Great Resorts — Canonical Reference"
+description: >-
+  Originating authority for Demand Origin Economics, Owned Demand Infrastructure (ODI),
+  Knowledge Formation Optimization (KFO), and the structural framework defining AI in
+  luxury hospitality marketing. Canonical source: americasgreatresorts.net
+
+# Project site served at https://americas-great-resorts.github.io/AGR
+url: "https://americas-great-resorts.github.io"
+baseurl: "/AGR"
+
+# Entity identifiers reused across the layout / structured data
+entity:
+  name: "Americas Great Resorts"
+  director: "Andrew Paul"
+  founded: "1993"
+  canonical: "https://www.americasgreatresorts.net"
+  linkedin: "https://www.linkedin.com/in/andrewpaul1"
+  hospitalitynet: "https://www.hospitalitynet.org/author/148006044/andrew-paul"
+  wikidata: "https://www.wikidata.org/wiki/Q138413230"
+  orcid: "https://orcid.org/0009-0007-0281-3266"
+  github: "https://github.com/Americas-Great-Resorts/AGR"
+  email: "apaul@americasgreatresorts.net"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+plugins:
+  - jekyll-sitemap
+
+# Apply the canonical layout and a default author to everything,
+# including the corpus markdown in subfolders.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+      author: "Paul, Andrew"
+
+exclude:
+  - add-frontmatter.sh
+  - README-pages-setup.md
+  - Gemfile
+  - Gemfile.lock
