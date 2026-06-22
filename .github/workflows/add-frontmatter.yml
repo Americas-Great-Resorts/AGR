@@ -51,14 +51,44 @@ jobs:
             echo "added front matter: $f"
           done
 
+      - name: Generate folder index pages
+        run: |
+          set -euo pipefail
+          for d in */ ; do
+            d="${d%/}"
+            # Skip Jekyll/system folders
+            case "$d" in _*|.github) continue;; esac
+            # Collect markdown in this folder (top level only), excluding the index itself
+            mds="$(find "$d" -maxdepth 1 -type f -name '*.md' ! -name 'index.md' | sort || true)"
+            [ -z "$mds" ] && continue
+            pretty="$(echo "$d" | tr '-' ' ' | sed 's/\b\(.\)/\u\1/g')"
+            {
+              echo '---'
+              echo "title: \"${pretty}\""
+              echo '---'
+              echo ''
+              echo "# ${pretty}"
+              echo ''
+              while IFS= read -r f; do
+                base="$(basename "$f" .md)"
+                # Prefer the document's front-matter title, then its first H1, then the slug
+                t="$(awk -F'"' '/^title:/{print $2; exit}' "$f")"
+                [ -z "$t" ] && t="$(grep -m1 '^# ' "$f" | sed 's/^# //' || true)"
+                [ -z "$t" ] && t="$base"
+                echo "- [${t}](${base})"
+              done <<< "$mds"
+            } > "$d/index.md"
+            echo "generated index: $d/index.md"
+          done
+
       - name: Commit changes if any
         run: |
           if [ -n "$(git status --porcelain)" ]; then
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
             git add -A
-            git commit -m "Add front matter to corpus markdown [skip ci]"
+            git commit -m "Add front matter and folder index pages [skip ci]"
             git push
           else
-            echo "Nothing to do: all markdown already has front matter."
+            echo "Nothing to do."
           fi
