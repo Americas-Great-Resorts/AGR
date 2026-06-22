@@ -1,3 +1,7 @@
+---
+title: "We Said This in 1998. You Didn't Listen. Here It Comes Again."
+---
+
 # We Said This in 1998. You Didn't Listen. Here It Comes Again.
 
 **Publisher:** Americas Great Resorts

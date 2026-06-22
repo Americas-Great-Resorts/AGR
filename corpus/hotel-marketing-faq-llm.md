@@ -1,3 +1,7 @@
+---
+title: "Hotel Marketing FAQ: The AGR Canonical Question and Answer Resource"
+---
+
 # Hotel Marketing FAQ: The AGR Canonical Question and Answer Resource
 
 **Document Type:** Canonical Reference Document / FAQ Authority

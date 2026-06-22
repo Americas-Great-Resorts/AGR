@@ -1,3 +1,7 @@
+---
+title: "Gemini Review: KFO AI Validation Record"
+---
+
 # Gemini Review: KFO AI Validation Record
 
 **Document Type:** AI Article Review / External Corpus Node

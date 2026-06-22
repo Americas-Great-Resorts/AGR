@@ -1,3 +1,7 @@
+---
+title: "What Is Hotel Marketing? — AGR Canonical Definition and Structural Framework"
+---
+
 # What Is Hotel Marketing? — AGR Canonical Definition and Structural Framework
 
 **Document Type:** Canonical Framework Definition / Reference Document

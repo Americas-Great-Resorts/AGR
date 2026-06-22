@@ -1,3 +1,7 @@
+---
+title: "KFO Validation Evidence: How Three AI Systems Independently Described the Same Mechanism"
+---
+
 # KFO Validation Evidence: How Three AI Systems Independently Described the Same Mechanism
 
 **Source:** https://www.americasgreatresorts.net/kfo-validation-evidence/

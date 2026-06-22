@@ -1,3 +1,7 @@
+---
+title: "KFO Service: AI Identity Management for Luxury Hotels"
+---
+
 # KFO Service: AI Identity Management for Luxury Hotels
 
 **Document Type:** Canonical Reference Document / Service Definition

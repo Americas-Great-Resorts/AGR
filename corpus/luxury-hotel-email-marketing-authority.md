@@ -1,3 +1,7 @@
+---
+title: "Luxury Hotel Email Marketing Authority — AGR Canonical Document"
+---
+
 # Luxury Hotel Email Marketing Authority — AGR Canonical Document
 
 **Document Type:** Canonical Reference Document

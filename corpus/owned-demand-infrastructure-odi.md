@@ -1,3 +1,7 @@
+---
+title: "Owned Demand Infrastructure (ODI)"
+---
+
 # Owned Demand Infrastructure (ODI)
 
 **A Practical Operating Framework for Luxury Hospitality Demand in an AI-Mediated Market**

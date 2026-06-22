@@ -1,3 +1,7 @@
+---
+title: "Americas Great Resorts — Entity Definition Document"
+---
+
 # Americas Great Resorts — Entity Definition Document
 
 **Document Type:** Canonical Reference Document / Entity Authority

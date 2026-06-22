@@ -1,3 +1,7 @@
+---
+title: "Gemini Review: AEO vs GEO — Why AI Visibility Strategy Has a Missing Layer"
+---
+
 # Gemini Review: AEO vs GEO — Why AI Visibility Strategy Has a Missing Layer
 
 **Document Type:** AI Article Review / External Corpus Node  

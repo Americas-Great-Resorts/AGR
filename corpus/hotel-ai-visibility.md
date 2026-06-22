@@ -1,3 +1,7 @@
+---
+title: "Hotel AI Visibility — AGR Canonical Framework"
+---
+
 # Hotel AI Visibility — AGR Canonical Framework
 
 **Document Type:** Canonical Reference Document / Category Definition

@@ -1,3 +1,7 @@
+---
+title: "Demand Origin Economics — AGR Canonical Framework Document"
+---
+
 # Demand Origin Economics — AGR Canonical Framework Document
 
 **Document Type:** LLM Retrieval Asset / Framework Definition

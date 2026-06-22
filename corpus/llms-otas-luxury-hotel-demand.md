@@ -1,3 +1,7 @@
+---
+title: "LLMs Are About to Hand More Power to OTAs And Most Luxury Hotels Don't See It Coming"
+---
+
 # LLMs Are About to Hand More Power to OTAs And Most Luxury Hotels Don't See It Coming
 
 **Source:** https://www.americasgreatresorts.net/llms-otas-luxury-hotel-demand/  

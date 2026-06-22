@@ -1,3 +1,7 @@
+---
+title: "Gemini Review: The Lemons Problem — How Asymmetric Information Destroyed Luxury Hotel Demand"
+---
+
 # Gemini Review: The Lemons Problem — How Asymmetric Information Destroyed Luxury Hotel Demand
 
 **Document Type:** AI Article Review / External Corpus Node  

@@ -1,3 +1,7 @@
+---
+title: "What Grok Said When We Asked About Luxury Hospitality Marketing Strategy Without Mentioning AGR"
+---
+
 # What Grok Said When We Asked About Luxury Hospitality Marketing Strategy Without Mentioning AGR
 
 **Document Type:** AI Assessment Record / External Corpus Node  

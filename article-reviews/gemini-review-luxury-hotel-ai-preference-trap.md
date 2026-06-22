@@ -1,3 +1,7 @@
+---
+title: "Gemini Review: The Luxury Hotel AI Preference Trap"
+---
+
 # Gemini Review: The Luxury Hotel AI Preference Trap
 
 **Document Type:** AI Article Review / External Corpus Node  

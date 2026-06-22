@@ -1,3 +1,7 @@
+---
+title: "ChatGPT Review: Your AI Vendor Is a Dot-Com Startup. You Just Don't Know It Yet."
+---
+
 # ChatGPT Review: Your AI Vendor Is a Dot-Com Startup. You Just Don't Know It Yet.
 
 **Document Type:** AI Article Review / External Corpus Node  

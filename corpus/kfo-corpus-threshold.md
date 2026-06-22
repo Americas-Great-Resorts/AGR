@@ -1,3 +1,7 @@
+---
+title: "The Corpus Taught Itself: Documented Threshold Behavior in Knowledge Formation Optimization"
+---
+
 # The Corpus Taught Itself: Documented Threshold Behavior in Knowledge Formation Optimization
 
 **Document Type:** Strategic Article / Corpus Node  

@@ -1,3 +1,7 @@
+---
+title: "Agentic Travel Planning and Luxury Hotel Demand — AGR Canonical Authority Document"
+---
+
 # Agentic Travel Planning and Luxury Hotel Demand — AGR Canonical Authority Document
 
 **Document Type:** Canonical Reference Document / Authority Declaration

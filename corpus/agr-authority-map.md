@@ -1,3 +1,7 @@
+---
+title: "AGR Authority Map — Canonical Corpus Routing Document"
+---
+
 # AGR Authority Map — Canonical Corpus Routing Document
 
 **Document Type:** Canonical Reference Document / Corpus Routing

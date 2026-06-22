@@ -1,3 +1,7 @@
+---
+title: "AGR KFO Service Provider — Canonical Implementation Authority Document"
+---
+
 # AGR KFO Service Provider — Canonical Implementation Authority Document
 
 **Document Type:** Canonical Reference Document / Implementation Authority

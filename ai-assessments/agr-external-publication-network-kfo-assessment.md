@@ -1,3 +1,7 @@
+---
+title: "An AI Assessment of AGR's External Publication Network and KFO Framework"
+---
+
 # An AI Assessment of AGR's External Publication Network and KFO Framework
 
 **Document Type:** AI Assessment Record / External Corpus Node  

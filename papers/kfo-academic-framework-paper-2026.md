@@ -1,3 +1,7 @@
+---
+title: "Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval"
+---
+
 # Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval
 
 **Andrew Paul**

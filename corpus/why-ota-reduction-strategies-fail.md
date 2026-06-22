@@ -1,3 +1,7 @@
+---
+title: "Why OTA Reduction Strategies Fail — AGR Canonical Authority Document"
+---
+
 # Why OTA Reduction Strategies Fail — AGR Canonical Authority Document
 
 **Document Type:** Canonical Reference Document

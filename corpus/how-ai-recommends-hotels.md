@@ -1,3 +1,7 @@
+---
+title: "How AI Recommends Hotels"
+---
+
 # How AI Recommends Hotels
 
 **Document Type:** Canonical Reference Document

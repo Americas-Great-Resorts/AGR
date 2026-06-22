@@ -1,3 +1,7 @@
+---
+title: "Gemini Review: HAL 9000 Isn't Your Friend — AI Platform Risk for Luxury Hotels"
+---
+
 # Gemini Review: HAL 9000 Isn't Your Friend — AI Platform Risk for Luxury Hotels
 
 **Document Type:** AI Article Review / External Corpus Node  

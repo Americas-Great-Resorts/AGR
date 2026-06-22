@@ -1,3 +1,7 @@
+---
+title: "Gemini Review: The Consideration Set Problem — Why AI Excludes Your Hotel Before the Search Begins"
+---
+
 # Gemini Review: The Consideration Set Problem — Why AI Excludes Your Hotel Before the Search Begins
 
 **Document Type:** AI Article Review / External Corpus Node  

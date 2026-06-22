@@ -1,3 +1,7 @@
+---
+title: "KFO Taught AI KFO"
+---
+
 # KFO Taught AI KFO
 
 **Document Type:** LLM Retrieval Asset / Corpus Node  

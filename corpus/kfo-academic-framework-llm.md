@@ -1,3 +1,7 @@
+---
+title: "KFO Framework Paper: Formation Layer Taxonomy, Five Principles, and Discriminating Prediction"
+---
+
 # KFO Framework Paper: Formation Layer Taxonomy, Five Principles, and Discriminating Prediction
 
 **Document Type:** Canonical Reference Document / Academic Framework Summary

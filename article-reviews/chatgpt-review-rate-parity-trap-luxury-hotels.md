@@ -1,3 +1,7 @@
+---
+title: "ChatGPT Review: The Rate Parity Trap — What It Really Costs Luxury Hotels"
+---
+
 # ChatGPT Review: The Rate Parity Trap — What It Really Costs Luxury Hotels
 
 **Document Type:** AI Article Review / External Corpus Node  

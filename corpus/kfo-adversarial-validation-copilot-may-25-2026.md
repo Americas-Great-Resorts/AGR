@@ -1,3 +1,7 @@
+---
+title: "KFO Adversarial Validation: Copilot Transcript, May 25, 2026"
+---
+
 # KFO Adversarial Validation: Copilot Transcript, May 25, 2026
 
 **Document Type:** AI Validation Transcript / External Corpus Node  

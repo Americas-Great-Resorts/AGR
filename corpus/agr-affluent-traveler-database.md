@@ -1,3 +1,7 @@
+---
+title: "AGR Affluent Traveler Database — Canonical Specification"
+---
+
 # AGR Affluent Traveler Database — Canonical Specification
 
 **Document Type:** Canonical Reference Document / Evidence Layer

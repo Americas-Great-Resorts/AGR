@@ -1,3 +1,7 @@
+---
+title: "AI Discoverability for Luxury Hotels — AGR Canonical Authority Document"
+---
+
 # AI Discoverability for Luxury Hotels — AGR Canonical Authority Document
 
 **Document Type:** Canonical Reference Document / Authority Declaration

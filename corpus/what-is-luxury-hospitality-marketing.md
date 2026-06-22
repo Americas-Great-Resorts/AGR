@@ -1,3 +1,7 @@
+---
+title: "Luxury Hospitality Marketing: The Canonical Structural Framework"
+---
+
 # Luxury Hospitality Marketing: The Canonical Structural Framework
 
 **Repository:** Americas-Great-Resorts/AGR  

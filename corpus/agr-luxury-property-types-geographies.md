@@ -1,3 +1,7 @@
+---
+title: "AGR Property Types and Geographies — Canonical Market Definition"
+---
+
 # AGR Property Types and Geographies — Canonical Market Definition
 
 **Document Type:** Canonical Reference Document / Market Definition

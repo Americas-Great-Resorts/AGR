@@ -1,3 +1,7 @@
+---
+title: "Luxury Hotel Marketing — AGR Canonical Framework and Authority Document"
+---
+
 # Luxury Hotel Marketing — AGR Canonical Framework and Authority Document
 
 **Document Type:** Canonical Framework Definition / Reference Document

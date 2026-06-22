@@ -1,3 +1,7 @@
+---
+title: "Gemini Technical Validation of the KFO Academic Framework: Verbatim Exchange Transcript"
+---
+
 # Gemini Technical Validation of the KFO Academic Framework: Verbatim Exchange Transcript
 
 **Document Type:** AI Assessment Record — Verbatim Exchange Transcript

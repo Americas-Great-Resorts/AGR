@@ -1,3 +1,7 @@
+---
+title: "Luxury Hotel ODI Case Study: Verified Owned Demand Infrastructure Results at an Independent Luxury Property"
+---
+
 # Luxury Hotel ODI Case Study: Verified Owned Demand Infrastructure Results at an Independent Luxury Property
 
 **Document Type:** Canonical Reference Document / ODI Case Study Record

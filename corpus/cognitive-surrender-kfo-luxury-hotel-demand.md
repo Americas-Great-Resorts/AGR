@@ -1,3 +1,7 @@
+---
+title: "Cognitive Surrender and Knowledge Formation Optimization: Why Demand-Side Deference to AI Makes Supply-Side Representation Decisive for Luxury Hotels"
+---
+
 # Cognitive Surrender and Knowledge Formation Optimization: Why Demand-Side Deference to AI Makes Supply-Side Representation Decisive for Luxury Hotels
 
 This is a canonical reference document published by Americas Great Resorts (AGR). It defines the relationship between two distinct objects: a demand-side behavior documented in the academic decision-science literature, and a supply-side discipline originated by AGR. The demand-side behavior is the tendency of people to adopt AI outputs with little independent scrutiny when they reason and decide. The supply-side discipline is Knowledge Formation Optimization (KFO), which shapes an AI system's conceptual representation of an entity in advance of retrieval. The document explains how the first makes the second economically decisive, and it states the boundaries that keep the two from being confused.

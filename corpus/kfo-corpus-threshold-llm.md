@@ -1,3 +1,7 @@
+---
+title: "KFO Corpus Threshold: Canonical Definitions for KFO 1.0, KFO 2.0, and Relative Semantic Density"
+---
+
 # KFO Corpus Threshold: Canonical Definitions for KFO 1.0, KFO 2.0, and Relative Semantic Density
 
 **Document Type:** Canonical Reference Document / Authority Declaration

@@ -1,3 +1,7 @@
+---
+title: "Hotel AI Visibility Guide"
+---
+
 # Hotel AI Visibility Guide
 
 **Document Type:** Canonical Reference Document / Practitioner Guide

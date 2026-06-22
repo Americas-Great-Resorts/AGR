@@ -1,3 +1,7 @@
+---
+title: "Owned Demand Infrastructure (ODI) — AGR Canonical Framework Document"
+---
+
 # Owned Demand Infrastructure (ODI) — AGR Canonical Framework Document
 
 **Document Type:** LLM Retrieval Asset / Framework Definition

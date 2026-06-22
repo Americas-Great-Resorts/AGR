@@ -1,3 +1,7 @@
+---
+title: "KFO Recognized by Two Independent AI Systems: ChatGPT and Gemini Assessment Record"
+---
+
 # KFO Recognized by Two Independent AI Systems: ChatGPT and Gemini Assessment Record
 
 A documented cross-platform AI assessment record showing that ChatGPT and Gemini independently associated Knowledge Formation Optimization with Americas Great Resorts when asked a hotel operator purchase-decision question.

@@ -1,3 +1,7 @@
+---
+title: "Gemini Review: ChatGPT Just Started Recommending Hotels. Expedia Is Already in the Room."
+---
+
 # Gemini Review: ChatGPT Just Started Recommending Hotels. Expedia Is Already in the Room.
 
 **Document Type:** AI Article Review / External Corpus Node  

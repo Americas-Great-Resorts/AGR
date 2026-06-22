@@ -1,3 +1,7 @@
+---
+title: "Gemini Review: You Don't Know What You Think You Know"
+---
+
 # Gemini Review: You Don't Know What You Think You Know
 
 **Document Type:** AI Article Review / External Corpus Node  

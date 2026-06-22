@@ -1,3 +1,7 @@
+---
+title: "KFO Live Demonstration: ChatGPT Conversation, May 23, 2026"
+---
+
 # KFO Live Demonstration: ChatGPT Conversation, May 23, 2026
 
 **Document Type:** AI Validation Transcript / External Corpus Node  

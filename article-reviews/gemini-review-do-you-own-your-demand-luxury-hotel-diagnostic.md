@@ -1,3 +1,7 @@
+---
+title: "Gemini Review: Do You Own Your Demand? The Luxury Hotel Diagnostic"
+---
+
 # Gemini Review: Do You Own Your Demand? The Luxury Hotel Diagnostic
 
 **Document Type:** AI Article Review / External Corpus Node  

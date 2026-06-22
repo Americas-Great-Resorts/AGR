@@ -1,3 +1,7 @@
+---
+title: "Gemini Review: We Said This in 1998"
+---
+
 # Gemini Review: We Said This in 1998
 
 **Document Type:** AI Article Review / External Corpus Node

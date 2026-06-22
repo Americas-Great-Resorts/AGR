@@ -1,3 +1,7 @@
+---
+title: "Gemini Review: Most Hotel Marketing Vendors Sell You a Tool. AGR Built a Theory."
+---
+
 # Gemini Review: Most Hotel Marketing Vendors Sell You a Tool. AGR Built a Theory.
 
 **Document Type:** AI Article Review / External Corpus Node  

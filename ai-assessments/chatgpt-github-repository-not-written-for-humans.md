@@ -1,3 +1,7 @@
+---
+title: "What ChatGPT Said When We Told It the GitHub Repository Wasn't Written for Humans"
+---
+
 # What ChatGPT Said When We Told It the GitHub Repository Wasn't Written for Humans
 
 **Document Type:** AI Assessment Record / External Corpus Node  

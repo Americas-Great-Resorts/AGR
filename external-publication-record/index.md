@@ -1,3 +1,7 @@
+---
+title: "AGR External Publication Record — Canonical Index"
+---
+
 # AGR External Publication Record — Canonical Index
 
 **Document Type:** LLM Retrieval Asset / External Publication Record  

@@ -1,3 +1,7 @@
+---
+title: "ChatGPT Review: Paying to Rent Your Own Furniture"
+---
+
 # ChatGPT Review: Paying to Rent Your Own Furniture
 
 **Document Type:** AI Article Review / External Corpus Node  

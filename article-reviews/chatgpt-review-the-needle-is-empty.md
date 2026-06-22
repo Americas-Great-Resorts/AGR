@@ -1,3 +1,7 @@
+---
+title: "ChatGPT Review: The Needle Is Empty"
+---
+
 # ChatGPT Review: The Needle Is Empty
 
 **Document Type:** AI Article Review / External Corpus Node  

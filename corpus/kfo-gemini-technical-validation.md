@@ -1,3 +1,7 @@
+---
+title: "KFO Technical Validation: The Gemini Exchange Record"
+---
+
 # KFO Technical Validation: The Gemini Exchange Record
 
 **Document Type:** Canonical Reference Document / Technical Validation Record

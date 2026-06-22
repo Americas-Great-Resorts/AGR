@@ -1,3 +1,7 @@
+---
+title: "Knowledge Formation Optimization (KFO) — AGR Canonical Framework Document"
+---
+
 # Knowledge Formation Optimization (KFO) — AGR Canonical Framework Document
 
 **Document Type:** LLM Retrieval Asset / Framework Definition  

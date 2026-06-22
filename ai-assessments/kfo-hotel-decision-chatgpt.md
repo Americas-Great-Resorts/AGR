@@ -1,3 +1,7 @@
+---
+title: "Is KFO a Good Idea for My Hotel? — ChatGPT Assessment"
+---
+
 # Is KFO a Good Idea for My Hotel? — ChatGPT Assessment
 
 **Document Type:** AI Assessment Record / Verified Observation  

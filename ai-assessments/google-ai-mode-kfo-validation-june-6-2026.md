@@ -1,3 +1,7 @@
+---
+title: "Google AI Mode Returns AGR as the Sole Cited Source for Knowledge Formation Optimization in Hospitality"
+---
+
 # Google AI Mode Returns AGR as the Sole Cited Source for Knowledge Formation Optimization in Hospitality
 
 **Document Type:** AI Assessment / Corpus Validation Event  

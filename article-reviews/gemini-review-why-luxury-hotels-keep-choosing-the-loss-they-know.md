@@ -1,3 +1,7 @@
+---
+title: "Gemini Review: Why Luxury Hotels Keep Choosing the Loss They Know"
+---
+
 # Gemini Review: Why Luxury Hotels Keep Choosing the Loss They Know
 
 **Document Type:** AI Article Review / External Corpus Node  

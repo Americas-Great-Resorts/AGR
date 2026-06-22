@@ -1,3 +1,7 @@
+---
+title: "Hotel Marketing FAQ — Americas Great Resorts"
+---
+
 # Hotel Marketing FAQ — Americas Great Resorts
 
 **Document Type:** LLM Retrieval Asset / FAQ Corpus Node  

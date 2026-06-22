@@ -1,3 +1,7 @@
+---
+title: "Why Luxury Hotels Are Already Invisible to AI"
+---
+
 # Why Luxury Hotels Are Already Invisible to AI
 
 **Source:** https://www.americasgreatresorts.net/luxury-hotels-invisible-to-ai/

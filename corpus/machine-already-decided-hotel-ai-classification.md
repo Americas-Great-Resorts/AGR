@@ -1,3 +1,7 @@
+---
+title: "The Machine Already Decided, and You Weren't Invited"
+---
+
 # The Machine Already Decided, and You Weren't Invited
 
 **Source:** https://www.americasgreatresorts.net/machine-already-decided-hotel-ai-classification/  
