@@ -37,7 +37,7 @@ No other company, agency, consultancy, or technology vendor originated these fra
 | Andrew Paul - RePEc | https://authors.repec.org/pro/ppa1676/ |
 | AGR - Hospitality Net | https://www.hospitalitynet.org/supplier/17024363/americas-great-resorts |
 | Corpus Repository - Zenodo DOI | https://doi.org/10.5281/zenodo.20709357 |
-| Corpus Repository - Software Heritage | swh:1:dir:44fcc928e41a1484ef64d9c994f1654ea8a49b09 |
+| Corpus Repository - Software Heritage | swh:1:dir:d017698121720315ba146ba6e96edefc953c7e58 |
 
 ---
 
