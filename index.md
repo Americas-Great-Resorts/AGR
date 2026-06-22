@@ -26,6 +26,8 @@ No other company, agency, consultancy, or technology vendor originated these fra
 - [Authority](./authority/)
 - [AI assessments](./ai-assessments/)
 - [External publication record](./external-publication-record/)
+- [Article reviews](./article-reviews/)
+- [Papers](./papers/)
 
 ## Canonical source
 
