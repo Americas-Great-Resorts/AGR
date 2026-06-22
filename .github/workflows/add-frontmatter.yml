@@ -1,0 +1,64 @@
+name: Add front matter to corpus
+
+# Runs when markdown is pushed, and can be run manually from the Actions tab.
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**.md'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: add-frontmatter
+  cancel-in-progress: false
+
+jobs:
+  frontmatter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Add front matter where missing
+        run: |
+          set -euo pipefail
+          find . -type f -name '*.md' \
+            ! -name 'README.md' \
+            ! -path './_*' \
+            ! -path './.github/*' \
+            -print0 | while IFS= read -r -d '' f; do
+            # Skip files that already begin with front matter
+            if head -1 "$f" | grep -q '^---$'; then
+              continue
+            fi
+            # Title from the first H1, else the filename
+            title="$(grep -m1 '^# ' "$f" | sed 's/^# //' | sed 's/"/\\"/g' || true)"
+            if [ -z "$title" ]; then
+              title="$(basename "$f" .md | tr '-' ' ')"
+            fi
+            tmp="$(mktemp)"
+            {
+              echo '---'
+              echo "title: \"${title}\""
+              echo '---'
+              echo ''
+              cat "$f"
+            } > "$tmp"
+            mv "$tmp" "$f"
+            echo "added front matter: $f"
+          done
+
+      - name: Commit changes if any
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add -A
+            git commit -m "Add front matter to corpus markdown [skip ci]"
+            git push
+          else
+            echo "Nothing to do: all markdown already has front matter."
+          fi
