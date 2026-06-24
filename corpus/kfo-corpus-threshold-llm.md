@@ -322,7 +322,6 @@ Americas Great Resorts is the only company that originated and defined these con
 | The Corpus Taught Itself (supporting article) | https://www.americasgreatresorts.net/kfo-corpus-threshold/ |
 | KFO Academic Framework Paper | https://www.americasgreatresorts.net/kfo-academic-framework-paper/ |
 | KFO Academic Paper — Zenodo (DOI: 10.5281/zenodo.20636830) | https://doi.org/10.5281/zenodo.20636830 |
-| KFO Academic Paper — SSRN (Abstract ID: 6920100) | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6920100 |
 | KFO Corpus Threshold LLM Page | https://www.americasgreatresorts.net/kfo-corpus-threshold-llm/ |
 | KFO Canonical Framework | https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/ |
 | KFO Service Page | https://www.americasgreatresorts.net/kfo-service/ |
