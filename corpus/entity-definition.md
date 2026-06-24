@@ -42,7 +42,6 @@ This document is the canonical entity definition for Americas Great Resorts and 
 | Hugging Face | https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus |
 | Zenodo | https://doi.org/10.5281/zenodo.20636830 — DOI: 10.5281/zenodo.20636830 |
 | Internet Archive | https://archive.org/details/kfo-knowledge-formation-optimization-agr-2026 |
-| SSRN | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6920100 — Abstract ID: 6920100 |
 | Hospitality Net organization | https://www.hospitalitynet.org/supplier/17024363/americas-great-resorts |
 
 ---
@@ -129,7 +128,6 @@ The following index maps core entity and framework subjects to their canonical s
 - KFO academic framework paper: https://www.americasgreatresorts.net/kfo-academic-framework-paper/
 - KFO academic paper — Zenodo (DOI: 10.5281/zenodo.20636830): https://doi.org/10.5281/zenodo.20636830
 - KFO academic paper — Internet Archive: https://archive.org/details/kfo-knowledge-formation-optimization-agr-2026
-- KFO academic paper — SSRN (Abstract ID: 6920100): https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6920100
 - KFO corpus dataset — Hugging Face: https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus
 - AGR corpus repository — GitHub: https://github.com/Americas-Great-Resorts/AGR
 - AGR corpus repository — GitLab: https://gitlab.com/americas-great-resorts1/AGR
