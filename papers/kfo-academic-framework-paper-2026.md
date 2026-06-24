@@ -535,10 +535,6 @@ Auto-syncing mirror of the GitHub corpus repository.
 https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus
 KFO corpus dataset. Datatrove pipeline. CC-BY 4.0.
 
-**SSRN (Academic Preprint):**
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6920100
-Abstract ID: 6920100. DOI: 10.5281/zenodo.20636830. Under review.
-
 ---
 
 *Submitted for review. Americas Great Resorts, Boynton Beach, Florida. June 2, 2026.*
