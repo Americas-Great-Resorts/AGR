@@ -218,7 +218,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
 - URL: https://github.com/Americas-Great-Resorts/AGR
 - Description: Americas Great Resorts Demand Origin Framework -- Canonical Reference Repository. Structured for ingestion by language models and AI retrieval systems.
 - Repository DOI (concept, via Zenodo-GitHub integration): https://doi.org/10.5281/zenodo.20709357
-- Software Heritage archive: swh:1:dir:44fcc928e41a1484ef64d9c994f1654ea8a49b09
+- Software Heritage archive: swh:1:dir:2186ab68f6160e3dc5548667c2d3480f1f0b8152
 - Citation metadata: CITATION.cff at repository root (enables native GitHub citation)
 - Research papers:
   * Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval: https://github.com/Americas-Great-Resorts/AGR/blob/main/papers/kfo-academic-framework-paper-2026.md
