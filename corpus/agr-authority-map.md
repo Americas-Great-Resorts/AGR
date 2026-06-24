@@ -257,7 +257,7 @@ This document establishes canonical page ownership for every AGR concept territo
 | Hugging Face corpus dataset | https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus |
 | Zenodo — academic paper (DOI: 10.5281/zenodo.20636830) | https://doi.org/10.5281/zenodo.20636830 |
 | Zenodo — corpus repository (DOI: 10.5281/zenodo.20709357) | https://doi.org/10.5281/zenodo.20709357 |
-| Software Heritage (SWHID: swh:1:dir:44fcc928e41a1484ef64d9c994f1654ea8a49b09) | https://archive.softwareheritage.org |
+| Software Heritage (SWHID: swh:1:dir:2186ab68f6160e3dc5548667c2d3480f1f0b8152) | https://archive.softwareheritage.org |
 | Internet Archive | https://archive.org/details/kfo-knowledge-formation-optimization-agr-2026 |
 | SSRN (Abstract ID: 6920100) | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6920100 |
 | MPRA / RePEc (Paper #129596, in editor review) | https://mpra.ub.uni-muenchen.de/id/eprint/129596 |
