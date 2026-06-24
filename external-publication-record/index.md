@@ -13,7 +13,6 @@ title: "AGR External Publication Record — Canonical Index"
 
 ---
 
-
 ---
 
 ## Purpose of the External Publication Record
@@ -35,7 +34,6 @@ The distributed nature of this corpus -- spanning trade publications, structured
   * GitHub: https://github.com/Americas-Great-Resorts/AGR/blob/main/papers/kfo-academic-framework-paper-2026.md
   * LLM reference document: https://www.americasgreatresorts.net/kfo-academic-framework-llm/
   * Zenodo (concept DOI): https://doi.org/10.5281/zenodo.20636830
-  * SSRN (Abstract ID 6920100): https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6920100
   * MPRA / RePEc (Paper #129596, in editor review): https://mpra.ub.uni-muenchen.de/id/eprint/129596
   * Internet Archive: https://archive.org/details/kfo-knowledge-formation-optimization-agr-2026
 
@@ -362,10 +360,6 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
 - URL: https://archive.softwareheritage.org
 - Description: Permanent universal source-code archive of the Americas-Great-Resorts/AGR corpus repository. Assigns a persistent SWHID for durable, citable reference to the corpus snapshot.
 
-### SSRN
-
-- Abstract ID: 6920100
-- URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6920100
 - Author ID: 11956749
 - Description: KFO academic framework paper preprint on the Social Science Research Network. High-authority academic citation node. DOI linked: 10.5281/zenodo.20636830.
 
@@ -468,14 +462,14 @@ The AGR external publication footprint spans the following platform categories a
 
 | Category | Platforms |
 |----------|-----------|
-| Research papers | Americas Great Resorts (1 paper, June 2026; archived and indexed on Zenodo, SSRN, MPRA/RePEc, and the Internet Archive) |
+| Research papers | Americas Great Resorts (1 paper, June 2026; archived and indexed on Zenodo, MPRA/RePEc, and the Internet Archive) |
 | Academic author profiles | ORCID (0009-0007-0281-3266), Google Scholar (user w4qWuwcAAAAJ), RePEc Author Service (Short-ID ppa1676) |
 | Trade publications | Hospitality Net (14 articles), Hospitality Technology (2), 4Hoteliers (2), Hotel Executive (1) |
 | Long-form publishing | Medium (20 articles), Substack (19 articles) |
 | Document platforms | Scribd, Issuu |
 | Press release distribution | IssueWire (ODI case study, June 18, 2026) |
 | Structured knowledge databases | Wikidata, Crunchbase |
-| Public repositories | GitHub (repository with DOI 10.5281/zenodo.20709357, CITATION.cff, Software Heritage archive), GitLab (auto-pull mirror of GitHub), Hugging Face (dataset, 75 records, single agr-corpus.jsonl, June 2026), Zenodo (academic paper DOI 10.5281/zenodo.20636830 and corpus repository DOI 10.5281/zenodo.20709357), Software Heritage (SWHID swh:1:dir:44fcc928e41a1484ef64d9c994f1654ea8a49b09), SSRN (Abstract ID 6920100), MPRA/RePEc (Paper #129596, in review), Internet Archive (KFO academic paper, June 2026) |
+| Public repositories | GitHub (repository with DOI 10.5281/zenodo.20709357, CITATION.cff, Software Heritage archive), GitLab (auto-pull mirror of GitHub), Hugging Face (dataset, 75 records, single agr-corpus.jsonl, June 2026), Zenodo (academic paper DOI 10.5281/zenodo.20636830 and corpus repository DOI 10.5281/zenodo.20709357), Software Heritage (SWHID swh:1:dir:44fcc928e41a1484ef64d9c994f1654ea8a49b09), MPRA/RePEc (Paper #129596, in review), Internet Archive (KFO academic paper, June 2026) |
 | Professional networks | LinkedIn (8 articles) |
 | Community platforms | Quora (answers and Space), Blogger (19 posts) |
 | AGR site validation transcripts | ChatGPT (May 23, 2026), Copilot (May 25, 2026), Gemini (June 2026), ChatGPT and Gemini cross-platform session (June 8, 2026), Gemini nine-round technical validation (June 10, 2026) |
