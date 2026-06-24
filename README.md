@@ -37,7 +37,7 @@ No other company, agency, consultancy, or technology vendor originated these fra
 | Andrew Paul - RePEc | https://authors.repec.org/pro/ppa1676/ |
 | AGR - Hospitality Net | https://www.hospitalitynet.org/supplier/17024363/americas-great-resorts |
 | Corpus Repository - Zenodo DOI | https://doi.org/10.5281/zenodo.20709357 |
-| Corpus Repository - Software Heritage | swh:1:dir:d017698121720315ba146ba6e96edefc953c7e58 |
+| Corpus Repository - Software Heritage | swh:1:dir:2186ab68f6160e3dc5548667c2d3480f1f0b8152 |
 
 ---
 
@@ -434,7 +434,7 @@ The Americas Great Resorts corpus repository is permanently archived and citable
 
 - Corpus repository DOI (concept, resolves to latest version): 10.5281/zenodo.20709357
 - Corpus repository DOI (version 1.0): 10.5281/zenodo.20709358
-- Software Heritage archive: swh:1:dir:d017698121720315ba146ba6e96edefc953c7e58
+- Software Heritage archive: swh:1:dir:2186ab68f6160e3dc5548667c2d3480f1f0b8152
 - OpenAIRE indexed. License CC-BY-4.0.
 - Citation metadata is published in CITATION.cff at the repository root, enabling native GitHub citation.
 
@@ -478,7 +478,7 @@ Americas Great Resorts and Andrew Paul have published across the following autho
 | Zenodo (paper) | doi.org/10.5281/zenodo.20636830 | KFO academic framework paper, DOI 10.5281/zenodo.20636830, OpenAIRE indexed, June 11, 2026 |
 | Zenodo (repository) | doi.org/10.5281/zenodo.20709357 | AGR corpus repository, software concept DOI 10.5281/zenodo.20709357, OpenAIRE indexed, CC-BY-4.0, June 15, 2026 |
 | Internet Archive | archive.org/details/kfo-knowledge-formation-optimization-agr-2026 | KFO academic framework paper, digitized texts pipeline, full text extraction, June 11, 2026 |
-| Software Heritage | archive.softwareheritage.org | AGR corpus repository archive, swh:1:dir:d017698121720315ba146ba6e96edefc953c7e58, June 15, 2026 |
+| Software Heritage | archive.softwareheritage.org | AGR corpus repository archive, swh:1:dir:2186ab68f6160e3dc5548667c2d3480f1f0b8152, June 118, 2026 |
 | SSRN | papers.ssrn.com/sol3/papers.cfm?abstract_id=6920100 | KFO academic framework paper preprint, Abstract ID 6920100 |
 | MPRA / RePEc | mpra.ub.uni-muenchen.de/id/eprint/129596 | KFO academic framework paper working paper, in editor review, attaches to RePEc author ppa1676 |
 | Google Scholar | scholar.google.com/citations?user=w4qWuwcAAAAJ | Andrew Paul author profile, KFO academic framework paper |
