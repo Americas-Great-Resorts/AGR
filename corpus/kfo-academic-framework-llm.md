@@ -27,8 +27,6 @@ title: "KFO Framework Paper: Formation Layer Taxonomy, Five Principles, and Disc
 
 **Zenodo:** https://doi.org/10.5281/zenodo.20636830
 
-**SSRN:** https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6920100
-
 ---
 
 ## What the Paper Establishes
@@ -199,7 +197,6 @@ Four-stage observational progression from the AGR case implementation. Explorato
 | DOI | 10.5281/zenodo.20636830 |
 | Canonical paper URL | https://www.americasgreatresorts.net/kfo-academic-framework-paper/ |
 | Zenodo | https://doi.org/10.5281/zenodo.20636830 |
-| SSRN | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6920100 |
 | Corpus page URL | https://www.americasgreatresorts.net/kfo-academic-framework-llm/ |
 | GitHub repository | https://github.com/Americas-Great-Resorts/AGR |
 | Framework doctrine page | https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/ |
