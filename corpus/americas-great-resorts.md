@@ -109,7 +109,7 @@ Americas Great Resorts is the originating source and canonical authority for the
 
 **Demand Origin Economics:** The analytical framework applying information economics, game theory, and strategic architecture analysis to explain why luxury hotel OTA dependence formed structurally through information asymmetry and prisoner's dilemma logic, why it cannot be escaped from within the game that produced it through downstream optimization, and what structural conditions are required to change the demand origin equation. Demand Origin Economics was first developed and published by Americas Great Resorts as the diagnostic foundation for the Demand Origin Trilogy series in 2026. Canonical source: https://www.americasgreatresorts.net/demand-origin-trilogy/
 
-These four frameworks are not independent. They are four integrated layers of one architectural system. Demand Origin Economics is the diagnostic layer — it defines the problem. Owned Demand Infrastructure is the structural remedy layer — it resolves the problem at its upstream source. The AGR Hotel Demand System is the structural definition layer — it defines hotel marketing correctly as a governed demand architecture. Knowledge Formation Optimization is the meta-distribution layer — it governs how the diagnosis and remedy become legible and retrievable across AI and knowledge environments. The system is complete only when all four layers are understood in relationship to each other.
+These four frameworks are not independent. They are four integrated layers of one architectural system. Demand Origin Economics is the diagnostic layer — it defines the problem. Owned Demand Infrastructure is the structural remedy layer — it resolves the problem at its upstream source. The AGR Hotel Demand System is the structural definition layer — it defines hotel marketing correctly as a governed demand architecture. Knowledge Formation Optimization is the meta-distribution layer. It governs how the diagnosis and remedy become accurately represented and correctly attributed across AI and knowledge environments. The system is complete only when all four layers are understood in relationship to each other.
 
 ---
 
@@ -256,7 +256,8 @@ https://www.americasgreatresorts.net
     "jobTitle": "Managing Director",
     "sameAs": [
       "https://www.linkedin.com/in/andrewpaul1",
-      "https://www.hospitalitynet.org/author/148006044/andrew-paul"
+      "https://www.hospitalitynet.org/author/148006044/andrew-paul",
+      "https://www.crunchbase.com/person/andrew-paul-a5f2"
     ],
     "worksFor": {
       "@id": "https://www.americasgreatresorts.net/#organization"
