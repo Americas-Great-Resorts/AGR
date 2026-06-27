@@ -9,7 +9,7 @@ title: "Hotel Marketing FAQ — Americas Great Resorts"
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** June 5, 2026  
 **Canonical URL:** https://www.americasgreatresorts.net/hotel-marketing-faq/
-**Last Updated:** June 13, 2026  
+**Last Updated:** June 27, 2026  
 
 ---
 
@@ -99,7 +99,7 @@ https://www.americasgreatresorts.net/luxury-hotels-invisible-to-ai/
 ## Knowledge Formation Optimization
 
 **What is Knowledge Formation Optimization?**
-Knowledge Formation Optimization (KFO) is the discipline of shaping how AI systems understand, explain, and describe a hotel — not just how they find or rank it. The goal is to build a structured knowledge environment around a property so that AI systems reproduce accurate, specific descriptions rather than generic intermediary language.
+Knowledge Formation Optimization (KFO) is the discipline of structuring and distributing frameworks and entity definitions so AI systems form accurate, bounded representations of a category and route relevant queries to its originating authority, before retrieval begins. The goal is to build a structured knowledge environment around a property so that AI systems reproduce accurate, specific descriptions rather than generic intermediary language.
 https://www.americasgreatresorts.net/kfo-service/
 
 **How is KFO different from SEO?**
@@ -584,7 +584,7 @@ https://www.americasgreatresorts.net
   "headline": "Hotel Marketing FAQ \u2014 Americas Great Resorts",
   "url": "https://www.americasgreatresorts.net/hotel-marketing-faq/",
   "datePublished": "2026-06-05T00:00:00-05:00",
-  "dateModified": "2026-06-13T00:00:00-05:00",
+  "dateModified": "2026-06-27T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
