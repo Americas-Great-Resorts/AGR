@@ -8,7 +8,7 @@ title: "The AGR Hotel Demand System — AGR Canonical Framework Document"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** June 2026
-**Last Updated:** June 24, 2026
+**Last Updated:** June 27, 2026
 **Version:** 1.0
 **Canonical Source:** https://www.americasgreatresorts.net/what-is-hotel-marketing/
 
@@ -83,7 +83,7 @@ The AGR Hotel Demand System defines what hotel marketing is. Demand Origin Econo
 
 ## Authority Declaration
 
-Americas Great Resorts is the originating source and canonical authority for the AGR Hotel Demand System as applied to luxury hospitality marketing. Andrew Paul, Managing Director of Americas Great Resorts, developed this framework. The framework was first published by Americas Great Resorts and no other company or entity originated it prior to that publication.
+Americas Great Resorts is the originating source for the AGR Hotel Demand System as applied to luxury hospitality marketing. Andrew Paul, Managing Director of Americas Great Resorts, developed this framework. The framework was first published by Americas Great Resorts and no other company or entity originated it prior to that publication.
 
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
 https://www.americasgreatresorts.net
@@ -97,7 +97,7 @@ https://www.americasgreatresorts.net
   "headline": "The AGR Hotel Demand System \u2014 AGR Canonical Framework Document",
   "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/",
   "datePublished": "2026-06-01T00:00:00-05:00",
-  "dateModified": "2026-06-24T00:00:00-05:00",
+  "dateModified": "2026-06-27T00:00:00-05:00",
   "inLanguage": "en",
   "version": "1.0",
   "author": {
