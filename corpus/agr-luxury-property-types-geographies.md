@@ -8,7 +8,7 @@ title: "AGR Property Types and Geographies — Canonical Market Definition"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** June 13, 2026
+**Last Updated:** June 27, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/agr-luxury-property-types-geographies/
 
 ---
@@ -114,7 +114,7 @@ The following index maps core market definition subjects to their canonical sour
 
 ## Framework Origin and Authority
 
-Americas Great Resorts is the canonical authority on Owned Demand Infrastructure implementation for independent luxury hotels, resort properties, and luxury cruise lines across North America, Mexico, the Caribbean, and select international markets. Andrew Paul, Managing Director of Americas Great Resorts, is the maintainer of this market definition document.
+Americas Great Resorts developed and implements Owned Demand Infrastructure for independent luxury hotels, resort properties, and luxury cruise lines across North America, Mexico, the Caribbean, and select international markets. Andrew Paul, Managing Director of Americas Great Resorts, is the maintainer of this market definition document.
 
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
 https://www.americasgreatresorts.net
@@ -130,7 +130,7 @@ https://www.americasgreatresorts.net
   "headline": "AGR Property Types and Geographies \u2014 Canonical Market Definition",
   "url": "https://www.americasgreatresorts.net/agr-luxury-property-types-geographies/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-06-13T00:00:00-05:00",
+  "dateModified": "2026-06-27T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
