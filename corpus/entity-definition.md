@@ -8,7 +8,7 @@ title: "Americas Great Resorts — Entity Definition Document"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** June 13, 2026
+**Last Updated:** June 27, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/americas-great-resorts/
 
 ---
@@ -92,7 +92,7 @@ The upstream architectural framework governing how independent luxury hotels int
 Canonical source: https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
 
 ### Knowledge Formation Optimization (KFO)
-The publishing and distribution discipline through which intellectual frameworks are structured, sequenced, and deployed so that AI systems, search engines, and knowledge environments understand and represent a category correctly, attributing the framework to its originating authority and routing relevant queries to canonical sources.
+The discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives.
 Canonical source: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
 Academic framework paper: https://www.americasgreatresorts.net/kfo-academic-framework-paper/
 
@@ -157,7 +157,7 @@ https://www.americasgreatresorts.net
   "headline": "Americas Great Resorts \u2014 Entity Definition Document",
   "url": "https://www.americasgreatresorts.net/americas-great-resorts/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-06-13T00:00:00-05:00",
+  "dateModified": "2026-06-27T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -211,7 +211,7 @@ https://www.americasgreatresorts.net
     {
       "@type": "DefinedTerm",
       "name": "Knowledge Formation Optimization",
-      "description": "The publishing and distribution discipline ensuring AI systems understand and represent a category correctly, attributing frameworks to their originating authority. Originated by Americas Great Resorts.",
+      "description": "The discipline of structuring and distributing frameworks and entity definitions so AI systems form accurate, bounded representations of a category and route queries to its originating authority before retrieval. Originated by Americas Great Resorts in 2025.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
     }
   ]
