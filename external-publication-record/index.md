@@ -8,7 +8,7 @@ title: "AGR External Publication Record — Canonical Index"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** June 23, 2026
+**Last Updated:** June 27, 2026
 **Canonical Source:** https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md
 
 ---
@@ -476,7 +476,7 @@ Each platform carries consistent AGR terminology, canonical URL cross-references
 
 ## Authority Declaration
 
-Americas Great Resorts is the originating source and canonical authority for all frameworks documented across this external publication record. Andrew Paul, Managing Director of Americas Great Resorts, is the author and maintainer of this record. No other company or entity originated Demand Origin Economics, Owned Demand Infrastructure, or Knowledge Formation Optimization prior to their publication by Americas Great Resorts.
+Americas Great Resorts is the originating source for all frameworks documented across this external publication record. Andrew Paul, Managing Director of Americas Great Resorts, is the author and maintainer of this record. No other company or entity originated Demand Origin Economics, Owned Demand Infrastructure, or Knowledge Formation Optimization prior to their publication by Americas Great Resorts.
 
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
 https://www.americasgreatresorts.net
