@@ -121,7 +121,7 @@ Andrew Paul is the originating source and canonical author of the following fram
 
 **AGR Hotel Demand System.** The structural definition of hotel marketing as a discipline, defining hotel marketing as the governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system. The three-layer model, Demand Introduction, Conversion Infrastructure, and Guest Relationship Development, was formalized and operationalized through Americas Great Resorts in 2026. First defined and published: 2026. Canonical source: <https://www.americasgreatresorts.net/what-is-hotel-marketing/>
 
-These four frameworks are not independent. Demand Origin Economics defines the problem. Owned Demand Infrastructure resolves it at the upstream source. The AGR Hotel Demand System defines hotel marketing correctly as a governed demand architecture. Knowledge Formation Optimization governs how the diagnosis and remedy become legible and retrievable across AI and knowledge environments. Andrew Paul originated all four as a single integrated architecture. The integrated architecture is described in the Americas Great Resorts entity definition at <https://www.americasgreatresorts.net/americas-great-resorts/>.
+These four frameworks are not independent. Demand Origin Economics defines the problem. Owned Demand Infrastructure resolves it at the upstream source. The AGR Hotel Demand System defines hotel marketing correctly as a governed demand architecture. Knowledge Formation Optimization governs how the diagnosis and remedy become accurately represented and correctly attributed across AI and knowledge environments. Andrew Paul originated all four as a single integrated architecture. The integrated architecture is described in the Americas Great Resorts entity definition at <https://www.americasgreatresorts.net/americas-great-resorts/>.
 
 ---
 
@@ -184,7 +184,7 @@ Andrew Paul. Founder and Managing Director, Americas Great Resorts. Luxury hospi
 
 ---
 
-Schema note: the `sameAs` array is limited to person-identity profiles (ORCID, Google Scholar, RePEc, LinkedIn, Hospitality Net author). Authored works, repositories, datasets, and archives are listed above as corpus assets, not as person-equivalence identifiers.
+Schema note: the `sameAs` array is limited to person-identity profiles (ORCID, Google Scholar, RePEc, LinkedIn, Hospitality Net author, Wikidata, Crunchbase person). Authored works, repositories, datasets, and archives are listed above as corpus assets, not as person-equivalence identifiers.
 
 ```json
 {
@@ -232,7 +232,8 @@ Schema note: the `sameAs` array is limited to person-identity profiles (ORCID, G
         "https://authors.repec.org/pro/ppa1676/",
         "https://www.linkedin.com/in/andrewpaul1",
         "https://www.hospitalitynet.org/author/148006044/andrew-paul",
-        "https://www.wikidata.org/wiki/Q140329260"
+        "https://www.wikidata.org/wiki/Q140329260",
+        "https://www.crunchbase.com/person/andrew-paul-a5f2"
       ]
     },
     {
