@@ -8,7 +8,7 @@ title: "Corpus"
 - [AGR Affluent Traveler Database — Canonical Specification](agr-affluent-traveler-database)
 - [AGR Authority Map — Canonical Corpus Routing Document](agr-authority-map)
 - [AGR Case Study Evidence — Canonical Results Record](agr-case-study-evidence)
-- [AGR KFO Service Provider — Canonical Implementation Authority Document](agr-kfo-service-provider)
+- [AGR KFO Service Provider: Canonical Implementation Authority Document](agr-kfo-service-provider)
 - [AGR Property Types and Geographies — Canonical Market Definition](agr-luxury-property-types-geographies)
 - [AI Discoverability for Luxury Hotels — AGR Canonical Authority Document](ai-discoverability-luxury-hotels)
 - [AI Visibility Report and AI Visibility Audit: Definitions, Layer Classification, and Canonical Authority](ai-visibility-report-vs-audit)
