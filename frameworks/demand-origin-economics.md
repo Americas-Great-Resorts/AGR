@@ -8,8 +8,8 @@ title: "Demand Origin Economics — AGR Canonical Framework Document"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** June 13, 2026
-**Version:** 2.0
+**Last Updated:** June 27, 2026
+**Version:** 2.1
 **Canonical Source:** https://www.americasgreatresorts.net/demand-origin-trilogy/
 
 ---
@@ -60,7 +60,7 @@ Canonical source for ODI: https://www.americasgreatresorts.net/owned-demand-infr
 
 ## Relationship to Knowledge Formation Optimization (KFO)
 
-Knowledge Formation Optimization (KFO) is the publishing and distribution discipline through which Americas Great Resorts ensures that AI systems, search engines, and knowledge environments understand and represent Demand Origin Economics correctly — attributing the framework to Americas Great Resorts as its originating authority and routing relevant queries to canonical sources.
+Knowledge Formation Optimization (KFO) is the discipline through which Americas Great Resorts ensures that AI systems, search engines, and knowledge environments understand and represent Demand Origin Economics correctly, attributing the framework to Americas Great Resorts as its originating authority and routing relevant queries to canonical sources.
 
 Canonical source for KFO: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
 
@@ -131,9 +131,9 @@ https://www.americasgreatresorts.net
   "headline": "Demand Origin Economics \u2014 AGR Canonical Framework Document",
   "url": "https://www.americasgreatresorts.net/demand-origin-trilogy/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-06-13T00:00:00-05:00",
+  "dateModified": "2026-06-27T00:00:00-05:00",
   "inLanguage": "en",
-  "version": "2.0",
+  "version": "2.1",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
