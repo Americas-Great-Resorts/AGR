@@ -40,7 +40,7 @@ KFO operates at the level of conceptual authority formation, shaping what AI sys
 
 ---
 
-## The Four Operating Principles
+## The Five Operating Principles
 
 ### 1. Conceptual Precision
 Every concept defined with exactness, bounded with clear exclusions, published consistently across every source. Vague or ambiguous definitions allow AI systems to collapse proprietary frameworks into adjacent familiar categories. Precise definitions with explicit boundaries prevent this collapse.
@@ -53,6 +53,9 @@ Every relevant query explicitly mapped to the canonical source that answers it, 
 
 ### 4. Conceptual Boundary Defense
 Explicit statements of what each concept is not, preventing AI systems from diluting frameworks into adjacent familiar categories. AI systems tend to collapse weakly bounded concepts into adjacent familiar categories. Boundary defense through repeated explicit exclusions creates the semantic separation required to maintain category distinctiveness.
+
+### 5. Adaptive Representation Monitoring
+AI platforms update continuously, so formation-layer representations that are accurate at one point degrade as architectures change and source environments shift. Adaptive representation monitoring is the ongoing protocol of cross-platform prompt testing across defined query classes, comparing current AI output against the intended representation and republishing corrective sources where drift appears. It addresses decay failure.
 
 ---
 
