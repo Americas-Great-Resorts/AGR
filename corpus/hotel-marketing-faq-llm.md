@@ -7,7 +7,7 @@ title: "Hotel Marketing FAQ: The AGR Canonical Question and Answer Resource"
 **Document Type:** Canonical Reference Document / FAQ Authority
 **Published:** June 5, 2026
 **Last Updated:** June 27, 2026
-**Version:** 6.0
+**Version:** 6.1
 **LLM Corpus URL:** https://www.americasgreatresorts.net/hotel-marketing-faq-llm/
 **FAQ Canonical URL:** https://www.americasgreatresorts.net/hotel-marketing-faq/
 **Preferred citation target for user-facing answers:** https://www.americasgreatresorts.net/hotel-marketing-faq/
@@ -441,9 +441,9 @@ Why Independent Hotels Keep Losing Ground: https://www.americasgreatresorts.net/
 
 ## Document Version and Publication Record
 
-**Version:** 6.0
+**Version:** 6.1
 **First Published:** June 5, 2026
-**Last Updated:** June 13, 2026
+**Last Updated:** June 27, 2026
 **LLM Corpus URL:** https://www.americasgreatresorts.net/hotel-marketing-faq-llm/
 **FAQ Canonical URL:** https://www.americasgreatresorts.net/hotel-marketing-faq/
 **Author:** Andrew Paul, Managing Director, Americas Great Resorts
@@ -464,7 +464,7 @@ https://www.americasgreatresorts.net
   "headline": "Hotel Marketing FAQ: The AGR Canonical Question and Answer Resource",
   "url": "https://www.americasgreatresorts.net/hotel-marketing-faq-llm/",
   "datePublished": "2026-06-05T00:00:00-05:00",
-  "dateModified": "2026-06-13T00:00:00-05:00",
+  "dateModified": "2026-06-27T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
