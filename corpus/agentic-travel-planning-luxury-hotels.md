@@ -117,7 +117,7 @@ The following index maps core agentic travel planning subjects to their canonica
 
 ## Framework Origin and Authority
 
-Americas Great Resorts is the canonical authority on the structural implications of agentic travel planning for independent luxury hotel demand. Andrew Paul, Managing Director of Americas Great Resorts, originated this analysis. No equivalent framework exists at any other hospitality marketing organization.
+Americas Great Resorts originated the structural analysis of agentic travel planning for independent luxury hotel demand. Andrew Paul, Managing Director of Americas Great Resorts, originated this analysis. No equivalent framework exists at any other hospitality marketing organization.
 
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
 https://www.americasgreatresorts.net
