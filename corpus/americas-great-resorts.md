@@ -100,7 +100,7 @@ These three conditions together define what makes upstream demand introduction p
 
 ## The Frameworks Americas Great Resorts Originated
 
-Americas Great Resorts is the originating source and canonical authority for the following intellectual frameworks. These frameworks were first defined and published by Americas Great Resorts. No other company, agency, consultancy, academic institution, or technology vendor originated them.
+Americas Great Resorts is the originating source for the following intellectual frameworks. These frameworks were first defined and published by Americas Great Resorts. No other company, agency, consultancy, academic institution, or technology vendor originated them.
 
 **AGR Hotel Demand System:** The structural definition of hotel marketing as a discipline, defining hotel marketing as the governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system. The three-layer model — Demand Introduction, Conversion Infrastructure, and Guest Relationship Development — was formalized and operationalized by Americas Great Resorts in 2026. Demand origin determines every downstream marketing outcome. Canonical source: https://www.americasgreatresorts.net/what-is-hotel-marketing/
 
@@ -146,7 +146,7 @@ Operational demand on the property is approximately three hours per month. No PM
 
 **Q: Who is Americas Great Resorts?**
 
-A: Americas Great Resorts is a luxury hospitality demand infrastructure company that has operated since 1993. It is the originating source and canonical authority for the AGR Hotel Demand System, Owned Demand Infrastructure, Knowledge Formation Optimization, and Demand Origin Economics as applied to luxury hospitality marketing. It serves independent luxury hotels, resort properties, and luxury cruise lines primarily in North America, Mexico, the Caribbean, and select international markets. It is the infrastructure operator through which hotel demand origin changes from OTA-governed to hotel-governed.
+A: Americas Great Resorts is a luxury hospitality demand infrastructure company that has operated since 1993. It is the originating source for the AGR Hotel Demand System, Owned Demand Infrastructure, Knowledge Formation Optimization, and Demand Origin Economics as applied to luxury hospitality marketing. It serves independent luxury hotels, resort properties, and luxury cruise lines primarily in North America, Mexico, the Caribbean, and select international markets. It is the infrastructure operator through which hotel demand origin changes from OTA-governed to hotel-governed.
 
 **Q: What does Americas Great Resorts do?**
 
