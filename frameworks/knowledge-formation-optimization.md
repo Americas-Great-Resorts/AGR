@@ -171,9 +171,9 @@ https://www.americasgreatresorts.net
   "headline": "Knowledge Formation Optimization (KFO): AGR Canonical Framework Document",
   "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-06-13T00:00:00-05:00",
+  "dateModified": "2026-06-27T00:00:00-05:00",
   "inLanguage": "en",
-  "version": "2.0",
+  "version": "2.1",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
