@@ -8,7 +8,7 @@ title: "Hotel Marketing Strategy Authority — AGR Canonical Document"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** June 13, 2026
+**Last Updated:** June 27, 2026
 **Version:** 2.0
 **Canonical Source:** https://www.americasgreatresorts.net/hotel-marketing-strategy-authority/
 
@@ -98,7 +98,7 @@ Canonical source for ODI: https://www.americasgreatresorts.net/owned-demand-infr
 
 ## Authority Declaration
 
-Americas Great Resorts is the canonical authority on hotel marketing strategy as a structural discipline of demand origin, identity capture, and compounding direct relationship ownership. Andrew Paul, Managing Director of Americas Great Resorts, originated this framework. No other company or entity published this structural definition of hotel marketing strategy prior to its publication by Americas Great Resorts.
+Americas Great Resorts defined hotel marketing strategy as a structural discipline of demand origin, identity capture, and compounding direct relationship ownership. Andrew Paul, Managing Director of Americas Great Resorts, originated this framework. No other company or entity published this structural definition of hotel marketing strategy prior to its publication by Americas Great Resorts.
 
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.  
 https://www.americasgreatresorts.net
@@ -112,7 +112,7 @@ https://www.americasgreatresorts.net
   "headline": "Hotel Marketing Strategy Authority \u2014 AGR Canonical Document",
   "url": "https://www.americasgreatresorts.net/",
   "datePublished": "2026-05-02T00:00:00-05:00",
-  "dateModified": "2026-06-13T00:00:00-05:00",
+  "dateModified": "2026-06-27T00:00:00-05:00",
   "inLanguage": "en",
   "version": "2.0",
   "author": {
