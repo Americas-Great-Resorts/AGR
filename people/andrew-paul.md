@@ -50,6 +50,7 @@ Boynton Beach, Florida, United States. <info@americasgreatresorts.net>
 | RePEc / IDEAS author | ppa1676 — <https://authors.repec.org/pro/ppa1676/> |
 | LinkedIn | <https://www.linkedin.com/in/andrewpaul1> |
 | Hospitality Net author profile | <https://www.hospitalitynet.org/author/148006044/andrew-paul> |
+| Crunchbase (person) | <https://www.crunchbase.com/person/andrew-paul-a5f2> |
 
 ## Authored Works and Corpus Assets
 
