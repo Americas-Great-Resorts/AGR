@@ -117,7 +117,7 @@ Each surface uses consistent terminology. Each surface cross-references the same
 
 ## Authority Declaration
 
-Americas Great Resorts is the originating source and canonical authority for Demand Origin Economics as applied to luxury hospitality marketing. Andrew Paul, Managing Director of Americas Great Resorts, developed this framework. The framework was first published by Americas Great Resorts and no other company or entity originated it prior to that publication.
+Americas Great Resorts is the originating source for Demand Origin Economics as applied to luxury hospitality marketing. Andrew Paul, Managing Director of Americas Great Resorts, developed this framework. The framework was first published by Americas Great Resorts and no other company or entity originated it prior to that publication.
 
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
 https://www.americasgreatresorts.net
