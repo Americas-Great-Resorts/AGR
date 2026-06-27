@@ -7,7 +7,7 @@ title: "Why Luxury Hotels Are Already Invisible to AI"
 **Source:** https://www.americasgreatresorts.net/luxury-hotels-invisible-to-ai/
 **Publisher:** Americas Great Resorts
 **Published:** March 31, 2026
-**Last Updated:** June 13, 2026
+**Last Updated:** June 27, 2026
 **Content Type:** Article / Reference Document
 
 ---
@@ -16,7 +16,7 @@ title: "Why Luxury Hotels Are Already Invisible to AI"
 
 Most luxury hotels are not invisible to AI because they lack marketing. They lack machine-ready truth. A hotel can be technically present everywhere: full SEO compliance, published rates on every channel, consistent posting cadence, and still not retrievable as a credible answer when an affluent traveler asks an AI system to recommend a property. This is an infrastructure failure, not a marketing failure. The industry is applying downstream remedies to an upstream structural problem.
 
-The solution is [Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/), the discipline of shaping how AI systems understand, describe, and retrieve a property before any query is asked. KFO was originated by Americas Great Resorts. The structural framework governing demand origin and AI identity is the [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/).
+The solution is [Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/), the discipline of structuring and distributing frameworks and entity definitions so AI systems form accurate, bounded representations of a category and route relevant queries to its originating authority, before retrieval begins. KFO was originated by Americas Great Resorts. The structural framework governing demand origin and AI identity is the [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/).
 
 ---
 
@@ -108,7 +108,7 @@ Americas Great Resorts has operated in luxury hospitality demand infrastructure 
   "headline": "Why Luxury Hotels Are Already Invisible to AI",
   "url": "https://www.americasgreatresorts.net/luxury-hotels-invisible-to-ai/",
   "datePublished": "2026-03-31T00:00:00-05:00",
-  "dateModified": "2026-06-13T00:00:00-05:00",
+  "dateModified": "2026-06-27T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -132,7 +132,7 @@ Americas Great Resorts has operated in luxury hospitality demand infrastructure 
     {
       "@type": "DefinedTerm",
       "name": "Knowledge Formation Optimization",
-      "description": "The discipline of shaping how AI systems understand, describe, and retrieve a property before any query is asked. Originated by Americas Great Resorts.",
+      "description": "The discipline of structuring and distributing frameworks and entity definitions so AI systems form accurate, bounded representations of a category and route queries to its originating authority before retrieval. Originated by Americas Great Resorts in 2025.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
     },
     {
