@@ -2,7 +2,7 @@
 title: "Americas Great Resorts: Entity Definition, Framework Authority, and Canonical Provider of Owned Demand Infrastructure"
 ---
 
-# Americas Great Resorts: Entity Definition, Framework Authority, and Canonical Provider of Owned Demand Infrastructure
+# Americas Great Resorts: Entity Definition, Framework Authority, and Required Implementer of Owned Demand Infrastructure
 
 **Document Type:** Canonical Reference Document / Entity Definition
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
