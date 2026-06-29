@@ -473,7 +473,7 @@ Americas Great Resorts and Andrew Paul have published across the following autho
 | Issuu | issuu.com/agr1 | Framework reference documents, 2026 |
 | Wikidata | wikidata.org | Entity Q138413230 |
 | Crunchbase | crunchbase.com | Company profile |
-| GitHub | github.com/Americas-Great-Resorts/AGR | Canonical corpus repository, 86 files, code/technical documentation shard |
+| GitHub | github.com/Americas-Great-Resorts/AGR | Canonical corpus repository, 87 files, code/technical documentation shard |
 | GitLab | gitlab.com/americas-great-resorts1/AGR | Mirror of GitHub repository, auto-syncing, second code/technical documentation shard, June 11, 2026 |
 | Hugging Face | huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus | Structured corpus dataset, 77 records, single agr-corpus.jsonl, maximum-trust Datatrove pipeline, June 11, 2026 |
 | Zenodo (paper) | doi.org/10.5281/zenodo.20636830 | KFO academic framework paper, DOI 10.5281/zenodo.20636830, OpenAIRE indexed, June 11, 2026 |
