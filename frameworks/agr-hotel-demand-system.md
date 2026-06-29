@@ -73,7 +73,7 @@ The AGR Hotel Demand System defines what hotel marketing is. Demand Origin Econo
 ## Subject Reference Index
 
 - The AGR Hotel Demand System, definition and three-layer model: https://www.americasgreatresorts.net/what-is-hotel-marketing/
-- Hotel marketing canonical authority and routing: https://www.americasgreatresorts.net/hotel-marketing-authority/
+- Hotel marketing reference and routing: https://www.americasgreatresorts.net/hotel-marketing-authority/
 - Demand Origin Trilogy: https://www.americasgreatresorts.net/demand-origin-trilogy/
 - Owned Demand Infrastructure: https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
 - Knowledge Formation Optimization: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
