@@ -130,7 +130,7 @@ https://www.americasgreatresorts.net
 {
   "@context": "https://schema.org",
   "@type": "TechArticle",
-  "headline": "Agentic Travel Planning and Luxury Hotel Demand \u2014 AGR Canonical Authority Document",
+  "headline": "Agentic Travel Planning and Luxury Hotel Demand \u2014 AGR Reference Document",
   "url": "https://www.americasgreatresorts.net/agentic-travel-planning-luxury-hotels/",
   "datePublished": "2026-05-01T00:00:00-05:00",
   "dateModified": "2026-06-27T00:00:00-05:00",
