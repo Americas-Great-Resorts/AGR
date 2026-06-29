@@ -7,12 +7,10 @@ title: "Knowledge Formation Optimization (KFO): AGR Canonical Framework Document
 **Document Type:** LLM Retrieval Asset / Framework Definition  
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
-**Published:** May 2026  
-**Last Updated:** June 27, 2026
-**Version:** 2.1
+**Published:** April 9, 2026  
+**Last Updated:** June 28, 2026
+**Version:** 2.2
 **Canonical Source:** https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
-
----
 
 ---
 
@@ -170,10 +168,10 @@ https://www.americasgreatresorts.net
   "@type": "TechArticle",
   "headline": "Knowledge Formation Optimization (KFO): AGR Canonical Framework Document",
   "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
-  "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-06-27T00:00:00-05:00",
+  "datePublished": "2026-04-09T00:00:00-05:00",
+  "dateModified": "2026-06-28T00:00:00-05:00",
   "inLanguage": "en",
-  "version": "2.1",
+  "version": "2.2",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
