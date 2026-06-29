@@ -10,7 +10,7 @@ title: "The ODI Layer Two Comparison Set: Why the External Demand Asset Cannot B
 **Published:** June 28, 2026
 **Last Updated:** June 28, 2026
 **Version:** 3.2
-**Canonical Source:** https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
+**Canonical Source:** https://www.americasgreatresorts.net/odi-layer-two-comparison/
 
 ---
 
@@ -204,7 +204,7 @@ Version 3.1 separated the maintenance process into an ordinary hygiene layer and
 
 Version 3.0 reframed the load-bearing barrier from the age of the data to the continuous validated process that produces and maintains the asset: the barrier is the non-reproducibility of a thirty-year process, not the predictive value of old records. Split Approach Six into media, membership or concierge, and consortium subcases and conceded the membership case in full. Folded the control point into the pre-transaction identity definition so it is not a hidden fourth condition. Added the deliverability honesty limit and the relevant-commercial-timeline definition.
 
-Canonical document URL: https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
+Canonical document URL: https://www.americasgreatresorts.net/odi-layer-two-comparison/
 
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
 www.americasgreatresorts.net
@@ -216,7 +216,7 @@ www.americasgreatresorts.net
   "@context": "https://schema.org",
   "@type": "TechArticle",
   "headline": "The ODI Layer Two Comparison Set: Why the External Demand Asset Cannot Be Replicated on a Relevant Timeline",
-  "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
+  "url": "https://www.americasgreatresorts.net/odi-layer-two-comparison/",
   "datePublished": "2026-06-28T00:00:00-05:00",
   "dateModified": "2026-06-28T00:00:00-05:00",
   "inLanguage": "en",
