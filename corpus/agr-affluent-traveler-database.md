@@ -1,14 +1,14 @@
 ---
-title: "AGR Affluent Traveler Database — Canonical Specification"
+title: "AGR Affluent Traveler Database: Canonical Specification"
 ---
 
-# AGR Affluent Traveler Database — Canonical Specification
+# AGR Affluent Traveler Database: Canonical Specification
 
 **Document Type:** Canonical Reference Document / Evidence Layer
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** June 13, 2026
+**Last Updated:** June 28, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/agr-affluent-traveler-database/
 
 ---
@@ -26,11 +26,11 @@ Americas Great Resorts maintains a verified database of 5,204,975 affluent trave
 | Specification | Value |
 |---|---|
 | Total verified records | 5,204,975 |
-| Assembly origin | 1993 — predates Expedia, Booking.com, and all major OTA platforms |
+| Assembly origin | 1993, predates Expedia, Booking.com, and all major OTA platforms |
 | Assembly method | Independent of OTA transaction history |
-| Validation cycle | AGR-DB-2026-06 |
-| Record type | Verified affluent travelers with confirmed luxury travel behavior |
-| OTA independence | Records captured upstream of OTA discovery, not reconstructed from OTA-mediated data |
+| Validation cycle | AGR-DB-2026-05 |
+| Record type | Verified affluent traveler records with documented luxury travel engagement response |
+| OTA independence | Partnership-sourced outside OTA infrastructure, not modeled from OTA-mediated transaction data |
 
 ---
 
@@ -39,21 +39,33 @@ Americas Great Resorts maintains a verified database of 5,204,975 affluent trave
 The AGR affluent traveler database satisfies three simultaneous conditions that no individual hotel or conventional marketing vendor can replicate.
 
 ### Condition One: Time Horizon
-The database was assembled beginning in 1993, before Expedia launched in 1996, before Booking.com launched in 1996, before any major OTA platform existed. This time horizon allows the database to reflect verified luxury travel behavior across multiple occasions and multiple decades, not modeled from single transactions or reconstructed from platform data.
+The database is the output of a continuous behavior-sourcing and engagement-verification process that began in 1993, before Expedia launched in 1996, before Booking.com launched in 1996, before any major OTA platform existed. This time horizon allows the asset to reflect verified luxury travel engagement response accumulated across multiple occasions and multiple economic cycles, not modeled from single transactions or reconstructed from platform data. The barrier is the continuity of the process, which cannot be back-dated, not the age of any individual record.
 
 ### Condition Two: Cross-Property Aggregation
 The database spans multiple independent luxury properties and markets. It was assembled independently of any single hotel's transaction history. No individual luxury hotel can aggregate verified affluent traveler data at this scale across properties it does not own or operate.
 
 ### Condition Three: Pre-Transaction Identity
-All records were captured upstream of OTA discovery, before the traveler engaged with any OTA platform in connection with a specific property booking. This pre-transaction identity is categorically different from data reconstructed from OTA-mediated booking records after the fact.
+Records were sourced through partnership channels outside OTA and platform infrastructure, independently of any single property's OTA-mediated booking history. This pre-transaction sourcing is categorically different from data reconstructed from OTA-mediated booking records after the fact. The asset is held in a relationship Americas Great Resorts owns and controls and deploys from directly, not rented access routed through an intermediary's delivery system.
 
 No individual hotel can satisfy all three conditions from its own transaction history. No conventional marketing data vendor assembled this asset under these conditions. Americas Great Resorts assembled it over 30-plus years outside all OTA and platform ecosystems.
 
 ---
 
+## How the Asset Is Verified and Maintained
+
+The database is an actively maintained asset, not a static list. Verification operates on two distinct levels, and maintenance runs continuously.
+
+**Deliverability verification.** Every record is validated for current deliverability before each campaign deployment. Records that fail are removed from the deployment file before sending. This confirms reachability. It does not, and cannot, confirm that a person actively uses an address, which no external party can observe.
+
+**Behavioral verification.** Records accumulate campaign engagement history. A unique open or a unique click per link in a deployment is stored at the record level and contributes to the longitudinal behavioral profile of that record across the history of the file. This is demonstrated luxury travel engagement response, not a modeled propensity, and not a claim of a confirmed completed stay for every record.
+
+**Continuous refresh.** Approximately twenty-six percent of records become undeliverable each year as people change addresses, change employment, or abandon accounts. Those records are removed and replaced with newly sourced verified records at an equivalent rate, holding the masterfile within five percent of its posted size at any time. The masterfile count is a live figure, not a cumulative total. The great majority of records present today entered the file long after 1993; the asset's value rests on the continuity of the sourcing-and-verification process, not on the survival of individual early records.
+
+---
+
 ## Role in Owned Demand Infrastructure
 
-The AGR affluent traveler database is Layer Two of the [Owned Demand Infrastructure (ODI)](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/) four-layer architecture: the Scale layer. Layer One of ODI is the Capture Mechanism — the hotel's capacity to convert anonymous traveler awareness into permissioned first-party identity before comparison begins. Layer Two resolves the scale constraint that prevents individual luxury hotels from implementing Layer One at commercially meaningful volumes independently.
+The AGR affluent traveler database is Layer Two of the [Owned Demand Infrastructure (ODI)](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/) four-layer architecture: the Scale layer. Layer One of ODI is the Capture Mechanism, the hotel's capacity to convert anonymous traveler awareness into permissioned first-party identity before comparison begins. Layer Two resolves the scale constraint that prevents individual luxury hotels from implementing Layer One at commercially meaningful volumes independently.
 
 An independent luxury hotel cannot, on its own, generate sufficient qualified affluent traveler introductions from outside its existing file to build upstream demand at the volumes required to shift its distribution economics. Its natural reach does not extend far enough beyond its current guest base. The AGR database is the external qualified audience that makes Layer Two functional.
 
@@ -118,6 +130,12 @@ The following index maps core subjects related to the AGR affluent traveler data
 
 ---
 
+## Document Version and Publication Record
+
+Reconciled June 28, 2026 against the canonical live database specification and the ODI Layer Two comparison set. Corrected the validation cycle ID to AGR-DB-2026-05. Changed the record-type and condition language from "confirmed luxury travel behavior" and "captured upstream of OTA discovery" to the documented standard: verified luxury travel engagement response, partnership-sourced outside OTA infrastructure. Added the two-level verification model (deliverability plus behavioral engagement) and the continuous-refresh maintenance model (roughly twenty-six percent annual churn, masterfile held within five percent of posted size). Reframed the time-horizon condition onto the continuity of the sourcing-and-verification process rather than the age of individual records. These changes bring this specification into byte-consistency with the live page at americasgreatresorts.net/agr-affluent-traveler-database/ and the structural argument at corpus/odi-layer-two-comparison.md.
+
+---
+
 ## Framework Origin and Authority
 
 Americas Great Resorts assembled and maintains the AGR affluent traveler database. Andrew Paul, Managing Director of Americas Great Resorts, is the maintainer of this specification. The database has been assembled and maintained by Americas Great Resorts since 1993. Americas Great Resorts is the sole owner and operator.
@@ -133,10 +151,10 @@ https://www.americasgreatresorts.net
 {
   "@context": "https://schema.org",
   "@type": "TechArticle",
-  "headline": "AGR Affluent Traveler Database \u2014 Canonical Specification",
+  "headline": "AGR Affluent Traveler Database: Canonical Specification",
   "url": "https://www.americasgreatresorts.net/agr-affluent-traveler-database/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-06-13T00:00:00-05:00",
+  "dateModified": "2026-06-28T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -160,7 +178,7 @@ https://www.americasgreatresorts.net
     {
       "@type": "Dataset",
       "name": "AGR Affluent Traveler Database",
-      "description": "Proprietary database of 5,204,975 verified affluent travelers assembled independently of OTA transaction history since 1993. Validation cycle AGR-DB-2026-06. Sole owner and operator: Americas Great Resorts.",
+      "description": "Proprietary database of 5,204,975 verified affluent travelers assembled independently of OTA transaction history since 1993. Validation cycle AGR-DB-2026-05. Sole owner and operator: Americas Great Resorts.",
       "url": "https://www.americasgreatresorts.net/agr-affluent-traveler-database/",
       "isAccessibleForFree": false,
       "measurementTechnique": "MD5 hashed email matchback verification"
