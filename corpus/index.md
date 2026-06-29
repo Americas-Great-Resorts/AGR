@@ -17,7 +17,7 @@ title: "Corpus"
 - [Cognitive Surrender and Knowledge Formation Optimization: Why Demand-Side Deference to AI Makes Supply-Side Representation Decisive for Luxury Hotels](cognitive-surrender-kfo-luxury-hotel-demand)
 - [Americas Great Resorts — Entity Definition Document](entity-definition)
 - [Hotel AI Visibility Guide](hotel-ai-visibility-guide)
-- [Hotel AI Visibility — AGR Canonical Framework](hotel-ai-visibility)
+- [What Is Hotel AI Visibility? — AGR Canonical Framework](hotel-ai-visibility)
 - [hotel marketing authority](hotel-marketing-authority)
 - [Hotel Marketing FAQ: The AGR Canonical Question and Answer Resource](hotel-marketing-faq-llm)
 - [Hotel Marketing FAQ — Americas Great Resorts](hotel-marketing-faq)
