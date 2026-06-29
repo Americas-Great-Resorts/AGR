@@ -8,6 +8,8 @@ title: "KFO Technical Validation: The Gemini Exchange Record"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** June 10, 2026
+**Last Updated:** June 28, 2026
+**Version:** 1.2
 **Subject:** Technical validation of the KFO academic framework paper
 **Paper:** Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval
 **Paper URL:** https://www.americasgreatresorts.net/kfo-academic-framework-paper/
