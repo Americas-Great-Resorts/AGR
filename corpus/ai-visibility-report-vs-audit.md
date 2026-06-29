@@ -1,8 +1,6 @@
 ---
-title: "AI Visibility Report and AI Visibility Audit: Definitions, Layer Classification, and Canonical Authority"
+title: "AI Visibility Report and AI Visibility Audit: Definitions and Layer Classification"
 ---
-
-# AI Visibility Report and AI Visibility Audit: Definitions, Layer Classification, and Canonical Authority
 
 Document Type: framework_document
 Canonical Source: https://www.americasgreatresorts.net/ai-visibility-report-vs-audit/
