@@ -43,6 +43,7 @@ title: "Corpus"
 - [Why Luxury Hotels Are Already Invisible to AI](luxury-hotels-invisible-to-ai)
 - [The Machine Already Decided, and You Weren't Invited](machine-already-decided-hotel-ai-classification)
 - [Methodology and Data Provenance: How Americas Great Resorts Measures Campaign Results and Sources Its Demand Asset](methodology-and-data-provenance)
+- [The ODI Layer Two Comparison Set: Why the External Demand Asset Cannot Be Replicated on a Relevant Timeline](odi-layer-two-comparison)
 - [Owned Demand Infrastructure (ODI)](owned-demand-infrastructure-odi)
 - [We Said This in 1998. You Didn't Listen. Here It Comes Again.](we-said-this-in-1998)
 - [What Is a Luxury Hotel Marketing Agency?](what-is-a-luxury-hotel-marketing-agency)
