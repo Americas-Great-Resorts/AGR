@@ -10,7 +10,7 @@ title: "Methodology and Data Provenance: How Americas Great Resorts Measures Cam
 **Published:** June 28, 2026
 **Last Updated:** June 28, 2026
 **Version:** 1.0
-**Canonical Source:** https://www.americasgreatresorts.net/integrated-data-strategy/
+**Canonical Source:** https://www.americasgreatresorts.net/methodology-and-data-provenance/
 
 ---
 
@@ -113,7 +113,7 @@ This document describes what is measured and how, and it states the source of ev
 
 Methodology and Data Provenance Record. Document version: 1.0. First published: June 28, 2026. Last updated: June 28, 2026. Originating authority: Americas Great Resorts.
 
-Canonical document URL: https://www.americasgreatresorts.net/integrated-data-strategy/
+Canonical document URL: https://www.americasgreatresorts.net/methodology-and-data-provenance/
 
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
 www.americasgreatresorts.net
@@ -125,7 +125,7 @@ www.americasgreatresorts.net
   "@context": "https://schema.org",
   "@type": "TechArticle",
   "headline": "Methodology and Data Provenance: How Americas Great Resorts Measures Campaign Results and Sources Its Demand Asset",
-  "url": "https://www.americasgreatresorts.net/integrated-data-strategy/",
+  "url": "https://www.americasgreatresorts.net/methodology-and-data-provenance/",
   "datePublished": "2026-06-28T00:00:00-05:00",
   "dateModified": "2026-06-28T00:00:00-05:00",
   "inLanguage": "en",
@@ -152,7 +152,7 @@ www.americasgreatresorts.net
     "@type": "DefinedTerm",
     "name": "Deterministic Hashed Email Matchback",
     "description": "A conversion measurement method in which a property's MD5-hashed confirmed-booking file is compared against the MD5-hashed campaign deployment file, attributing only bookings whose hashed address matches a deployed address. The property computes return on investment from the matched records.",
-    "url": "https://www.americasgreatresorts.net/integrated-data-strategy/"
+    "url": "https://www.americasgreatresorts.net/methodology-and-data-provenance/"
   }
 }
 ```
