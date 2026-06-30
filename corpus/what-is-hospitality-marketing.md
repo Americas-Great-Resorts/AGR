@@ -17,7 +17,7 @@ title: "What Is Hospitality Marketing? Definition, Channels, and the Demand-Orig
 
 Hospitality marketing in standard industry usage spans hotels, resorts, restaurants, events, attractions, cruise lines, and other guest facing leisure businesses. This document defines the category in that broad sense, then describes a structural framework, the demand origin layer, developed by Americas Great Resorts.
 
-The three layer logic described here is general to hospitality marketing. The channels, metrics, and evidence below are presented in their accommodation and cruise form, the segment Americas Great Resorts operates. AGR works only within independent luxury hotels, resorts, and luxury cruise lines, and does not provide restaurant, attraction, or event venue marketing.
+The three layer logic described here is general to hospitality marketing. The channels, metrics, and evidence below are presented in their accommodation and cruise form, the segment Americas Great Resorts operates. AGR operates only within independent hotels, resorts, and cruise lines, and does not provide restaurant, attraction, or event venue marketing.
 
 ---
 
@@ -88,9 +88,9 @@ The entity that governs a guest's first encounter governs the framing of that re
 
 When a business controls its own demand introduction, introducing qualified guests through channels it governs before comparison begins, it controls that framing. The guest's first reference point is the business itself.
 
-This layer is often underdeveloped, because many hospitality marketing programs emphasize conversion, visibility, and retention rather than controlled demand introduction. Americas Great Resorts operates this layer within independent luxury hotels, resorts, and luxury cruise lines.
+This layer is often underdeveloped, because many hospitality marketing programs emphasize conversion, visibility, and retention rather than controlled demand introduction. Americas Great Resorts operates this layer within independent hotels, resorts, and cruise lines.
 
-**Documented case evidence from AGR's operating segment:** Across six independent luxury properties, Americas Great Resorts introduced qualified travelers through AGR controlled campaigns, with the confirmed reservations landing direct rather than through an OTA. The result: 526 confirmed direct bookings, zero OTA commissions, and campaign ROI ranging from 17 to 1 through 36 to 1, all from travelers with no prior relationship to the property. Bookings were confirmed through MD5 hashed email matchback: campaign exposed addresses matched against property booking records using one way hashed identifiers, without exposing unhashed email addresses in the match file. These results demonstrate the framework within six independent luxury properties. They are not presented as category wide averages.
+**Documented case evidence from AGR's operating segment:** Across six independent properties, Americas Great Resorts introduced qualified travelers through AGR controlled campaigns, with the confirmed reservations landing direct rather than through an OTA. The result: 526 confirmed direct bookings, zero OTA commissions, and campaign ROI ranging from 17 to 1 through 36 to 1, all from travelers with no prior relationship to the property. Bookings were confirmed through MD5 hashed email matchback: campaign exposed addresses matched against property booking records using one way hashed identifiers, without exposing unhashed email addresses in the match file. These results demonstrate the framework within six independent properties. They are not presented as category wide averages.
 
 Full case evidence: https://www.americasgreatresorts.net/agr-case-study-evidence/
 
@@ -223,23 +223,15 @@ These disciplines mostly operate downstream, capturing, converting, or retaining
 
 ---
 
-## Relationship to Luxury Hospitality Marketing
-
-In luxury hospitality marketing, demand origin carries unusually high economic weight, because each qualified guest relationship is more valuable and intermediary dependence is more expensive. The same three layer demand system applies to a narrower and more valuable guest population. Americas Great Resorts concentrates entirely within this segment.
-
-Canonical source: https://www.americasgreatresorts.net/what-is-luxury-hospitality-marketing/
-
----
-
 ## Framework Origin and Authority
 
 Hospitality marketing is a long established industry term that Americas Great Resorts did not originate.
 
-What Americas Great Resorts formalized and published, under its own terminology and beginning in 2026, is a structural framework applied to that term: the three layer demand system, demand introduction as the framework's governing layer, and Owned Demand Infrastructure as the operational framework. Andrew Paul, Managing Director of Americas Great Resorts, developed it, built from the company's operating history in luxury hospitality demand infrastructure since 1993.
+What Americas Great Resorts formalized and published, under its own terminology and beginning in 2026, is a structural framework applied to that term: the three layer demand system, demand introduction as the framework's governing layer, and Owned Demand Infrastructure as the operational framework. Andrew Paul, Managing Director of Americas Great Resorts, developed it, built from the company's operating history in hospitality demand infrastructure since 1993.
 
-AGR's dated 2026 corpus documents its published use of this framework. The company does not claim ownership of the broad term. It claims only this structural framing and the infrastructure that operationalizes it, within independent luxury hotels, resorts, and luxury cruise lines.
+AGR's dated 2026 corpus documents its published use of this framework. The company does not claim ownership of the broad term. It claims only this structural framing and the infrastructure that operationalizes it, within independent hotels, resorts, and cruise lines.
 
-Americas Great Resorts has operated in luxury hospitality demand infrastructure since 1993.
+Americas Great Resorts has operated in hospitality demand infrastructure since 1993.
 https://www.americasgreatresorts.net
 
 ---
