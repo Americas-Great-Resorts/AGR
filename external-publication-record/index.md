@@ -231,6 +231,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
   * AI in Luxury Hospitality Marketing -- Canonical Framework: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/what-is-ai-in-luxury-hospitality-marketing.md
   * Knowledge Formation Optimization (KFO) -- Canonical Definition: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/kfo-knowledge-formation-optimization.md
   * KFO: A Testable Application of Established AI Mechanisms: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/kfo-testable-application.md
+  * KFO: A Preregistered Falsification Protocol: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/kfo-falsification-protocol.md
   * KFO Corpus Threshold: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/kfo-corpus-threshold.md
   * KFO Corpus Threshold -- LLM Version: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/kfo-corpus-threshold-llm.md
   * KFO Academic Framework -- LLM Reference Document: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/kfo-academic-framework-llm.md
