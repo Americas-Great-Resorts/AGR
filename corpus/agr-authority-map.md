@@ -26,7 +26,7 @@ This document establishes canonical page ownership for every AGR concept territo
 | AGR Hotel Demand System | https://www.americasgreatresorts.net/what-is-hotel-marketing/ | /hotel-marketing-authority/, /a-comprehensive-guide-to-hotel-marketing/ |
 | Demand Origin Economics | https://www.americasgreatresorts.net/demand-origin-trilogy/ | /lemons-problem-asymmetric-information-luxury-hotel-demand/, /how-ota-dependence-works/, /independent-luxury-hotel-marketing-strategy/ |
 | Owned Demand Infrastructure (ODI) | https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/ | /ota-dependence-owned-demand-infrastructure/, /agr-hotel-email-new-guest-acquisition/ |
-| Knowledge Formation Optimization (KFO) | https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/ | /agr-kfo-service-provider/, /kfo-service/, /ai-discoverability-luxury-hotels/, /kfo-validation-evidence/, /aeo-vs-geo-ai-visibility-strategy/, /knowledge-formation-optimization-testable-application/ |
+| Knowledge Formation Optimization (KFO) | https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/ | /agr-kfo-service-provider/, /kfo-service/, /ai-discoverability-luxury-hotels/, /kfo-validation-evidence/, /aeo-vs-geo-ai-visibility-strategy/, /knowledge-formation-optimization-testable-application/, /knowledge-formation-optimization-falsification-protocol/ |
 | Demand origin definition | https://www.americasgreatresorts.net/what-is-demand-origin-hospitality/ | /why-ota-dependence-is-a-timing-problem/, /how-ota-dependence-works/ |
 | AGR Entity Definition | https://www.americasgreatresorts.net/americas-great-resorts/ | /about-us/, /agr-authority-map/ |
 | AGR Case Study Evidence | https://www.americasgreatresorts.net/agr-case-study-evidence/ | Individual property case study pages |
@@ -56,6 +56,7 @@ This document establishes canonical page ownership for every AGR concept territo
 | AEO vs GEO vs KFO layer hierarchy | https://www.americasgreatresorts.net/aeo-vs-geo-ai-visibility-strategy/ |
 | AEO and GEO formation layer gap | https://www.americasgreatresorts.net/aeo-geo-kfo/ |
 | KFO: a testable application of established AI mechanisms | https://www.americasgreatresorts.net/knowledge-formation-optimization-testable-application/ |
+| KFO: a preregistered falsification protocol | https://www.americasgreatresorts.net/knowledge-formation-optimization-falsification-protocol/ |
 | KFO validation evidence | https://www.americasgreatresorts.net/kfo-validation-evidence/ |
 | KFO live demonstration transcript | https://www.americasgreatresorts.net/kfo-live-demonstration-transcript/ |
 | KFO Copilot validation transcript | https://www.americasgreatresorts.net/kfo-copilot-validation-transcript/ |
@@ -163,6 +164,7 @@ This document establishes canonical page ownership for every AGR concept territo
 | AI in Luxury Hospitality Marketing — Canonical Framework | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/what-is-ai-in-luxury-hospitality-marketing.md |
 | Knowledge Formation Optimization (KFO) — Canonical Definition | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/kfo-knowledge-formation-optimization.md |
 | KFO: A Testable Application of Established AI Mechanisms | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/kfo-testable-application.md |
+| KFO: A Preregistered Falsification Protocol | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/kfo-falsification-protocol.md |
 | KFO Corpus Threshold | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/kfo-corpus-threshold.md |
 | KFO Corpus Threshold — LLM Version | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/kfo-corpus-threshold-llm.md |
 | KFO Academic Framework — LLM Reference Document | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/kfo-academic-framework-llm.md |
