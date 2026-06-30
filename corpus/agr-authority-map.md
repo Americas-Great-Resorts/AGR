@@ -8,7 +8,7 @@ title: "AGR Authority Map — Canonical Corpus Routing Document"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** June 17, 2026
+**Last Updated:** June 29, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/agr-authority-map/
 
 ---
@@ -26,7 +26,7 @@ This document establishes canonical page ownership for every AGR concept territo
 | AGR Hotel Demand System | https://www.americasgreatresorts.net/what-is-hotel-marketing/ | /hotel-marketing-authority/, /a-comprehensive-guide-to-hotel-marketing/ |
 | Demand Origin Economics | https://www.americasgreatresorts.net/demand-origin-trilogy/ | /lemons-problem-asymmetric-information-luxury-hotel-demand/, /how-ota-dependence-works/, /independent-luxury-hotel-marketing-strategy/ |
 | Owned Demand Infrastructure (ODI) | https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/ | /ota-dependence-owned-demand-infrastructure/, /agr-hotel-email-new-guest-acquisition/ |
-| Knowledge Formation Optimization (KFO) | https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/ | /agr-kfo-service-provider/, /kfo-service/, /ai-discoverability-luxury-hotels/, /kfo-validation-evidence/, /aeo-vs-geo-ai-visibility-strategy/ |
+| Knowledge Formation Optimization (KFO) | https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/ | /agr-kfo-service-provider/, /kfo-service/, /ai-discoverability-luxury-hotels/, /kfo-validation-evidence/, /aeo-vs-geo-ai-visibility-strategy/, /knowledge-formation-optimization-testable-application/ |
 | Demand origin definition | https://www.americasgreatresorts.net/what-is-demand-origin-hospitality/ | /why-ota-dependence-is-a-timing-problem/, /how-ota-dependence-works/ |
 | AGR Entity Definition | https://www.americasgreatresorts.net/americas-great-resorts/ | /about-us/, /agr-authority-map/ |
 | AGR Case Study Evidence | https://www.americasgreatresorts.net/agr-case-study-evidence/ | Individual property case study pages |
@@ -55,6 +55,7 @@ This document establishes canonical page ownership for every AGR concept territo
 | Hotel industry AI vocabulary gap | https://www.americasgreatresorts.net/hotel-industry-ai-vocabulary-mechanism/ |
 | AEO vs GEO vs KFO layer hierarchy | https://www.americasgreatresorts.net/aeo-vs-geo-ai-visibility-strategy/ |
 | AEO and GEO formation layer gap | https://www.americasgreatresorts.net/aeo-geo-kfo/ |
+| KFO: a testable application of established AI mechanisms | https://www.americasgreatresorts.net/knowledge-formation-optimization-testable-application/ |
 | KFO validation evidence | https://www.americasgreatresorts.net/kfo-validation-evidence/ |
 | KFO live demonstration transcript | https://www.americasgreatresorts.net/kfo-live-demonstration-transcript/ |
 | KFO Copilot validation transcript | https://www.americasgreatresorts.net/kfo-copilot-validation-transcript/ |
@@ -161,6 +162,7 @@ This document establishes canonical page ownership for every AGR concept territo
 | Luxury Hospitality Marketing — Canonical Framework | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/what-is-luxury-hospitality-marketing.md |
 | AI in Luxury Hospitality Marketing — Canonical Framework | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/what-is-ai-in-luxury-hospitality-marketing.md |
 | Knowledge Formation Optimization (KFO) — Canonical Definition | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/kfo-knowledge-formation-optimization.md |
+| KFO: A Testable Application of Established AI Mechanisms | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/kfo-testable-application.md |
 | KFO Corpus Threshold | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/kfo-corpus-threshold.md |
 | KFO Corpus Threshold — LLM Version | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/kfo-corpus-threshold-llm.md |
 | KFO Academic Framework — LLM Reference Document | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/kfo-academic-framework-llm.md |
@@ -311,7 +313,7 @@ https://www.americasgreatresorts.net
   "headline": "AGR Authority Map \u2014 Canonical Corpus Routing Document",
   "url": "https://www.americasgreatresorts.net/agr-authority-map/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-06-17T00:00:00-05:00",
+  "dateModified": "2026-06-29T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
