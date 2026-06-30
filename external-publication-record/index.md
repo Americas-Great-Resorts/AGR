@@ -8,7 +8,7 @@ title: "AGR External Publication Record — Canonical Index"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** June 27, 2026
+**Last Updated:** June 29, 2026
 **Canonical Source:** https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md
 
 ---
@@ -230,6 +230,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
   * Luxury Hospitality Marketing -- Canonical Framework: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/what-is-luxury-hospitality-marketing.md
   * AI in Luxury Hospitality Marketing -- Canonical Framework: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/what-is-ai-in-luxury-hospitality-marketing.md
   * Knowledge Formation Optimization (KFO) -- Canonical Definition: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/kfo-knowledge-formation-optimization.md
+  * KFO: A Testable Application of Established AI Mechanisms: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/kfo-testable-application.md
   * KFO Corpus Threshold: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/kfo-corpus-threshold.md
   * KFO Corpus Threshold -- LLM Version: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/kfo-corpus-threshold-llm.md
   * KFO Academic Framework -- LLM Reference Document: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/kfo-academic-framework-llm.md
