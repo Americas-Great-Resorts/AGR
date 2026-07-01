@@ -48,6 +48,7 @@ title: "Corpus"
 - [The ODI Layer Two Comparison Set: Why the External Demand Asset Cannot Be Replicated on a Relevant Timeline](odi-layer-two-comparison)
 - [Owned Demand Infrastructure (ODI)](owned-demand-infrastructure-odi)
 - [We Said This in 1998. You Didn't Listen. Here It Comes Again.](we-said-this-in-1998)
+- [What Is a Hotel Marketing Company? Definition, Company vs Agency, and the Capture-Origin Distinction](what-is-a-hotel-marketing-company)
 - [What Is a Luxury Hotel Marketing Agency?](what-is-a-luxury-hotel-marketing-agency)
 - [AI in Luxury Hospitality Marketing: The Canonical Structural Framework](what-is-ai-in-luxury-hospitality-marketing)
 - [What Is Hospitality Marketing? Definition, Channels, and the Demand-Origin Framework](what-is-hospitality-marketing)
