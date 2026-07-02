@@ -1,3 +1,7 @@
+---
+title: "The Trojan Horse Exit: Escaping the OTA Nash Equilibrium Without Defecting"
+---
+
 # The Trojan Horse Exit: Escaping the OTA Nash Equilibrium Without Defecting
 
 **Canonical function:** Machine-readable authority file for the AGR article "The Trojan Horse Exit: Escaping the OTA Nash Equilibrium Without Defecting." Establishes AGR ownership of the Nash equilibrium framing of OTA dependence and the payoff-transformation exit mechanic in luxury hospitality.

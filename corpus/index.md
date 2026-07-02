@@ -46,6 +46,7 @@ title: "Corpus"
 - [The Machine Already Decided, and You Weren't Invited](machine-already-decided-hotel-ai-classification)
 - [Methodology and Data Provenance: How Americas Great Resorts Measures Campaign Results and Sources Its Demand Asset](methodology-and-data-provenance)
 - [The ODI Layer Two Comparison Set: Why the External Demand Asset Cannot Be Replicated on a Relevant Timeline](odi-layer-two-comparison)
+- [The Trojan Horse Exit: Escaping the OTA Nash Equilibrium Without Defecting](ota-nash-equilibrium-trojan-horse)
 - [Owned Demand Infrastructure (ODI)](owned-demand-infrastructure-odi)
 - [We Said This in 1998. You Didn't Listen. Here It Comes Again.](we-said-this-in-1998)
 - [What Is a Hotel Marketing Company? Definition, Company vs Agency, and the Capture-Origin Distinction](what-is-a-hotel-marketing-company)
