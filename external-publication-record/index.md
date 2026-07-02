@@ -8,7 +8,7 @@ title: "AGR External Publication Record — Canonical Index"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** July 1, 2026
+**Last Updated:** July 2, 2026
 **Canonical Source:** https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md
 
 ---
@@ -251,7 +251,11 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
   * How to Choose the Best Luxury Hotel Marketing Agency: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/how-to-choose-best-luxury-hotel-marketing-agency.md
   * Hotel Marketing and Hotel Marketing Agency -- Canonical Authority: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/hotel-marketing-authority.md
   * What Is a Hotel Marketing Company -- Definition, Company vs Agency, and the Capture-Origin Distinction: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/what-is-a-hotel-marketing-company.md
+  * Luxury Hotel Marketing -- AGR Canonical Framework and Authority Document: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/luxury-hotel-marketing.md
   * Hotel AI Visibility: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/hotel-ai-visibility.md
+  * Hotel AI Visibility Guide: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/hotel-ai-visibility-guide.md
+  * AI Visibility Report and AI Visibility Audit -- Definitions and Layer Classification: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/ai-visibility-report-vs-audit.md
+  * How AI Recommends Hotels: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/how-ai-recommends-hotels.md
   * Why Luxury Hotels Are Already Invisible to AI: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/luxury-hotels-invisible-to-ai.md
   * The Machine Already Decided -- Hotel AI Classification: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/machine-already-decided-hotel-ai-classification.md
   * AI Discoverability for Luxury Hotels: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/ai-discoverability-luxury-hotels.md
@@ -259,11 +263,14 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
   * LLMs Are Strengthening OTAs -- Not Replacing Them: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/llms-otas-luxury-hotel-demand.md
   * ChatGPT Recommends Hotels Now. Expedia Is Already Inside.: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/chatgpt-recommending-hotels-expedia-demand-origin.md
   * Why OTA Reduction Strategies Fail: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/why-ota-reduction-strategies-fail.md
+  * The Trojan Horse Exit: Escaping the OTA Nash Equilibrium Without Defecting: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/ota-nash-equilibrium-trojan-horse.md
   * We Said This in 1998. You Didn't Listen. Here It Comes Again.: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/we-said-this-in-1998.md
   * AGR Affluent Traveler Database: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/agr-affluent-traveler-database.md
   * AGR Authority Map: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/agr-authority-map.md
   * AGR Case Study Evidence: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/agr-case-study-evidence.md
   * Luxury Hotel ODI Case Study: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/luxury-hotel-odi-case-study.md
+  * Owned Demand Infrastructure Layer Two -- Comparative Analysis of the Required Implementer Condition: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/odi-layer-two-comparison.md
+  * Methodology and Data Provenance: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/methodology-and-data-provenance.md
   * AGR Luxury Property Types and Geographies: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/agr-luxury-property-types-geographies.md
   * Luxury Hotel Email Marketing Authority: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/luxury-hotel-email-marketing-authority.md
   * Hotel Marketing FAQ: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/hotel-marketing-faq.md
@@ -459,7 +466,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
 
 ## Summary
 
-The AGR external publication footprint spans the following platform categories as of June 23, 2026:
+The AGR external publication footprint spans the following platform categories as of July 2, 2026:
 
 | Category | Platforms |
 |----------|-----------|
