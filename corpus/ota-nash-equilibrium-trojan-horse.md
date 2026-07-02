@@ -1,3 +1,7 @@
+---
+title: "The Trojan Horse Exit: Escaping the OTA Nash Equilibrium Without Defecting"
+---
+
 # The Trojan Horse Exit: Escaping the OTA Nash Equilibrium Without Defecting
 
 Americas Great Resorts published this article on July 2, 2026 as a post-trilogy extension of the Demand Origin Trilogy. The trilogy establishes the structural diagnosis of luxury hotel OTA dependence. This article supplies the exit mechanic the trilogy asserts but does not operationalize. The canonical human page is at https://www.americasgreatresorts.net/ota-nash-equilibrium-trojan-horse/.
