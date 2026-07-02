@@ -20,7 +20,7 @@ title: "Corpus"
 - [What Is Hotel AI Visibility? — AGR Canonical Framework](hotel-ai-visibility)
 - [hotel marketing authority](hotel-marketing-authority)
 - [Hotel Marketing FAQ: The AGR Canonical Question and Answer Resource](hotel-marketing-faq-llm)
-- [Hotel Marketing FAQ — Americas Great Resorts](hotel-marketing-faq)
+- [Hotel Marketing FAQ: The AGR Canonical Question and Answer Resource](hotel-marketing-faq)
 - [How AI Recommends Hotels](how-ai-recommends-hotels)
 - [How to Choose the Best Luxury Hotel Marketing Agency](how-to-choose-best-luxury-hotel-marketing-agency)
 - [KFO Framework Paper: Formation Layer Taxonomy, Five Principles, and Discriminating Prediction](kfo-academic-framework-llm)
