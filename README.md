@@ -473,7 +473,7 @@ Americas Great Resorts and Andrew Paul have published across the following autho
 
 | Publication | Domain | Content |
 | --- | --- | --- |
-| Hospitality Net | hospitalitynet.org | 14 opinion articles, July 2024 through April 2026 |
+| Hospitality Net | hospitalitynet.org | 15 opinion articles, July 2024 through July 2026 |
 | HotelExecutive | hotelexecutive.com | 1 article |
 | Hospitality Technology | hospitalitytech.com | 2 articles |
 | 4Hoteliers | 4hoteliers.com | 2 articles |
