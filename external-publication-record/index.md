@@ -8,7 +8,7 @@ title: "AGR External Publication Record — Canonical Index"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** July 2, 2026
+**Last Updated:** July 7, 2026
 **Canonical Source:** https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md
 
 ---
@@ -269,6 +269,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
   * AGR Authority Map: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/agr-authority-map.md
   * AGR Case Study Evidence: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/agr-case-study-evidence.md
   * Luxury Hotel ODI Case Study: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/luxury-hotel-odi-case-study.md
+  * Nine Weeks AI Visibility Case Study -- Documented KFO Results on Contested Commercial Queries: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/nine-weeks-ai-answers-case-study.md
   * Owned Demand Infrastructure Layer Two -- Comparative Analysis of the Required Implementer Condition: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/odi-layer-two-comparison.md
   * Methodology and Data Provenance: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/methodology-and-data-provenance.md
   * AGR Luxury Property Types and Geographies: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/agr-luxury-property-types-geographies.md
@@ -466,7 +467,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
 
 ## Summary
 
-The AGR external publication footprint spans the following platform categories as of July 2, 2026:
+The AGR external publication footprint spans the following platform categories as of July 7, 2026:
 
 | Category | Platforms |
 |----------|-----------|
