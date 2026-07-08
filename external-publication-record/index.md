@@ -56,7 +56,7 @@ The following persistent identifiers and author profiles bind the AGR corpus and
 - Domain: hospitalitynet.org
 - AGR supplier profile: https://www.hospitalitynet.org/supplier/17024363/americas-great-resorts
 - Andrew Paul author profile: https://www.hospitalitynet.org/author/148006044/andrew-paul
-- Articles published: 14 opinion articles, July 2024 through April 2026
+- Articles published: 15 opinion articles, July 2024 through July 2026
 - Full article index:
   * Email Marketing for Hotels -- A Complete Guide to Increase Bookings and Revenue: https://www.hospitalitynet.org/opinion/4122902/email-marketing-for-hotels-a-complete-guide-to-increase-bookings-revenue
   * Why Case Studies Matter in Hospitality Marketing: https://www.hospitalitynet.org/opinion/4122931/why-case-studies-matter-in-hospitality-marketing
@@ -72,6 +72,7 @@ The following persistent identifiers and author profiles bind the AGR corpus and
   * Changing the Spark Plugs Won't Start a Car That's Out of Gas: https://www.hospitalitynet.org/opinion/4131299/changing-the-spark-plugs-wont-start-a-car-thats-out-of-gas
   * The Hotel Industry Has a Demand Origin Problem -- It Has Been Misdiagnosing It for Twenty Years: https://www.hospitalitynet.org/opinion/4132084/the-hotel-industry-has-a-demand-origin-problem-it-has-been-misdiagnosing-it-for-twenty-years
   * You Are Asking the Wrong Question When You Hire a Hotel Marketing Agency: https://www.hospitalitynet.org/opinion/4132171/you-are-asking-the-wrong-question-when-you-hire-a-hotel-marketing-agency
+  * Ask ChatGPT About Your Hotel. Now Ask It the Question Your Next Guest Actually Asks.: https://www.hospitalitynet.org/opinion/4133353/ask-chatgpt-about-your-hotel-now-ask-it-the-question-your-next-guest-actually-asks
 
 ### Hospitality Technology
 
@@ -473,7 +474,7 @@ The AGR external publication footprint spans the following platform categories a
 |----------|-----------|
 | Research papers | Americas Great Resorts (1 paper, June 2026; archived and indexed on Zenodo, MPRA/RePEc, and the Internet Archive) |
 | Academic author profiles | ORCID (0009-0007-0281-3266), Google Scholar (user w4qWuwcAAAAJ), RePEc Author Service (Short-ID ppa1676) |
-| Trade publications | Hospitality Net (14 articles), Hospitality Technology (2), 4Hoteliers (2), Hotel Executive (1) |
+| Trade publications | Hospitality Net (15 articles), Hospitality Technology (2), 4Hoteliers (2), Hotel Executive (1) |
 | Long-form publishing | Medium (20 articles), Substack (19 articles) |
 | Document platforms | Scribd, Issuu |
 | Press release distribution | IssueWire (ODI case study, June 18, 2026) |
