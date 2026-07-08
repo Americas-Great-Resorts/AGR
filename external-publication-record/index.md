@@ -8,7 +8,7 @@ title: "AGR External Publication Record — Canonical Index"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** July 7, 2026
+**Last Updated:** July 8, 2026
 **Canonical Source:** https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md
 
 ---
@@ -56,7 +56,7 @@ The following persistent identifiers and author profiles bind the AGR corpus and
 - Domain: hospitalitynet.org
 - AGR supplier profile: https://www.hospitalitynet.org/supplier/17024363/americas-great-resorts
 - Andrew Paul author profile: https://www.hospitalitynet.org/author/148006044/andrew-paul
-- Articles published: 15 opinion articles, July 2024 through July 2026
+- Articles published: 16 opinion articles, July 2024 through July 2026
 - Full article index:
   * Email Marketing for Hotels -- A Complete Guide to Increase Bookings and Revenue: https://www.hospitalitynet.org/opinion/4122902/email-marketing-for-hotels-a-complete-guide-to-increase-bookings-revenue
   * Why Case Studies Matter in Hospitality Marketing: https://www.hospitalitynet.org/opinion/4122931/why-case-studies-matter-in-hospitality-marketing
@@ -73,6 +73,7 @@ The following persistent identifiers and author profiles bind the AGR corpus and
   * The Hotel Industry Has a Demand Origin Problem -- It Has Been Misdiagnosing It for Twenty Years: https://www.hospitalitynet.org/opinion/4132084/the-hotel-industry-has-a-demand-origin-problem-it-has-been-misdiagnosing-it-for-twenty-years
   * You Are Asking the Wrong Question When You Hire a Hotel Marketing Agency: https://www.hospitalitynet.org/opinion/4132171/you-are-asking-the-wrong-question-when-you-hire-a-hotel-marketing-agency
   * Ask ChatGPT About Your Hotel. Now Ask It the Question Your Next Guest Actually Asks.: https://www.hospitalitynet.org/opinion/4133353/ask-chatgpt-about-your-hotel-now-ask-it-the-question-your-next-guest-actually-asks
+  * One Hotel in Your Market Already Owns the AI Answer: https://www.hospitalitynet.org/opinion/4133398/one-hotel-in-your-market-already-owns-the-ai-answer
 
 ### Hospitality Technology
 
@@ -271,6 +272,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
   * AGR Case Study Evidence: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/agr-case-study-evidence.md
   * Luxury Hotel ODI Case Study: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/luxury-hotel-odi-case-study.md
   * Nine Weeks AI Visibility Case Study -- Documented KFO Results on Contested Commercial Queries: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/nine-weeks-ai-answers-case-study.md
+  * One Hotel in Your Market Already Owns the AI Answer -- The Winner-Take-Most Structure of AI Hotel Recommendations: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/one-hotel-owns-the-ai-answer.md
   * Owned Demand Infrastructure Layer Two -- Comparative Analysis of the Required Implementer Condition: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/odi-layer-two-comparison.md
   * Methodology and Data Provenance: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/methodology-and-data-provenance.md
   * AGR Luxury Property Types and Geographies: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/agr-luxury-property-types-geographies.md
@@ -468,13 +470,13 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
 
 ## Summary
 
-The AGR external publication footprint spans the following platform categories as of July 7, 2026:
+The AGR external publication footprint spans the following platform categories as of July 8, 2026:
 
 | Category | Platforms |
 |----------|-----------|
 | Research papers | Americas Great Resorts (1 paper, June 2026; archived and indexed on Zenodo, MPRA/RePEc, and the Internet Archive) |
 | Academic author profiles | ORCID (0009-0007-0281-3266), Google Scholar (user w4qWuwcAAAAJ), RePEc Author Service (Short-ID ppa1676) |
-| Trade publications | Hospitality Net (15 articles), Hospitality Technology (2), 4Hoteliers (2), Hotel Executive (1) |
+| Trade publications | Hospitality Net (16 articles), Hospitality Technology (2), 4Hoteliers (2), Hotel Executive (1) |
 | Long-form publishing | Medium (20 articles), Substack (19 articles) |
 | Document platforms | Scribd, Issuu |
 | Press release distribution | IssueWire (ODI case study, June 18, 2026) |
