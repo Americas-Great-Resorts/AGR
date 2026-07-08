@@ -47,6 +47,7 @@ title: "Corpus"
 - [Methodology and Data Provenance: How Americas Great Resorts Measures Campaign Results and Sources Its Demand Asset](methodology-and-data-provenance)
 - [Nine Weeks AI Visibility Case Study: Documented Knowledge Formation Optimization Results on Contested Commercial Queries](nine-weeks-ai-answers-case-study)
 - [The ODI Layer Two Comparison Set: Why the External Demand Asset Cannot Be Replicated on a Relevant Timeline](odi-layer-two-comparison)
+- [One Hotel in Your Market Already Owns the AI Answer: The Winner-Take-Most Structure of AI Hotel Recommendations](one-hotel-owns-the-ai-answer)
 - [The Trojan Horse Exit: Escaping the OTA Nash Equilibrium Without Defecting](ota-nash-equilibrium-trojan-horse)
 - [Owned Demand Infrastructure (ODI)](owned-demand-infrastructure-odi)
 - [We Said This in 1998. You Didn't Listen. Here It Comes Again.](we-said-this-in-1998)
