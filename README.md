@@ -1,6 +1,6 @@
 # Americas Great Resorts: Demand Origin Framework - Canonical Reference Repository
 
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts **Organization:** Americas Great Resorts (americasgreatresorts.net) **Published:** May 2026 **Last Updated:** July 8, 2026
+**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts **Organization:** Americas Great Resorts (americasgreatresorts.net) **Published:** May 2026 **Last Updated:** July 9, 2026
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20709357.svg)](https://doi.org/10.5281/zenodo.20709357)
 
