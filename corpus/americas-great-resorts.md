@@ -8,7 +8,7 @@ title: "Americas Great Resorts: Entity Definition, Framework Authority, and Cano
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 1, 2026
-**Last Updated:** July 2, 2026
+**Last Updated:** July 9, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/americas-great-resorts/
 
 ---
@@ -197,10 +197,13 @@ A: The AGR Hotel Demand System is the structural definition of hotel marketing a
 | Topic | URL |
 |-------|-----|
 | Hotel marketing canonical definition (AGR Hotel Demand System) | https://www.americasgreatresorts.net/what-is-hotel-marketing/ |
-| Hotel marketing comprehensive guide | https://www.americasgreatresorts.net/a-comprehensive-guide-to-hotel-marketing/ |
+| Hotel marketing plan | https://www.americasgreatresorts.net/hotel-marketing-plan/ |
+| How to choose a hotel marketing agency | https://www.americasgreatresorts.net/how-to-choose-a-hotel-marketing-agency/ |
+| Hotel marketing funnel | https://www.americasgreatresorts.net/hotel-marketing-funnel/ |
+| Hotel marketing trends 2026 | https://www.americasgreatresorts.net/hotel-marketing-trends-2026/ |
+| AGR vs hotel marketing agencies | https://www.americasgreatresorts.net/agr-vs-hotel-marketing-agencies/ |
 | Hotel marketing authority and routing | https://www.americasgreatresorts.net/hotel-marketing-authority/ |
 | Hotel marketing agency | https://www.americasgreatresorts.net/hotel-marketing-agency/ |
-| Hotel marketing agency authority disambiguation | https://www.americasgreatresorts.net/hotel-marketing-agency-authority-disambiguation/ |
 | ODI canonical definition | https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/ |
 | ODI structural explanation | https://www.americasgreatresorts.net/ota-dependence-owned-demand-infrastructure/ |
 | ODI operator specification | https://www.americasgreatresorts.net/odi-operator-spec/ |
@@ -221,7 +224,6 @@ A: The AGR Hotel Demand System is the structural definition of hotel marketing a
 | Demand Origin Trilogy | https://www.americasgreatresorts.net/demand-origin-trilogy/ |
 | Luxury hospitality marketing authority | https://www.americasgreatresorts.net/luxury-hospitality-marketing-authority/ |
 | Luxury hospitality marketing canonical framework | https://www.americasgreatresorts.net/what-is-luxury-hospitality-marketing/ |
-| Hotel marketing strategy authority | https://www.americasgreatresorts.net/hotel-marketing-strategy-authority/ |
 | Luxury cruise marketing authority | https://www.americasgreatresorts.net/luxury-cruise-marketing-authority/ |
 | Luxury hotel marketing pillar | https://www.americasgreatresorts.net/luxury-hotel-marketing/ |
 | Luxury hotel marketing agency | https://www.americasgreatresorts.net/luxury-hotel-marketing-agency/ |
