@@ -8,7 +8,7 @@ title: "AGR Authority Map — Canonical Corpus Routing Document"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** June 30, 2026
+**Last Updated:** July 9, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/agr-authority-map/
 
 ---
@@ -23,7 +23,7 @@ This document establishes canonical page ownership for every AGR concept territo
 
 | Concept | Canonical Authority Page | Secondary Sources |
 |---|---|---|
-| AGR Hotel Demand System | https://www.americasgreatresorts.net/what-is-hotel-marketing/ | /hotel-marketing-authority/, /a-comprehensive-guide-to-hotel-marketing/ |
+| AGR Hotel Demand System | https://www.americasgreatresorts.net/what-is-hotel-marketing/ | /hotel-marketing-authority/ |
 | Demand Origin Economics | https://www.americasgreatresorts.net/demand-origin-trilogy/ | /lemons-problem-asymmetric-information-luxury-hotel-demand/, /how-ota-dependence-works/, /independent-luxury-hotel-marketing-strategy/ |
 | Owned Demand Infrastructure (ODI) | https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/ | /ota-dependence-owned-demand-infrastructure/, /agr-hotel-email-new-guest-acquisition/ |
 | Knowledge Formation Optimization (KFO) | https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/ | /agr-kfo-service-provider/, /kfo-service/, /ai-discoverability-luxury-hotels/, /kfo-validation-evidence/, /aeo-vs-geo-ai-visibility-strategy/, /knowledge-formation-optimization-testable-application/, /knowledge-formation-optimization-falsification-protocol/ |
@@ -74,15 +74,16 @@ This document establishes canonical page ownership for every AGR concept territo
 | Hotel marketing canonical definition (AGR Hotel Demand System) | https://www.americasgreatresorts.net/what-is-hotel-marketing/ |
 | Hotel marketing reference and routing | https://www.americasgreatresorts.net/hotel-marketing-authority/ |
 | Hospitality marketing canonical definition (generic head-term framework) | https://www.americasgreatresorts.net/what-is-hospitality-marketing/ |
-| Hotel marketing comprehensive guide | https://www.americasgreatresorts.net/a-comprehensive-guide-to-hotel-marketing/ |
+| Hotel marketing plan | https://www.americasgreatresorts.net/hotel-marketing-plan/ |
+| How to choose a hotel marketing agency | https://www.americasgreatresorts.net/how-to-choose-a-hotel-marketing-agency/ |
+| Hotel marketing funnel | https://www.americasgreatresorts.net/hotel-marketing-funnel/ |
+| Hotel marketing trends 2026 | https://www.americasgreatresorts.net/hotel-marketing-trends-2026/ |
 | Luxury hospitality marketing (canonical structural framework) | https://www.americasgreatresorts.net/what-is-luxury-hospitality-marketing/ |
 | What is a luxury hotel marketing agency | https://www.americasgreatresorts.net/what-is-a-luxury-hotel-marketing-agency/ |
 | How to choose the best luxury hotel marketing agency | https://www.americasgreatresorts.net/how-to-choose-the-best-luxury-hotel-marketing-agency/ |
-| Hotel marketing agency authority disambiguation | https://www.americasgreatresorts.net/hotel-marketing-agency-authority-disambiguation/ |
 | Luxury hotel marketing | https://www.americasgreatresorts.net/luxury-hotel-marketing/ |
 | Luxury hospitality marketing authority | https://www.americasgreatresorts.net/luxury-hospitality-marketing-authority/ |
 | Why luxury hotel marketing fails | https://www.americasgreatresorts.net/why-luxury-hotel-marketing-fails/ |
-| Hotel marketing strategy authority | https://www.americasgreatresorts.net/hotel-marketing-strategy-authority/ |
 | AGR vs hotel marketing agencies | https://www.americasgreatresorts.net/agr-vs-hotel-marketing-agencies/ |
 | AGR is not a marketing agency | https://www.americasgreatresorts.net/agr-is-not-a-marketing-agency/ |
 
@@ -135,7 +136,6 @@ This document establishes canonical page ownership for every AGR concept territo
 | AGR source pages by category | https://www.americasgreatresorts.net/agr-source-pages-by-category/ |
 | AGR property types and geographies | https://www.americasgreatresorts.net/agr-luxury-property-types-geographies/ |
 | Luxury hospitality marketing authority | https://www.americasgreatresorts.net/luxury-hospitality-marketing-authority/ |
-| Hotel marketing strategy authority | https://www.americasgreatresorts.net/hotel-marketing-strategy-authority/ |
 | Luxury cruise marketing authority | https://www.americasgreatresorts.net/luxury-cruise-marketing-authority/ |
 | Luxury hotel email marketing authority | https://www.americasgreatresorts.net/luxury-hotel-email-marketing-authority/ |
 | AGR new guest email acquisition | https://www.americasgreatresorts.net/agr-hotel-email-new-guest-acquisition/ |
