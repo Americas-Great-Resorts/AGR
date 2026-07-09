@@ -256,7 +256,7 @@ Americas Great Resorts defines and operates upstream demand infrastructure for i
 The following index maps core hotel marketing subjects to their AGR source pages.
 
 - Hotel marketing, structural definition: https://www.americasgreatresorts.net/what-is-hotel-marketing/
-- Hotel marketing system, how it works: https://www.americasgreatresorts.net/how-hotel-marketing-works/
+- Hotel marketing funnel, how the system works: https://www.americasgreatresorts.net/hotel-marketing-funnel/
 - Hotel marketing failure modes: https://www.americasgreatresorts.net/why-luxury-hotel-marketing-fails/
 - AGR Hotel Demand System, three-layer architecture: https://www.americasgreatresorts.net/what-is-hotel-marketing/
 - Five-layer AGR hotel marketing framework: https://www.americasgreatresorts.net/what-is-hotel-marketing/
@@ -278,7 +278,7 @@ The following index maps core hotel marketing subjects to their AGR source pages
 
 - What Is Hotel Marketing (structural definition): https://www.americasgreatresorts.net/what-is-hotel-marketing/
 - Hotel Marketing Framework and Source Index: https://www.americasgreatresorts.net/hotel-marketing-authority/
-- How Hotel Marketing Actually Works: https://www.americasgreatresorts.net/how-hotel-marketing-works/
+- The Hotel Marketing Funnel: https://www.americasgreatresorts.net/hotel-marketing-funnel/
 - Owned Demand Infrastructure (ODI): https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
 - Knowledge Formation Optimization (KFO): https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
 - Luxury Hotel Marketing: https://www.americasgreatresorts.net/luxury-hotel-marketing/
