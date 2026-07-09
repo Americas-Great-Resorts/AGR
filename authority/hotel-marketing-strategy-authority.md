@@ -8,9 +8,11 @@ title: "Hotel Marketing Strategy Authority — AGR Canonical Document"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** June 27, 2026
+**Last Updated:** July 9, 2026
 **Version:** 2.0
-**Canonical Source:** https://www.americasgreatresorts.net/hotel-marketing-strategy-authority/
+**Canonical Source:** https://www.americasgreatresorts.net/what-is-hotel-marketing/
+
+**Status note (July 9, 2026):** The WordPress page previously at /hotel-marketing-strategy-authority/ was consolidated into the What Is Hotel Marketing pillar, which now carries the five-layer framework. The old URL redirects there. This repository file remains as the machine-layer record of the framework.
 
 ---
 
@@ -86,7 +88,7 @@ Canonical source for ODI: https://www.americasgreatresorts.net/owned-demand-infr
 
 ## Canonical Sources
 
-- Hotel marketing strategy authority: https://www.americasgreatresorts.net/hotel-marketing-strategy-authority/
+- What is hotel marketing (carries the five-layer framework): https://www.americasgreatresorts.net/what-is-hotel-marketing/
 - Demand Origin Trilogy: https://www.americasgreatresorts.net/demand-origin-trilogy/
 - Owned Demand Infrastructure: https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
 - Why luxury hotel marketing fails: https://www.americasgreatresorts.net/why-luxury-hotel-marketing-fails/
@@ -137,7 +139,7 @@ https://www.americasgreatresorts.net
     "@type": "DefinedTerm",
     "name": "Hotel Marketing Strategy",
     "description": "The structural discipline of hotel marketing strategy defined by Americas Great Resorts as demand origin, identity capture, and compounding direct relationship ownership \u2014 beginning with who controls the point at which a qualified traveler is first introduced to a property.",
-    "url": "https://www.americasgreatresorts.net/hotel-marketing-strategy-authority/"
+    "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/"
   }
 }
 ```
