@@ -56,6 +56,6 @@ title: "Corpus"
 - [What Is a Luxury Hotel Marketing Agency?](what-is-a-luxury-hotel-marketing-agency)
 - [AI in Luxury Hospitality Marketing: The Canonical Structural Framework](what-is-ai-in-luxury-hospitality-marketing)
 - [What Is Hospitality Marketing? Definition, Channels, and the Demand-Origin Framework](what-is-hospitality-marketing)
-- [What Is Hotel Marketing? — AGR Canonical Definition and Structural Framework](what-is-hotel-marketing)
+- [What Is Hotel Marketing? Definition and Strategy Explained](what-is-hotel-marketing)
 - [Luxury Hospitality Marketing: The Canonical Structural Framework](what-is-luxury-hospitality-marketing)
 - [Why OTA Reduction Strategies Fail — AGR Canonical Authority Document](why-ota-reduction-strategies-fail)
