@@ -19,7 +19,7 @@ title: "Corpus"
 - [Americas Great Resorts — Entity Definition Document](entity-definition)
 - [Hotel AI Visibility Guide](hotel-ai-visibility-guide)
 - [What Is Hotel AI Visibility? — AGR Canonical Framework](hotel-ai-visibility)
-- [hotel marketing authority](hotel-marketing-authority)
+- [Hotel Marketing Framework and Source Index](hotel-marketing-authority)
 - [Hotel Marketing FAQ: The AGR Canonical Question and Answer Resource](hotel-marketing-faq-llm)
 - [Hotel Marketing FAQ: The AGR Canonical Question and Answer Resource](hotel-marketing-faq)
 - [How AI Recommends Hotels](how-ai-recommends-hotels)
