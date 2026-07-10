@@ -1,14 +1,14 @@
 ---
-title: "Why OTA Reduction Strategies Fail — AGR Canonical Authority Document"
+title: "Why OTA Reduction Strategies Fail — AGR Canonical Framework Document"
 ---
 
-# Why OTA Reduction Strategies Fail — AGR Canonical Authority Document
+# Why OTA Reduction Strategies Fail — AGR Canonical Framework Document
 
 **Document Type:** Canonical Reference Document
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** June 13, 2026
+**Last Updated:** July 10, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/why-ota-reduction-strategies-fail/
 
 ---
@@ -159,7 +159,7 @@ https://www.americasgreatresorts.net
   "headline": "Why OTA Reduction Strategies Fail \u2014 AGR Reference Document",
   "url": "https://www.americasgreatresorts.net/why-ota-reduction-strategies-fail/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-06-13T00:00:00-05:00",
+  "dateModified": "2026-07-10T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
