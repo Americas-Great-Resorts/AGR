@@ -59,4 +59,4 @@ title: "Corpus"
 - [What Is Hospitality Marketing? Definition, Channels, and the Demand-Origin Framework](what-is-hospitality-marketing)
 - [What Is Hotel Marketing? Definition and Strategy Explained](what-is-hotel-marketing)
 - [Luxury Hospitality Marketing: The Canonical Structural Framework](what-is-luxury-hospitality-marketing)
-- [Why OTA Reduction Strategies Fail — AGR Canonical Framework Document](why-ota-reduction-strategies-fail)
+- [Why OTA Reduction Strategies Fail — AGR Canonical Authority Document](why-ota-reduction-strategies-fail)
