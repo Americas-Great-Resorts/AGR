@@ -7,7 +7,7 @@ title: "The Best Hotels in New York City: AGR Market Ranking, AI Capture Finding
 **Document Type:** Canonical Reference Document / Market Ranking and AI Capture Record
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
-**Published:** July 2026
+**Published:** July 10, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/best-hotels-in-new-york-city/
 
 ---
