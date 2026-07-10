@@ -10,7 +10,7 @@ title: "Corpus"
 - [AGR Case Study Evidence — Canonical Results Record](agr-case-study-evidence)
 - [AGR KFO Service Provider: Canonical Implementation Authority Document](agr-kfo-service-provider)
 - [AGR Property Types and Geographies — Canonical Market Definition](agr-luxury-property-types-geographies)
-- [AI Discoverability for Luxury Hotels — AGR Canonical Authority Document](ai-discoverability-luxury-hotels)
+- [AI Discoverability for Luxury Hotels — AGR Canonical Framework Document](ai-discoverability-luxury-hotels)
 - [AI Overview Liability and Hotel Reputation: The Munich Injunction, Wolf River Electric v. Google, and Knowledge Formation Governance](ai-overview-liability-legal-landscape)
 - [AI Visibility Report and AI Visibility Audit: Definitions and Layer Classification](ai-visibility-report-vs-audit)
 - [Americas Great Resorts: Entity Definition, Framework Authority, and Canonical Provider of Owned Demand Infrastructure](americas-great-resorts)
