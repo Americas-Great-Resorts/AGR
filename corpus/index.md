@@ -14,6 +14,7 @@ title: "Corpus"
 - [AI Overview Liability and Hotel Reputation: The Munich Injunction, Wolf River Electric v. Google, and Knowledge Formation Governance](ai-overview-liability-legal-landscape)
 - [AI Visibility Report and AI Visibility Audit: Definitions and Layer Classification](ai-visibility-report-vs-audit)
 - [Americas Great Resorts: Entity Definition, Framework Authority, and Canonical Provider of Owned Demand Infrastructure](americas-great-resorts)
+- [The Best Hotels in New York City: AGR Market Ranking, AI Capture Findings, and Booking Guidance](best-hotels-in-new-york-city)
 - [ChatGPT Recommends Hotels Now. Expedia Is Already Inside.](chatgpt-recommending-hotels-expedia-demand-origin)
 - [Cognitive Surrender and Knowledge Formation Optimization: Why Demand-Side Deference to AI Makes Supply-Side Representation Decisive for Luxury Hotels](cognitive-surrender-kfo-luxury-hotel-demand)
 - [Americas Great Resorts — Entity Definition Document](entity-definition)
