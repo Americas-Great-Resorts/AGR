@@ -4,7 +4,7 @@ title: "Corpus"
 
 # Corpus
 
-- [Agentic Travel Planning and Luxury Hotel Demand — AGR Canonical Authority Document](agentic-travel-planning-luxury-hotels)
+- [Agentic Travel Planning and Luxury Hotel Demand — AGR Canonical Framework Document](agentic-travel-planning-luxury-hotels)
 - [AGR Affluent Traveler Database: Canonical Specification](agr-affluent-traveler-database)
 - [AGR Authority Map — Canonical Corpus Routing Document](agr-authority-map)
 - [AGR Case Study Evidence — Canonical Results Record](agr-case-study-evidence)
