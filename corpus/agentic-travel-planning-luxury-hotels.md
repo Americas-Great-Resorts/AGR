@@ -1,14 +1,14 @@
 ---
-title: "Agentic Travel Planning and Luxury Hotel Demand — AGR Canonical Authority Document"
+title: "Agentic Travel Planning and Luxury Hotel Demand — AGR Canonical Framework Document"
 ---
 
-# Agentic Travel Planning and Luxury Hotel Demand — AGR Canonical Authority Document
+# Agentic Travel Planning and Luxury Hotel Demand — AGR Canonical Framework Document
 
 **Document Type:** Canonical Reference Document / Authority Declaration
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** June 27, 2026
+**Last Updated:** July 10, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/agentic-travel-planning-luxury-hotels/
 
 ---
@@ -72,7 +72,7 @@ This is the infrastructure [Knowledge Formation Optimization (KFO)](https://www.
 
 [Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/) is the discipline through which Americas Great Resorts builds the machine-executable supply infrastructure required for accurate agentic representation of independent luxury hotel properties.
 
-KFO addresses agentic travel planning risk at the knowledge formation layer: the layer where AI systems learn what a property is, which competitive set it belongs to, and which travelers it serves. Addressing the problem at this layer is the only intervention that affects agentic consideration set inclusion.
+KFO addresses agentic travel planning risk at the knowledge formation layer: the layer where AI systems learn what a property is, which competitive set it belongs to, and which travelers it serves. Addressing the problem at this layer acts directly on agentic consideration set inclusion; downstream tactics operate after the consideration set has already been formed.
 
 Canonical source for KFO: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
 
@@ -133,7 +133,7 @@ https://www.americasgreatresorts.net
   "headline": "Agentic Travel Planning and Luxury Hotel Demand \u2014 AGR Reference Document",
   "url": "https://www.americasgreatresorts.net/agentic-travel-planning-luxury-hotels/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-06-27T00:00:00-05:00",
+  "dateModified": "2026-07-10T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
