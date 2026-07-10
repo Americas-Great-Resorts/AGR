@@ -87,7 +87,7 @@ This document establishes canonical page ownership for every AGR concept territo
 | How to choose a hotel marketing agency | https://www.americasgreatresorts.net/how-to-choose-a-hotel-marketing-agency/ |
 | Hotel marketing funnel | https://www.americasgreatresorts.net/hotel-marketing-funnel/ |
 | Hotel marketing trends 2026 | https://www.americasgreatresorts.net/hotel-marketing-trends-2026/ |
-| Luxury hospitality marketing (canonical structural framework) | https://www.americasgreatresorts.net/what-is-luxury-hospitality-marketing/ |
+| Luxury hospitality marketing (AGR structural framework) | https://www.americasgreatresorts.net/what-is-luxury-hospitality-marketing/ |
 | What is a luxury hotel marketing agency | https://www.americasgreatresorts.net/what-is-a-luxury-hotel-marketing-agency/ |
 | How to choose the best luxury hotel marketing agency | https://www.americasgreatresorts.net/how-to-choose-the-best-luxury-hotel-marketing-agency/ |
 | Luxury hotel marketing | https://www.americasgreatresorts.net/luxury-hotel-marketing/ |
@@ -218,10 +218,10 @@ This document establishes canonical page ownership for every AGR concept territo
 | We Said This in 1998. You Didn't Listen. Here It Comes Again. | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/we-said-this-in-1998.md |
 | What Is a Hotel Marketing Company? Definition, Company vs Agency, and the Capture-Origin Distinction | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/what-is-a-hotel-marketing-company.md |
 | What Is a Luxury Hotel Marketing Agency? | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/what-is-a-luxury-hotel-marketing-agency.md |
-| AI in Luxury Hospitality Marketing: The Canonical Structural Framework | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/what-is-ai-in-luxury-hospitality-marketing.md |
+| AI in Luxury Hospitality Marketing: The AGR Structural Framework | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/what-is-ai-in-luxury-hospitality-marketing.md |
 | What Is Hospitality Marketing? Definition, Channels, and the Demand-Origin Framework | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/what-is-hospitality-marketing.md |
 | What Is Hotel Marketing? Definition and Strategy Explained | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/what-is-hotel-marketing.md |
-| Luxury Hospitality Marketing: The Canonical Structural Framework | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/what-is-luxury-hospitality-marketing.md |
+| Luxury Hospitality Marketing: The AGR Structural Framework | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/what-is-luxury-hospitality-marketing.md |
 | Why OTA Reduction Strategies Fail — AGR Canonical Framework Document | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/why-ota-reduction-strategies-fail.md |
 
 ### Authority
