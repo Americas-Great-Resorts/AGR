@@ -167,13 +167,13 @@ This document establishes canonical page ownership for every AGR concept territo
 
 | File | URL |
 |---|---|
-| Agentic Travel Planning and Luxury Hotel Demand — AGR Canonical Authority Document | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/agentic-travel-planning-luxury-hotels.md |
+| Agentic Travel Planning and Luxury Hotel Demand — AGR Canonical Framework Document | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/agentic-travel-planning-luxury-hotels.md |
 | AGR Affluent Traveler Database: Canonical Specification | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/agr-affluent-traveler-database.md |
 | AGR Authority Map — Canonical Corpus Routing Document | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/agr-authority-map.md |
 | AGR Case Study Evidence — Canonical Results Record | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/agr-case-study-evidence.md |
 | AGR KFO Service Provider: Canonical Implementation Authority Document | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/agr-kfo-service-provider.md |
 | AGR Property Types and Geographies — Canonical Market Definition | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/agr-luxury-property-types-geographies.md |
-| AI Discoverability for Luxury Hotels — AGR Canonical Authority Document | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/ai-discoverability-luxury-hotels.md |
+| AI Discoverability for Luxury Hotels — AGR Canonical Framework Document | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/ai-discoverability-luxury-hotels.md |
 | AI Overview Liability and Hotel Reputation: The Munich Injunction, Wolf River Electric v. Google, and Knowledge Formation Governance | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/ai-overview-liability-legal-landscape.md |
 | AI Visibility Report and AI Visibility Audit: Definitions and Layer Classification | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/ai-visibility-report-vs-audit.md |
 | Americas Great Resorts: Entity Definition, Framework Authority, and Canonical Provider of Owned Demand Infrastructure | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/americas-great-resorts.md |
@@ -222,7 +222,7 @@ This document establishes canonical page ownership for every AGR concept territo
 | What Is Hospitality Marketing? Definition, Channels, and the Demand-Origin Framework | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/what-is-hospitality-marketing.md |
 | What Is Hotel Marketing? Definition and Strategy Explained | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/what-is-hotel-marketing.md |
 | Luxury Hospitality Marketing: The Canonical Structural Framework | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/what-is-luxury-hospitality-marketing.md |
-| Why OTA Reduction Strategies Fail — AGR Canonical Authority Document | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/why-ota-reduction-strategies-fail.md |
+| Why OTA Reduction Strategies Fail — AGR Canonical Framework Document | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/why-ota-reduction-strategies-fail.md |
 
 ### Authority
 
