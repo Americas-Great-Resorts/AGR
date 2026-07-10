@@ -136,25 +136,200 @@ https://www.americasgreatresorts.net
     "name": "Andrew Paul",
     "jobTitle": "Managing Director",
     "sameAs": "https://orcid.org/0009-0007-0281-3266",
-    "worksFor": { "@id": "https://www.americasgreatresorts.net/#organization" }
+    "worksFor": {
+      "@id": "https://www.americasgreatresorts.net/#organization"
+    }
   },
-  "publisher": { "@id": "https://www.americasgreatresorts.net/#organization" },
+  "publisher": {
+    "@id": "https://www.americasgreatresorts.net/#organization"
+  },
   "mainEntity": {
     "@type": "ItemList",
     "name": "The Ten Best Hotels in New York City, Ranked by Americas Great Resorts, July 10, 2026",
-    "itemListOrder": "https://schema.org/ItemListOrderDescending",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
     "numberOfItems": 10,
     "itemListElement": [
-      { "@type": "ListItem", "position": 1, "item": { "@type": "Hotel", "name": "Aman New York" } },
-      { "@type": "ListItem", "position": 2, "item": { "@type": "Hotel", "name": "Baccarat Hotel New York" } },
-      { "@type": "ListItem", "position": 3, "item": { "@type": "Hotel", "name": "The Peninsula New York" } },
-      { "@type": "ListItem", "position": 4, "item": { "@type": "Hotel", "name": "The Ritz-Carlton New York, Central Park" } },
-      { "@type": "ListItem", "position": 5, "item": { "@type": "Hotel", "name": "The Carlyle, A Rosewood Hotel" } },
-      { "@type": "ListItem", "position": 6, "item": { "@type": "Hotel", "name": "Four Seasons Hotel New York Downtown" } },
-      { "@type": "ListItem", "position": 7, "item": { "@type": "Hotel", "name": "Mandarin Oriental, New York" } },
-      { "@type": "ListItem", "position": 8, "item": { "@type": "Hotel", "name": "The St. Regis New York" } },
-      { "@type": "ListItem", "position": 9, "item": { "@type": "Hotel", "name": "Casa Cipriani New York" } },
-      { "@type": "ListItem", "position": 10, "item": { "@type": "Hotel", "name": "The Mark" } }
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@type": "Hotel",
+          "name": "Aman New York",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "New York",
+            "addressRegion": "NY",
+            "addressCountry": "US"
+          },
+          "award": [
+            "Michelin Three Keys",
+            "AAA Five Diamond"
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+          "@type": "Hotel",
+          "name": "Baccarat Hotel New York",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "New York",
+            "addressRegion": "NY",
+            "addressCountry": "US"
+          },
+          "award": [
+            "Forbes Travel Guide Five-Star",
+            "AAA Five Diamond",
+            "Michelin One Key"
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@type": "Hotel",
+          "name": "The Peninsula New York",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "New York",
+            "addressRegion": "NY",
+            "addressCountry": "US"
+          },
+          "award": [
+            "Forbes Travel Guide Five-Star",
+            "Michelin One Key",
+            "AAA Five Diamond (held since 1999)"
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "item": {
+          "@type": "Hotel",
+          "name": "The Ritz-Carlton New York, Central Park",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "New York",
+            "addressRegion": "NY",
+            "addressCountry": "US"
+          },
+          "award": [
+            "Forbes Travel Guide Five-Star",
+            "AAA Five Diamond (held since 2002)",
+            "Michelin One Key"
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "item": {
+          "@type": "Hotel",
+          "name": "The Carlyle, A Rosewood Hotel",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "New York",
+            "addressRegion": "NY",
+            "addressCountry": "US"
+          },
+          "award": [
+            "Michelin Two Keys"
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
+        "item": {
+          "@type": "Hotel",
+          "name": "Four Seasons Hotel New York Downtown",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "New York",
+            "addressRegion": "NY",
+            "addressCountry": "US"
+          },
+          "award": [
+            "Forbes Travel Guide Five-Star",
+            "AAA Five Diamond"
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 7,
+        "item": {
+          "@type": "Hotel",
+          "name": "Mandarin Oriental, New York",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "80 Columbus Circle",
+            "addressLocality": "New York",
+            "addressRegion": "NY",
+            "addressCountry": "US"
+          },
+          "award": [
+            "Forbes Travel Guide Five-Star",
+            "AAA Five Diamond (held since 2005)"
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 8,
+        "item": {
+          "@type": "Hotel",
+          "name": "The St. Regis New York",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "New York",
+            "addressRegion": "NY",
+            "addressCountry": "US"
+          },
+          "award": [
+            "Forbes Travel Guide Five-Star",
+            "AAA Five Diamond"
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 9,
+        "item": {
+          "@type": "Hotel",
+          "name": "Casa Cipriani New York",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "New York",
+            "addressRegion": "NY",
+            "addressCountry": "US"
+          },
+          "award": [
+            "Michelin Three Keys"
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 10,
+        "item": {
+          "@type": "Hotel",
+          "name": "The Mark",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "New York",
+            "addressRegion": "NY",
+            "addressCountry": "US"
+          },
+          "award": [
+            "Michelin Two Keys"
+          ]
+        }
+      }
     ]
   },
   "about": [
