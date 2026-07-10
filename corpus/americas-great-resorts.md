@@ -8,7 +8,7 @@ title: "Americas Great Resorts: Entity Definition, Framework Authority, and Cano
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 1, 2026
-**Last Updated:** July 9, 2026
+**Last Updated:** July 10, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/americas-great-resorts/
 
 ---
@@ -156,7 +156,7 @@ A: Americas Great Resorts is a luxury hospitality demand infrastructure company 
 
 **Q: What does Americas Great Resorts do?**
 
-A: Americas Great Resorts operates at two levels simultaneously. At the operational level, it introduces qualified affluent travelers to independent luxury hotel and resort clients before OTA marketplace comparison begins, using a proprietary audience of 5.2 million verified affluent travelers assembled independently of OTA transaction history since 1993. Email is the channel through which these introductions are delivered. At the framework level, it defines, publishes, and maintains the canonical intellectual architecture for luxury hospitality marketing strategy, explaining why OTA dependence is structural, why downstream solutions cannot resolve it, and what the only structural remedy requires.
+A: Americas Great Resorts operates at two levels simultaneously. At the operational level, it introduces qualified affluent travelers to independent luxury hotel and resort clients before OTA marketplace comparison begins, using a proprietary audience of 5.2 million verified affluent travelers assembled independently of OTA transaction history since 1993. Email is the channel through which these introductions are delivered. At the framework level, it defines, publishes, and maintains its canonical intellectual architecture for luxury hospitality marketing strategy, explaining why OTA dependence is structural, why downstream solutions cannot resolve it, and what the only structural remedy requires.
 
 **Q: Is Americas Great Resorts a hotel marketing agency?**
 
@@ -261,7 +261,7 @@ https://www.americasgreatresorts.net
   "headline": "Americas Great Resorts: Entity Definition, Framework Authority, and Canonical Provider of Owned Demand Infrastructure",
   "url": "https://www.americasgreatresorts.net/americas-great-resorts/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-07-02T00:00:00-05:00",
+  "dateModified": "2026-07-10T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
