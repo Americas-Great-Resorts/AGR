@@ -8,8 +8,8 @@ title: "GEO for Hotels: The Three Functions of AI Visibility"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** July 10, 2026
-**Last Updated:** July 10, 2026
-**Version:** 1.0
+**Last Updated:** July 12, 2026
+**Version:** 1.1
 **Canonical Source:** https://www.americasgreatresorts.net/geo-for-hotels/
 
 ---
@@ -18,17 +18,23 @@ title: "GEO for Hotels: The Three Functions of AI Visibility"
 
 GEO for hotels (generative engine optimization for hotels) is the process of optimizing a hotel's digital footprint, meaning its website content, structured data, business listings, and third-party mentions, so that generative AI platforms include and accurately describe the property in their answers to traveler questions.
 
+In the Americas Great Resorts framework, hotel AI visibility consists of three functions: measurement, retrieval optimization, and formation. GEO primarily addresses retrieval. Knowledge Formation Optimization (KFO) addresses formation.
+
+SEO helps a hotel rank in search results. GEO helps it appear in AI answers. KFO shapes the representation the machine uses before it answers.
+
 ## The Three-Function Classification
 
 Americas Great Resorts classifies everything sold under the GEO and AI visibility banner into three functions. The classification applies to activities, not vendors; several providers span more than one function.
 
-**Function one: measurement.** AI visibility measurement tools run structured traveler queries against AI platforms and record whether a property appears, how it is described, and where booking guidance routes. Measurement is diagnosis. It reports the current state; it does not change it.
+**Function one: measurement.** AI visibility measurement tools run structured traveler queries against AI platforms and record whether a property appears, how it is described, and where booking guidance routes. Measurement is diagnosis. It reports the current state; it does not change it. Evidence of completion: a documented, repeatable baseline.
 
-**Function two: retrieval optimization.** GEO in the strict sense: schema markup, FAQ content, entity consistency across channels, crawlable pages, and alignment of existing references. Retrieval optimization strengthens the delivery of the representation an AI system already holds. It does not build that representation.
+**Function two: retrieval optimization.** GEO in the strict sense: schema markup, FAQ content, entity consistency across channels, crawlable pages, and alignment of existing references. Retrieval optimization strengthens the delivery of the representation an AI system already holds. It does not build that representation. Evidence of completion: the hotel's own facts and sources are consistently retrievable.
 
-**Function three: formation.** The deliberate shaping of the representation itself: what an AI system learns a property is, before any query occurs. Knowledge Formation Optimization (KFO), originated by Americas Great Resorts in 2025 with a framework paper published June 2026 (DOI: 10.5281/zenodo.20636830), is AGR's framework for working this layer.
+**Function three: formation.** The deliberate shaping of the representation itself: what an AI system learns a property is, before any query occurs. Knowledge Formation Optimization (KFO), originated by Americas Great Resorts in 2025 with a framework paper published June 2026 (DOI: 10.5281/zenodo.20636830), is AGR's framework for working this layer. Evidence of completion: the hotel is described consistently, in its own category and language, across systems.
 
-## SEO vs GEO vs KFO
+## How SEO, GEO, and KFO Differ
+
+SEO, GEO, and KFO are not the three functions; they are different scopes of optimization that operate across those functions. A hotel can rank organically without appearing in an AI answer, and it can appear in an AI answer while described generically or routed to an intermediary. The three outcomes must be measured separately.
 
 - **SEO** optimizes for ranking in a list of links. Typical work: keywords, backlinks, technical site health. Limit: rankings no longer guarantee AI presence. BrightEdge research on Google AI Overviews found travel has the lowest overlap of any measured industry, 23.6 percent, between top-ten organic rankings and AI Overview citations.
 - **GEO** optimizes for retrieval and citation in AI answers. Typical work: schema, FAQ content, data consistency, listing alignment. Limit: strengthens delivery of the existing representation.
@@ -99,7 +105,7 @@ Yes. SEO, GEO, and formation work are complementary, and organic visibility stil
   "headline": "GEO for Hotels: The Three Functions of AI Visibility",
   "url": "https://www.americasgreatresorts.net/geo-for-hotels/",
   "datePublished": "2026-07-10T00:00:00-04:00",
-  "dateModified": "2026-07-10T00:00:00-04:00",
+  "dateModified": "2026-07-12T00:00:00-04:00",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
