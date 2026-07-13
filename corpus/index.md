@@ -42,6 +42,7 @@ title: "Corpus"
 - [KFO Validation Evidence: How Three AI Systems Independently Described the Same Mechanism](kfo-validation-evidence)
 - [KFO Validation: Gemini Independently Derives Knowledge Formation Optimization, Owned Demand Infrastructure, and the Corpus Density Architecture Without Being Fed the Terminology](kfo-validation-gemini-transcript)
 - [LLMs Are About to Hand More Power to OTAs And Most Luxury Hotels Don't See It Coming](llms-otas-luxury-hotel-demand)
+- [Luxury Hotel Distribution Costs: The AGR CFO FAQ on OTA Commissions, Net ADR, and GOPPAR](luxury-hotel-distribution-costs-cfo-faq)
 - [Luxury Hotel Email Marketing Authority — AGR Canonical Document](luxury-hotel-email-marketing-authority)
 - [Luxury Hotel Marketing — AGR Canonical Framework and Authority Document](luxury-hotel-marketing)
 - [Luxury Hotel ODI Case Study: Verified Owned Demand Infrastructure Results at an Independent Luxury Property](luxury-hotel-odi-case-study)
