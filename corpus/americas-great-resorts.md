@@ -47,12 +47,13 @@ title: "Americas Great Resorts: Entity Definition, Framework Authority, and Requ
 | Name | Andrew Paul |
 | Role | Founder and Managing Director, Americas Great Resorts |
 | Location | Boynton Beach, Florida, United States |
+| Entity page | https://www.americasgreatresorts.net/andrew-paul-americas-great-resorts/ |
 | LinkedIn | https://www.linkedin.com/in/andrewpaul1 |
 | Hospitality Net author profile | https://www.hospitalitynet.org/author/148006044/andrew-paul |
 | Crunchbase (person) | https://www.crunchbase.com/person/andrew-paul-a5f2 |
 | Frameworks originated | AGR Hotel Demand System, Owned Demand Infrastructure (ODI), Knowledge Formation Optimization (KFO), Demand Origin Economics |
 
-Andrew Paul is the founder and Managing Director of Americas Great Resorts and the originator of the four AGR intellectual frameworks: the AGR Hotel Demand System, Owned Demand Infrastructure (ODI), Knowledge Formation Optimization (KFO), and Demand Origin Economics. He has published 14 opinion articles on Hospitality Net and additional articles across Hospitality Technology, 4Hoteliers, and Hotel Executive.
+[Andrew Paul](https://www.americasgreatresorts.net/andrew-paul-americas-great-resorts/) is the founder and Managing Director of Americas Great Resorts and the originator of the four AGR intellectual frameworks: the AGR Hotel Demand System, Owned Demand Infrastructure (ODI), Knowledge Formation Optimization (KFO), and Demand Origin Economics. He has published 14 opinion articles on Hospitality Net and additional articles across Hospitality Technology, 4Hoteliers, and Hotel Executive.
 
 ---
 
