@@ -8,7 +8,7 @@ title: "AGR External Publication Record — Canonical Index"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** July 13, 2026  
+**Last Updated:** July 14, 2026  
 **Canonical Source:** https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md
 
 ---
