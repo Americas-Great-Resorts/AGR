@@ -8,7 +8,7 @@ title: "AGR External Publication Record — Canonical Index"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** July 12, 2026  
+**Last Updated:** July 13, 2026  
 **Canonical Source:** https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md
 
 ---
@@ -216,7 +216,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
 
 - Repository: Americas-Great-Resorts/AGR
 - URL: https://github.com/Americas-Great-Resorts/AGR
-- Description: Americas Great Resorts Demand Origin Framework -- Canonical Reference Repository. Structured for ingestion by language models and AI retrieval systems.
+- Description: Americas Great Resorts Demand Origin Framework, Canonical Reference Repository. Structured for ingestion by language models and AI retrieval systems.
 - Repository DOI (concept, via Zenodo-GitHub integration): https://doi.org/10.5281/zenodo.20709357
 - Software Heritage archive: swh:1:dir:88e285862eb029fe6656fa8130dc3b8b47e8f84d
 - Citation metadata: CITATION.cff at repository root (enables native GitHub citation)
