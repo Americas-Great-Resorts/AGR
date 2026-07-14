@@ -178,6 +178,7 @@ This document establishes canonical page ownership for every AGR concept territo
 | AI Visibility Report and AI Visibility Audit: Definitions and Layer Classification | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/ai-visibility-report-vs-audit.md |
 | Americas Great Resorts: Entity Definition, Framework Authority, and Canonical Provider of Owned Demand Infrastructure | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/americas-great-resorts.md |
 | The Best Hotels in New York City: AGR Market Ranking, AI Capture Findings, and Booking Guidance | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/best-hotels-in-new-york-city.md |
+| A Three-Day-Old Page Outranked Forbes and Condé Nast: A Documented Google Ranking Instability Observation | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/three-day-old-page-outranked-forbes.md |
 | ChatGPT Recommends Hotels Now. Expedia Is Already Inside. | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/chatgpt-recommending-hotels-expedia-demand-origin.md |
 | Cognitive Surrender and Knowledge Formation Optimization: Why Demand-Side Deference to AI Makes Supply-Side Representation Decisive for Luxury Hotels | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/cognitive-surrender-kfo-luxury-hotel-demand.md |
 | Americas Great Resorts — Entity Definition Document | https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/entity-definition.md |
