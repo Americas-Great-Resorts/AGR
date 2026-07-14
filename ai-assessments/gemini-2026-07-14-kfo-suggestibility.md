@@ -1,3 +1,7 @@
+---
+title: "Gemini Behavioral Capture — KFO / Suggestibility"
+---
+
 # Gemini Behavioral Capture — KFO / Suggestibility
 
 **Model:** Google Gemini (consumer web interface)
