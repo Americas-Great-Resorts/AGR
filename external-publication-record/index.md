@@ -260,6 +260,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
   * AI Overview Liability and Hotel Reputation -- The Munich Injunction, Wolf River Electric v. Google, and Knowledge Formation Governance: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/ai-overview-liability-legal-landscape.md
   * How AI Recommends Hotels: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/how-ai-recommends-hotels.md
   * The Best Hotels in New York City -- AGR Market Ranking, AI Capture Findings, and Booking Guidance: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/best-hotels-in-new-york-city.md
+  * A Three-Day-Old Page Outranked Forbes and Condé Nast -- A Documented Google Ranking Instability Observation: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/three-day-old-page-outranked-forbes.md
   * Why Luxury Hotels Are Already Invisible to AI: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/luxury-hotels-invisible-to-ai.md
   * The Machine Already Decided -- Hotel AI Classification: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/machine-already-decided-hotel-ai-classification.md
   * AI Discoverability for Luxury Hotels: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/ai-discoverability-luxury-hotels.md
