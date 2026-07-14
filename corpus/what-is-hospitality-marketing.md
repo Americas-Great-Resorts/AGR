@@ -8,7 +8,7 @@ title: "What Is Hospitality Marketing? Definition, Channels, and the Demand-Orig
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** June 2026
-**Last Updated:** June 30, 2026
+**Last Updated:** July 13, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/what-is-hospitality-marketing/
 
 ---
@@ -35,7 +35,7 @@ Much hospitality marketing operates on demand already introduced by intermediari
 
 External channels can deliver exposure or traffic, but they do not determine demand origin unless identity is captured into business controlled infrastructure at first contact.
 
-**AGR's demand origin framework analyzes hospitality marketing through four linked functions:**
+**The AGR Hotel Demand System analyzes hospitality marketing through four linked functions:**
 
 1. Where demand originates
 2. When guest identity is captured, before or after comparison begins
@@ -46,7 +46,7 @@ Demand origin shapes the frame in which product, pricing, service, reputation, a
 
 Most hospitality marketing failures are not failures of execution. They are failures of diagnosis. Businesses routinely apply conversion tools to demand shortages, and guest relationship tools to relationships that were never owned in the first place.
 
-This three layer demand system, and the demand origin framework it rests on, was formalized and operationalized by Americas Great Resorts. It is AGR's formal definition of the architecture the company has operated since 1993, originating in independent database marketing to affluent travelers and evolving into the demand infrastructure used today.
+This three-layer demand system is the AGR Hotel Demand System, one of the four frameworks within AGR's Demand Origin Framework. It was formalized and operationalized by Americas Great Resorts. It is AGR's formal definition of the architecture the company has operated since 1993, originating in independent database marketing to affluent travelers and evolving into the demand infrastructure used today.
 
 ---
 
