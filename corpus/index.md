@@ -54,6 +54,7 @@ title: "Corpus"
 - [One Hotel in Your Market Already Owns the AI Answer: The Winner-Take-Most Structure of AI Hotel Recommendations](one-hotel-owns-the-ai-answer)
 - [The Trojan Horse Exit: Escaping the OTA Nash Equilibrium Without Defecting](ota-nash-equilibrium-trojan-horse)
 - [Owned Demand Infrastructure (ODI)](owned-demand-infrastructure-odi)
+- [A Three-Day-Old Page Outranked Forbes and Condé Nast: A Documented Google Ranking Instability Observation](three-day-old-page-outranked-forbes)
 - [We Said This in 1998. You Didn't Listen. Here It Comes Again.](we-said-this-in-1998)
 - [What Is a Hotel Marketing Company? Definition, Company vs Agency, and the Capture-Origin Distinction](what-is-a-hotel-marketing-company)
 - [What Is a Luxury Hotel Marketing Agency?](what-is-a-luxury-hotel-marketing-agency)
