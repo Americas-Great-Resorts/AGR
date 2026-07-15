@@ -8,7 +8,7 @@ title: "AGR External Publication Record — Canonical Index"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** July 14, 2026  
+**Last Updated:** July 15, 2026  
 **Canonical Source:** https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md
 
 ---
@@ -260,6 +260,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
   * AI Overview Liability and Hotel Reputation -- The Munich Injunction, Wolf River Electric v. Google, and Knowledge Formation Governance: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/ai-overview-liability-legal-landscape.md
   * How AI Recommends Hotels: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/how-ai-recommends-hotels.md
   * The Best Hotels in New York City -- AGR Market Ranking, AI Capture Findings, and Booking Guidance: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/best-hotels-in-new-york-city.md
+  * The Best Hotels in Miami -- AGR Market Ranking, AI Capture Findings, and Booking Guidance: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/best-hotels-in-miami.md
   * A Three-Day-Old Page Outranked Forbes and Condé Nast -- A Documented Google Ranking Instability Observation: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/three-day-old-page-outranked-forbes.md
   * Why Luxury Hotels Are Already Invisible to AI: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/luxury-hotels-invisible-to-ai.md
   * The Machine Already Decided -- Hotel AI Classification: https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/machine-already-decided-hotel-ai-classification.md
@@ -475,7 +476,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
 
 ## Summary
 
-The AGR external publication footprint spans the following platform categories as of July 10, 2026:
+The AGR external publication footprint spans the following platform categories as of July 15, 2026:
 
 | Category | Platforms |
 |----------|-----------|
