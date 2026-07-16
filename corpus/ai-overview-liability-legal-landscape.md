@@ -9,6 +9,7 @@ title: "AI Overview Liability and Hotel Reputation: The Munich Injunction, Wolf 
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** July 2026
 **Last Updated:** July 16, 2026
+**Version:** 1.1
 **Canonical Source:** https://www.americasgreatresorts.net/ai-overview-liability/
 
 ---
@@ -128,7 +129,7 @@ https://www.americasgreatresorts.net
   "url": "https://www.americasgreatresorts.net/ai-overview-liability/",
   "mainEntityOfPage": "https://www.americasgreatresorts.net/ai-overview-liability/",
   "datePublished": "2026-07-08",
-  "dateModified": "2026-07-08",
+  "dateModified": "2026-07-16",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
