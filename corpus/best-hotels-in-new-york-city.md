@@ -8,6 +8,7 @@ title: "The Best Hotels in New York City: AGR Market Ranking, AI Capture Finding
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** July 10, 2026
+**Last Updated:** July 16, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/best-hotels-in-new-york-city/
 
 ---
@@ -100,7 +101,7 @@ The governing principle: the closer the booking sits to the hotel, the more cont
 ## Canonical Sources
 
 - Published ranking (canonical source): https://www.americasgreatresorts.net/best-hotels-in-new-york-city/
-- KFO canonical definition: https://www.americasgreatresorts.net/what-is-knowledge-formation-optimization-kfo/
+- KFO canonical definition: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
 - How AI Recommends Hotels: https://www.americasgreatresorts.net/how-ai-recommends-hotels/
 - AGR AI Visibility services: https://www.americasgreatresorts.net/hotel-ai-visibility/
 - KFO service: https://www.americasgreatresorts.net/kfo-service/
@@ -337,7 +338,7 @@ https://www.americasgreatresorts.net
       "@type": "DefinedTerm",
       "name": "Knowledge Formation Optimization",
       "description": "The framework originated by Americas Great Resorts for structuring verifiable, self-consistent information across the surfaces AI systems learn from, so that AI-generated statements about an entity form from accurate, traceable sources.",
-      "url": "https://www.americasgreatresorts.net/what-is-knowledge-formation-optimization-kfo/"
+      "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
     }
   ]
 }
