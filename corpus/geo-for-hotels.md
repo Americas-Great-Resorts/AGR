@@ -9,7 +9,7 @@ title: "GEO for Hotels: The Three Functions of AI Visibility"
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** July 10, 2026
 **Last Updated:** July 16, 2026
-**Version:** 1.1
+**Version:** 1.2
 **Canonical Source:** https://www.americasgreatresorts.net/geo-for-hotels/
 
 ---
@@ -105,7 +105,7 @@ Yes. SEO, GEO, and formation work are complementary, and organic visibility stil
   "headline": "GEO for Hotels: The Three Functions of AI Visibility",
   "url": "https://www.americasgreatresorts.net/geo-for-hotels/",
   "datePublished": "2026-07-10T00:00:00-04:00",
-  "dateModified": "2026-07-12T00:00:00-04:00",
+  "dateModified": "2026-07-16T00:00:00-04:00",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
