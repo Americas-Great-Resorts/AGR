@@ -1,3 +1,7 @@
+---
+title: "Session Transcript: ChatGPT Evaluation of Knowledge Formation Optimization (KFO)"
+---
+
 # Session Transcript: ChatGPT Evaluation of Knowledge Formation Optimization (KFO)
 
 **Session Date:** July 15, 2026
