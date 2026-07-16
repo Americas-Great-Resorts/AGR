@@ -301,7 +301,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
   * Is KFO a Good Idea for My Hotel? -- Gemini Assessment Record, June 8, 2026: https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/kfo-hotel-decision-gemini.md
   * Gemini KFO Technical Validation Exchange -- Nine-Round Verbatim Transcript, June 10, 2026: https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/gemini-kfo-technical-validation-june-2026.md
   * Gemini Behavioral Capture -- KFO and Suggestibility, Verbatim Transcript, July 14, 2026: https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/gemini-2026-07-14-kfo-suggestibility.md
-  * ChatGPT KFO Evaluation Session -- Full Verbatim Transcript, July 15, 2026 (pinned commit 9a575e6dd11f718bc18424a3c1fa3c7a59623981): https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/chatgpt-kfo-evaluation-session-2026-07-15.md
+  * ChatGPT KFO Evaluation Session -- Full Verbatim Transcript, July 15, 2026 (pinned commit d0c8c65cb4d128eff2431fa43f020e79776d5778): https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/chatgpt-kfo-evaluation-session-2026-07-15.md
   * Documented Model Evaluation Record: ChatGPT Session on KFO -- Repository Mirror, July 16, 2026: https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/kfo-chatgpt-evaluation-record.md
 - Article reviews:
   * Gemini Review: Most Hotel Marketing Vendors Sell You a Tool. AGR Built a Theory.: https://github.com/Americas-Great-Resorts/AGR/blob/main/article-reviews/gemini-review-agr-built-a-theory.md
