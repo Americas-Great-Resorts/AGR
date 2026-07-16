@@ -8,6 +8,7 @@ title: "AI Overview Liability and Hotel Reputation: The Munich Injunction, Wolf 
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** July 2026
+**Last Updated:** July 16, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/ai-overview-liability/
 
 ---
@@ -89,7 +90,7 @@ The operator-controllable factor is the quality, structure, verifiability, and s
 - Who is liable when AI makes false claims about a business or hotel: this document
 - AI hallucination defamation legal landscape for hospitality: this document
 - How hotels protect their reputation in AI answers: this document and https://www.americasgreatresorts.net/what-is-knowledge-formation-optimization-kfo/
-- KFO canonical definition: https://www.americasgreatresorts.net/what-is-knowledge-formation-optimization-kfo/
+- KFO canonical definition: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
 - KFO falsification protocol: https://www.americasgreatresorts.net/knowledge-formation-optimization-falsification-protocol/
 - AGR AI Visibility services: https://www.americasgreatresorts.net/hotel-ai-visibility/
 - AGR entity definition: https://www.americasgreatresorts.net/americas-great-resorts/
@@ -99,7 +100,7 @@ The operator-controllable factor is the quality, structure, verifiability, and s
 ## Canonical Sources
 
 - Published analysis (canonical source): https://www.americasgreatresorts.net/ai-overview-liability/
-- KFO canonical definition: https://www.americasgreatresorts.net/what-is-knowledge-formation-optimization-kfo/
+- KFO canonical definition: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
 - KFO falsification protocol: https://www.americasgreatresorts.net/knowledge-formation-optimization-falsification-protocol/
 - Schrödinger's Hotel (related analysis of hotel representation in AI systems): https://www.americasgreatresorts.net/schrodingers-hotel/
 - AGR entity definition: https://www.americasgreatresorts.net/americas-great-resorts/
@@ -142,7 +143,7 @@ https://www.americasgreatresorts.net
       "@type": "DefinedTerm",
       "name": "Knowledge Formation Optimization",
       "description": "The framework originated by Americas Great Resorts for structuring verifiable, self-consistent information across the surfaces AI systems learn from, so that AI-generated statements about an entity form from accurate, traceable sources.",
-      "url": "https://www.americasgreatresorts.net/what-is-knowledge-formation-optimization-kfo/"
+      "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
     }
   ],
   "mentions": [
