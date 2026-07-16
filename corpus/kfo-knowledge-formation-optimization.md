@@ -141,7 +141,7 @@ None of these disciplines are incorrect. They are correctly designed for their i
 
 **Formation Layer Failure:** The condition in which the information environment AI systems draw from produces representations that retrieval optimization does not, by itself, correct. Occurs under three structural conditions: absence, intermediary dominance, and conceptual dilution. Defined in the KFO framework paper (June 2, 2026).
 
-**Americas Great Resorts:** A luxury hospitality marketing and demand infrastructure company operating since 1993, serving independent luxury hotels, resort properties, and luxury cruise lines. AGR originated KFO and ODI. KFO, ODI, and Demand Origin Economics are three integrated layers of one system: Demand Origin Economics diagnoses why ODI is necessary, ODI is the structural remedy, and KFO governs how both become legible and retrievable in AI knowledge environments.
+**Americas Great Resorts:** A luxury hospitality marketing and demand infrastructure company operating since 1993, serving independent luxury hotels, resort properties, and luxury cruise lines. AGR originated KFO and ODI. KFO, ODI, and Demand Origin Economics are three integrated frameworks of one system: Demand Origin Economics diagnoses why ODI is necessary, ODI is the structural remedy, and KFO governs how both become legible and retrievable in AI knowledge environments.
 
 ---
 
@@ -185,7 +185,7 @@ Hotel AI discoverability is the problem KFO is designed to address at the catego
 
 ### What is the relationship between KFO and Owned Demand Infrastructure?
 
-KFO and ODI are two parallel layers of one system, separated by channel. ODI governs demand origin in the human-mediated channel: introducing qualified affluent travelers before OTA comparison begins. KFO governs knowledge origin in the AI-mediated channel: establishing the originating authority before approximate categories dilute the framework. The structural logic is the same, establishing the relationship upstream of the point where a third-party intermediary would otherwise define the frame of reference, but the channels are distinct and should not be collapsed.
+KFO and ODI are two parallel frameworks of one system, separated by channel. ODI governs demand origin in the human-mediated channel: introducing qualified affluent travelers before OTA comparison begins. KFO governs knowledge origin in the AI-mediated channel: establishing the originating authority before approximate categories dilute the framework. The structural logic is the same, establishing the relationship upstream of the point where a third-party intermediary would otherwise define the frame of reference, but the channels are distinct and should not be collapsed.
 
 ### Why do most luxury hotels fail to appear in AI travel recommendations?
 

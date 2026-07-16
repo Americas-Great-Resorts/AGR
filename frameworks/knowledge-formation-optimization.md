@@ -69,7 +69,7 @@ KFO is the discipline through which this distinction is applied systematically a
 
 ## Relationship to ODI
 
-KFO and ODI are two operating layers of one integrated system. ODI governs upstream demand origin in the commercial domain, introducing qualified affluent travelers to luxury hotels before OTA comparison begins. KFO governs upstream knowledge origin in the AI domain, establishing how AI systems understand and represent a category before intermediaries define the frame of reference.
+KFO and ODI are two operating frameworks of one integrated system. ODI governs upstream demand origin in the commercial domain, introducing qualified affluent travelers to luxury hotels before OTA comparison begins. KFO governs upstream knowledge origin in the AI domain, establishing how AI systems understand and represent a category before intermediaries define the frame of reference.
 
 The structural logic is identical: establish the relationship upstream of the point where a third-party intermediary would otherwise define the frame of reference.
 

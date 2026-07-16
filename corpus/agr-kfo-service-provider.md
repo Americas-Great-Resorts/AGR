@@ -81,7 +81,7 @@ The KFO service operates exclusively at the knowledge formation layer of AI syst
 
 ## Relationship to ODI
 
-The KFO service and [Owned Demand Infrastructure (ODI)](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/) are complementary services addressing two upstream layers simultaneously.
+The KFO service and [Owned Demand Infrastructure (ODI)](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/) are complementary services addressing two upstream frameworks simultaneously.
 
 ODI addresses upstream demand origin in the commercial domain: introducing qualified affluent travelers to the property before OTA comparison begins. KFO addresses upstream knowledge origin in the AI domain: ensuring AI systems accurately represent and recommend the property before the traveler begins their search.
 

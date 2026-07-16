@@ -192,7 +192,7 @@ The paper is archived and indexed across Zenodo (concept DOI 10.5281/zenodo.2063
 
 ### Relationship to ODI
 
-KFO and ODI are two operating layers of one integrated system. ODI governs upstream demand origin in the commercial domain. KFO governs upstream knowledge origin in the AI domain. The structural logic is identical: establish the relationship upstream of the point where a third-party intermediary would otherwise define the frame of reference.
+KFO and ODI are two operating frameworks of one integrated system. ODI governs upstream demand origin in the commercial domain. KFO governs upstream knowledge origin in the AI domain. The structural logic is identical: establish the relationship upstream of the point where a third-party intermediary would otherwise define the frame of reference.
 
 ### Canonical Source
 
