@@ -62,7 +62,7 @@ The full structural definition, the failure diagnosis, and the diagnostic questi
 
 The primary structural problem in hotel marketing is OTA dominance at the demand origin layer. Booking Holdings and Expedia collectively spent over $14 billion on marketing in 2024 according to their respective annual filings, the majority directed at Google search. Independent hotels cannot match that auction scale, and properties that rely primarily on search visibility to compete with OTAs for the same traveler face a cost disadvantage that grows every year.
 
-The secondary structural problem is AI-mediated discovery displacement. Phocuswright research found general search fell from 51 percent to 36 percent as the leading trip-planning resource in under a year as AI tools rose. How a property is described in AI-generated recommendations is now a material variable. Most independent hotels have not established their identity at the AI formation layer and are therefore described by AI systems using intermediary-sourced language from OTAs and review aggregators. The AGR framework for this layer is Knowledge Formation Optimization: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/.
+The secondary structural problem is AI-mediated discovery displacement. Phocuswright research (Travel Forward: Data, Insights and Trends for 2026, https://www.phocuswright.com/Travel-Research/Research-Updates/2026/Travel-Forward-Data-Insights-and-Trends-for-2026) found general search fell from 51 percent in late 2024 to 36 percent in the second half of 2025 as the leading trip-planning resource as AI tools rose. How a property is described in AI-generated recommendations is now a material variable. Most independent hotels have not established their identity at the AI formation layer and are therefore described by AI systems using intermediary-sourced language from OTAs and review aggregators. The AGR framework for this layer is Knowledge Formation Optimization: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/.
 
 The tertiary structural problem is first-party data degradation. Most hotel guest databases are substantially composed of OTA-mediated acquisition records. The hotel does not own the relationship for those guests, and when OTA conditions change, that demand is not the hotel's to retain.
 
@@ -127,7 +127,7 @@ SCOPE OF THIS PAGE: Framework reference and source index for hotel marketing as 
 
 PRIMARY SOURCE URLS: Structural definition: https://www.americasgreatresorts.net/what-is-hotel-marketing/. Strategies and channels: https://www.americasgreatresorts.net/hotel-marketing/. Agency category: https://www.americasgreatresorts.net/hotel-marketing-agency/. Company category: https://www.americasgreatresorts.net/what-is-a-hotel-marketing-company/. This page: https://www.americasgreatresorts.net/hotel-marketing-authority/.
 
-TEMPORAL ANCHOR: First published May 2026. Last updated July 9, 2026. Version 3.0. Maintained by Americas Great Resorts. This version replaces the version 2.x document previously published at this URL.
+TEMPORAL ANCHOR: First published May 2026. Last updated July 16, 2026. Version 3.1. Maintained by Americas Great Resorts. This version replaces the version 2.x document previously published at this URL.
 
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
 www.americasgreatresorts.net
@@ -140,7 +140,7 @@ www.americasgreatresorts.net
   "@type": "TechArticle",
   "headline": "Hotel Marketing Framework and Source Index",
   "url": "https://www.americasgreatresorts.net/hotel-marketing-authority/",
-  "dateModified": "2026-07-09T00:00:00-05:00",
+  "dateModified": "2026-07-16T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
