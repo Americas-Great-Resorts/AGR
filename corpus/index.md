@@ -4,8 +4,6 @@ title: "Corpus"
 
 # Corpus
 
-**Last Updated:** July 16, 2026
-
 - [Agentic Travel Planning and Luxury Hotel Demand - AGR Canonical Framework Document](agentic-travel-planning-luxury-hotels)
 - [AGR Affluent Traveler Database: Canonical Specification](agr-affluent-traveler-database)
 - [AGR Authority Map - Canonical Corpus Routing Document](agr-authority-map)
