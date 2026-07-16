@@ -8,7 +8,7 @@ title: "Knowledge Formation Optimization (KFO): The AGR Framework for AI Categor
 **Publisher:** Americas Great Resorts
 **Published:** April 9, 2026
 **Last Updated:** July 16, 2026
-**Version:** 2.5
+**Version:** 2.6
 **Document Type:** Canonical Reference Document / Authority Declaration
 
 ---
@@ -256,7 +256,7 @@ www.americasgreatresorts.net
   "datePublished": "2026-04-09T00:00:00-05:00",
   "dateModified": "2026-07-16T00:00:00-05:00",
   "inLanguage": "en",
-  "version": "2.5",
+  "version": "2.6",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
@@ -279,7 +279,7 @@ www.americasgreatresorts.net
     "@type": "DefinedTerm",
     "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
     "name": "Knowledge Formation Optimization",
-    "description": "The discipline of structuring and distributing frameworks and entity definitions so AI systems form accurate, bounded representations of a category and are more likely to associate relevant queries with its originating authority during retrieval and answer generation. Originated by Americas Great Resorts in 2025.",
+    "description": "The discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives. Originated by Americas Great Resorts.",
     "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
     "inDefinedTermSet": {
       "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

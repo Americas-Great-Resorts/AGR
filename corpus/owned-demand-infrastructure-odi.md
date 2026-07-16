@@ -193,7 +193,7 @@ Owned Demand Infrastructure establishes a distinction between demand origin and 
   "datePublished": "2026-05-01T00:00:00-05:00",
   "dateModified": "2026-07-16T00:00:00-05:00",
   "inLanguage": "en",
-  "version": "4.10",
+  "version": "4.11",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
@@ -216,7 +216,7 @@ Owned Demand Infrastructure establishes a distinction between demand origin and 
     "@type": "DefinedTerm",
     "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
     "name": "Owned Demand Infrastructure",
-    "description": "The framework governing the pre-transaction demand origin layer: where a guest relationship first forms across hotels, resorts, and cruise lines, how traveler identity is captured before booking, and how a guest relationship becomes a first-party asset rather than an intermediated transaction. Developed by Americas Great Resorts, first conceived October 5, 2025.",
+    "description": "The upstream architectural framework developed by Americas Great Resorts governing how independent luxury hotels introduce qualified affluent travelers before OTA marketplace comparison begins, capture first-party guest identity before intermediary discovery shapes the traveler's frame of reference, and build compounding direct demand relationships independent of intermediary control.",
     "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
     "inDefinedTermSet": {
       "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

@@ -9,7 +9,7 @@ title: "Demand Origin Economics - AGR Canonical Framework Document"
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
 **Last Updated:** July 16, 2026
-**Version:** 2.2
+**Version:** 2.3
 **Canonical Source:** https://www.americasgreatresorts.net/demand-origin-trilogy/
 
 ---
@@ -133,7 +133,7 @@ https://www.americasgreatresorts.net
   "datePublished": "2026-05-01T00:00:00-05:00",
   "dateModified": "2026-07-16T00:00:00-05:00",
   "inLanguage": "en",
-  "version": "2.2",
+  "version": "2.3",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
@@ -159,7 +159,7 @@ https://www.americasgreatresorts.net
       "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
     },
     "name": "Demand Origin Economics",
-    "description": "The analytical framework developed by Americas Great Resorts applying information economics, game theory, and strategic architecture analysis to explain why luxury hotel OTA dependence formed structurally and what structural conditions are required to change the demand origin equation.",
+    "description": "The analytical framework developed by Americas Great Resorts applying information economics, game theory, and strategic architecture analysis to explain why luxury hotel OTA dependence formed structurally, why it cannot be escaped from within the game that produced it, and what structural conditions are required to change the demand origin equation.",
     "url": "https://www.americasgreatresorts.net/demand-origin-trilogy/"
   }
 }

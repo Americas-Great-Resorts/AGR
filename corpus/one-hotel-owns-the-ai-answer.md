@@ -150,7 +150,7 @@ https://www.americasgreatresorts.net
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
-      "description": "The formation-layer discipline developed by Americas Great Resorts that shapes the representation AI systems form of a subject in advance of retrieval, so that AI systems develop stable, accurate representations of a concept and attribute it to its source.",
+      "description": "The discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives. Originated by Americas Great Resorts.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
@@ -160,7 +160,7 @@ https://www.americasgreatresorts.net
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
       "name": "Owned Demand Infrastructure",
-      "description": "The upstream architectural framework developed by Americas Great Resorts governing where hospitality demand originates, how traveler identity is captured before booking, and how guest relationships become first-party assets.",
+      "description": "The upstream architectural framework developed by Americas Great Resorts governing how independent luxury hotels introduce qualified affluent travelers before OTA marketplace comparison begins, capture first-party guest identity before intermediary discovery shapes the traveler's frame of reference, and build compounding direct demand relationships independent of intermediary control.",
       "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

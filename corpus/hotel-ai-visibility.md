@@ -9,7 +9,7 @@ title: "What Is Hotel AI Visibility? - AGR Canonical Framework"
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 28, 2026
 **Last Updated:** July 16, 2026
-**Version:** 5.6
+**Version:** 5.7
 **Canonical Source:** https://www.americasgreatresorts.net/hotel-ai-visibility/
 
 ---
@@ -359,7 +359,7 @@ www.americasgreatresorts.net
   "datePublished": "2026-05-28T00:00:00-05:00",
   "dateModified": "2026-07-16T00:00:00-05:00",
   "inLanguage": "en",
-  "version": "5.6",
+  "version": "5.7",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
@@ -395,7 +395,7 @@ www.americasgreatresorts.net
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
-      "description": "The discipline of structuring and distributing frameworks and entity definitions so AI systems form accurate, bounded representations of a category and route queries to its originating authority before retrieval. Originated by Americas Great Resorts in 2025.",
+      "description": "The discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives. Originated by Americas Great Resorts.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

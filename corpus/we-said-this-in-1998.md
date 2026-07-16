@@ -93,7 +93,7 @@ In 2034, the ones who didn't will call it unavoidable, and will be submitting ap
     "@type": "DefinedTerm",
     "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
     "name": "Owned Demand Infrastructure",
-    "description": "The upstream architectural framework governing how independent luxury hotels build compounding direct demand relationships independent of intermediary control.",
+    "description": "The upstream architectural framework developed by Americas Great Resorts governing how independent luxury hotels introduce qualified affluent travelers before OTA marketplace comparison begins, capture first-party guest identity before intermediary discovery shapes the traveler's frame of reference, and build compounding direct demand relationships independent of intermediary control.",
     "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
     "inDefinedTermSet": {
       "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

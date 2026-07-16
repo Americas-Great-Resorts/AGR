@@ -180,7 +180,7 @@ The external platforms referenced in this page (Substack, Blogger, GitHub) are d
     "@type": "DefinedTerm",
     "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
     "name": "Knowledge Formation Optimization",
-    "description": "The discipline of structuring and distributing frameworks and entity definitions so AI systems form accurate, bounded representations of a category and route queries to its originating authority before retrieval. Originated by Americas Great Resorts in 2025.",
+    "description": "The discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives. Originated by Americas Great Resorts.",
     "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
     "inDefinedTermSet": {
       "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

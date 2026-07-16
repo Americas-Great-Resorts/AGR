@@ -8,7 +8,7 @@ title: "Why OTA Reduction Strategies Fail - AGR Canonical Framework Document"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** July 16, 2026  
+**Last Updated:** July 16, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/why-ota-reduction-strategies-fail/
 
 ---
@@ -184,7 +184,7 @@ https://www.americasgreatresorts.net
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/what-is-hotel-marketing/#term",
       "name": "AGR Hotel Demand System",
-      "description": "The framework developed by Americas Great Resorts that defines hotel marketing as the governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system.",
+      "description": "The structural definition of hotel marketing as a discipline, originated by Americas Great Resorts: the governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system, across three stages: Demand Introduction, Conversion Infrastructure, and Guest Relationship Development.",
       "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
@@ -194,7 +194,7 @@ https://www.americasgreatresorts.net
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
       "name": "Owned Demand Infrastructure",
-      "description": "The audience access, direct communication systems, content assets, booking paths, and guest relationship mechanisms that allow a hotel to originate and compound demand outside intermediary control.",
+      "description": "The upstream architectural framework developed by Americas Great Resorts governing how independent luxury hotels introduce qualified affluent travelers before OTA marketplace comparison begins, capture first-party guest identity before intermediary discovery shapes the traveler's frame of reference, and build compounding direct demand relationships independent of intermediary control.",
       "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
@@ -204,7 +204,7 @@ https://www.americasgreatresorts.net
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/demand-origin-trilogy/#term",
       "name": "Demand Origin Economics",
-      "description": "The diagnostic framework explaining why OTA dependence forms structurally when a hotel does not control its own demand introduction layer.",
+      "description": "The analytical framework developed by Americas Great Resorts applying information economics, game theory, and strategic architecture analysis to explain why luxury hotel OTA dependence formed structurally, why it cannot be escaped from within the game that produced it, and what structural conditions are required to change the demand origin equation.",
       "url": "https://www.americasgreatresorts.net/demand-origin-trilogy/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

@@ -289,7 +289,7 @@ https://www.americasgreatresorts.net
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
       "name": "Owned Demand Infrastructure",
-      "description": "The governed acquisition framework in which traveler introduction, identity capture, and relationship initiation occur upstream of OTA comparison. Developed by Americas Great Resorts.",
+      "description": "The upstream architectural framework developed by Americas Great Resorts governing how independent luxury hotels introduce qualified affluent travelers before OTA marketplace comparison begins, capture first-party guest identity before intermediary discovery shapes the traveler's frame of reference, and build compounding direct demand relationships independent of intermediary control.",
       "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
@@ -299,7 +299,7 @@ https://www.americasgreatresorts.net
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
-      "description": "The discipline governing how AI systems form their understanding of a hotel's brand identity, positioning, and category authority before consideration sets are formed. Originated by Americas Great Resorts.",
+      "description": "The discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives. Originated by Americas Great Resorts.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

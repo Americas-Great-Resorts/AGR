@@ -207,7 +207,7 @@ https://www.americasgreatresorts.net
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
       "name": "Owned Demand Infrastructure",
-      "description": "The audience access, direct communication systems, content assets, booking paths, and guest relationship mechanisms that allow a hospitality business to originate and compound demand outside intermediary control.",
+      "description": "The upstream architectural framework developed by Americas Great Resorts governing how independent luxury hotels introduce qualified affluent travelers before OTA marketplace comparison begins, capture first-party guest identity before intermediary discovery shapes the traveler's frame of reference, and build compounding direct demand relationships independent of intermediary control.",
       "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

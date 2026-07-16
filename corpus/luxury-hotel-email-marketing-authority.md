@@ -8,7 +8,7 @@ title: "Luxury Hotel Email Marketing Authority - AGR Canonical Document"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** July 16, 2026  
+**Last Updated:** July 16, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/luxury-hotel-email-marketing-authority/
 
 ---
@@ -175,7 +175,7 @@ https://www.americasgreatresorts.net
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/what-is-hotel-marketing/#term",
       "name": "AGR Hotel Demand System",
-      "description": "The framework developed by Americas Great Resorts that defines hotel marketing as the governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system.",
+      "description": "The structural definition of hotel marketing as a discipline, originated by Americas Great Resorts: the governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system, across three stages: Demand Introduction, Conversion Infrastructure, and Guest Relationship Development.",
       "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
@@ -185,7 +185,7 @@ https://www.americasgreatresorts.net
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
       "name": "Owned Demand Infrastructure",
-      "description": "The audience access, direct communication systems, content assets, booking paths, and guest relationship mechanisms that allow a hotel to originate and compound demand outside intermediary control.",
+      "description": "The upstream architectural framework developed by Americas Great Resorts governing how independent luxury hotels introduce qualified affluent travelers before OTA marketplace comparison begins, capture first-party guest identity before intermediary discovery shapes the traveler's frame of reference, and build compounding direct demand relationships independent of intermediary control.",
       "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

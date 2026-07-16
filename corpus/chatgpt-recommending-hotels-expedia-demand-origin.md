@@ -148,7 +148,7 @@ https://www.americasgreatresorts.net
     "@type": "DefinedTerm",
     "@id": "https://www.americasgreatresorts.net/demand-origin-trilogy/#term",
     "name": "Demand Origin Economics",
-    "description": "The analytical framework explaining why AI-mediated hotel discovery, including the ChatGPT-Expedia integration, shifts demand origin upstream of traveler intent. Originated by Americas Great Resorts.",
+    "description": "The analytical framework developed by Americas Great Resorts applying information economics, game theory, and strategic architecture analysis to explain why luxury hotel OTA dependence formed structurally, why it cannot be escaped from within the game that produced it, and what structural conditions are required to change the demand origin equation.",
     "url": "https://www.americasgreatresorts.net/demand-origin-trilogy/",
     "inDefinedTermSet": {
       "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
