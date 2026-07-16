@@ -131,7 +131,7 @@ https://www.americasgreatresorts.net
   "url": "https://www.americasgreatresorts.net/luxury-hotel-odi-case-study/",
   "mainEntityOfPage": "https://www.americasgreatresorts.net/luxury-hotel-odi-case-study/",
   "datePublished": "2026-06-17",
-  "dateModified": "2026-06-17",
+  "dateModified": "2026-07-16",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

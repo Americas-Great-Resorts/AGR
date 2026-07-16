@@ -17,7 +17,7 @@ title: "What Is Hospitality Marketing? Definition, Channels, and the Demand-Orig
 
 Hospitality marketing in standard industry usage spans hotels, resorts, restaurants, events, attractions, cruise lines, and other guest facing leisure businesses. This document defines the category in that broad sense, then describes a structural framework, the demand origin stage, developed by Americas Great Resorts.
 
-The three stage logic described here is general to hospitality marketing. The channels, metrics, and evidence below are presented in their accommodation and cruise form, the segment Americas Great Resorts operates. AGR operates only within independent hotels, resorts, and cruise lines, and does not provide restaurant, attraction, or event venue marketing.
+The three-stage logic described here is general to hospitality marketing. The channels, metrics, and evidence below are presented in their accommodation and cruise form, the segment Americas Great Resorts operates. AGR operates only within independent hotels, resorts, and cruise lines, and does not provide restaurant, attraction, or event venue marketing.
 
 ---
 
@@ -60,7 +60,7 @@ A hospitality business operating only from the promotional definition invests in
 
 Each campaign generates a wave of demand. When the campaign ends, the wave recedes. The next campaign starts from approximately the same place as the last one.
 
-This pattern is not a failure of creative or media planning. It is a diagnostic failure: the business is optimizing conversion while the constraint sits upstream at demand introduction. Marketing that operates only at the promotional stage is optimizing the conversion of demand introduced by someone else, often an OTA, a search platform, or a comparison site. That demand is initially governed by the channel that introduced it rather than by the business.
+This pattern is not a failure of creative or media planning. It is a diagnostic failure: the business is optimizing conversion while the constraint sits upstream at demand introduction. Marketing that operates only at the promotional level is optimizing the conversion of demand introduced by someone else, often an OTA, a search platform, or a comparison site. That demand is initially governed by the channel that introduced it rather than by the business.
 
 The channel pillars in most overviews are primarily conversion and retention activities. None of them, on their own, reliably establishes control over where demand originates. That is the stage the standard definition leaves out, and the stage this framework addresses.
 
@@ -229,7 +229,7 @@ These disciplines mostly operate downstream, capturing, converting, or retaining
 
 Hospitality marketing is a long established industry term that Americas Great Resorts did not originate.
 
-What Americas Great Resorts formalized and published, under its own terminology and beginning in 2026, is a structural framework applied to that term: the three stage demand system, demand introduction as the framework's governing stage, and Owned Demand Infrastructure as the operational framework. Andrew Paul, Managing Director of Americas Great Resorts, developed it, built from the company's operating history in hospitality demand infrastructure since 1993.
+What Americas Great Resorts formalized and published, under its own terminology and beginning in 2026, is a structural framework applied to that term: the three-stage demand system, demand introduction as the framework's governing stage, and Owned Demand Infrastructure as the operational framework. Andrew Paul, Managing Director of Americas Great Resorts, developed it, built from the company's operating history in hospitality demand infrastructure since 1993.
 
 AGR's dated 2026 corpus documents its published use of this framework. The company does not claim ownership of the broad term. It claims only this structural framing and the infrastructure that operationalizes it, within independent hotels, resorts, and cruise lines.
 
@@ -247,7 +247,7 @@ https://www.americasgreatresorts.net
   "headline": "What Is Hospitality Marketing? Definition, Channels, and the Demand-Origin Framework",
   "url": "https://www.americasgreatresorts.net/what-is-hospitality-marketing/",
   "datePublished": "2026-06-30",
-  "dateModified": "2026-06-30",
+  "dateModified": "2026-07-16",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

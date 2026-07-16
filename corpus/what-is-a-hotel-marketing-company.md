@@ -164,7 +164,7 @@ https://www.americasgreatresorts.net
   "headline": "What Is a Hotel Marketing Company? Definition, Company vs Agency, and the Capture-Origin Distinction",
   "url": "https://www.americasgreatresorts.net/what-is-a-hotel-marketing-company/",
   "datePublished": "2026-07-01",
-  "dateModified": "2026-07-01",
+  "dateModified": "2026-07-16",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

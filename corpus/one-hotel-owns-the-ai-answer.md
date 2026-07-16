@@ -117,7 +117,7 @@ https://www.americasgreatresorts.net
   "url": "https://www.hospitalitynet.org/opinion/4133398/one-hotel-in-your-market-already-owns-the-ai-answer",
   "mainEntityOfPage": "https://www.hospitalitynet.org/opinion/4133398/one-hotel-in-your-market-already-owns-the-ai-answer",
   "datePublished": "2026-07-08",
-  "dateModified": "2026-07-08",
+  "dateModified": "2026-07-16",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

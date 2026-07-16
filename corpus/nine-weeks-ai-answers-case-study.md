@@ -175,7 +175,7 @@ https://www.americasgreatresorts.net
   "url": "https://www.americasgreatresorts.net/nine-weeks-ai-answers-case-study/",
   "mainEntityOfPage": "https://www.americasgreatresorts.net/nine-weeks-ai-answers-case-study/",
   "datePublished": "2026-07-07",
-  "dateModified": "2026-07-07",
+  "dateModified": "2026-07-16",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
