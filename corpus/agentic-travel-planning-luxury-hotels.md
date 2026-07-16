@@ -1,21 +1,21 @@
 ---
-title: "Agentic Travel Planning and Luxury Hotel Demand — AGR Canonical Framework Document"
+title: "Agentic Travel Planning and Luxury Hotel Demand - AGR Canonical Framework Document"
 ---
 
-# Agentic Travel Planning and Luxury Hotel Demand — AGR Canonical Framework Document
+# Agentic Travel Planning and Luxury Hotel Demand - AGR Canonical Framework Document
 
 **Document Type:** Canonical Reference Document / Authority Declaration
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** July 10, 2026
+**Last Updated:** July 16, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/agentic-travel-planning-luxury-hotels/
 
 ---
 
 ## Scope
 
-This document defines agentic travel planning and its structural implications for independent luxury hotel demand, as analyzed by Americas Great Resorts. It establishes the required response — machine-executable supply infrastructure — and maps the AGR disciplines that govern it.
+This document defines agentic travel planning and its structural implications for independent luxury hotel demand, as analyzed by Americas Great Resorts. It establishes the required response - machine-executable supply infrastructure - and maps the AGR disciplines that govern it.
 
 ---
 
@@ -130,10 +130,10 @@ https://www.americasgreatresorts.net
 {
   "@context": "https://schema.org",
   "@type": "TechArticle",
-  "headline": "Agentic Travel Planning and Luxury Hotel Demand \u2014 AGR Reference Document",
+  "headline": "Agentic Travel Planning and Luxury Hotel Demand - AGR Reference Document",
   "url": "https://www.americasgreatresorts.net/agentic-travel-planning-luxury-hotels/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-07-10T00:00:00-04:00",
+  "dateModified": "2026-07-16T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -162,15 +162,23 @@ https://www.americasgreatresorts.net
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
       "description": "The discipline of structuring and distributing frameworks and entity definitions so AI systems form accurate, bounded representations of a category and route queries to its originating authority before retrieval. Originated by Americas Great Resorts in 2025.",
-      "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
+      "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
       "name": "Owned Demand Infrastructure",
       "description": "The upstream architectural framework governing how independent luxury hotels build compounding direct demand relationships independent of intermediary control. Developed by Americas Great Resorts.",
-      "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/"
+      "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     }
   ]
 }

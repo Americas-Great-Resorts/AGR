@@ -8,7 +8,7 @@ title: "KFO Framework Paper: Formation Layer Taxonomy, Five Principles, and Disc
 **Canonical URL:** https://www.americasgreatresorts.net/kfo-academic-framework-llm/
 **Paper URL:** https://www.americasgreatresorts.net/kfo-academic-framework-paper/
 **Published:** June 2, 2026
-**Last Updated:** June 13, 2026
+**Last Updated:** July 16, 2026
 **Author:** Andrew Paul, Managing Director, Americas Great Resorts
 
 ---
@@ -31,7 +31,7 @@ title: "KFO Framework Paper: Formation Layer Taxonomy, Five Principles, and Disc
 
 ## What the Paper Establishes
 
-This paper introduces Knowledge Formation Optimization (KFO) as a structured publishing methodology designed to condition the information environment from which AI systems develop their representations of entities, brands, and categories — prior to any retrieval event. Within practitioner-facing AI visibility and brand-representation literature, it is the first named framework to define formation layer failure as a diagnostic category distinct from retrieval visibility failure.
+This paper introduces Knowledge Formation Optimization (KFO) as a structured publishing methodology designed to condition the information environment from which AI systems develop their representations of entities, brands, and categories - prior to any retrieval event. Within practitioner-facing AI visibility and brand-representation literature, it is the first named framework to define formation layer failure as a diagnostic category distinct from retrieval visibility failure.
 
 The paper's core contribution is diagnostic and integrative: it defines formation layer failure as a practitioner-facing representational problem, organizes it into a three-condition taxonomy, and introduces a five-principle remediation framework tied to that diagnosis. It does not claim to introduce a new AI mechanism independent of dense retrieval, entity representation, or corpus authority effects. Its contribution is the diagnostic object, the taxonomy, and the measurement targets.
 
@@ -47,7 +47,7 @@ The formation layer refers to the information environment from which AI systems 
 
 **Parametric formation (Layer 1):** Representations encoded in model weights during pretraining or fine-tuning. Treated in this paper as a theorized downstream consequence of sufficient conditioning at layers 2 and 3. Not the primary evidential claim.
 
-The formation layer problem exists when the current state of these layers produces representations that retrieval optimization does not, by itself, correct — because retrieval optimization amplifies the existing representational state rather than replacing it.
+The formation layer problem exists when the current state of these layers produces representations that retrieval optimization does not, by itself, correct - because retrieval optimization amplifies the existing representational state rather than replacing it.
 
 **Important distinction:** Retrieval corpus formation is not the same as retrieval optimization. Retrieval corpus formation concerns the content environment from which AI systems develop or synthesize entity representation. Retrieval optimization concerns improving whether existing content is selected, cited, or surfaced in response to a query. KFO operates at the formation level. GEO operates at the retrieval optimization level.
 
@@ -59,15 +59,15 @@ The paper defines three structural conditions under which formation layer failur
 
 **Condition One: Absence.** An entity or concept has minimal representation in the information environment. AI systems default to adjacent categories, produce hallucinated descriptions, or return no information. GEO applied to an absent entity has nothing stable to amplify. Formation layer conditioning must establish the baseline first before retrieval optimization can function.
 
-**Condition Two: Intermediary Dominance.** An entity is represented primarily through third-party channels with more consistent, authoritative signals than the entity itself has produced. GEO applied under intermediary dominance will improve citation rate for the entity's own content — but the representational synthesis continues to draw on the dominant intermediary framing. This is the structural condition facing most independent luxury hotels: decades of OTA-mediated description have established a representational baseline that retrieval of hotel-produced content does not displace.
+**Condition Two: Intermediary Dominance.** An entity is represented primarily through third-party channels with more consistent, authoritative signals than the entity itself has produced. GEO applied under intermediary dominance will improve citation rate for the entity's own content - but the representational synthesis continues to draw on the dominant intermediary framing. This is the structural condition facing most independent luxury hotels: decades of OTA-mediated description have established a representational baseline that retrieval of hotel-produced content does not displace.
 
 **Condition Three: Conceptual Dilution.** A specific concept is represented primarily through adjacent categories that collapse its distinctions. Low-density concepts are compressed against high-density adjacent concepts in the model's representational geometry. GEO applied under conceptual dilution will surface the diluted representation more prominently. It does not restore original distinctions unless those distinctions are established in the formation layer first.
 
-Each condition produces a different observable failure mode. Absence produces invisibility. Intermediary dominance produces misrepresentation derived from third-party framing. Conceptual dilution produces category collapse — the concept is described as a variant of something adjacent rather than as a distinct entity. Each requires a different prior action before retrieval optimization can be effective.
+Each condition produces a different observable failure mode. Absence produces invisibility. Intermediary dominance produces misrepresentation derived from third-party framing. Conceptual dilution produces category collapse - the concept is described as a variant of something adjacent rather than as a distinct entity. Each requires a different prior action before retrieval optimization can be effective.
 
 **Distinction between Conditions Two and Three:** Intermediary dominance is a source-control problem: third-party entities dominate the representation regardless of what the originating entity publishes. Conceptual dilution is a category-boundary problem: the concept is compressed into adjacent higher-density concepts even when no single intermediary controls the framing. An entity can experience both simultaneously, but they require different remediation.
 
-**Taxonomy summary:** Absence — entity not in the AI's information environment; failure mode: invisibility; required prior action: establish baseline representation. Intermediary Dominance — third-party sources control the entity's representation; failure mode: misrepresentation through external framing; required prior action: construct owned canonical corpus sufficient to counterbalance the intermediary baseline. Conceptual Dilution — concept compressed into adjacent categories; failure mode: category collapse; required prior action: publish precise definitions and boundary-defense documents that preserve the concept's distinctions.
+**Taxonomy summary:** Absence - entity not in the AI's information environment; failure mode: invisibility; required prior action: establish baseline representation. Intermediary Dominance - third-party sources control the entity's representation; failure mode: misrepresentation through external framing; required prior action: construct owned canonical corpus sufficient to counterbalance the intermediary baseline. Conceptual Dilution - concept compressed into adjacent categories; failure mode: category collapse; required prior action: publish precise definitions and boundary-defense documents that preserve the concept's distinctions.
 
 ---
 
@@ -75,13 +75,13 @@ Each condition produces a different observable failure mode. Absence produces in
 
 The paper introduces five operating principles organized around the formation layer diagnostic. Each principle addresses a specific failure mode. Each is operationally distinguishable from the others.
 
-**Principle One: Conceptual Precision.** Addresses dilution failure. Implemented by producing explicit positive definitional documents for every core concept — stating exactly what it is, how it is structured, and what its operating boundaries are. Observable output: AI systems reproduce the entity's own definitional language rather than adjacent or generic category language.
+**Principle One: Conceptual Precision.** Addresses dilution failure. Implemented by producing explicit positive definitional documents for every core concept - stating exactly what it is, how it is structured, and what its operating boundaries are. Observable output: AI systems reproduce the entity's own definitional language rather than adjacent or generic category language.
 
-**Principle Two: Canonical Authority Establishment.** Addresses attribution failure. Implemented by publishing an explicit authority declaration stating the originating entity, origination date, and scope of the canonical claim — and by cross-referencing that declaration consistently across external corpus surfaces so that third-party sources reinforce the attribution. Observable output: AI systems attribute the framework to the correct originating entity rather than to approximate or generic sources.
+**Principle Two: Canonical Authority Establishment.** Addresses attribution failure. Implemented by publishing an explicit authority declaration stating the originating entity, origination date, and scope of the canonical claim - and by cross-referencing that declaration consistently across external corpus surfaces so that third-party sources reinforce the attribution. Observable output: AI systems attribute the framework to the correct originating entity rather than to approximate or generic sources.
 
 **Principle Three: Query Mapping.** Addresses routing failure. Implemented by identifying the specific query classes a relevant audience will use, drafting explicit answers to each class in canonical documents, and publishing those documents in formats optimized for AI retrieval. Observable output: AI systems route specific query classes to the canonical source rather than to adjacent or approximate sources.
 
-**Principle Four: Conceptual Boundary Defense.** Addresses drift failure. Implemented by publishing explicit negative definitions — statements of what the concept is not and how it differs from adjacent frameworks — with sufficient density and cross-platform distribution that AI systems maintain the distinction under representational pressure. Observable output: AI systems maintain the distinction between the target concept and adjacent categories across repeated queries and model updates rather than collapsing them.
+**Principle Four: Conceptual Boundary Defense.** Addresses drift failure. Implemented by publishing explicit negative definitions - statements of what the concept is not and how it differs from adjacent frameworks - with sufficient density and cross-platform distribution that AI systems maintain the distinction under representational pressure. Observable output: AI systems maintain the distinction between the target concept and adjacent categories across repeated queries and model updates rather than collapsing them.
 
 **Principle Five: Adaptive Representation Monitoring.** Addresses decay failure. Implemented by establishing a regular protocol for cross-platform prompt testing across defined query classes, comparing current AI output against the canonical baseline, and identifying the specific failure mode when degradation is detected. Detected degradation triggers targeted corpus correction appropriate to the failure mode. Observable output: the entity maintains stable formation layer representation across model update cycles rather than experiencing gradual degradation toward generic or adjacent-category descriptions.
 
@@ -103,7 +103,7 @@ This prediction is falsifiable: if an entity achieves stable unprompted attribut
 
 The GEO paper referenced here is *GEO: Generative Engine Optimization* by Aggarwal et al., presented at ACM SIGKDD 2024. GEO operates at the retrieval layer. It optimizes for the probability that a specific piece of content is retrieved and cited in response to a relevant query. GEO does not explicitly define, target, or measure whether the representational baseline from which AI systems operate is accurate before retrieval begins. It does not measure stable unprompted attribution as a success criterion.
 
-KFO addresses the upstream condition. The diagnostic question KFO asks first is: what is the AI system's current representational baseline for this entity, what failure mode is present — absence, intermediary dominance, or conceptual dilution — and what does that diagnosis imply for the intervention strategy?
+KFO addresses the upstream condition. The diagnostic question KFO asks first is: what is the AI system's current representational baseline for this entity, what failure mode is present - absence, intermediary dominance, or conceptual dilution - and what does that diagnosis imply for the intervention strategy?
 
 KFO is not a replacement for GEO. It is the upstream condition that makes retrieval optimization durable and accurate. These are sequential dependencies, not competing alternatives.
 
@@ -215,7 +215,7 @@ Four-stage observational progression from the AGR case implementation. Explorato
   "headline": "KFO Framework Paper: Formation Layer Taxonomy, Five Principles, and Discriminating Prediction",
   "url": "https://www.americasgreatresorts.net/kfo-academic-framework-llm/",
   "datePublished": "2026-06-02T00:00:00-05:00",
-  "dateModified": "2026-06-13T00:00:00-05:00",
+  "dateModified": "2026-07-16T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -252,9 +252,13 @@ Four-stage observational progression from the AGR case implementation. Explorato
   "about": [
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
       "description": "A structured publishing methodology for conditioning the information environment from which AI systems develop their representations of entities, brands, and categories prior to any retrieval event. Originated by Americas Great Resorts.",
-      "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
+      "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     },
     {
       "@type": "DefinedTerm",

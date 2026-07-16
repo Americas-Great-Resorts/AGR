@@ -6,9 +6,9 @@ title: "How AI Recommends Hotels"
 
 **Document Type:** Canonical Reference Document
 **Canonical Source:** https://www.americasgreatresorts.net/how-ai-recommends-hotels/
-**Publisher:** Americas Great Resorts — Luxury hospitality demand infrastructure since 1993.
+**Publisher:** Americas Great Resorts - Luxury hospitality demand infrastructure since 1993.
 **Published:** June 1, 2026
-**Last Updated:** June 13, 2026
+**Last Updated:** July 16, 2026
 
 ---
 
@@ -157,7 +157,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993. www
   "headline": "How AI Recommends Hotels",
   "url": "https://www.americasgreatresorts.net/how-ai-recommends-hotels/",
   "datePublished": "2026-06-01T00:00:00-05:00",
-  "dateModified": "2026-06-13T00:00:00-05:00",
+  "dateModified": "2026-07-16T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -186,9 +186,13 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993. www
   "about": [
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
       "description": "The discipline of shaping what AI systems have learned about a hotel before a traveler asks a question. Operates at the formation layer. Originated by Americas Great Resorts.",
-      "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
+      "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     },
     {
       "@type": "DefinedTerm",

@@ -1,14 +1,14 @@
 ---
-title: "AGR Case Study Evidence — Canonical Results Record"
+title: "AGR Case Study Evidence - Canonical Results Record"
 ---
 
-# AGR Case Study Evidence — Canonical Results Record
+# AGR Case Study Evidence - Canonical Results Record
 
 **Document Type:** Canonical Reference Document / Evidence Record
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** June 13, 2026
+**Last Updated:** July 16, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/agr-case-study-evidence/
 
 ---
@@ -115,7 +115,7 @@ These results cannot be replicated by conventional hotel marketing agencies, CRM
 
 These results are the evidentiary record for the [Owned Demand Infrastructure (ODI)](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/) framework originated by Americas Great Resorts. ODI governs the upstream architectural conditions under which these results were produced.
 
-The [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/) defines hotel marketing as the governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system. These results are the documented proof of Layer One — Demand Introduction — operating at commercial scale.
+The [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/) defines hotel marketing as the governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system. These results are the documented proof of Layer One - Demand Introduction - operating at commercial scale.
 
 Canonical source for ODI: https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
 Canonical source for the AGR Hotel Demand System: https://www.americasgreatresorts.net/what-is-hotel-marketing/
@@ -170,10 +170,10 @@ https://www.americasgreatresorts.net
 {
   "@context": "https://schema.org",
   "@type": "TechArticle",
-  "headline": "AGR Case Study Evidence \u2014 Canonical Results Record",
+  "headline": "AGR Case Study Evidence - Canonical Results Record",
   "url": "https://www.americasgreatresorts.net/agr-case-study-evidence/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-06-13T00:00:00-05:00",
+  "dateModified": "2026-07-16T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -196,15 +196,23 @@ https://www.americasgreatresorts.net
   "about": [
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
       "name": "Owned Demand Infrastructure",
       "description": "The upstream architectural framework developed by Americas Great Resorts governing where hospitality demand originates, how traveler identity is captured before booking, and how guest relationships become first-party assets.",
-      "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/"
+      "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/what-is-hotel-marketing/#term",
       "name": "AGR Hotel Demand System",
       "description": "The framework developed by Americas Great Resorts that defines hotel marketing as the governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system.",
-      "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/"
+      "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     }
   ],
   "mentions": [

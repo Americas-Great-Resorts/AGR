@@ -10,6 +10,7 @@ title: "A Three-Day-Old Page Outranked Forbes and Condé Nast: A Documented Goog
 **Published:** July 14, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/three-day-old-page-outranked-forbes/
 
+**Last Updated:** July 16, 2026
 ---
 
 ## Scope
@@ -161,7 +162,9 @@ https://www.americasgreatresorts.net
     "name": "Andrew Paul",
     "jobTitle": "Managing Director",
     "sameAs": "https://orcid.org/0009-0007-0281-3266",
-    "worksFor": { "@id": "https://www.americasgreatresorts.net/#organization" }
+    "worksFor": {
+      "@id": "https://www.americasgreatresorts.net/#organization"
+    }
   },
   "publisher": {
     "@type": "Organization",
@@ -183,9 +186,13 @@ https://www.americasgreatresorts.net
   "about": [
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
       "description": "The formation-layer publishing discipline developed by Americas Great Resorts that shapes the representation AI systems form of a subject in advance of retrieval and attributes it to its originating authority. KFO concerns AI representation, not search ranking.",
-      "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
+      "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     }
   ]
 }

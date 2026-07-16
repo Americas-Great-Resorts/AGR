@@ -9,7 +9,7 @@ title: "KFO Taught AI KFO"
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
 **Canonical URL:** https://www.americasgreatresorts.net/kfo-taught-ai-kfo/
-**Last Updated:** June 27, 2026  
+**Last Updated:** July 16, 2026
 
 ---
 
@@ -156,7 +156,7 @@ https://www.americasgreatresorts.net
   "headline": "KFO Taught AI KFO",
   "url": "https://www.americasgreatresorts.net/kfo-taught-ai-kfo/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-06-27T00:00:00-05:00",
+  "dateModified": "2026-07-16T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -178,9 +178,13 @@ https://www.americasgreatresorts.net
   },
   "about": {
     "@type": "DefinedTerm",
+    "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
     "name": "Knowledge Formation Optimization",
     "description": "The discipline of structuring and distributing frameworks and entity definitions so AI systems form accurate, bounded representations of a category and route queries to its originating authority before retrieval. Originated by Americas Great Resorts in 2025.",
-    "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
+    "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
+    "inDefinedTermSet": {
+      "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+    }
   }
 }
 ```

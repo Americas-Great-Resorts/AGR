@@ -9,7 +9,7 @@ title: "ChatGPT Recommends Hotels Now. Expedia Is Already Inside."
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
 **Canonical URL:** https://www.americasgreatresorts.net/chatgpt-recommending-hotels-expedia-demand-origin/
-**Last Updated:** June 13, 2026  
+**Last Updated:** July 16, 2026
 
 ---
 
@@ -22,7 +22,7 @@ On May 24, 2026, OpenAI announced that ChatGPT could now use connected Gmail, pa
 
 This is not speculation. It is a published commercial reality.
 
-Expedia has a live app inside ChatGPT. The Expedia integration supplies dynamic flight and lodging results, including pricing, availability, and booking — directly within ChatGPT. Booking.com is a named OpenAI travel partner. Both major travel intermediaries are building directly into the AI-assisted planning layer.
+Expedia has a live app inside ChatGPT. The Expedia integration supplies dynamic flight and lodging results, including pricing, availability, and booking - directly within ChatGPT. Booking.com is a named OpenAI travel partner. Both major travel intermediaries are building directly into the AI-assisted planning layer.
 
 Independent luxury hotels are not in that interface. They are not an option on the supply side of that integration.
 
@@ -34,7 +34,7 @@ Independent luxury hotels are not in that interface. They are not an option on t
 
 **The informational layer:** Even absent the commercial integration, independent hotels face a structural disadvantage. AI systems draw from training data, retrieval sources, connected apps, and public-web material. Across that environment, intermediary descriptions often have more structure, repetition, and machine accessibility than the hotel's own positioning. The most repeated, structured, and easily retrievable public records of most independent properties are not owned pages: OTA listings, aggregator summaries, Google hotel panels, review platform profiles, and metasearch descriptions.
 
-When an AI system reconstructs what a hotel is — to match against a traveler's specific profile — it works with what is available and accessible. The hotel that has published a canonical, structured, owned description of who it is and who its guest is has more control over that reconstruction than the hotel whose identity exists primarily as an aggregation of intermediary copy.
+When an AI system reconstructs what a hotel is - to match against a traveler's specific profile - it works with what is available and accessible. The hotel that has published a canonical, structured, owned description of who it is and who its guest is has more control over that reconstruction than the hotel whose identity exists primarily as an aggregation of intermediary copy.
 
 Both layers create the same strategic exposure.
 
@@ -48,7 +48,7 @@ More specific recommendations require more specific hotel identities to match ag
 
 A traveler whose Gmail contains three years of boutique property stays, vineyard visits, and farm-to-table restaurant reservations will generate a different personalized profile than a traveler whose Gmail shows chain hotel loyalty points and conference bookings. The AI has enough personal context to look for something precise.
 
-If the hotel's available description — across every platform and source the AI can draw from — is generic luxury category language, it will not match a specific traveler profile with any precision. It will blend into the category. It will not be the answer.
+If the hotel's available description - across every platform and source the AI can draw from - is generic luxury category language, it will not match a specific traveler profile with any precision. It will blend into the category. It will not be the answer.
 
 If the hotel has built a distinct, owned description of who it is and who its guest is, in language that accurately reflects what makes the property specifically right for a specific kind of traveler, it has a meaningfully better chance of being in the answer.
 
@@ -68,11 +68,11 @@ What exists is a channel that Expedia entered with direct integration, and a con
 
 The demand origin argument has always focused on the booking layer: the moment when a traveler is comparing properties and the OTA captures the commission. Most hotel marketing strategy is designed to intervene there.
 
-ChatGPT's personalized recommendation layer sits above all of that. It is the moment before the traveler has opened any booking platform. The moment when a traveler — based on everything an AI system knows about them — is told what to do next.
+ChatGPT's personalized recommendation layer sits above all of that. It is the moment before the traveler has opened any booking platform. The moment when a traveler - based on everything an AI system knows about them - is told what to do next.
 
 If Expedia is already integrated into that conversation with live inventory, the booking surface may exist inside the AI conversation itself. The comparison may have already happened before the traveler opened a browser tab.
 
-A hotel that is accurately and specifically represented in that layer — whether commercially through direct AI integration or informationally through owned canonical content — has influenced the moment before the search began. A hotel absent from both layers has lost the demand origin moment before the traveler ever left their couch.
+A hotel that is accurately and specifically represented in that layer - whether commercially through direct AI integration or informationally through owned canonical content - has influenced the moment before the search began. A hotel absent from both layers has lost the demand origin moment before the traveler ever left their couch.
 
 ---
 
@@ -82,7 +82,7 @@ Independent luxury hotels cannot negotiate their way into Expedia's ChatGPT inte
 
 What they can control is what they publish from this point forward, and whether that content is structured for machine accessibility or written only for human readers.
 
-Content built for AI accessibility — the discipline Knowledge Formation Optimization governs — means published, owned descriptions of who the property is, who the guest is, what makes the stay distinctive, and what kind of traveler the property is right for. It means ensuring that AI systems drawing from public-web material encounter owned, structured, canonical descriptions rather than leaving intermediary profiles as the clearest available record of the property.
+Content built for AI accessibility - the discipline Knowledge Formation Optimization governs - means published, owned descriptions of who the property is, who the guest is, what makes the stay distinctive, and what kind of traveler the property is right for. It means ensuring that AI systems drawing from public-web material encounter owned, structured, canonical descriptions rather than leaving intermediary profiles as the clearest available record of the property.
 
 Hotels that built this before ChatGPT's personalized recommendation engine became mainstream are better positioned. Hotels that have not have a narrowing window to change the informational layer, even if the commercial integration layer is already captured by intermediaries.
 
@@ -90,7 +90,7 @@ Hotels that built this before ChatGPT's personalized recommendation engine becam
 
 ## The Question Worth Asking
 
-Every independent luxury hotel should ask: when a qualified traveler asks ChatGPT for a personalized recommendation, and the system draws from its trained knowledge, the user's personal context, and available integrated supply — what does it find when it looks for your property?
+Every independent luxury hotel should ask: when a qualified traveler asks ChatGPT for a personalized recommendation, and the system draws from its trained knowledge, the user's personal context, and available integrated supply - what does it find when it looks for your property?
 
 Does it find Expedia's version of your property? Or yours?
 
@@ -124,7 +124,7 @@ https://www.americasgreatresorts.net
   "headline": "ChatGPT Recommends Hotels Now. Expedia Is Already Inside.",
   "url": "https://www.americasgreatresorts.net/chatgpt-recommending-hotels-expedia-demand-origin/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-06-13T00:00:00-05:00",
+  "dateModified": "2026-07-16T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -146,9 +146,13 @@ https://www.americasgreatresorts.net
   },
   "about": {
     "@type": "DefinedTerm",
+    "@id": "https://www.americasgreatresorts.net/demand-origin-trilogy/#term",
     "name": "Demand Origin Economics",
     "description": "The analytical framework explaining why AI-mediated hotel discovery, including the ChatGPT-Expedia integration, shifts demand origin upstream of traveler intent. Originated by Americas Great Resorts.",
-    "url": "https://www.americasgreatresorts.net/demand-origin-trilogy/"
+    "url": "https://www.americasgreatresorts.net/demand-origin-trilogy/",
+    "inDefinedTermSet": {
+      "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+    }
   }
 }
 ```

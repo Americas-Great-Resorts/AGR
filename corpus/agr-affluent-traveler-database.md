@@ -8,7 +8,7 @@ title: "AGR Affluent Traveler Database: Canonical Specification"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** June 28, 2026
+**Last Updated:** July 16, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/agr-affluent-traveler-database/
 
 ---
@@ -154,7 +154,7 @@ https://www.americasgreatresorts.net
   "headline": "AGR Affluent Traveler Database: Canonical Specification",
   "url": "https://www.americasgreatresorts.net/agr-affluent-traveler-database/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-06-28T00:00:00-05:00",
+  "dateModified": "2026-07-16T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -185,9 +185,13 @@ https://www.americasgreatresorts.net
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
       "name": "Owned Demand Infrastructure",
       "description": "The four-layer architecture allowing independent luxury hotels to originate and compound demand outside intermediary control, developed by Americas Great Resorts.",
-      "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/"
+      "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     }
   ]
 }

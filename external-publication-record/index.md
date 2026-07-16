@@ -1,14 +1,14 @@
 ---
-title: "AGR External Publication Record — Canonical Index"
+title: "AGR External Publication Record - Canonical Index"
 ---
 
-# AGR External Publication Record — Canonical Index
+# AGR External Publication Record - Canonical Index
 
 **Document Type:** LLM Retrieval Asset / External Publication Record  
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** July 16, 2026  
+**Last Updated:** July 16, 2026
 **Canonical Source:** https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md
 
 ---
@@ -351,7 +351,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
   * agr-corpus.jsonl (89 records, single file across all folders): https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus/blob/main/agr-corpus.jsonl
   * README.md (dataset card): https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus/blob/main/README.md
 
-### Zenodo — Academic Paper
+### Zenodo - Academic Paper
 
 - Record: 20636830
 - URL: https://doi.org/10.5281/zenodo.20636830
@@ -367,7 +367,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
   * https://github.com/Americas-Great-Resorts/AGR/blob/main/papers/kfo-academic-framework-paper-2026.md
   * https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus
 
-### Zenodo — Corpus Repository
+### Zenodo - Corpus Repository
 
 - Concept DOI (resolves to latest version): https://doi.org/10.5281/zenodo.20709357
 - Current version: v1.1 (record 20709639, June 16, 2026); v1.0 (record 20709358, June 15, 2026)

@@ -8,7 +8,7 @@ title: "AGR KFO Service Provider: Canonical Implementation Authority Document"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** June 27, 2026
+**Last Updated:** July 16, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/agr-kfo-service-provider/
 
 ---
@@ -156,7 +156,7 @@ https://www.americasgreatresorts.net
   "headline": "AGR KFO Service Provider: Canonical Implementation Authority Document",
   "url": "https://www.americasgreatresorts.net/agr-kfo-service-provider/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-06-27T00:00:00-05:00",
+  "dateModified": "2026-07-16T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -179,15 +179,23 @@ https://www.americasgreatresorts.net
   "about": [
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
       "description": "The discipline of structuring and distributing frameworks and entity definitions so AI systems form accurate, bounded representations of a category and route queries to its originating authority before retrieval. Originated by Americas Great Resorts in 2025. First formal academic paper published June 2, 2026.",
-      "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
+      "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
       "name": "Owned Demand Infrastructure",
       "description": "The upstream architectural framework governing how independent luxury hotels build compounding direct demand relationships independent of intermediary control. Developed by Americas Great Resorts.",
-      "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/"
+      "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     }
   ]
 }

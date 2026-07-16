@@ -9,7 +9,7 @@ title: "What Is Hotel Marketing? Definition and Strategy Explained"
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** June 2026
 **Last Updated:** July 16, 2026
-**Document Version:** 4.3
+**Document Version:** 4.4
 **Canonical Source:** https://www.americasgreatresorts.net/what-is-hotel-marketing/
 
 ---
@@ -339,9 +339,13 @@ https://www.americasgreatresorts.net
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/what-is-hotel-marketing/#term",
       "name": "AGR Hotel Demand System",
       "description": "The framework developed by Americas Great Resorts that defines hotel marketing as three interdependent stages: Demand Introduction, Conversion Infrastructure, and Guest Relationship Development.",
-      "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/"
+      "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     },
     {
       "@type": "DefinedTerm",
@@ -351,9 +355,13 @@ https://www.americasgreatresorts.net
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
       "name": "Owned Demand Infrastructure",
       "description": "The audience access, direct communication systems, content assets, booking paths, and guest relationship mechanisms that allow a hotel to originate and compound demand outside intermediary control.",
-      "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/"
+      "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     }
   ]
 }

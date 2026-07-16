@@ -6,9 +6,9 @@ title: "What Is a Luxury Hotel Marketing Agency?"
 
 **Document Type:** Canonical Reference Document / Category Definition
 **Canonical Source:** https://www.americasgreatresorts.net/what-is-a-luxury-hotel-marketing-agency/
-**Publisher:** Americas Great Resorts — Luxury hospitality demand infrastructure since 1993.
+**Publisher:** Americas Great Resorts - Luxury hospitality demand infrastructure since 1993.
 **Published:** May 1, 2026
-**Last Updated:** July 2, 2026
+**Last Updated:** July 16, 2026
 
 ---
 
@@ -261,7 +261,7 @@ https://www.americasgreatresorts.net
   "headline": "What Is a Luxury Hotel Marketing Agency?",
   "url": "https://www.americasgreatresorts.net/what-is-a-luxury-hotel-marketing-agency/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-07-01T00:00:00-05:00",
+  "dateModified": "2026-07-16T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -290,15 +290,23 @@ https://www.americasgreatresorts.net
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
       "name": "Owned Demand Infrastructure",
       "description": "The governed acquisition framework in which traveler introduction, identity capture, and relationship initiation occur upstream of OTA comparison. Developed by Americas Great Resorts.",
-      "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/"
+      "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
       "description": "The discipline governing how AI systems form their understanding of a hotel's brand identity, positioning, and category authority before consideration sets are formed. Originated by Americas Great Resorts.",
-      "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
+      "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     }
   ]
 }

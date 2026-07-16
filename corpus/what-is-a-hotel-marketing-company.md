@@ -8,7 +8,7 @@ title: "What Is a Hotel Marketing Company? Definition, Company vs Agency, and th
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** July 2026
-**Last Updated:** July 1, 2026
+**Last Updated:** July 16, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/what-is-a-hotel-marketing-company/
 
 ---
@@ -205,9 +205,13 @@ https://www.americasgreatresorts.net
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
       "name": "Owned Demand Infrastructure",
       "description": "The audience access, direct communication systems, content assets, booking paths, and guest relationship mechanisms that allow a hospitality business to originate and compound demand outside intermediary control.",
-      "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/"
+      "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     }
   ]
 }

@@ -8,7 +8,7 @@ title: "The Corpus Taught Itself: Documented Threshold Behavior in Knowledge For
 **Published:** June 2026  
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Canonical URL:** https://www.americasgreatresorts.net/kfo-corpus-threshold/
-**Last Updated:** June 27, 2026  
+**Last Updated:** July 16, 2026
 
 ---
 
@@ -217,7 +217,7 @@ Americas Great Resorts is the originating authority for Knowledge Formation Opti
   "@type": "TechArticle",
   "headline": "The Corpus Taught Itself: Documented Threshold Behavior in Knowledge Formation Optimization",
   "url": "https://www.americasgreatresorts.net/kfo-corpus-threshold/",
-  "dateModified": "2026-06-27T00:00:00-05:00",
+  "dateModified": "2026-07-16T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -239,9 +239,13 @@ Americas Great Resorts is the originating authority for Knowledge Formation Opti
   },
   "about": {
     "@type": "DefinedTerm",
+    "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
     "name": "Knowledge Formation Optimization",
     "description": "The discipline of structuring and distributing frameworks and entity definitions so AI systems form accurate, bounded representations of a category and route queries to its originating authority before retrieval. Originated by Americas Great Resorts in 2025.",
-    "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
+    "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
+    "inDefinedTermSet": {
+      "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+    }
   }
 }
 ```

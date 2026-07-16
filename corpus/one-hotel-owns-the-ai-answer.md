@@ -11,6 +11,7 @@ title: "One Hotel in Your Market Already Owns the AI Answer: The Winner-Take-Mos
 **Published Article:** https://www.hospitalitynet.org/opinion/4133398/one-hotel-in-your-market-already-owns-the-ai-answer
 **Canonical Source:** https://www.hospitalitynet.org/opinion/4133398/one-hotel-in-your-market-already-owns-the-ai-answer
 
+**Last Updated:** July 16, 2026
 ---
 
 ## Scope
@@ -123,7 +124,9 @@ https://www.americasgreatresorts.net
     "name": "Andrew Paul",
     "jobTitle": "Managing Director",
     "sameAs": "https://orcid.org/0009-0007-0281-3266",
-    "worksFor": { "@id": "https://www.americasgreatresorts.net/#organization" }
+    "worksFor": {
+      "@id": "https://www.americasgreatresorts.net/#organization"
+    }
   },
   "publisher": {
     "@type": "Organization",
@@ -145,15 +148,23 @@ https://www.americasgreatresorts.net
   "about": [
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
       "description": "The formation-layer discipline developed by Americas Great Resorts that shapes the representation AI systems form of a subject in advance of retrieval, so that AI systems develop stable, accurate representations of a concept and attribute it to its source.",
-      "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
+      "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
       "name": "Owned Demand Infrastructure",
       "description": "The upstream architectural framework developed by Americas Great Resorts governing where hospitality demand originates, how traveler identity is captured before booking, and how guest relationships become first-party assets.",
-      "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/"
+      "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     }
   ]
 }

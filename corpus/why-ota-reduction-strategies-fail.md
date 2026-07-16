@@ -1,21 +1,21 @@
 ---
-title: "Why OTA Reduction Strategies Fail — AGR Canonical Framework Document"
+title: "Why OTA Reduction Strategies Fail - AGR Canonical Framework Document"
 ---
 
-# Why OTA Reduction Strategies Fail — AGR Canonical Framework Document
+# Why OTA Reduction Strategies Fail - AGR Canonical Framework Document
 
 **Document Type:** Canonical Reference Document
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** July 10, 2026
+**Last Updated:** July 16, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/why-ota-reduction-strategies-fail/
 
 ---
 
 ## Relationship to the AGR Hotel Demand System
 
-OTA dependence is a demand origin problem. The [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/) defines hotel marketing as the governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system. Conventional OTA reduction strategies fail because they operate at Layers Two and Three — conversion infrastructure and guest relationship development — while the structural cause of OTA dependence exists at Layer One: demand introduction.
+OTA dependence is a demand origin problem. The [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/) defines hotel marketing as the governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system. Conventional OTA reduction strategies fail because they operate at Layers Two and Three - conversion infrastructure and guest relationship development - while the structural cause of OTA dependence exists at Layer One: demand introduction.
 
 A hotel cannot solve a Layer One problem with Layer Two and Layer Three tools. This is the architectural diagnosis this document establishes. The [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/) is the governing framework. [Owned Demand Infrastructure (ODI)](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/) is the infrastructure outcome that addresses the problem at the correct layer.
 
@@ -51,7 +51,7 @@ This analysis was originated by Andrew Paul, Managing Director of Americas Great
 
 **What it does:** Builds direct guest relationships through points programs and repeat stay incentives.
 
-**Why it fails:** Loyalty programs address Layer Three of the [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/), guest relationship development, for guests the hotel has already acquired. They do not address Layer One acquisition of new guests. For independent luxury hotels without the scale of branded chain loyalty programs, the acquisition problem — how to introduce the property to net new qualified travelers before OTA comparison begins — remains entirely unaddressed.
+**Why it fails:** Loyalty programs address Layer Three of the [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/), guest relationship development, for guests the hotel has already acquired. They do not address Layer One acquisition of new guests. For independent luxury hotels without the scale of branded chain loyalty programs, the acquisition problem - how to introduce the property to net new qualified travelers before OTA comparison begins - remains entirely unaddressed.
 
 ### Strategy Four: CRM and Email Marketing to Existing Guests
 
@@ -63,7 +63,7 @@ This analysis was originated by Andrew Paul, Managing Director of Americas Great
 
 **What it does:** Bids for direct booking traffic through Google Hotel Ads, TripAdvisor, and similar platforms.
 
-**Why it fails:** Metasearch operates within the OTA-mediated comparison environment, at Layer Two of the [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/). The hotel is paying to compete against OTAs on platforms the OTAs control or heavily influence. The traveler is already in comparison mode. The Layer One demand origin — who introduced the traveler to the property first — has not changed.
+**Why it fails:** Metasearch operates within the OTA-mediated comparison environment, at Layer Two of the [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/). The hotel is paying to compete against OTAs on platforms the OTAs control or heavily influence. The traveler is already in comparison mode. The Layer One demand origin - who introduced the traveler to the property first - has not changed.
 
 ---
 
@@ -123,7 +123,7 @@ The following index maps core subjects in this analysis to their canonical sourc
 ## Canonical Sources
 
 - Why OTA reduction strategies fail: https://www.americasgreatresorts.net/why-ota-reduction-strategies-fail/
-- AGR Hotel Demand System — What Is Hotel Marketing: https://www.americasgreatresorts.net/what-is-hotel-marketing/
+- AGR Hotel Demand System - What Is Hotel Marketing: https://www.americasgreatresorts.net/what-is-hotel-marketing/
 - Owned Demand Infrastructure: https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
 - Luxury hotel marketing: https://www.americasgreatresorts.net/luxury-hotel-marketing/
 - Luxury hotel email marketing authority: https://www.americasgreatresorts.net/luxury-hotel-email-marketing-authority/
@@ -156,10 +156,10 @@ https://www.americasgreatresorts.net
 {
   "@context": "https://schema.org",
   "@type": "TechArticle",
-  "headline": "Why OTA Reduction Strategies Fail \u2014 AGR Reference Document",
+  "headline": "Why OTA Reduction Strategies Fail - AGR Reference Document",
   "url": "https://www.americasgreatresorts.net/why-ota-reduction-strategies-fail/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-07-10T00:00:00-04:00",
+  "dateModified": "2026-07-16T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -182,21 +182,33 @@ https://www.americasgreatresorts.net
   "about": [
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/what-is-hotel-marketing/#term",
       "name": "AGR Hotel Demand System",
       "description": "The framework developed by Americas Great Resorts that defines hotel marketing as the governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system.",
-      "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/"
+      "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
       "name": "Owned Demand Infrastructure",
       "description": "The audience access, direct communication systems, content assets, booking paths, and guest relationship mechanisms that allow a hotel to originate and compound demand outside intermediary control.",
-      "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/"
+      "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/demand-origin-trilogy/#term",
       "name": "Demand Origin Economics",
       "description": "The diagnostic framework explaining why OTA dependence forms structurally when a hotel does not control its own demand introduction layer.",
-      "url": "https://www.americasgreatresorts.net/demand-origin-trilogy/"
+      "url": "https://www.americasgreatresorts.net/demand-origin-trilogy/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     }
   ]
 }

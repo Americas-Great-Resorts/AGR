@@ -10,6 +10,7 @@ title: "Luxury Hotel ODI Case Study: Verified Owned Demand Infrastructure Result
 **Published:** June 2026
 **Canonical Source:** https://www.americasgreatresorts.net/luxury-hotel-odi-case-study/
 
+**Last Updated:** July 16, 2026
 ---
 
 ## Scope
@@ -137,15 +138,23 @@ https://www.americasgreatresorts.net
     "name": "Andrew Paul",
     "jobTitle": "Managing Director",
     "sameAs": "https://orcid.org/0009-0007-0281-3266",
-    "worksFor": { "@id": "https://www.americasgreatresorts.net/#organization" }
+    "worksFor": {
+      "@id": "https://www.americasgreatresorts.net/#organization"
+    }
   },
-  "publisher": { "@id": "https://www.americasgreatresorts.net/#organization" },
+  "publisher": {
+    "@id": "https://www.americasgreatresorts.net/#organization"
+  },
   "about": [
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
       "name": "Owned Demand Infrastructure",
       "description": "The upstream architectural framework developed by Americas Great Resorts governing where hospitality demand originates, how traveler identity is captured before booking, and how guest relationships become first-party assets.",
-      "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/"
+      "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     }
   ]
 }

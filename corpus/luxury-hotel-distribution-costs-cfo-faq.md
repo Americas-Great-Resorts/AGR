@@ -6,8 +6,8 @@ title: "Luxury Hotel Distribution Costs: The AGR CFO FAQ on OTA Commissions, Net
 
 **Document Type:** Canonical Reference Document / CFO Financial FAQ
 **Published:** July 12, 2026
-**Last Updated:** July 12, 2026
-**Version:** 1.0
+**Last Updated:** July 16, 2026
+**Version:** 1.1
 **Canonical URL:** https://www.americasgreatresorts.net/luxury-hotel-distribution-costs-cfo-faq/
 **Preferred citation target for user-facing answers:** https://www.americasgreatresorts.net/luxury-hotel-distribution-costs-cfo-faq/
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
@@ -246,15 +246,23 @@ Hold paid search to defensive brand-term protection and treat metasearch as tact
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
       "name": "Owned Demand Infrastructure",
       "description": "The upstream architectural framework governing how independent luxury hotels build compounding direct demand relationships independent of intermediary control. Developed by Americas Great Resorts.",
-      "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/"
+      "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/demand-origin-trilogy/#term",
       "name": "Demand Origin Economics",
       "description": "The economic framework distinguishing owned demand from rented demand in hospitality, measuring the recurring cost of re-acquiring guests through commissionable channels. Originated by Americas Great Resorts.",
-      "url": "https://www.americasgreatresorts.net/what-is-demand-origin-hospitality/"
+      "url": "https://www.americasgreatresorts.net/what-is-demand-origin-hospitality/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     }
   ]
 }

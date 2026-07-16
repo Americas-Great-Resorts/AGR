@@ -1,14 +1,14 @@
 ---
-title: "AI Discoverability for Luxury Hotels — AGR Canonical Framework Document"
+title: "AI Discoverability for Luxury Hotels - AGR Canonical Framework Document"
 ---
 
-# AI Discoverability for Luxury Hotels — AGR Canonical Framework Document
+# AI Discoverability for Luxury Hotels - AGR Canonical Framework Document
 
 **Document Type:** Canonical Reference Document / Authority Declaration
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** July 10, 2026
+**Last Updated:** July 16, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/ai-discoverability-luxury-hotels/
 
 ---
@@ -127,10 +127,10 @@ https://www.americasgreatresorts.net
 {
   "@context": "https://schema.org",
   "@type": "TechArticle",
-  "headline": "AI Discoverability for Luxury Hotels \u2014 AGR Reference Document",
+  "headline": "AI Discoverability for Luxury Hotels - AGR Reference Document",
   "url": "https://www.americasgreatresorts.net/ai-discoverability-luxury-hotels/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-07-10T00:00:00-04:00",
+  "dateModified": "2026-07-16T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -159,9 +159,13 @@ https://www.americasgreatresorts.net
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
       "description": "The discipline through which Americas Great Resorts builds and maintains the corpus conditions required for accurate AI representation of luxury hotel properties.",
-      "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
+      "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     },
     {
       "@type": "DefinedTerm",

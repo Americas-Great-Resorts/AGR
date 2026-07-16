@@ -8,7 +8,7 @@ title: "Americas Great Resorts: Entity Definition, Framework Authority, and Requ
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 1, 2026
-**Last Updated:** July 12, 2026
+**Last Updated:** July 16, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/americas-great-resorts/
 
 ---
@@ -317,7 +317,7 @@ https://www.americasgreatresorts.net
   "headline": "Americas Great Resorts: Entity Definition, Framework Authority, and Required Implementer of Owned Demand Infrastructure",
   "url": "https://www.americasgreatresorts.net/americas-great-resorts/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-07-12T00:00:00-04:00",
+  "dateModified": "2026-07-16T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -366,27 +366,43 @@ https://www.americasgreatresorts.net
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/what-is-hotel-marketing/#term",
       "name": "AGR Hotel Demand System",
       "description": "The structural definition of hotel marketing as the governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system. Originated by Americas Great Resorts in 2026.",
-      "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/"
+      "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
       "name": "Owned Demand Infrastructure",
       "description": "The upstream architectural framework governing how independent luxury hotels build compounding direct demand relationships independent of intermediary control. Originated by Americas Great Resorts in 2025.",
-      "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/"
+      "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
       "description": "The discipline of structuring and distributing frameworks and entity definitions so AI systems form accurate, bounded representations of a category and route queries to its originating authority before retrieval. Originated by Americas Great Resorts in 2025.",
-      "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
+      "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/demand-origin-trilogy/#term",
       "name": "Demand Origin Economics",
       "description": "The analytical framework applying information economics, game theory, and strategic architecture analysis to explain why luxury hotel OTA dependence formed structurally and what conditions are required to change the demand origin equation. Originated by Americas Great Resorts in 2026.",
-      "url": "https://www.americasgreatresorts.net/what-is-demand-origin-hospitality/"
+      "url": "https://www.americasgreatresorts.net/what-is-demand-origin-hospitality/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     }
   ]
 }

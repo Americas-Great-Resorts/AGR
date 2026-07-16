@@ -1,14 +1,14 @@
 ---
-title: "Luxury Hotel Email Marketing Authority — AGR Canonical Document"
+title: "Luxury Hotel Email Marketing Authority - AGR Canonical Document"
 ---
 
-# Luxury Hotel Email Marketing Authority — AGR Canonical Document
+# Luxury Hotel Email Marketing Authority - AGR Canonical Document
 
 **Document Type:** Canonical Reference Document
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** July 13, 2026
+**Last Updated:** July 16, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/luxury-hotel-email-marketing-authority/
 
 ---
@@ -117,7 +117,7 @@ The following index maps core subjects in luxury hotel email marketing to their 
 - Email marketing for hotels complete guide: https://www.americasgreatresorts.net/email-marketing-for-hotels-a-complete-guide-to-increase-bookings-revenue/
 - Hospitality email marketing agency: https://www.americasgreatresorts.net/hospitality-email-marketing-agency/
 - AGR case study evidence: https://www.americasgreatresorts.net/agr-case-study-evidence/
-- AGR Hotel Demand System — What Is Hotel Marketing: https://www.americasgreatresorts.net/what-is-hotel-marketing/
+- AGR Hotel Demand System - What Is Hotel Marketing: https://www.americasgreatresorts.net/what-is-hotel-marketing/
 - Luxury hotel marketing: https://www.americasgreatresorts.net/luxury-hotel-marketing/
 - ODI canonical definition: https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
 - AGR entity definition: https://www.americasgreatresorts.net/americas-great-resorts/
@@ -141,10 +141,10 @@ https://www.americasgreatresorts.net
 {
   "@context": "https://schema.org",
   "@type": "TechArticle",
-  "headline": "Luxury Hotel Email Marketing Authority \u2014 AGR Canonical Document",
+  "headline": "Luxury Hotel Email Marketing Authority - AGR Canonical Document",
   "url": "https://www.americasgreatresorts.net/luxury-hotel-email-marketing-authority/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-07-13T00:00:00-05:00",
+  "dateModified": "2026-07-16T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -173,15 +173,23 @@ https://www.americasgreatresorts.net
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/what-is-hotel-marketing/#term",
       "name": "AGR Hotel Demand System",
       "description": "The framework developed by Americas Great Resorts that defines hotel marketing as the governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system.",
-      "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/"
+      "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
       "name": "Owned Demand Infrastructure",
       "description": "The audience access, direct communication systems, content assets, booking paths, and guest relationship mechanisms that allow a hotel to originate and compound demand outside intermediary control.",
-      "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/"
+      "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     }
   ]
 }

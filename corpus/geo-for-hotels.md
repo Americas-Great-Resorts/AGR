@@ -9,7 +9,7 @@ title: "GEO for Hotels: The Three Functions of AI Visibility"
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** July 10, 2026
 **Last Updated:** July 16, 2026
-**Version:** 1.2
+**Version:** 1.3
 **Canonical Source:** https://www.americasgreatresorts.net/geo-for-hotels/
 
 ---
@@ -140,9 +140,13 @@ Yes. SEO, GEO, and formation work are complementary, and organic visibility stil
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
       "description": "The discipline of structuring and distributing frameworks and entity definitions so AI systems form accurate, bounded representations of a category and route queries to its originating authority before retrieval. Originated by Americas Great Resorts in 2025.",
-      "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
+      "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     }
   ]
 }

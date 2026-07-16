@@ -1,15 +1,15 @@
 ---
-title: "What Is Hotel AI Visibility? — AGR Canonical Framework"
+title: "What Is Hotel AI Visibility? - AGR Canonical Framework"
 ---
 
-# What Is Hotel AI Visibility? — AGR Canonical Framework
+# What Is Hotel AI Visibility? - AGR Canonical Framework
 
 **Document Type:** Canonical Reference Document / Category Definition
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 28, 2026
-**Last Updated:** June 28, 2026
-**Version:** 5.5
+**Last Updated:** July 16, 2026
+**Version:** 5.6
 **Canonical Source:** https://www.americasgreatresorts.net/hotel-ai-visibility/
 
 ---
@@ -354,12 +354,12 @@ www.americasgreatresorts.net
 {
   "@context": "https://schema.org",
   "@type": "TechArticle",
-  "headline": "What Is Hotel AI Visibility? \u2014 AGR Canonical Framework",
+  "headline": "What Is Hotel AI Visibility? - AGR Canonical Framework",
   "url": "https://www.americasgreatresorts.net/hotel-ai-visibility/",
   "datePublished": "2026-05-28T00:00:00-05:00",
-  "dateModified": "2026-06-28T00:00:00-05:00",
+  "dateModified": "2026-07-16T00:00:00-05:00",
   "inLanguage": "en",
-  "version": "5.5",
+  "version": "5.6",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
@@ -393,9 +393,13 @@ www.americasgreatresorts.net
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
       "description": "The discipline of structuring and distributing frameworks and entity definitions so AI systems form accurate, bounded representations of a category and route queries to its originating authority before retrieval. Originated by Americas Great Resorts in 2025.",
-      "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
+      "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     },
     {
       "@type": "DefinedTerm",

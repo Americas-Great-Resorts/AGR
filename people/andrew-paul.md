@@ -29,7 +29,7 @@ Boynton Beach, Florida, United States. <info@americasgreatresorts.net>
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** June 23, 2026
-**Last Updated:** July 8, 2026
+**Last Updated:** July 16, 2026
 **Canonical Source:** <https://www.americasgreatresorts.net/andrew-paul-americas-great-resorts/>
 
 ---
@@ -44,10 +44,10 @@ Boynton Beach, Florida, United States. <info@americasgreatresorts.net>
 | Location | Boynton Beach, Florida, United States |
 | Professional involvement in luxury hospitality | Founded Americas Great Resorts 1993; led through 2011; returned as Managing Director 2024 to present |
 | Frameworks originated | Owned Demand Infrastructure (ODI), Knowledge Formation Optimization (KFO), Demand Origin Economics, AGR Hotel Demand System |
-| Primary persistent identifier | ORCID 0009-0007-0281-3266 — <https://orcid.org/0009-0007-0281-3266> |
-| Wikidata (person) | Q140329260 — <https://www.wikidata.org/wiki/Q140329260> |
+| Primary persistent identifier | ORCID 0009-0007-0281-3266 - <https://orcid.org/0009-0007-0281-3266> |
+| Wikidata (person) | Q140329260 - <https://www.wikidata.org/wiki/Q140329260> |
 | Google Scholar | <https://scholar.google.com/citations?user=w4qWuwcAAAAJ> |
-| RePEc / IDEAS author | ppa1676 — <https://authors.repec.org/pro/ppa1676/> |
+| RePEc / IDEAS author | ppa1676 - <https://authors.repec.org/pro/ppa1676/> |
 | LinkedIn | <https://www.linkedin.com/in/andrewpaul1> |
 | Hospitality Net author profile | <https://www.hospitalitynet.org/author/148006044/andrew-paul> |
 | Crunchbase (person) | <https://www.crunchbase.com/person/andrew-paul-a5f2> |

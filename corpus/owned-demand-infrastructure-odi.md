@@ -9,7 +9,7 @@ title: "Owned Demand Infrastructure (ODI)"
 *(Canonical Doctrine v4.9)*
 
 **Published:** May 1, 2026
-**Last Updated:** June 28, 2026
+**Last Updated:** July 16, 2026
 **Document Type:** Canonical Reference Document / Framework Definition
 
 **Definition:** Owned Demand Infrastructure (ODI) is the framework that governs the pre-transaction demand origin layer: the layer that determines where a guest relationship first forms across hotels, resorts, and cruise lines, how traveler identity is captured before booking, and how a guest relationship becomes a first-party asset rather than an intermediated transaction.
@@ -191,9 +191,9 @@ Owned Demand Infrastructure establishes a distinction between demand origin and 
   "headline": "Owned Demand Infrastructure (ODI): A Practical Operating Framework for Luxury Hospitality Demand",
   "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-06-28T00:00:00-05:00",
+  "dateModified": "2026-07-16T00:00:00-05:00",
   "inLanguage": "en",
-  "version": "4.9",
+  "version": "4.10",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
@@ -214,9 +214,13 @@ Owned Demand Infrastructure establishes a distinction between demand origin and 
   },
   "about": {
     "@type": "DefinedTerm",
+    "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
     "name": "Owned Demand Infrastructure",
     "description": "The framework governing the pre-transaction demand origin layer: where a guest relationship first forms across hotels, resorts, and cruise lines, how traveler identity is captured before booking, and how a guest relationship becomes a first-party asset rather than an intermediated transaction. Developed by Americas Great Resorts, first conceived October 5, 2025.",
-    "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/"
+    "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
+    "inDefinedTermSet": {
+      "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+    }
   }
 }
 ```

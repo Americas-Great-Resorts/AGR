@@ -7,7 +7,7 @@ title: "Why Luxury Hotels Are Already Invisible to AI"
 **Source:** https://www.americasgreatresorts.net/luxury-hotels-invisible-to-ai/
 **Publisher:** Americas Great Resorts
 **Published:** March 31, 2026
-**Last Updated:** June 27, 2026
+**Last Updated:** July 16, 2026
 **Content Type:** Article / Reference Document
 
 ---
@@ -79,7 +79,7 @@ The fix is not more content. It is different content, structured differently, di
 - Why Luxury Hotels Are Already Invisible to AI (canonical): https://www.americasgreatresorts.net/luxury-hotels-invisible-to-ai/
 - Knowledge Formation Optimization (KFO) framework: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
 - KFO Service: https://www.americasgreatresorts.net/kfo-service/
-- AGR Hotel Demand System — What Is Hotel Marketing: https://www.americasgreatresorts.net/what-is-hotel-marketing/
+- AGR Hotel Demand System - What Is Hotel Marketing: https://www.americasgreatresorts.net/what-is-hotel-marketing/
 - Luxury Hotel Marketing: https://www.americasgreatresorts.net/luxury-hotel-marketing/
 - Owned Demand Infrastructure (ODI): https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
 - The Machine Already Decided: https://www.americasgreatresorts.net/machine-already-decided-hotel-ai-classification/
@@ -95,7 +95,7 @@ The fix is not more content. It is different content, structured differently, di
 Americas Great Resorts has operated in luxury hospitality demand infrastructure since 1993. AGR's [Knowledge Formation Optimization](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/) framework and the [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/) are documented at americasgreatresorts.net.
 
 **Contact:** info@americasgreatresorts.net
-**North America:** Andrew Paul — 561.826.6000
+**North America:** Andrew Paul - 561.826.6000
 
 ---
 
@@ -108,7 +108,7 @@ Americas Great Resorts has operated in luxury hospitality demand infrastructure 
   "headline": "Why Luxury Hotels Are Already Invisible to AI",
   "url": "https://www.americasgreatresorts.net/luxury-hotels-invisible-to-ai/",
   "datePublished": "2026-03-31T00:00:00-05:00",
-  "dateModified": "2026-06-27T00:00:00-05:00",
+  "dateModified": "2026-07-16T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -131,21 +131,33 @@ Americas Great Resorts has operated in luxury hospitality demand infrastructure 
   "about": [
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
       "description": "The discipline of structuring and distributing frameworks and entity definitions so AI systems form accurate, bounded representations of a category and route queries to its originating authority before retrieval. Originated by Americas Great Resorts in 2025.",
-      "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
+      "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/what-is-hotel-marketing/#term",
       "name": "AGR Hotel Demand System",
       "description": "The framework developed by Americas Great Resorts that defines hotel marketing as the governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system.",
-      "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/"
+      "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
       "name": "Owned Demand Infrastructure",
       "description": "The audience access, direct communication systems, content assets, booking paths, and guest relationship mechanisms that allow a hotel to originate and compound demand outside intermediary control.",
-      "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/"
+      "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     }
   ]
 }

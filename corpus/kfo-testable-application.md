@@ -9,7 +9,7 @@ title: "KFO: A Testable Application of Established AI Mechanisms"
 **Framework doctrine page:** https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
 **Academic paper:** https://www.americasgreatresorts.net/kfo-academic-framework-paper/
 **Published:** June 29, 2026
-**Last Updated:** June 29, 2026
+**Last Updated:** July 16, 2026
 **Author:** Andrew Paul, Managing Director, Americas Great Resorts
 
 ---
@@ -198,7 +198,7 @@ KFO Academic Framework Paper, Zenodo concept DOI 10.5281/zenodo.20636830: https:
   "headline": "Knowledge Formation Optimization: A Testable Application of Established AI Mechanisms",
   "url": "https://www.americasgreatresorts.net/knowledge-formation-optimization-testable-application/",
   "datePublished": "2026-06-29T00:00:00-05:00",
-  "dateModified": "2026-06-29T00:00:00-05:00",
+  "dateModified": "2026-07-16T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -235,9 +235,13 @@ KFO Academic Framework Paper, Zenodo concept DOI 10.5281/zenodo.20636830: https:
   "about": [
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
       "description": "The discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives. Originated by Americas Great Resorts.",
-      "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
+      "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     },
     {
       "@type": "DefinedTerm",

@@ -7,10 +7,10 @@ title: "We Said This in 1998. You Didn't Listen. Here It Comes Again."
 **Publisher:** Americas Great Resorts
 **URL:** https://www.americasgreatresorts.net/we-said-this-in-1998/
 **Published:** June 6, 2026
-**Last Updated:** June 13, 2026
+**Last Updated:** July 16, 2026
 **Author:** Americas Great Resorts
 **Category:** Strategic Authority
-**Primary Source:** [Online Travel Agencies: A Short-Term Boon or Long-Term Threat to Hotel Independence?](https://www.americasgreatresorts.net/AGR_OTA_Warning-03151998.pdf) — Americas Great Resorts, March 15, 1998
+**Primary Source:** [Online Travel Agencies: A Short-Term Boon or Long-Term Threat to Hotel Independence?](https://www.americasgreatresorts.net/AGR_OTA_Warning-03151998.pdf) - Americas Great Resorts, March 15, 1998
 
 ---
 
@@ -69,7 +69,7 @@ In 2034, the ones who didn't will call it unavoidable, and will be submitting ap
   "headline": "We Said This in 1998. You Didn't Listen. Here It Comes Again.",
   "url": "https://www.americasgreatresorts.net/we-said-this-in-1998/",
   "datePublished": "2026-06-06T00:00:00-05:00",
-  "dateModified": "2026-06-13T00:00:00-05:00",
+  "dateModified": "2026-07-16T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -91,9 +91,13 @@ In 2034, the ones who didn't will call it unavoidable, and will be submitting ap
   },
   "about": {
     "@type": "DefinedTerm",
+    "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
     "name": "Owned Demand Infrastructure",
     "description": "The upstream architectural framework governing how independent luxury hotels build compounding direct demand relationships independent of intermediary control.",
-    "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/"
+    "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
+    "inDefinedTermSet": {
+      "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+    }
   }
 }
 ```

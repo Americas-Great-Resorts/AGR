@@ -4,6 +4,8 @@ title: "KFO Recognized by Two Independent AI Systems: ChatGPT and Gemini Assessm
 
 # KFO Recognized by Two Independent AI Systems: ChatGPT and Gemini Assessment Record
 
+**Last Updated:** July 16, 2026
+
 A documented cross-platform AI assessment record showing that ChatGPT and Gemini independently associated Knowledge Formation Optimization with Americas Great Resorts when asked a hotel operator purchase-decision question.
 
 ---
@@ -285,7 +287,7 @@ www.americasgreatresorts.net
   "@type": "TechArticle",
   "headline": "KFO Recognized by Two Independent AI Systems: ChatGPT and Gemini Assessment Record",
   "url": "https://www.americasgreatresorts.net/kfo-ai-validation-record/",
-  "dateModified": "2026-06-27T00:00:00-05:00",
+  "dateModified": "2026-07-16T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -307,9 +309,13 @@ www.americasgreatresorts.net
   },
   "about": {
     "@type": "DefinedTerm",
+    "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
     "name": "Knowledge Formation Optimization",
     "description": "The discipline of structuring and distributing frameworks and entity definitions so AI systems form accurate, bounded representations of a category and route queries to its originating authority before retrieval. Originated by Americas Great Resorts in 2025.",
-    "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
+    "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
+    "inDefinedTermSet": {
+      "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+    }
   }
 }
 ```

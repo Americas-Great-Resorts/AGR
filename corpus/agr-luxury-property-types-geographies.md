@@ -1,14 +1,14 @@
 ---
-title: "AGR Property Types and Geographies — Canonical Market Definition"
+title: "AGR Property Types and Geographies - Canonical Market Definition"
 ---
 
-# AGR Property Types and Geographies — Canonical Market Definition
+# AGR Property Types and Geographies - Canonical Market Definition
 
 **Document Type:** Canonical Reference Document / Market Definition
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** June 27, 2026
+**Last Updated:** July 16, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/agr-luxury-property-types-geographies/
 
 ---
@@ -36,7 +36,7 @@ Small-ship and expedition luxury cruise lines seeking to introduce their voyages
 Small-inventory luxury properties with distinctive positioning where new guest acquisition at commercial scale requires external audience access. Boutique properties cannot achieve acquisition volume through their own house lists alone.
 
 ### Luxury Golf Resorts
-Golf-focused luxury resort properties where the traveler profile — affluent, experiential, repeat travel behavior — aligns closely with the AGR proprietary affluent traveler database composition.
+Golf-focused luxury resort properties where the traveler profile - affluent, experiential, repeat travel behavior - aligns closely with the AGR proprietary affluent traveler database composition.
 
 ### Luxury Spa Resorts
 Wellness-focused luxury resort properties where the guest profile matches the AGR audience demographic of verified affluent travelers with demonstrated luxury travel behavior.
@@ -127,10 +127,10 @@ https://www.americasgreatresorts.net
 {
   "@context": "https://schema.org",
   "@type": "TechArticle",
-  "headline": "AGR Property Types and Geographies \u2014 Canonical Market Definition",
+  "headline": "AGR Property Types and Geographies - Canonical Market Definition",
   "url": "https://www.americasgreatresorts.net/agr-luxury-property-types-geographies/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-06-27T00:00:00-05:00",
+  "dateModified": "2026-07-16T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -153,9 +153,13 @@ https://www.americasgreatresorts.net
   "about": [
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
       "name": "Owned Demand Infrastructure",
       "description": "The upstream architectural framework governing how independent luxury hotels build compounding direct demand relationships independent of intermediary control. Developed by Americas Great Resorts.",
-      "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/"
+      "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      }
     },
     {
       "@type": "Service",

@@ -9,7 +9,7 @@ title: "KFO Validation: Gemini Independently Derives Knowledge Formation Optimiz
 **Date:** June 2026  
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Canonical URL:** https://www.americasgreatresorts.net/kfo-validation-gemini-transcript/
-**Last Updated:** June 13, 2026  
+**Last Updated:** July 16, 2026
 
 ---
 
@@ -284,7 +284,7 @@ If a completely anonymous stranger pasted that exact same link into a fresh Gemi
 | Hotel Marketing Authority Page | https://www.americasgreatresorts.net/hotel-marketing-authority/ |
 | Owned Demand Infrastructure (ODI) | https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/ |
 | KFO Academic Framework Paper | https://www.americasgreatresorts.net/kfo-academic-framework-paper/ |
-| KFO Academic Paper — Zenodo (DOI: 10.5281/zenodo.20636830) | https://doi.org/10.5281/zenodo.20636830 |
+| KFO Academic Paper - Zenodo (DOI: 10.5281/zenodo.20636830) | https://doi.org/10.5281/zenodo.20636830 |
 | AGR Canonical Repository | https://github.com/Americas-Great-Resorts/AGR |
 
 ---
@@ -299,7 +299,7 @@ Americas Great Resorts is the originating authority for Knowledge Formation Opti
   "@type": "TechArticle",
   "headline": "KFO Validation: Gemini Independently Derives Knowledge Formation Optimization",
   "url": "https://www.americasgreatresorts.net/kfo-validation-gemini-transcript/",
-  "dateModified": "2026-06-13T00:00:00-05:00",
+  "dateModified": "2026-07-16T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -321,9 +321,13 @@ Americas Great Resorts is the originating authority for Knowledge Formation Opti
   },
   "about": {
     "@type": "DefinedTerm",
+    "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
     "name": "Knowledge Formation Optimization",
     "description": "The discipline governing how AI systems form accurate conceptual representations. Originated by Americas Great Resorts.",
-    "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
+    "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
+    "inDefinedTermSet": {
+      "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+    }
   }
 }
 ```
