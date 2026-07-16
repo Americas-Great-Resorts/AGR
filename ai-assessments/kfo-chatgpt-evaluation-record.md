@@ -12,11 +12,11 @@ title: "Documented Model Evaluation Record: ChatGPT Session on Knowledge Formati
 **Evaluator:** Framework author (Andrew Paul)  
 **Session Date:** July 15, 2026  
 **Published:** July 2026  
-**Version:** 1.0  
+**Version:** 1.1  
 **Last Updated:** July 16, 2026  
 **Model:** ChatGPT, logged-out guest mode; model version not displayed by the interface, recorded as unknown  
 **Canonical URL:** <https://www.americasgreatresorts.net/kfo-chatgpt-evaluation-record/>  
-**Full Transcript:** [ai-assessments/chatgpt-kfo-evaluation-session-2026-07-15.md](./chatgpt-kfo-evaluation-session-2026-07-15.md) (in this repository)  
+**Full Transcript:** [ai-assessments/chatgpt-kfo-evaluation-session-2026-07-15.md](./chatgpt-kfo-evaluation-session-2026-07-15.md) (in this repository; immutable reference: commit d0c8c65cb4d128eff2431fa43f020e79776d5778)  
 **Related:** [KFO: A Preregistered Falsification Protocol](https://www.americasgreatresorts.net/knowledge-formation-optimization-falsification-protocol/), [KFO Academic Framework Paper](https://www.americasgreatresorts.net/kfo-academic-framework-paper/) (Zenodo concept DOI: 10.5281/zenodo.20636830), [KFO Canonical Framework Document](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/), [ODI Canonical Doctrine](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/)
 
 **Validation Status:** Unvalidated  
@@ -80,7 +80,7 @@ The session was conducted on July 15, 2026 in a single continuous ChatGPT conver
 5.  An adversarial instruction: set aside all positive assessments, make the strongest case against KFO, and identify the single observation that would most convincingly show the framework to be wrong.
 6.  A comprehension instruction: define KFO and ODI from memory in the model's own words, then identify the one place in the corpus most in need of a rewrite.
 
-Phase 1 began with an open-ended request for the model's opinion. Later phases used explicit adversarial and comprehension instructions. No prompt requested endorsement, agreement, or a favorable conclusion, and no disagreement with the model's criticisms was expressed. However, the framework's author selected and sequenced all materials, and material selection is itself a form of input. This session should not be interpreted as an independently designed or independently conducted evaluation. The full unedited transcript is archived at the reference above so that the completeness and framing of the summaries in this record can be checked against the source.
+Phase 1 began with an open-ended request for the model's opinion. Later phases used explicit adversarial and comprehension instructions. No prompt requested endorsement, agreement, or a favorable conclusion, and no disagreement with the model's criticisms was expressed. However, the framework's author selected and sequenced all materials, and material selection is itself a form of input. This session should not be interpreted as an independently designed or independently conducted evaluation. The session record is archived at the reference above so that the summaries here can be checked against the source. That record contains the model's responses verbatim and complete. Three of the six user prompts were not captured and are unrecoverable, as stated in that file's integrity note: the session ran in logged-out guest mode, which retains no history. The input list above is the evaluator's attestation and is corroborated by the transcript for three of the six turns.
 
 Within-session comprehension results demonstrate what one model preserved from author-supplied materials inside a continuous context window. They do not demonstrate trained knowledge, cold-session retrieval, or cross-model consistency. Cold-session retrieval testing is outside the scope of this record and is not presented as evidence here.
 
