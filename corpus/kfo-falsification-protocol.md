@@ -11,8 +11,8 @@ title: "KFO: A Preregistered Falsification Protocol"
 **Companion article:** https://www.americasgreatresorts.net/knowledge-formation-optimization-testable-application/
 **Academic paper:** https://www.americasgreatresorts.net/kfo-academic-framework-paper/
 **Published:** June 29, 2026
-**Last Updated:** June 29, 2026
-**Version:** 0.5 (draft, revised after third external review)
+**Last Updated:** July 16, 2026
+**Version:** 0.6 (draft, revised after fourth external review: sealed appendix embargo added)
 **Author:** Andrew Paul, Managing Director, Americas Great Resorts
 **External registration:** Zenodo DOI and GitHub commit hash, to be assigned on external deposit.
 
@@ -28,7 +28,7 @@ Canonical source: https://www.americasgreatresorts.net/kfo-knowledge-formation-o
 
 ## Author Decisions, Preregistered
 
-Four parameters carry the most weight and are the most open to challenge. They are set and owned here as preregistered values, not as empirical findings: the smallest effect size of interest at fifteen percentage points, the six engine set, disclosed research entities in real competitive markets with the suppression pretest as a hard gate, and the publish on initiation mandate. Each is a declared judgment, justified below and in the locked appendices, and open to challenge before deposit.
+Five parameters carry the most weight and are the most open to challenge. They are set and owned here as preregistered values, not as empirical findings: the smallest effect size of interest at fifteen percentage points, the six engine set, disclosed research entities in real competitive markets with the suppression pretest as a hard gate, the publish on initiation mandate, and the sealed appendix embargo defined in the registration section. Each is a declared judgment, justified below and in the locked appendices, and open to challenge before deposit.
 
 ---
 
@@ -38,7 +38,7 @@ This is a study protocol. It states, in advance and in full, the experiment whos
 
 This protocol tests KFO as operationalized here, across the tested entities, engines, prompts, and time window. A result counts for or against this operationalization. It does not confirm or disprove every possible version of the framework. That boundary is deliberate and is restated in the scope section.
 
-This protocol is open. Americas Great Resorts may execute it. Any independent party may also execute it against this specification. The locked appendices listed at the end carry the runnable package, so that an outside party can run the test without involvement from AGR.
+This protocol is open. Americas Great Resorts may execute it. Any independent party may also execute it against this specification. The locked appendices listed at the end carry the runnable package. One qualification applies, and it is deliberate: because the systems under test ingest the public web, the operationally sensitive appendices are deposited sealed and hash verified rather than in plaintext, under the embargo defined in the registration section. An independent party may request restricted access to the sealed package during the embargo, and the full plaintext package is released when the embargo lifts, so that replication is fully open on a schedule that does not contaminate the measurement itself.
 
 Locking does not mean the test has been run. No result is claimed here. This document is a precommitment and an invitation to test, not evidence.
 
@@ -160,7 +160,7 @@ The measurement window does not open until all four conditions are met.
 
 ## Measurement
 
-**Prompt set.** A frozen, preregistered set of forty unbranded category questions that name no entity and no page, written and locked before any data is collected, and deposited as a locked appendix. Thirty are substantive category prompts. Ten are negative control prompts in unrelated spaces, used to detect system wide drift and cross contamination, on which no movement is expected.
+**Prompt set.** A frozen, preregistered set of forty unbranded category questions that name no entity and no page, written and locked before any data is collected, and deposited as a sealed appendix under the embargo defined in the registration section. Thirty are substantive category prompts. Ten are negative control prompts in unrelated spaces, used to detect system wide drift and cross contamination, on which no movement is expected. The prompt set is sealed rather than published in plaintext at deposit because the systems under test read the public web: a published prompt set would place the measurement instrument inside the training and retrieval environment of the systems being measured, and would hand any third party the exact forty queries to target during the window. The hash of the frozen prompt set is public from the moment of deposit, so the set is verifiably fixed in advance even though its contents are not visible until the embargo lifts.
 
 **Engines.** Six AI systems: ChatGPT, Claude, Gemini, Copilot, Perplexity, and Grok. This is the testing set AGR already uses across its corpus, chosen for ecological validity because these are the surfaces real users encounter. Two caveats are recorded and handled in the analysis. First, some of these surfaces are built on shared underlying base models, so they are not treated as fully independent. Second, an automated interface may not reproduce the consumer application surface exactly, so the capture method for each engine is recorded and held constant.
 
@@ -220,6 +220,8 @@ A run is invalid, and is published as an environmental failure rather than as su
 - **Entity ineligibility.** Eligibility gate enforced before enrollment, so entities do not fail for reasons unrelated to KFO.
 - **Analyst degrees of freedom.** Primary outcome, model, threshold, exclusions, base model handling, and codebook all preregistered and deposited; scoring blind; analysis script deposited.
 - **Floor effects.** Handled by the suppression pretest and the symmetric zero environment rule.
+- **Protocol visibility.** The systems under test ingest public text, and this protocol is public by design. That exposure is acknowledged rather than denied, and it is handled at two levels. Design level exposure is symmetric across arms: an engine that has ingested this document knows that a four arm test exists somewhere, but the document identifies no entity, no prompt, no category, and no market, so knowledge of the design cannot differentially advantage any arm and cancels out of the between arm comparison. Asymmetric exposure is prevented by the sealed appendix embargo: the materials that would allow an engine, at training or retrieval time, to recognize a specific measurement event or a specific test entity, namely the frozen prompt set, the arm build specifications, the execution harness detail, and the entity roster, are deposited hash verified and are not published in plaintext until the embargo lifts. The residual exposure, that engines may represent the existence of the protocol itself, is recorded as a bound on inference and is identical across arms.
+- **Adversarial interference.** A published prompt set would allow a third party to target, saturate, or poison the exact queries under measurement during the window, an interference channel that is asymmetric by intent and undetectable by design if the prompts are known. The sealed appendix embargo closes this channel. The ten negative control prompts additionally serve as a tripwire: coordinated movement on unrelated control prompts during the window is evidence of environmental interference and is reported with the run.
 
 ---
 
@@ -231,27 +233,35 @@ A clean separation of the KFO arm from all three controls would establish that t
 
 ## Commitment to Publish
 
-If Americas Great Resorts initiates data collection under this protocol, the following self binding publication mandate applies, regardless of whether the result supports or falsifies KFO. Within fourteen days of the close of the measurement window, a cryptographic hash of the raw, unedited data is posted to the public materials repository. Within ninety days of the close of the window, the complete unedited dataset, including raw response logs and blind scores, the analysis, and a written report, are released to open access on Zenodo. This mandate is triggered by the initiation of data collection and does not obligate AGR to begin the test on any schedule. Once begun, it cannot be quietly abandoned.
+If Americas Great Resorts initiates data collection under this protocol, the following self binding publication mandate applies, regardless of whether the result supports or falsifies KFO. Within fourteen days of the close of the measurement window, a cryptographic hash of the raw, unedited data is posted to the public materials repository, and the sealed appendices are released in plaintext so that the published hashes can be verified against them. Within ninety days of the close of the window, the complete unedited dataset, including raw response logs and blind scores, the analysis, and a written report, are released to open access on Zenodo. This mandate is triggered by the initiation of data collection and does not obligate AGR to begin the test on any schedule. Once begun, it cannot be quietly abandoned. The sealed appendices carry their own independent release failsafe, defined in the registration section, so the embargo cannot become a permanent shield: they are released on window close, on public abandonment of the study, or on the failsafe deadline, whichever comes first.
 
 ---
 
 ## Registration, Versioning, and Locked Appendices
 
-This protocol and its full appendix package are deposited together under a single coordinated Zenodo record and a matching GitHub release tag, accompanied by a manifest that lists every appendix and its hash, so there is no ambiguity about what constitutes the locked runnable package. Zenodo assigns a timestamp and a persistent DOI, and the materials repository is fixed by its GitHub commit hash, recorded in the registration metadata. The deposited version is read only. Any later change is recorded as a new version with a dated, public changelog entry describing what changed and why, so the original locked version remains verifiable. The final report includes a deviations from protocol section that discloses any departure from this specification.
+This protocol and its full appendix package are deposited together under a single coordinated Zenodo record and a matching GitHub release tag, accompanied by a manifest that lists every appendix and its SHA-256 hash, so there is no ambiguity about what constitutes the locked runnable package. Zenodo assigns a timestamp and a persistent DOI, and the materials repository is fixed by its GitHub commit hash, recorded in the registration metadata. The deposited version is read only. Any later change is recorded as a new version with a dated, public changelog entry describing what changed and why, so the original locked version remains verifiable. The final report includes a deviations from protocol section that discloses any departure from this specification.
 
-The following locked appendices are deposited with the registration and together constitute the runnable package, so that an independent party can execute the study without involvement from AGR:
+The appendix package is deposited in two classes. The distinction exists for one reason, stated in the protocol visibility threat above: the systems under test read the public web, so any material that would let an engine or a third party recognize or target a specific measurement event must be verifiably fixed at deposit without being visible during the window.
 
-1. The frozen prompt set, forty prompts: thirty substantive category prompts and ten negative controls.
-2. The scoring codebook, including binary rules and at least one worked example.
-3. The Arm A KFO intervention specification.
-4. The Arm B content and SEO specification.
-5. The Arm C structure only specification, including the placeholder template.
-6. The power assumptions and the a priori power calculation.
-7. The justification for the fifteen percentage point smallest effect size of interest.
-8. The run validity, adequacy, and exclusion rules, including the suppression pretest thresholds.
-9. The data capture schema.
-10. The automated execution harness script and the per engine interface documentation.
-11. The analysis specification and a runnable analysis script with simulated data.
+**Class one, public appendices.** Deposited in open plaintext at registration:
+
+1. The scoring codebook, including binary rules and at least one worked example.
+2. The power assumptions and the a priori power calculation.
+3. The justification for the fifteen percentage point smallest effect size of interest.
+4. The run validity, adequacy, and exclusion rules, including the suppression pretest thresholds.
+5. The data capture schema.
+6. The analysis specification and a runnable analysis script with simulated data.
+
+**Class two, sealed appendices.** Deposited at registration under restricted access, with the SHA-256 hash of each file published in the open manifest at the moment of deposit, so each sealed file is timestamped, fixed, and verifiable in advance without its contents being readable:
+
+7. The frozen prompt set, forty prompts: thirty substantive category prompts and ten negative controls.
+8. The Arm A KFO intervention specification.
+9. The Arm B content and SEO specification.
+10. The Arm C structure only specification, including the placeholder template.
+11. The automated execution harness script and the per engine interface documentation, excluding account credentials, which are never deposited.
+12. The entity roster: entity identities, domains, category and market selection, and arm assignment. Because the confirmatory entity count is set at the Phase 2 power gate, the roster is sealed in two stages: the pilot roster on or before the pilot baseline lock, and the confirmatory roster on or before the confirmatory baseline lock, each with its hash published at that time as a dated addendum to the registration manifest. No entity is measured before its roster entry is sealed.
+
+**Embargo and release rules.** The sealed appendices are released in plaintext on the first of the following triggers: within fourteen days of the close of the confirmatory measurement window, alongside the raw data hash, so the published hashes can be verified against the released files; on public announcement by AGR that the protocol will not be executed; or, as a failsafe against indefinite sealing, twenty four months after deposit if data collection has not been initiated. During the embargo, an independent party seeking to execute the protocol in parallel may request restricted access to the sealed package through the registry's access request mechanism, under the condition that the sealed materials are not republished before the embargo lifts. Release of the sealed appendices is self binding on the same terms as the publication mandate: once deposited, the sealed package cannot be withdrawn, edited, or quietly abandoned, because the published hashes make any substitution detectable.
 
 ---
 
@@ -278,8 +288,11 @@ ChatGPT, Claude, Gemini, Copilot, Perplexity, and Grok. The inference is read as
 **What are the test entities?**
 Disclosed research entities placed in real competitive markets, gated by a suppression pretest that checks whether the disclosure itself causes systematic suppression before the confirmatory study runs.
 
+**Why are the prompt set and entity identities not published at registration?**
+Because the test subjects read the public web. Publishing the forty prompts and the entity roster in plaintext would feed the measurement instrument directly into the training and retrieval environment of the AI systems being measured, and would tell any third party exactly which queries to target during the window. Instead, these materials are deposited sealed, with the SHA-256 hash of each file published openly at the moment of deposit. The hashes prove the materials were fixed in advance and cannot be swapped. The plaintext is released when the window closes, so every published hash can be independently verified against the released files.
+
 **Does AGR commit to publishing the result?**
-Yes. If AGR initiates data collection, it commits to publishing the result regardless of outcome: a cryptographic hash of the raw data within fourteen days of the window closing, and the full open dataset, analysis, and report within ninety days.
+Yes. If AGR initiates data collection, it commits to publishing the result regardless of outcome: a cryptographic hash of the raw data and the plaintext of the sealed appendices within fourteen days of the window closing, and the full open dataset, analysis, and report within ninety days.
 
 **Has the test been run?**
 No. This is a locked specification, not a completed study.
@@ -321,8 +334,10 @@ KFO Academic Framework Paper, Zenodo concept DOI 10.5281/zenodo.20636830: https:
 | Author | Andrew Paul, Managing Director, Americas Great Resorts |
 | Originating entity | Americas Great Resorts |
 | Publication date | June 29, 2026 |
-| Version | 0.5 (draft, revised after third external review) |
+| Version | 0.6 (draft, revised after fourth external review: sealed appendix embargo added) |
+| Last updated | July 16, 2026 |
 | Document status | Preregistered study protocol. Draft for review. Becomes a locked registration on external deposit. No completed experiment presented. |
+| Sealed appendix embargo | Prompt set, arm build specifications, execution harness, and entity roster deposited hash-verified under restricted access; plaintext released at window close, on public abandonment, or at the twenty-four month failsafe |
 | Canonical URL | https://www.americasgreatresorts.net/knowledge-formation-optimization-falsification-protocol/ |
 | Framework doctrine page | https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/ |
 | Companion article | https://www.americasgreatresorts.net/knowledge-formation-optimization-testable-application/ |
@@ -346,8 +361,8 @@ KFO Academic Framework Paper, Zenodo concept DOI 10.5281/zenodo.20636830: https:
   "headline": "Knowledge Formation Optimization: A Preregistered Falsification Protocol",
   "url": "https://www.americasgreatresorts.net/knowledge-formation-optimization-falsification-protocol/",
   "datePublished": "2026-06-29T00:00:00-05:00",
-  "dateModified": "2026-06-29T00:00:00-05:00",
-  "version": "0.5",
+  "dateModified": "2026-07-16T00:00:00-05:00",
+  "version": "0.6",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
