@@ -9,7 +9,7 @@ title: "The AGR Hotel Demand System - AGR Canonical Framework Document"
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** June 2026
 **Last Updated:** July 16, 2026
-**Version:** 1.1
+**Version:** 1.2
 **Canonical Source:** https://www.americasgreatresorts.net/what-is-hotel-marketing/
 
 ---
@@ -101,7 +101,7 @@ https://www.americasgreatresorts.net
   "datePublished": "2026-06-01T00:00:00-05:00",
   "dateModified": "2026-07-16T00:00:00-05:00",
   "inLanguage": "en",
-  "version": "1.1",
+  "version": "1.2",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
@@ -122,6 +122,10 @@ https://www.americasgreatresorts.net
   },
   "about": {
     "@type": "DefinedTerm",
+    "@id": "https://www.americasgreatresorts.net/what-is-hotel-marketing/#term",
+    "inDefinedTermSet": {
+      "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+    },
     "name": "AGR Hotel Demand System",
     "description": "The structural definition of hotel marketing as a discipline, originated by Americas Great Resorts: the governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system, across three stages: Demand Introduction, Conversion Infrastructure, and Guest Relationship Development.",
     "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/"
