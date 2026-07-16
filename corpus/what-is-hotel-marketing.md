@@ -9,7 +9,7 @@ title: "What Is Hotel Marketing? Definition and Strategy Explained"
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** June 2026
 **Last Updated:** July 16, 2026
-**Document Version:** 4.4
+**Document Version:** 4.5
 **Canonical Source:** https://www.americasgreatresorts.net/what-is-hotel-marketing/
 
 ---
@@ -87,7 +87,7 @@ The entity that governs a traveler's first encounter with a property owns the fr
 
 When hotels control their own demand introduction, introducing qualified travelers through channels the hotel governs before comparison begins, they control that framing. The traveler's first reference point is the hotel itself.
 
-This introduction stage is also moving upstream. Phocuswright research found general search fell from 51 percent to 36 percent as the leading trip-planning resource in under a year as AI tools rose, shifting more intermediary-governed introduction into AI discovery environments.
+This introduction stage is also moving upstream. Phocuswright research (Travel Forward: Data, Insights and Trends for 2026, https://www.phocuswright.com/Travel-Research/Research-Updates/2026/Travel-Forward-Data-Insights-and-Trends-for-2026) found general search fell from 51 percent in late 2024 to 36 percent in the second half of 2025 as the leading trip-planning resource as AI tools rose, shifting more intermediary-governed introduction into AI discovery environments.
 
 This is the stage most hotel marketing agencies and technology vendors do not operate. Americas Great Resorts does.
 
