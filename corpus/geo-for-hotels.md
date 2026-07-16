@@ -8,7 +8,7 @@ title: "GEO for Hotels: The Three Functions of AI Visibility"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** July 10, 2026
-**Last Updated:** July 12, 2026
+**Last Updated:** July 16, 2026
 **Version:** 1.1
 **Canonical Source:** https://www.americasgreatresorts.net/geo-for-hotels/
 
