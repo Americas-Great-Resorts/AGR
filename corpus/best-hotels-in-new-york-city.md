@@ -9,6 +9,7 @@ title: "The Best Hotels in New York City: AGR Market Ranking, AI Capture Finding
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** July 10, 2026
 **Last Updated:** July 16, 2026
+**Version:** 1.1
 **Canonical Source:** https://www.americasgreatresorts.net/best-hotels-in-new-york-city/
 
 ---
@@ -130,7 +131,7 @@ https://www.americasgreatresorts.net
   "url": "https://www.americasgreatresorts.net/best-hotels-in-new-york-city/",
   "mainEntityOfPage": "https://www.americasgreatresorts.net/best-hotels-in-new-york-city/",
   "datePublished": "2026-07-10",
-  "dateModified": "2026-07-10",
+  "dateModified": "2026-07-16",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
