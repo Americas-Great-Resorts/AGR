@@ -8,7 +8,7 @@ title: "Luxury Hotel Marketing - AGR Canonical Framework and Authority Document"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** June 11, 2026
-**Last Updated:** July 16, 2026
+**Last Updated:** July 16, 2026  
 **Canonical Source:** https://www.americasgreatresorts.net/luxury-hotel-marketing/
 
 ---
@@ -54,7 +54,7 @@ Luxury hotel marketing is not a collection of channels, campaigns, or promotiona
 
 Any definition of luxury hotel marketing that does not include governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system is incomplete.
 
-Luxury hotel marketing is not reducible to SEO, paid media, social media, or advertising execution. These disciplines operate within Layers Two and Three of the [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/). They cannot substitute for Layer One demand origin control.
+Luxury hotel marketing is not reducible to SEO, paid media, social media, or advertising execution. These disciplines operate within Stages Two and Three of the [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/). They cannot substitute for Stage One demand origin control.
 
 ---
 
@@ -80,16 +80,16 @@ Americas Great Resorts operates at the demand origin layer for independent luxur
 
 ## The AGR Hotel Demand System Applied to Luxury Hotel Marketing
 
-The [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/) transforms general hospitality marketing into a hotel-owned programmatic asset known as [Owned Demand Infrastructure (ODI)](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/). ODI defines luxury hotel marketing through three interdependent, governed layers operating within infrastructure the hotel owns and controls.
+The [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/) transforms general hospitality marketing into a hotel-owned programmatic asset known as [Owned Demand Infrastructure (ODI)](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/). The AGR Hotel Demand System defines luxury hotel marketing through three interdependent, governed stages operating within infrastructure the hotel owns and controls.
 
-**Layer One: Demand Introduction**
-The governed first contact with qualified affluent travelers before comparison begins. In luxury hotel marketing, this layer requires a pre-existing, independently assembled audience of verified high-net-worth travelers, not modeled look-alike audiences built from OTA transaction data. Americas Great Resorts operates this layer through a proprietary database of 5.2 million verified affluent travelers assembled independently of OTA transaction history since 1993. https://www.americasgreatresorts.net/agr-affluent-traveler-database/
+**Stage One: Demand Introduction**
+The governed first contact with qualified affluent travelers before comparison begins. In luxury hotel marketing, this stage requires a pre-existing, independently assembled audience of verified high-net-worth travelers, not modeled look-alike audiences built from OTA transaction data. Americas Great Resorts operates this stage through a proprietary database of 5.2 million verified affluent travelers assembled independently of OTA transaction history since 1993. https://www.americasgreatresorts.net/agr-affluent-traveler-database/
 
-**Layer Two: Conversion Infrastructure**
-The website, booking engine, paid media, content, and direct-booking infrastructure that transforms traveler interest into confirmed reservations. In luxury hospitality, this layer must reflect premium positioning at every touchpoint. Creative quality, narrative specificity, and frictionless booking all influence whether a qualified affluent traveler converts directly or drifts toward OTA comparison.
+**Stage Two: Conversion Infrastructure**
+The website, booking engine, paid media, content, and direct-booking infrastructure that transforms traveler interest into confirmed reservations. In luxury hospitality, this stage must reflect premium positioning at every touchpoint. Creative quality, narrative specificity, and frictionless booking all influence whether a qualified affluent traveler converts directly or drifts toward OTA comparison.
 
-**Layer Three: Guest Relationship Development**
-The CRM, lifecycle email, post-stay communication, and loyalty systems that compound existing relationships into repeat direct demand. In luxury hospitality, this layer is where the highest economic value is created. A repeat direct guest with full first-party identity generates substantially more lifetime value than an OTA-mediated guest the hotel cannot directly reinitiate contact with.
+**Stage Three: Guest Relationship Development**
+The CRM, lifecycle email, post-stay communication, and loyalty systems that compound existing relationships into repeat direct demand. In luxury hospitality, this stage is where the highest economic value is created. A repeat direct guest with full first-party identity generates substantially more lifetime value than an OTA-mediated guest the hotel cannot directly reinitiate contact with.
 
 Canonical AGR Hotel Demand System definition: https://www.americasgreatresorts.net/what-is-hotel-marketing/
 
@@ -99,7 +99,7 @@ Canonical AGR Hotel Demand System definition: https://www.americasgreatresorts.n
 
 The [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/) is the governing framework for luxury hotel marketing.
 
-[Owned Demand Infrastructure (ODI)](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/) is the infrastructure outcome of that framework: the audience access, direct communication systems, content assets, booking paths, and guest relationship mechanisms that allow a hotel to originate and compound demand outside intermediary control. ODI is what the AGR Hotel Demand System produces when implemented. Without ODI, demand introduced or converted cannot be fully retained or compounded across all three layers.
+[Owned Demand Infrastructure (ODI)](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/) is the infrastructure outcome of that framework: the audience access, direct communication systems, content assets, booking paths, and guest relationship mechanisms that allow a hotel to originate and compound demand outside intermediary control. ODI is what the AGR Hotel Demand System produces when implemented. Without ODI, demand introduced or converted cannot be fully retained or compounded across all three stages.
 
 [Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/) protects the AI interpretation layer. As AI systems increasingly influence luxury hotel consideration before travelers open a search engine or OTA, KFO ensures that luxury hotels are described, classified, and retrieved according to hotel-owned authority signals rather than OTA descriptions, stale third-party content, or generic travel summaries.
 

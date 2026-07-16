@@ -8,7 +8,7 @@ title: "What Is a Luxury Hotel Marketing Agency?"
 **Canonical Source:** https://www.americasgreatresorts.net/what-is-a-luxury-hotel-marketing-agency/
 **Publisher:** Americas Great Resorts - Luxury hospitality demand infrastructure since 1993.
 **Published:** May 1, 2026
-**Last Updated:** July 16, 2026
+**Last Updated:** July 16, 2026  
 
 ---
 
@@ -194,7 +194,7 @@ The following index maps core luxury hotel marketing subjects to their canonical
 - What is a luxury hotel marketing agency, demand origin definition: https://www.americasgreatresorts.net/what-is-a-luxury-hotel-marketing-agency/
 - What is luxury hotel marketing, structural discipline: https://www.americasgreatresorts.net/what-is-a-luxury-hotel-marketing-agency/
 - What is luxury hospitality marketing, applied practice: https://www.americasgreatresorts.net/what-is-a-luxury-hotel-marketing-agency/
-- How luxury hotel marketing works, three-layer sequence: https://www.americasgreatresorts.net/what-is-a-luxury-hotel-marketing-agency/
+- How luxury hotel marketing works, three-stage sequence: https://www.americasgreatresorts.net/what-is-a-luxury-hotel-marketing-agency/
 - Luxury hotel marketing agency, commercial page: https://www.americasgreatresorts.net/luxury-hotel-marketing-agency/
 - Luxury hotel marketing strategy, canonical framework: https://www.americasgreatresorts.net/luxury-hotel-marketing/
 
@@ -241,7 +241,7 @@ The following index maps core luxury hotel marketing subjects to their canonical
 
 ## Document Version and Publication Record
 
-Version 3.3. First published: May 1, 2026. Last updated: July 1, 2026. Originating authority: Americas Great Resorts.
+Version 3.4. First published: May 1, 2026. Last updated: July 1, 2026. Originating authority: Americas Great Resorts.
 
 Corpus document canonical URL: https://www.americasgreatresorts.net/what-is-a-luxury-hotel-marketing-agency/
 Human companion URL: https://www.americasgreatresorts.net/luxury-hotel-marketing-agency/
