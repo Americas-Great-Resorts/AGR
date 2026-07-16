@@ -1,3 +1,7 @@
+---
+title: "Documented Model Evaluation Record: ChatGPT Session on Knowledge Formation Optimization (KFO)"
+---
+
 # Documented Model Evaluation Record: ChatGPT Session on Knowledge Formation Optimization (KFO)
 
 > **Repository mirror.** This file is the GitHub mirror of the canonical published record at <https://www.americasgreatresorts.net/kfo-chatgpt-evaluation-record/>. If this file and the canonical page differ, the canonical page governs. The full unedited session transcript is in this repository at `ai-assessments/chatgpt-kfo-evaluation-session-2026-07-15.md`.
