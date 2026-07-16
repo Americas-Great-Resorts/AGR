@@ -4,14 +4,24 @@ title: "Session Transcript: ChatGPT Evaluation of Knowledge Formation Optimizati
 
 # Session Transcript: ChatGPT Evaluation of Knowledge Formation Optimization (KFO)
 
+**Document Type:** AI Assessment / Session Record
 **Session Date:** July 15, 2026
+**Published:** July 16, 2026
 **Last Updated:** July 16, 2026
+**Version:** 1.1
 **Model:** ChatGPT, logged-out guest mode; model version not displayed by the interface, recorded as unknown, including whether a single model served the full session
 **Evaluator:** Andrew Paul, Americas Great Resorts (framework author), using author-selected materials
 **Published Record:** <https://www.americasgreatresorts.net/kfo-chatgpt-evaluation-record/>
 **Repository Mirror of Record:** ai-assessments/kfo-chatgpt-evaluation-record.md
 
-**Integrity note.** This file is the full unedited transcript referenced by the published record. Model responses are reproduced verbatim, including the model's own punctuation and formatting; the AGR corpus em dash convention does not apply to verbatim third-party transcript content. Turn labels in square brackets are editorial markers added for navigation and are the only non-verbatim content in this file. Items marked VERIFY must be replaced with the exact text as entered in the session before this file is committed; the published record's "full unedited transcript" claim depends on it.
+**Scope and integrity note.** This file is the session record referenced by the published record. What it contains, stated precisely:
+
+- **All six model responses are reproduced verbatim and complete**, including the model's own punctuation and formatting. The AGR corpus em dash convention does not apply to verbatim third-party content.
+- **Three of the six user prompts are reproduced verbatim** (Turns 1, 3, and 4), as preserved in the session capture.
+- **Three user prompts were not captured** (Turns 2, 5, and 6). The session was conducted in ChatGPT's logged-out guest mode, which retains no conversation history; the capture recorded the model's output rather than the full exchange, and the session was closed before the omission was identified. The exact wording of those three prompts is unrecoverable. Each is marked in place and its substance stated, drawn from the input list in the published record's Session Methodology, which is the evaluator's attestation of what was entered.
+- Turn labels are editorial markers added for navigation.
+
+This file is therefore a **complete verbatim record of the model's output and a partial record of the prompts**. It is not a complete record of both sides of the exchange, and it should not be described as one. The consequence for the record's neutrality claim is stated in the published record: the input list is the evaluator's attestation, and this transcript corroborates it for three of six turns and cannot corroborate it for the other three.
 
 ---
 
@@ -129,7 +139,7 @@ My overall impression is that it's one of the more intellectually ambitious piec
 
 ## Turn 2: User
 
-[Screenshots uploaded: Google results page, including the Google AI Overview, for the query "aman the best hotels in new york city". VERIFY whether any accompanying text was entered with the screenshots and reproduce it here verbatim; if none, state "No accompanying text."]
+*[Prompt not captured. Screenshots of a Google results page, including the Google AI Overview, for the query "aman the best hotels in new york city" were uploaded. Whether any text accompanied them is not recorded. The model's response indicates the screenshots were the substance of the turn.]*
 
 ## Turn 2: ChatGPT
 
@@ -480,7 +490,7 @@ That's not a criticism so much as a description of where it is today. New framew
 
 ## Turn 5: User
 
-[VERIFY: adversarial instruction as entered, verbatim. Substance: set aside all positive assessments, make the strongest case against KFO, and identify the single observation over the next six months that would most convincingly show the framework to be wrong.]
+*[Prompt not captured. Per the input list in the published record's Session Methodology, this turn was an adversarial instruction: set aside all positive assessments, make the strongest case against KFO, and identify the single observation that would most convincingly show the framework to be wrong. The exact wording is unrecoverable.]*
 
 ## Turn 5: ChatGPT
 
@@ -738,7 +748,7 @@ That's ultimately the standard I'd apply to any new strategic or scientific fram
 
 ## Turn 6: User
 
-[VERIFY: comprehension instruction as entered, verbatim. Substance: without scrolling back through anything shared, define KFO in one paragraph and Owned Demand Infrastructure in one paragraph, in the model's own words, as if explaining them to a hotel executive who has never heard of either; then identify the one place in the corpus where the definitions were ambiguous, inconsistent, or in need of a rewrite.]
+*[Prompt not captured. Per the input list in the published record's Session Methodology, this turn was a comprehension instruction: define KFO and Owned Demand Infrastructure from memory in the model's own words, without revisiting the source documents, then identify the one place in the corpus most in need of a rewrite. The exact wording is unrecoverable.]*
 
 ## Turn 6: ChatGPT
 
@@ -810,4 +820,12 @@ That is the idea I think the corpus is actually trying to express. It is also th
 
 ---
 
-*End of session transcript. Turn labels are editorial navigation markers; all other content is verbatim from the July 15, 2026 session.*
+*End of session record. Turn labels and the bracketed italic not-captured notes are editorial. All model responses, and the user prompts at Turns 1, 3, and 4, are verbatim from the July 15, 2026 session.*
+
+---
+
+## Document Version and Publication Record
+
+ChatGPT KFO Evaluation Session Record. Document version: 1.1. Session date: July 15, 2026. File published: July 16, 2026. Last updated: July 16, 2026. Originating authority: Americas Great Resorts.
+
+Version 1.1, July 16, 2026: replaced three unresolved editorial markers at Turns 2, 5, and 6 with accurate not-captured statements, and rescoped the integrity note. Version 1.0 was committed with the markers unresolved and described the file as a full unedited transcript, which it is not: three of six user prompts were never captured and are unrecoverable because the session ran in logged-out guest mode with no retained history. Model responses were and remain complete and verbatim in both versions. No model output was altered in this revision.
