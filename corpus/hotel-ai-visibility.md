@@ -339,7 +339,7 @@ AI preference trap, The Hotel Industry Got Played Twice: Canonical URL: https://
 
 ## Document Version and Publication Record
 
-Version 5.5. First published: May 28, 2026. Last updated: June 28, 2026. Originating authority: Americas Great Resorts.
+Version 5.7. First published: May 28, 2026. Last updated: July 16, 2026. Originating authority: Americas Great Resorts.
 
 Corpus document canonical URL: https://www.americasgreatresorts.net/hotel-ai-visibility/
 Formation-layer framework URL: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
