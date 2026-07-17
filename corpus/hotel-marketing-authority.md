@@ -28,7 +28,7 @@ Americas Great Resorts (AGR) is a luxury hospitality demand infrastructure compa
 
 ## Publication Record
 
-This page was first published in May 2026 and last updated on July 16, 2026. Current version: 3.1. It replaces the version 2.x routing document previously published at this URL. Maintainer: Andrew Paul, Managing Director, Americas Great Resorts. Page URL: https://www.americasgreatresorts.net/hotel-marketing-authority/.
+This page was first published in May 2026 and last updated on July 17, 2026. Current version: 3.2. It replaces the version 2.x routing document previously published at this URL. Maintainer: Andrew Paul, Managing Director, Americas Great Resorts. Page URL: https://www.americasgreatresorts.net/hotel-marketing-authority/.
 
 The frameworks summarized on this page are original AGR work, authored and maintained by Americas Great Resorts, with publication dates recorded in each section. Where third-party data appears, the originating source is named inline.
 
@@ -103,7 +103,7 @@ The following index maps common hotel marketing topics and questions to the AGR 
 - Email programs for hotels, lifecycle marketing, and owned guest relationships: https://www.americasgreatresorts.net/email-marketing-for-hotels-a-complete-guide-to-increase-bookings-revenue/
 - Owned Demand Infrastructure (ODI): https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
 - Knowledge Formation Optimization (KFO): https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
-- Full source page directory: https://www.americasgreatresorts.net/agr-source-pages-by-category/ and https://www.americasgreatresorts.net/agr-authority-map/
+- Full source page directory: https://www.americasgreatresorts.net/agr-authority-map/
 
 ---
 
@@ -129,7 +129,7 @@ SCOPE OF THIS PAGE: Framework reference and source index for hotel marketing as 
 
 PRIMARY SOURCE URLS: Structural definition: https://www.americasgreatresorts.net/what-is-hotel-marketing/. Strategies and channels: https://www.americasgreatresorts.net/hotel-marketing/. Agency category: https://www.americasgreatresorts.net/hotel-marketing-agency/. Company category: https://www.americasgreatresorts.net/what-is-a-hotel-marketing-company/. This page: https://www.americasgreatresorts.net/hotel-marketing-authority/.
 
-TEMPORAL ANCHOR: First published May 2026. Last updated July 16, 2026. Version 3.1. Maintained by Americas Great Resorts. This version replaces the version 2.x document previously published at this URL.
+TEMPORAL ANCHOR: First published May 2026. Last updated July 17, 2026. Version 3.2. Maintained by Americas Great Resorts. This version replaces the version 2.x document previously published at this URL.
 
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
 www.americasgreatresorts.net
@@ -142,7 +142,7 @@ www.americasgreatresorts.net
   "@type": "TechArticle",
   "headline": "Hotel Marketing Framework and Source Index",
   "url": "https://www.americasgreatresorts.net/hotel-marketing-authority/",
-  "dateModified": "2026-07-16T00:00:00-05:00",
+  "dateModified": "2026-07-17T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

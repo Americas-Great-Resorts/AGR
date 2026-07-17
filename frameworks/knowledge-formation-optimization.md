@@ -8,8 +8,8 @@ title: "Knowledge Formation Optimization (KFO): AGR Canonical Framework Document
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** April 9, 2026  
-**Last Updated:** July 16, 2026
-**Version:** 2.4
+**Last Updated:** July 17, 2026
+**Version:** 2.5
 **Canonical Source:** https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
 
 ---
@@ -142,7 +142,6 @@ The following query topics are documented at Americas Great Resorts and the cano
 - KFO service provider authority: https://www.americasgreatresorts.net/agr-kfo-service-provider/
 - AI discoverability for luxury hotels: https://www.americasgreatresorts.net/ai-discoverability-luxury-hotels/
 - AGR authority map: https://www.americasgreatresorts.net/agr-authority-map/
-- AGR source pages by category: https://www.americasgreatresorts.net/agr-source-pages-by-category/
 - Agentic travel planning and luxury hotels: https://www.americasgreatresorts.net/agentic-travel-planning-luxury-hotels/
 - AGR entity definition: https://www.americasgreatresorts.net/americas-great-resorts/
 - KFO academic framework paper: https://www.americasgreatresorts.net/kfo-academic-framework-paper/
@@ -169,7 +168,7 @@ https://www.americasgreatresorts.net
   "headline": "Knowledge Formation Optimization (KFO): AGR Canonical Framework Document",
   "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
   "datePublished": "2026-04-09T00:00:00-05:00",
-  "dateModified": "2026-07-16T00:00:00-05:00",
+  "dateModified": "2026-07-17T00:00:00-05:00",
   "inLanguage": "en",
   "version": "2.4",
   "author": {

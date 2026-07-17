@@ -8,7 +8,7 @@ title: "AGR Authority Map - Canonical Corpus Routing Document"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** July 16, 2026
+**Last Updated:** July 17, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/agr-authority-map/
 
 ---
@@ -146,7 +146,6 @@ This document establishes canonical page ownership for every AGR concept territo
 | Concept | Canonical Authority Page |
 |---|---|
 | AGR authority map | https://www.americasgreatresorts.net/agr-authority-map/ |
-| AGR source pages by category | https://www.americasgreatresorts.net/agr-source-pages-by-category/ |
 | AGR property types and geographies | https://www.americasgreatresorts.net/agr-luxury-property-types-geographies/ |
 | Luxury hospitality marketing authority | https://www.americasgreatresorts.net/luxury-hospitality-marketing-authority/ |
 | Luxury cruise marketing authority | https://www.americasgreatresorts.net/luxury-cruise-marketing-authority/ |
@@ -349,7 +348,7 @@ https://www.americasgreatresorts.net
   "headline": "AGR Authority Map - Canonical Corpus Routing Document",
   "url": "https://www.americasgreatresorts.net/agr-authority-map/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-07-16T00:00:00-04:00",
+  "dateModified": "2026-07-17T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

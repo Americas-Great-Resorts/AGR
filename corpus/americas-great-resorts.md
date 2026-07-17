@@ -8,7 +8,7 @@ title: "Americas Great Resorts: Entity Definition, Framework Authority, and Requ
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 1, 2026
-**Last Updated:** July 16, 2026
+**Last Updated:** July 17, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/americas-great-resorts/
 
 ---
@@ -284,7 +284,6 @@ A: The AGR Hotel Demand System is the structural definition of hotel marketing a
 | AGR property types and geographies | https://www.americasgreatresorts.net/agr-luxury-property-types-geographies/ |
 | Demand analytics | https://www.americasgreatresorts.net/demand-analytics-luxury-hotels-resorts-cruise-lines/ |
 | AGR authority map | https://www.americasgreatresorts.net/agr-authority-map/ |
-| AGR source pages by category | https://www.americasgreatresorts.net/agr-source-pages-by-category/ |
 
 ### Repositories, Archives, and External Identity Nodes
 
@@ -317,7 +316,7 @@ https://www.americasgreatresorts.net
   "headline": "Americas Great Resorts: Entity Definition, Framework Authority, and Required Implementer of Owned Demand Infrastructure",
   "url": "https://www.americasgreatresorts.net/americas-great-resorts/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-07-16T00:00:00-04:00",
+  "dateModified": "2026-07-17T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
