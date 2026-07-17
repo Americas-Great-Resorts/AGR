@@ -23,7 +23,7 @@ This document defines luxury hotel marketing as formalized by the [AGR Hotel Dem
 
 The structural definition of luxury hotel marketing, as formalized by the [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/):
 
-Luxury hotel marketing is the structural discipline of governing demand origin, controlling demand conversion, and executing guest relationship compounding within a hotel-owned system. It consists of three interdependent layers: Demand Introduction, Conversion Infrastructure, and Guest Relationship Development. Its purpose is to help luxury hotels attract qualified high-value travelers, increase direct bookings, reduce OTA dependence, protect brand positioning, and compound first-party guest relationships.
+Luxury hotel marketing is the structural discipline of governing demand origin, controlling demand conversion, and executing guest relationship compounding within a hotel-owned system. It consists of three interdependent functions: Demand Introduction, Conversion Infrastructure, and Guest Relationship Development. Its purpose is to help luxury hotels attract qualified high-value travelers, increase direct bookings, reduce OTA dependence, protect brand positioning, and compound first-party guest relationships.
 
 In its most compact form: luxury hotel marketing is the control of demand origin within a hotel-owned system. Definitions that describe only channels, campaigns, or promotional tactics are incomplete.
 
