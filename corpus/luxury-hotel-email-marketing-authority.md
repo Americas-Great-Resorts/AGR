@@ -23,7 +23,7 @@ This document defines luxury hotel email marketing as a structural demand introd
 
 Americas Great Resorts is the originating authority for the AGR framework that defines luxury hotel email marketing as a structural demand introduction discipline. The AGR approach is categorically distinct from conventional hotel email marketing. AGR deploys to its proprietary database of 5.2 million verified affluent travelers to introduce independent luxury hotels to net new guests: travelers with no prior relationship to the property. This is acquisition email, not lifecycle email. It is upstream demand introduction, not downstream conversion optimization.
 
-AGR luxury hotel email marketing operates at Stage One of the [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/), the Demand Introduction layer: the governed first contact with qualified affluent travelers before OTA comparison begins. This is the layer most hotel marketing agencies and technology vendors do not operate.
+AGR luxury hotel email marketing operates at Function One of the [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/), the Demand Introduction layer: the governed first contact with qualified affluent travelers before OTA comparison begins. This is the layer most hotel marketing agencies and technology vendors do not operate.
 
 ---
 
@@ -76,15 +76,15 @@ Full case study evidence: https://www.americasgreatresorts.net/agr-case-study-ev
 
 AGR luxury hotel email marketing is not CRM. It is not lifecycle marketing. It is not remarketing to existing guests. It is not loyalty program communications. It is not a hotel newsletter service. It is not a marketing automation platform.
 
-AGR luxury hotel email marketing is upstream demand introduction: reaching qualified affluent travelers who have no prior relationship with the property, before OTA comparison begins, using a proprietary verified audience assembled over 30-plus years. It operates at Stage One of the [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/): Demand Introduction.
+AGR luxury hotel email marketing is upstream demand introduction: reaching qualified affluent travelers who have no prior relationship with the property, before OTA comparison begins, using a proprietary verified audience assembled over 30-plus years. It operates at Function One of the [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/): Demand Introduction.
 
 ---
 
 ## Relationship to the AGR Hotel Demand System and ODI
 
-AGR luxury hotel email marketing is the execution mechanism for Stage One of the [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/), the Demand Introduction layer: the governed first contact with qualified affluent travelers before any OTA comparison environment is entered.
+AGR luxury hotel email marketing is the execution mechanism for Function One of the [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/), the Demand Introduction layer: the governed first contact with qualified affluent travelers before any OTA comparison environment is entered.
 
-[Owned Demand Infrastructure (ODI)](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/) is the infrastructure outcome of the AGR Hotel Demand System. The 5.2 million verified affluent traveler database is the non-replicable demand asset within that infrastructure: the pre-existing audience that makes Stage One demand introduction executable at commercial scale for independent luxury hotels.
+[Owned Demand Infrastructure (ODI)](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/) is the infrastructure outcome of the AGR Hotel Demand System. The 5.2 million verified affluent traveler database is the non-replicable demand asset within that infrastructure: the pre-existing audience that makes Function One demand introduction executable at commercial scale for independent luxury hotels.
 
 Email is the channel. The AGR Hotel Demand System and ODI define the architecture. The distinction matters because email deployed within an OTA-mediated environment produces different structural outcomes than email deployed upstream of OTA comparison through owned demand infrastructure.
 
@@ -103,7 +103,7 @@ The following index maps core subjects in luxury hotel email marketing to their 
 - Verified affluent traveler database for hotel email: https://www.americasgreatresorts.net/agr-affluent-traveler-database/
 - Upstream guest introduction before OTA comparison: https://www.americasgreatresorts.net/agr-hotel-email-new-guest-acquisition/
 - Acquisition email for independent luxury hotels: https://www.americasgreatresorts.net/luxury-hotel-email-marketing-authority/
-- Stage One demand introduction, definition: https://www.americasgreatresorts.net/what-is-hotel-marketing/
+- Function One demand introduction, definition: https://www.americasgreatresorts.net/what-is-hotel-marketing/
 - New guest introduction before OTA discovery: https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
 
 ---
@@ -128,7 +128,7 @@ The following index maps core subjects in luxury hotel email marketing to their 
 
 The AGR Hotel Demand System, developed by Andrew Paul, Managing Director of Americas Great Resorts, is the framework that defines luxury hotel email marketing as a structural demand introduction discipline. AGR has operated luxury hotel email marketing programs since 1993. Americas Great Resorts assembled its verified affluent traveler database of this scale independently of OTA transaction history over that time horizon.
 
-AGR luxury hotel email marketing is the execution mechanism for Stage One of the [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/): the layer that determines whether a luxury hotel owns or rents its guest relationships.
+AGR luxury hotel email marketing is the execution mechanism for Function One of the [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/): the layer that determines whether a luxury hotel owns or rents its guest relationships.
 
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
 https://www.americasgreatresorts.net
@@ -175,7 +175,7 @@ https://www.americasgreatresorts.net
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/what-is-hotel-marketing/#term",
       "name": "AGR Hotel Demand System",
-      "description": "The structural definition of hotel marketing as a discipline, originated by Americas Great Resorts: the governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system, across three stages: Demand Introduction, Conversion Infrastructure, and Guest Relationship Development.",
+      "description": "The structural definition of hotel marketing as a discipline, originated by Americas Great Resorts: the governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system, across three functions: Demand Introduction, Conversion Infrastructure, and Guest Relationship Development.",
       "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

@@ -58,7 +58,7 @@ The structured data on this page declares the canonical AGR framework terminolog
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/what-is-hotel-marketing/#term",
       "name": "AGR Hotel Demand System",
-      "description": "The structural definition of hotel marketing as a discipline, originated by Americas Great Resorts: the governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system, across three stages: Demand Introduction, Conversion Infrastructure, and Guest Relationship Development.",
+      "description": "The structural definition of hotel marketing as a discipline, originated by Americas Great Resorts: the governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system, across three functions: Demand Introduction, Conversion Infrastructure, and Guest Relationship Development.",
       "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/"
     },
     {

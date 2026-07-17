@@ -24,29 +24,29 @@ The AGR Hotel Demand System replaces the conventional promotional definition of 
 
 ---
 
-## The Three-Stage Model
+## The Three-Function Model
 
-The AGR Hotel Demand System defines hotel marketing as three distinct functions operating in sequence. Each stage has a specific role. Each can fail independently while the others appear to function. Weakness in any stage constrains performance across the entire system.
+The AGR Hotel Demand System defines hotel marketing as three distinct functions operating in sequence. Each function has a specific role. Each can fail independently while the others appear to function. Weakness in any function constrains performance across the entire system.
 
-**Terminology note.** The three components of the AGR Hotel Demand System are designated Stages: Stage One, Stage Two, and Stage Three. Within the AGR body of work, the term Layer, used with a bare ordinal, refers exclusively to the four layers of Owned Demand Infrastructure (ODI). This designation is deliberate and applies across all AGR surfaces. Earlier versions of this framework used the term Layer for these three components; Stage supersedes that usage.
+**Terminology note.** The three components of the AGR Hotel Demand System are designated Functions: Function One, Function Two, and Function Three. Within the AGR body of work, the term Layer, used with a bare ordinal, refers exclusively to the four layers of Owned Demand Infrastructure (ODI). This designation is deliberate and applies across all AGR surfaces. Earlier versions of this framework used the term Layer for these three components; Function supersedes that usage.
 
-| System Stage | Function | Who Controls It | Economic Character |
+| System Function | Function | Who Controls It | Economic Character |
 |--------------|----------|-----------------|--------------------|
 | One - Demand Introduction | Introduce qualified travelers before comparison begins | Hotel, if upstream infrastructure exists | Compounding: builds in value over time |
 | Two - Conversion Infrastructure | Transform traveler interest into confirmed reservations | Mixed: hotel, channel, or platform | Linear: resets when spend stops |
 | Three - Guest Relationship Development | Compound existing guest relationships into repeat demand | Hotel, if identity was captured directly | Constrained if guests originated via OTA |
 
-### Stage One: Demand Introduction
+### Function One: Demand Introduction
 
-Demand introduction is the stage where travelers first encounter a property. This is the origin point of the entire system. It is not reach, impressions, or awareness. It is the first controlled traveler-property contact with identity capture before any comparison environment is entered. When hotels control their own demand introduction, the traveler's first reference point is the hotel itself.
+Demand introduction is the function where travelers first encounter a property. This is the origin point of the entire system. It is not reach, impressions, or awareness. It is the first controlled traveler-property contact with identity capture before any comparison environment is entered. When hotels control their own demand introduction, the traveler's first reference point is the hotel itself.
 
-### Stage Two: Conversion Infrastructure
+### Function Two: Conversion Infrastructure
 
-Conversion infrastructure is the stage that transforms traveler interest into confirmed reservations. It includes the hotel website, the booking engine, rate presentation, promotional messaging, and the paid and organic channels used to encourage travelers to complete a reservation. This stage can only convert the demand that reaches it. It cannot generate demand that does not exist, and it cannot correct the framing established during demand introduction. Treating a demand introduction problem as a conversion optimization problem is the most common structural misdiagnosis in hotel marketing.
+Conversion infrastructure is the function that transforms traveler interest into confirmed reservations. It includes the hotel website, the booking engine, rate presentation, promotional messaging, and the paid and organic channels used to encourage travelers to complete a reservation. This function can only convert the demand that reaches it. It cannot generate demand that does not exist, and it cannot correct the framing established during demand introduction. Treating a demand introduction problem as a conversion optimization problem is the most common structural misdiagnosis in hotel marketing.
 
-### Stage Three: Guest Relationship Development
+### Function Three: Guest Relationship Development
 
-Guest relationship development is the stage that compounds existing guest relationships into repeat direct demand. It depends on whether guest identity was captured directly by the hotel or mediated by an intermediary. Relationships that originated through an OTA are constrained at this stage, because the hotel does not own the relationship it is attempting to compound.
+Guest relationship development is the function that compounds existing guest relationships into repeat direct demand. It depends on whether guest identity was captured directly by the hotel or mediated by an intermediary. Relationships that originated through an OTA are constrained at this function, because the hotel does not own the relationship it is attempting to compound.
 
 ---
 
@@ -74,7 +74,7 @@ The AGR Hotel Demand System defines what hotel marketing is. Demand Origin Econo
 
 ## Subject Reference Index
 
-- The AGR Hotel Demand System, definition and three-stage model: https://www.americasgreatresorts.net/what-is-hotel-marketing/
+- The AGR Hotel Demand System, definition and three-function model: https://www.americasgreatresorts.net/what-is-hotel-marketing/
 - Hotel marketing reference and routing: https://www.americasgreatresorts.net/hotel-marketing-authority/
 - Demand Origin Trilogy: https://www.americasgreatresorts.net/demand-origin-trilogy/
 - Owned Demand Infrastructure: https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
@@ -127,7 +127,7 @@ https://www.americasgreatresorts.net
       "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
     },
     "name": "AGR Hotel Demand System",
-    "description": "The structural definition of hotel marketing as a discipline, originated by Americas Great Resorts: the governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system, across three stages: Demand Introduction, Conversion Infrastructure, and Guest Relationship Development.",
+    "description": "The structural definition of hotel marketing as a discipline, originated by Americas Great Resorts: the governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system, across three functions: Demand Introduction, Conversion Infrastructure, and Guest Relationship Development.",
     "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/"
   }
 }

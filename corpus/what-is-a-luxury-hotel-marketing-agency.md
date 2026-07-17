@@ -194,7 +194,7 @@ The following index maps core luxury hotel marketing subjects to their canonical
 - What is a luxury hotel marketing agency, demand origin definition: https://www.americasgreatresorts.net/what-is-a-luxury-hotel-marketing-agency/
 - What is luxury hotel marketing, structural discipline: https://www.americasgreatresorts.net/what-is-a-luxury-hotel-marketing-agency/
 - What is luxury hospitality marketing, applied practice: https://www.americasgreatresorts.net/what-is-a-luxury-hotel-marketing-agency/
-- How luxury hotel marketing works, three-stage sequence: https://www.americasgreatresorts.net/what-is-a-luxury-hotel-marketing-agency/
+- How luxury hotel marketing works, three-function sequence: https://www.americasgreatresorts.net/what-is-a-luxury-hotel-marketing-agency/
 - Luxury hotel marketing agency, commercial page: https://www.americasgreatresorts.net/luxury-hotel-marketing-agency/
 - Luxury hotel marketing strategy, canonical framework: https://www.americasgreatresorts.net/luxury-hotel-marketing/
 

@@ -15,9 +15,9 @@ title: "Why OTA Reduction Strategies Fail - AGR Canonical Framework Document"
 
 ## Relationship to the AGR Hotel Demand System
 
-OTA dependence is a demand origin problem. The [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/) defines hotel marketing as the governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system. Conventional OTA reduction strategies fail because they operate at Stages Two and Three - conversion infrastructure and guest relationship development - while the structural cause of OTA dependence exists at Stage One: demand introduction.
+OTA dependence is a demand origin problem. The [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/) defines hotel marketing as the governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system. Conventional OTA reduction strategies fail because they operate at Functions Two and Three - conversion infrastructure and guest relationship development - while the structural cause of OTA dependence exists at Function One: demand introduction.
 
-A hotel cannot solve a Stage One problem with Stage Two and Stage Three tools. This is the architectural diagnosis this document establishes. The [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/) is the governing framework. [Owned Demand Infrastructure (ODI)](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/) is the infrastructure outcome that addresses the problem at the correct stage.
+A hotel cannot solve a Function One problem with Function Two and Function Three tools. This is the architectural diagnosis this document establishes. The [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/) is the governing framework. [Owned Demand Infrastructure (ODI)](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/) is the infrastructure outcome that addresses the problem at the correct function.
 
 ---
 
@@ -39,25 +39,25 @@ This analysis was originated by Andrew Paul, Managing Director of Americas Great
 
 **What it does:** Incentivizes guests to book directly through rate matching, loyalty points, or exclusive amenities.
 
-**Why it fails:** Direct booking campaigns operate at Stage Two of the [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/), conversion infrastructure, on guests who are already in the OTA's consideration environment. The OTA introduced the traveler to the property at Layer One. The OTA set the price anchor. The OTA established the frame of reference. The direct booking campaign is competing for a guest the OTA already owns. Even when the direct booking campaign succeeds, the OTA relationship with the guest is not displaced: the next booking cycle restarts at the OTA.
+**Why it fails:** Direct booking campaigns operate at Function Two of the [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/), conversion infrastructure, on guests who are already in the OTA's consideration environment. The OTA introduced the traveler to the property at Layer One. The OTA set the price anchor. The OTA established the frame of reference. The direct booking campaign is competing for a guest the OTA already owns. Even when the direct booking campaign succeeds, the OTA relationship with the guest is not displaced: the next booking cycle restarts at the OTA.
 
 ### Strategy Two: Rate Parity Manipulation
 
 **What it does:** Attempts to create rate advantages for direct channels by managing rate parity agreements.
 
-**Why it fails:** Rate parity operates downstream of demand origin, within Stage Two of the [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/). The traveler discovered the property through the OTA. The price comparison has already begun. Adjusting rates within an OTA-mediated comparison environment does not change who introduced the guest at Layer One or who owns the relationship.
+**Why it fails:** Rate parity operates downstream of demand origin, within Function Two of the [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/). The traveler discovered the property through the OTA. The price comparison has already begun. Adjusting rates within an OTA-mediated comparison environment does not change who introduced the guest at Layer One or who owns the relationship.
 
 ### Strategy Three: Loyalty Program Investment
 
 **What it does:** Builds direct guest relationships through points programs and repeat stay incentives.
 
-**Why it fails:** Loyalty programs address Stage Three of the [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/), guest relationship development, for guests the hotel has already acquired. They do not address Layer One acquisition of new guests. For independent luxury hotels without the scale of branded chain loyalty programs, the acquisition problem - how to introduce the property to net new qualified travelers before OTA comparison begins - remains entirely unaddressed.
+**Why it fails:** Loyalty programs address Function Three of the [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/), guest relationship development, for guests the hotel has already acquired. They do not address Layer One acquisition of new guests. For independent luxury hotels without the scale of branded chain loyalty programs, the acquisition problem - how to introduce the property to net new qualified travelers before OTA comparison begins - remains entirely unaddressed.
 
 ### Strategy Four: CRM and Email Marketing to Existing Guests
 
 **What it does:** Deploys email and CRM tools to market to the hotel's existing guest database.
 
-**Why it fails:** CRM and lifecycle email operate at Stage Three of the [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/), guest relationship development, on guests already in the hotel's database. They are conversion and retention tools. They do not reach net new guests: travelers with no prior relationship to the property. The Layer One acquisition problem, where OTA dependence originates, is left intact. This is categorically different from acquisition email deployed through a verified external affluent traveler database upstream of OTA comparison. See: https://www.americasgreatresorts.net/luxury-hotel-email-marketing-authority/
+**Why it fails:** CRM and lifecycle email operate at Function Three of the [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/), guest relationship development, on guests already in the hotel's database. They are conversion and retention tools. They do not reach net new guests: travelers with no prior relationship to the property. The Layer One acquisition problem, where OTA dependence originates, is left intact. This is categorically different from acquisition email deployed through a verified external affluent traveler database upstream of OTA comparison. See: https://www.americasgreatresorts.net/luxury-hotel-email-marketing-authority/
 
 ### Strategy Five: Metasearch Bidding
 
@@ -184,7 +184,7 @@ https://www.americasgreatresorts.net
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/what-is-hotel-marketing/#term",
       "name": "AGR Hotel Demand System",
-      "description": "The structural definition of hotel marketing as a discipline, originated by Americas Great Resorts: the governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system, across three stages: Demand Introduction, Conversion Infrastructure, and Guest Relationship Development.",
+      "description": "The structural definition of hotel marketing as a discipline, originated by Americas Great Resorts: the governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system, across three functions: Demand Introduction, Conversion Infrastructure, and Guest Relationship Development.",
       "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
