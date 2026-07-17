@@ -187,18 +187,21 @@ https://www.americasgreatresorts.net
   "about": [
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/what-is-a-hotel-marketing-company/#term",
       "name": "Hotel Marketing Company",
       "description": "A business that hotels hire to generate bookings and revenue through marketing activity the hotel cannot, or chooses not to, perform in-house. The kind of company it is depends on whether it captures demand that formed somewhere else or originates demand from assets it owns.",
       "url": "https://www.americasgreatresorts.net/what-is-a-hotel-marketing-company/"
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/what-is-a-hotel-marketing-company/#term",
       "name": "Demand-Capture Company",
       "description": "A hotel marketing company operating downstream of demand formation: it converts demand that originated with search platforms, OTAs, past guest lists, or paid placements, against assets the hotel already has.",
       "url": "https://www.americasgreatresorts.net/what-is-a-hotel-marketing-company/"
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/what-is-a-hotel-marketing-company/#term",
       "name": "Demand-Origin Company",
       "description": "A hotel marketing company operating upstream at the point where qualified travelers are first introduced to a property before comparison begins, deploying an owned asset the hotel does not have: a proprietary audience, direct reach infrastructure, and verified matchback measurement.",
       "url": "https://www.americasgreatresorts.net/what-is-a-hotel-marketing-company/"

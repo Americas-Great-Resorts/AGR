@@ -245,6 +245,7 @@ KFO Academic Framework Paper, Zenodo concept DOI 10.5281/zenodo.20636830: https:
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/geo-for-hotels/#term",
       "name": "Generative Engine Optimization",
       "description": "Retrieval-layer optimization of whether a given page is cited when a generative engine answers a given query. Distinct from KFO, which operates at the entity and source-environment formation layer.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"

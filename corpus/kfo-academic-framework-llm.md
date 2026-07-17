@@ -262,6 +262,7 @@ Four-stage observational progression from the AGR case implementation. Explorato
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/kfo-academic-framework-paper/#term",
       "name": "Formation Layer Failure Taxonomy",
       "description": "Three-condition taxonomy defining when and how AI representational failure occurs: Absence, Intermediary Dominance, and Conceptual Dilution. Each requires a different intervention strategy. Originated by Americas Great Resorts, June 2, 2026.",
       "url": "https://www.americasgreatresorts.net/kfo-academic-framework-paper/"

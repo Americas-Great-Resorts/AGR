@@ -141,7 +141,7 @@ The following index maps core hotel AI visibility guide subjects to their canoni
 
 ## Document Version and Publication Record
 
-Version 1.0. First published: June 1, 2026. Last updated: June 11, 2026. Originating authority: Americas Great Resorts.
+Version 1.0. First published: June 1, 2026. Last updated: July 16, 2026. Originating authority: Americas Great Resorts.
 
 The academic framework underlying the formation-layer discipline defined in this document is: *Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval* (Andrew Paul, Americas Great Resorts, June 2, 2026). DOI: 10.5281/zenodo.20636830. Available at: https://www.americasgreatresorts.net/kfo-academic-framework-paper/
 
@@ -189,6 +189,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993. www
   "about": [
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/hotel-ai-visibility/#term",
       "name": "Hotel AI Visibility",
       "description": "The degree to which AI systems can find, accurately understand, and correctly recommend a hotel. Comprises two layers: retrieval (whether AI can access and parse hotel information) and formation (what AI has learned about the hotel from accumulated signals). Defined as a two-layer discipline by Americas Great Resorts.",
       "url": "https://www.americasgreatresorts.net/hotel-ai-visibility-guide/"

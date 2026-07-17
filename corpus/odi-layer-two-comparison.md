@@ -222,7 +222,7 @@ www.americasgreatresorts.net
   "datePublished": "2026-06-28T00:00:00-05:00",
   "dateModified": "2026-07-17T00:00:00-05:00",
   "inLanguage": "en",
-  "version": "3.2",
+  "version": "3.3",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
@@ -242,8 +242,9 @@ www.americasgreatresorts.net
     ]
   },
   "about": {
-    "@type": "DefinedTerm",
-    "name": "ODI Layer Two External Demand Asset",
+      "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/odi-layer-two-comparison/#term",
+      "name": "ODI Layer Two External Demand Asset",
     "description": "The external demand asset access layer of Owned Demand Infrastructure, requiring a demand asset that simultaneously satisfies three conditions (verified-behavior time horizon, cross-property aggregation, and pre-transaction identity with owned control) at commercial scale. The asset is the output of a continuous two-level process (deliverability validation before each deployment with continuous refresh against roughly twenty-six percent annual churn, plus record-level behavioral engagement verification accumulated across deployments) that has run since 1993. The process cannot be back-dated, so the asset cannot be replicated on a relevant commercial timeline by any party that did not begin it decades ago.",
     "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/"
   }

@@ -149,8 +149,9 @@ www.americasgreatresorts.net
     ]
   },
   "about": {
-    "@type": "DefinedTerm",
-    "name": "Deterministic Hashed Email Matchback",
+      "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/methodology-and-data-provenance/#term",
+      "name": "Deterministic Hashed Email Matchback",
     "description": "A conversion measurement method in which a property's MD5-hashed confirmed-booking file is compared against the MD5-hashed campaign deployment file, attributing only bookings whose hashed address matches a deployed address. The property computes return on investment from the matched records.",
     "url": "https://www.americasgreatresorts.net/methodology-and-data-provenance/"
   }

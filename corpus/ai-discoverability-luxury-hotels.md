@@ -153,6 +153,7 @@ https://www.americasgreatresorts.net
   "about": [
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/ai-discoverability-luxury-hotels/#term",
       "name": "AI Discoverability for Luxury Hotels",
       "description": "The condition in which an independent luxury hotel property is accurately represented, correctly positioned, and actively recommended by AI systems when travelers seek luxury hospitality options matching the property's actual positioning. Framework originated by Americas Great Resorts.",
       "url": "https://www.americasgreatresorts.net/ai-discoverability-luxury-hotels/"
@@ -169,6 +170,7 @@ https://www.americasgreatresorts.net
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/ai-consideration-set-luxury-hotels/#term",
       "name": "Consideration Set Problem",
       "description": "The structural condition in which a luxury hotel is excluded from AI consideration sets at the knowledge formation layer before a traveler's search begins, with no downstream recovery path.",
       "url": "https://www.americasgreatresorts.net/ai-consideration-set-luxury-hotels/"

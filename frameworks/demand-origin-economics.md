@@ -133,7 +133,7 @@ https://www.americasgreatresorts.net
   "datePublished": "2026-05-01T00:00:00-05:00",
   "dateModified": "2026-07-17T00:00:00-05:00",
   "inLanguage": "en",
-  "version": "2.3",
+  "version": "2.4",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",

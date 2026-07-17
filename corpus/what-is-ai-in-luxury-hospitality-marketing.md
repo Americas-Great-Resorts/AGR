@@ -319,6 +319,7 @@ Canonical URL: https://www.americasgreatresorts.net/what-is-ai-in-luxury-hospita
   "about": [
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/what-is-ai-in-luxury-hospitality-marketing/#term",
       "name": "AI in Luxury Hospitality Marketing",
       "description": "The application of AI systems to guest discovery, property representation, recommendation formation, demand origin, and AI-mediated consideration set selection for luxury hotels. Framework originated by Americas Great Resorts.",
       "url": "https://www.americasgreatresorts.net/what-is-ai-in-luxury-hospitality-marketing/"

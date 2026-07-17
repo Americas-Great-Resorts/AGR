@@ -240,6 +240,7 @@ Hold paid search to defensive brand-term protection and treat metasearch as tact
   "about": [
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/luxury-hotel-distribution-costs-cfo-faq/#term",
       "name": "Fully Loaded Cost of an OTA Booking",
       "description": "The total economic cost of acquiring, servicing, and potentially re-acquiring a guest through the OTA channel, calculated in three layers: transaction cost, realized-stay cost, and customer-lifetime cost. Defined by Americas Great Resorts in 2026.",
       "url": "https://www.americasgreatresorts.net/luxury-hotel-distribution-costs-cfo-faq/"

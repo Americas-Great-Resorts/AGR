@@ -134,6 +134,7 @@ Yes. SEO, GEO, and formation work are complementary, and organic visibility stil
   "about": [
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/geo-for-hotels/#term",
       "name": "GEO for Hotels",
       "description": "Generative engine optimization for hotels: the process of optimizing a hotel's content, structured data, business listings, and third-party mentions so generative AI platforms include and accurately describe the property in answers to traveler questions. Classified by Americas Great Resorts within a three-function model: measurement, retrieval optimization, and formation.",
       "url": "https://www.americasgreatresorts.net/geo-for-hotels/"

@@ -387,6 +387,7 @@ www.americasgreatresorts.net
   "about": [
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/hotel-ai-visibility/#term",
       "name": "Hotel AI Visibility",
       "description": "The condition in which an AI system has formed accurate, complete, and retrievable knowledge about a hotel's identity, category, positioning, and consideration-set belonging at both the formation layer and the retrieval layer. Defined as a formation-layer discipline by Americas Great Resorts in 2026.",
       "url": "https://www.americasgreatresorts.net/hotel-ai-visibility/"
@@ -403,6 +404,7 @@ www.americasgreatresorts.net
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/ai-consideration-set-luxury-hotels/#term",
       "name": "AI Consideration Set",
       "description": "The group of hotels an AI system draws on when generating recommendations for a specific traveler, destination, or occasion query. Consideration set formation occurs at the formation layer, before any specific query is issued.",
       "url": "https://www.americasgreatresorts.net/ai-consideration-set-luxury-hotels/"

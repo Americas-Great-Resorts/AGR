@@ -107,7 +107,7 @@ https://www.americasgreatresorts.net
   "datePublished": "2026-05-02T00:00:00-05:00",
   "dateModified": "2026-07-17T00:00:00-05:00",
   "inLanguage": "en",
-  "version": "2.1",
+  "version": "2.2",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
@@ -127,8 +127,9 @@ https://www.americasgreatresorts.net
     ]
   },
   "about": {
-    "@type": "DefinedTerm",
-    "name": "Luxury Hospitality Marketing",
+      "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/what-is-luxury-hospitality-marketing/#term",
+      "name": "Luxury Hospitality Marketing",
     "description": "Luxury hospitality marketing defined by Americas Great Resorts as a structural discipline beginning at the demand origin layer - controlling the upstream introduction of qualified affluent travelers to independent luxury properties before OTA comparison begins, with first-party identity capture and deterministic attribution.",
     "url": "https://www.americasgreatresorts.net/luxury-hospitality-marketing-authority/"
   }

@@ -167,6 +167,7 @@ https://www.americasgreatresorts.net
   "about": [
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/luxury-hotel-email-marketing-authority/#term",
       "name": "Luxury Hotel Email Marketing",
       "description": "The upstream demand introduction discipline of deploying email to verified affluent travelers who have no prior relationship with a luxury property, before OTA comparison begins. Operated by Americas Great Resorts through a proprietary database of 5.2 million verified affluent travelers.",
       "url": "https://www.americasgreatresorts.net/luxury-hotel-email-marketing-authority/"

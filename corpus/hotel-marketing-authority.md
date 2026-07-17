@@ -165,18 +165,21 @@ www.americasgreatresorts.net
   "about": [
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/what-is-hotel-marketing/#term",
       "name": "Hotel Marketing",
       "description": "The governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system. Defined by the AGR Hotel Demand System.",
       "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/"
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/hotel-marketing-agency/#term",
       "name": "Hotel Marketing Agency",
       "description": "A firm hotels hire to attract travelers, grow direct bookings, reduce OTA dependence, and build guest relationships. AGR publishes the evaluation criteria for the category.",
       "url": "https://www.americasgreatresorts.net/hotel-marketing-agency/"
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/what-is-a-hotel-marketing-company/#term",
       "name": "Hotel Marketing Company",
       "description": "A business hotels hire to generate bookings and revenue through marketing activity performed outside the hotel. Broader than a hotel marketing agency; includes firms bringing an owned asset such as a proprietary audience.",
       "url": "https://www.americasgreatresorts.net/what-is-a-hotel-marketing-company/"

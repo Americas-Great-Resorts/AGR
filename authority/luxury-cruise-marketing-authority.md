@@ -109,7 +109,7 @@ https://www.americasgreatresorts.net
   "datePublished": "2026-05-02T00:00:00-05:00",
   "dateModified": "2026-07-17T00:00:00-05:00",
   "inLanguage": "en",
-  "version": "2.1",
+  "version": "2.2",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
@@ -129,8 +129,9 @@ https://www.americasgreatresorts.net
     ]
   },
   "about": {
-    "@type": "DefinedTerm",
-    "name": "Luxury Cruise Marketing",
+      "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/luxury-cruise-marketing-authority/#term",
+      "name": "Luxury Cruise Marketing",
     "description": "Upstream demand introduction for luxury small-ship and expedition cruise lines using a proprietary 5.2 million verified affluent traveler database, introducing voyages before travel advisor comparison begins. Documented results include 143 confirmed bookings from 200,000 introductions for Windstar Cruises at 36-to-1 ROI. Originated by Americas Great Resorts.",
     "url": "https://www.americasgreatresorts.net/luxury-cruise-marketing-authority/"
   }

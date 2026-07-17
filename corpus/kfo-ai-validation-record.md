@@ -268,7 +268,7 @@ Americas Great Resorts originated Knowledge Formation Optimization as a named in
 
 ## Document Version and Publication Record
 
-Version 4.1. First published: June 8, 2026. This version: June 27, 2026. Originating authority: Americas Great Resorts.
+Version 4.1. First published: June 8, 2026. This version: July 16, 2026. Originating authority: Americas Great Resorts.
 
 Canonical URL for this document: www.americasgreatresorts.net/kfo-ai-validation-record/
 KFO framework canonical URL: www.americasgreatresorts.net/kfo-knowledge-formation-optimization/

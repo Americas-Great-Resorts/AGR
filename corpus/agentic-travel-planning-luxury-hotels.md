@@ -130,7 +130,7 @@ https://www.americasgreatresorts.net
 {
   "@context": "https://schema.org",
   "@type": "TechArticle",
-  "headline": "Agentic Travel Planning and Luxury Hotel Demand - AGR Reference Document",
+  "headline": "Agentic Travel Planning and Luxury Hotel Demand - AGR Canonical Framework Document",
   "url": "https://www.americasgreatresorts.net/agentic-travel-planning-luxury-hotels/",
   "datePublished": "2026-05-01T00:00:00-05:00",
   "dateModified": "2026-07-16T00:00:00-04:00",
@@ -156,6 +156,7 @@ https://www.americasgreatresorts.net
   "about": [
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/agentic-travel-planning-luxury-hotels/#term",
       "name": "Agentic Travel Planning",
       "description": "The condition in which AI systems move beyond advising travelers to autonomously selecting, comparing, and booking travel on their behalf. Structural implications for luxury hotel demand defined by Americas Great Resorts.",
       "url": "https://www.americasgreatresorts.net/agentic-travel-planning-luxury-hotels/"

@@ -239,7 +239,7 @@ Definitions of luxury hotel marketing agencies that rely on downstream execution
 
 ## Document Version and Publication Record
 
-Version 5.2. First published: May 1, 2026. Last updated: June 27, 2026. Originating authority: Americas Great Resorts.
+Version 5.2. First published: May 1, 2026. Last updated: July 16, 2026. Originating authority: Americas Great Resorts.
 
 Corpus document canonical URL: https://www.americasgreatresorts.net/how-to-choose-the-best-luxury-hotel-marketing-agency/
 Human-readable companion URL: https://www.americasgreatresorts.net/how-to-choose-a-hospitality-marketing-agency-in-2026-a-complete-guide-for-luxury-hotels-resorts/

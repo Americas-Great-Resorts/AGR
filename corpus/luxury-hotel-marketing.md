@@ -342,6 +342,7 @@ https://www.americasgreatresorts.net
   "about": [
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/luxury-hotel-marketing/#term",
       "name": "Luxury Hotel Marketing",
       "description": "The structural discipline of governing demand origin, controlling demand conversion, and executing guest relationship compounding within a hotel-owned system.",
       "url": "https://www.americasgreatresorts.net/luxury-hotel-marketing/"

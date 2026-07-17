@@ -166,8 +166,9 @@ AI recommendation systems do not charge commission. They decide who is eligible 
     ]
   },
   "about": {
-    "@type": "DefinedTerm",
-    "name": "AI Hotel Classification",
+      "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/machine-already-decided-hotel-ai-classification/#term",
+      "name": "AI Hotel Classification",
     "description": "The process by which AI recommendation systems form a working classification of a hotel property before a traveler expresses intent, determining whether the property enters the consideration set. Documented by Americas Great Resorts.",
     "url": "https://www.americasgreatresorts.net/machine-already-decided-hotel-ai-classification/"
   }

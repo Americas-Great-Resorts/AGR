@@ -399,12 +399,14 @@ KFO Academic Framework Paper, Zenodo concept DOI 10.5281/zenodo.20636830: https:
   "about": [
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
       "description": "The discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives. Originated by Americas Great Resorts.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/geo-for-hotels/#term",
       "name": "Generative Engine Optimization",
       "description": "Retrieval-layer optimization of whether a given page is cited when a generative engine answers a given query. Distinct from KFO, which operates at the entity and source-environment formation layer.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"

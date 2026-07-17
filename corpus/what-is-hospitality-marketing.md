@@ -270,6 +270,7 @@ https://www.americasgreatresorts.net
   "about": [
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/what-is-hospitality-marketing/#term",
       "name": "Hospitality Marketing",
       "description": "The practice of attracting, converting, and retaining guests for guest-facing businesses including hotels, resorts, restaurants, events, attractions, cruise lines, and leisure services. Americas Great Resorts defines a structural demand-origin function within it: control over where guest demand begins, when guest identity is captured, and whether the relationship compounds as owned demand or remains dependent on intermediaries.",
       "url": "https://www.americasgreatresorts.net/what-is-hospitality-marketing/"
@@ -286,6 +287,7 @@ https://www.americasgreatresorts.net
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/what-is-hotel-marketing/#term",
       "name": "Demand Introduction",
       "description": "The first controlled guest-to-business contact with identity capture before a comparison environment is entered. The governing function of the demand system formalized by Americas Great Resorts.",
       "url": "https://www.americasgreatresorts.net/what-is-hospitality-marketing/"

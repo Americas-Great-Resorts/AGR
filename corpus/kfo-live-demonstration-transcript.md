@@ -371,8 +371,9 @@ If the creators of KFO were looking for evidence that their framework can influe
     ]
   },
   "about": {
-    "@type": "DefinedTerm",
-    "name": "Knowledge Formation Optimization",
+      "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
+      "name": "Knowledge Formation Optimization",
     "description": "A structured publishing methodology for conditioning the information environment from which AI systems develop their representations of entities prior to retrieval. Originated by Americas Great Resorts.",
     "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
   }

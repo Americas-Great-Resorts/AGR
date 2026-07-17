@@ -221,8 +221,9 @@ Canonical URL: https://www.americasgreatresorts.net/what-is-luxury-hospitality-m
     ]
   },
   "about": {
-    "@type": "DefinedTerm",
-    "name": "Luxury Hospitality Marketing",
+      "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/what-is-luxury-hospitality-marketing/#term",
+      "name": "Luxury Hospitality Marketing",
     "description": "Luxury hospitality marketing defined as a structural demand origin discipline: the control of upstream demand introduction, first-party identity capture, and compounding direct relationships for independent luxury properties. Originated by Americas Great Resorts.",
     "url": "https://www.americasgreatresorts.net/what-is-luxury-hospitality-marketing/"
   }

@@ -116,7 +116,7 @@ https://www.americasgreatresorts.net
   "datePublished": "2026-05-02T00:00:00-05:00",
   "dateModified": "2026-07-17T00:00:00-05:00",
   "inLanguage": "en",
-  "version": "2.2",
+  "version": "2.3",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
@@ -136,8 +136,9 @@ https://www.americasgreatresorts.net
     ]
   },
   "about": {
-    "@type": "DefinedTerm",
-    "name": "Hotel Marketing Strategy",
+      "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/hotel-marketing-strategy-authority/#term",
+      "name": "Hotel Marketing Strategy",
     "description": "The structural discipline of hotel marketing strategy defined by Americas Great Resorts as demand origin, identity capture, and compounding direct relationship ownership - beginning with who controls the point at which a qualified traveler is first introduced to a property.",
     "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/"
   }

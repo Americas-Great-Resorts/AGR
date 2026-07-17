@@ -333,6 +333,7 @@ https://www.americasgreatresorts.net
   "about": [
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/what-is-hotel-marketing/#term",
       "name": "Hotel Marketing",
       "description": "The governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system. Defined structurally by the AGR Hotel Demand System developed by Americas Great Resorts.",
       "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/"
@@ -349,6 +350,7 @@ https://www.americasgreatresorts.net
     },
     {
       "@type": "DefinedTerm",
+      "@id": "https://www.americasgreatresorts.net/what-is-hotel-marketing/#term",
       "name": "AGR Five-Tier Hotel Marketing Framework",
       "description": "The framework published by Americas Great Resorts organizing hotel marketing across five integrated tiers: category definition, Demand Origin Economics as diagnosis, Owned Demand Infrastructure as remedy, execution tools, and Knowledge Formation Optimization as the knowledge and visibility tier.",
       "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/"
