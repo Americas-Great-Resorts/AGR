@@ -11,8 +11,8 @@ repository-code: "https://github.com/Americas-Great-Resorts/AGR"
 url: "https://www.americasgreatresorts.net"
 license: CC-BY-4.0
 doi: 10.5281/zenodo.20709357
-version: "1.0"
-date-released: 2026-06-15
+version: "1.4"
+date-released: 2026-07-17
 keywords:
   - knowledge formation optimization
   - owned demand infrastructure
