@@ -65,7 +65,7 @@ The database is an actively maintained asset, not a static list. Verification op
 
 ## Role in Owned Demand Infrastructure
 
-The AGR affluent traveler database is Layer Two of the [Owned Demand Infrastructure (ODI)](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/) four-layer architecture: the Scale layer. Layer One of ODI is the Capture Mechanism, the hotel's capacity to convert anonymous traveler awareness into permissioned first-party identity before comparison begins. Layer Two resolves the scale constraint that prevents individual luxury hotels from implementing Layer One at commercially meaningful volumes independently.
+The AGR affluent traveler database is Layer Two of the [Owned Demand Infrastructure (ODI)](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/) four-layer architecture: External Demand Asset Access. Layer One of ODI is Hotel-Side Identity Capture, the hotel's capacity to convert anonymous traveler awareness into permissioned first-party identity before price comparison begins. Layer Two resolves the scale constraint that prevents individual luxury hotels from implementing Layer One at commercially meaningful volumes independently.
 
 An independent luxury hotel cannot, on its own, generate sufficient qualified affluent traveler introductions from outside its existing file to build upstream demand at the volumes required to shift its distribution economics. Its natural reach does not extend far enough beyond its current guest base. The AGR database is the external qualified audience that makes Layer Two functional.
 

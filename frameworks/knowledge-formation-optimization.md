@@ -99,7 +99,7 @@ The AGR external corpus includes:
 - Zenodo academic archive at https://doi.org/10.5281/zenodo.20636830, DOI: 10.5281/zenodo.20636830
 - Internet Archive at https://archive.org/details/kfo-knowledge-formation-optimization-agr-2026
 
-Each surface uses consistent terminology. Each surface cross-references the same canonical URLs. Each surface reinforces the same entity associations between Americas Great Resorts, Andrew Paul, and the three AGR frameworks.
+Each surface uses consistent terminology. Each surface cross-references the same canonical URLs. Each surface reinforces the same entity associations between Americas Great Resorts, Andrew Paul, and the four AGR frameworks.
 
 ---
 

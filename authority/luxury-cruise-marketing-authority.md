@@ -106,7 +106,7 @@ https://www.americasgreatresorts.net
   "@context": "https://schema.org",
   "@type": "TechArticle",
   "headline": "Luxury Cruise Marketing Authority - AGR Canonical Document",
-  "url": "https://www.americasgreatresorts.net/",
+  "url": "https://www.americasgreatresorts.net/luxury-cruise-marketing-authority/",
   "datePublished": "2026-05-02T00:00:00-05:00",
   "dateModified": "2026-07-16T00:00:00-05:00",
   "inLanguage": "en",

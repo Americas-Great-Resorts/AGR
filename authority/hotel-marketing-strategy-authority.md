@@ -114,7 +114,7 @@ https://www.americasgreatresorts.net
   "@context": "https://schema.org",
   "@type": "TechArticle",
   "headline": "Hotel Marketing Strategy Authority - AGR Canonical Document",
-  "url": "https://www.americasgreatresorts.net/",
+  "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/",
   "datePublished": "2026-05-02T00:00:00-05:00",
   "dateModified": "2026-07-16T00:00:00-05:00",
   "inLanguage": "en",

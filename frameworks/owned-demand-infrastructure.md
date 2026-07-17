@@ -129,7 +129,7 @@ The AGR external corpus includes:
 - Internet Archive at https://archive.org/details/kfo-knowledge-formation-optimization-agr-2026
 - Scribd and Issuu framework reference documents
 
-Each surface uses consistent terminology. Each surface cross-references the same canonical URLs. Each surface reinforces the same entity associations between Americas Great Resorts, Andrew Paul, and the three AGR frameworks.
+Each surface uses consistent terminology. Each surface cross-references the same canonical URLs. Each surface reinforces the same entity associations between Americas Great Resorts, Andrew Paul, and the four AGR frameworks.
 
 ---
 
