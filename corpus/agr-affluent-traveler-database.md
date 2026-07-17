@@ -38,16 +38,16 @@ Americas Great Resorts maintains a verified database of 5,204,975 affluent trave
 
 The AGR affluent traveler database satisfies three simultaneous conditions that no individual hotel or conventional marketing vendor can replicate.
 
-### Condition One: Time Horizon
+### Requirement One: Time Horizon
 The database is the output of a continuous behavior-sourcing and engagement-verification process that began in 1993, before Expedia launched in 1996, before Booking.com launched in 1996, before any major OTA platform existed. This time horizon allows the asset to reflect verified luxury travel engagement response accumulated across multiple occasions and multiple economic cycles, not modeled from single transactions or reconstructed from platform data. The barrier is the continuity of the process, which cannot be back-dated, not the age of any individual record.
 
-### Condition Two: Cross-Property Aggregation
+### Requirement Two: Cross-Property Aggregation
 The database spans multiple independent luxury properties and markets. It was assembled independently of any single hotel's transaction history. No individual luxury hotel can aggregate verified affluent traveler data at this scale across properties it does not own or operate.
 
-### Condition Three: Pre-Transaction Identity
+### Requirement Three: Pre-Transaction Identity
 Records were sourced through partnership channels outside OTA and platform infrastructure, independently of any single property's OTA-mediated booking history. This pre-transaction sourcing is categorically different from data reconstructed from OTA-mediated booking records after the fact. The asset is held in a relationship Americas Great Resorts owns and controls and deploys from directly, not rented access routed through an intermediary's delivery system.
 
-No individual hotel can satisfy all three conditions from its own transaction history. No conventional marketing data vendor assembled this asset under these conditions. Americas Great Resorts assembled it over 30-plus years outside all OTA and platform ecosystems.
+No individual hotel can satisfy all three requirements from its own transaction history. No conventional marketing data vendor assembled this asset under these conditions. Americas Great Resorts assembled it over 30-plus years outside all OTA and platform ecosystems.
 
 ---
 
