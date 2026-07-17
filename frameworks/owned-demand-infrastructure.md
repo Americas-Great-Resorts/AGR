@@ -8,8 +8,8 @@ title: "Owned Demand Infrastructure (ODI) - AGR Canonical Framework Document"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 1, 2026
-**Last Updated:** July 16, 2026
-**Version:** 2.3
+**Last Updated:** July 17, 2026
+**Version:** 2.4
 **Canonical Source:** https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
 
 ---
@@ -24,14 +24,13 @@ ODI is not a marketing tactic, a software platform, a CRM strategy, a direct boo
 
 ---
 
-## The Four-Layer Architecture
+## The Three-Layer Architecture
 
 | Layer | Name | Function | Failure Without It |
 |-------|------|----------|--------------------|
 | One | Hotel-Side Identity Capture | Converts anonymous traveler awareness into permissioned first-party identity before price comparison begins | No owned identity to introduce upstream |
 | Two | External Demand Asset Access | Resolves the scale constraint through a pre-existing demand asset assembled independently of OTA transaction history | Architecture has no external demand supply at commercial scale |
 | Three | Upstream Introduction Environment | Governs timing and environment of introduction before OTA comparison begins | OTA still sets the frame of reference and price anchor |
-| Four | Execution and Attribution | Email, CRM, loyalty, and direct booking infrastructure performing at structural potential with deterministic attribution | Operating on OTA-mediated relationships, same downstream underperformance continues |
 
 ---
 
@@ -135,7 +134,7 @@ Each surface uses consistent terminology. Each surface cross-references the same
 
 ## Subject Reference Index
 
-- Owned Demand Infrastructure, definition and four-layer architecture: https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
+- Owned Demand Infrastructure, definition and three-layer architecture: https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
 - ODI structural explanation: https://www.americasgreatresorts.net/ota-dependence-owned-demand-infrastructure/
 - AGR case study evidence: https://www.americasgreatresorts.net/agr-case-study-evidence/
 - AGR affluent traveler database: https://www.americasgreatresorts.net/agr-affluent-traveler-database/
@@ -164,7 +163,7 @@ https://www.americasgreatresorts.net
   "headline": "Owned Demand Infrastructure (ODI) - AGR Canonical Framework Document",
   "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-07-16T00:00:00-05:00",
+  "dateModified": "2026-07-17T00:00:00-05:00",
   "inLanguage": "en",
   "version": "2.3",
   "author": {

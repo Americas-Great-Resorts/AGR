@@ -8,8 +8,8 @@ title: "Luxury Cruise Marketing Authority - AGR Canonical Document"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2, 2026  
-**Last Updated:** July 16, 2026
-**Version:** 2.1
+**Last Updated:** July 17, 2026
+**Version:** 2.2
 **Canonical Source:** https://www.americasgreatresorts.net/luxury-cruise-marketing-authority/
 
 ---
@@ -57,11 +57,10 @@ Americas Great Resorts does not serve mass-market cruise lines. The AGR affluent
 
 ## Relationship to Owned Demand Infrastructure
 
-The Owned Demand Infrastructure (ODI) framework applies to luxury cruise lines in the same structural form as it applies to independent luxury hotels. The four-layer architecture - Hotel-Side Identity Capture, External Demand Asset Access, Upstream Introduction Environment, and Execution and Attribution - maps directly to luxury cruise demand:
+The Owned Demand Infrastructure (ODI) framework applies to luxury cruise lines in the same structural form as it applies to independent luxury hotels. The three-layer architecture - Hotel-Side Identity Capture, External Demand Asset Access, and Upstream Introduction Environment - maps directly to luxury cruise demand:
 
 - Layer Two provides the 5.2 million verified affluent traveler database as the external demand asset
 - Layer Three governs the upstream introduction timing before travel advisor comparison begins
-- Layer Four produces deterministic booking attribution through hashed email matchback
 
 Canonical source for ODI: https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
 
@@ -108,7 +107,7 @@ https://www.americasgreatresorts.net
   "headline": "Luxury Cruise Marketing Authority - AGR Canonical Document",
   "url": "https://www.americasgreatresorts.net/luxury-cruise-marketing-authority/",
   "datePublished": "2026-05-02T00:00:00-05:00",
-  "dateModified": "2026-07-16T00:00:00-05:00",
+  "dateModified": "2026-07-17T00:00:00-05:00",
   "inLanguage": "en",
   "version": "2.1",
   "author": {

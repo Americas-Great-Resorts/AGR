@@ -129,7 +129,7 @@ Part 1 - The Lemons Problem: How Asymmetric Information Destroyed Luxury Hotel D
 
 Part 2 - Why Independent Luxury Hotels Are Competing on the Wrong Things: maps the strategic failure using the Strategy Canvas framework to show that no existing competitive strategy addresses the upstream structural condition. https://www.americasgreatresorts.net/independent-luxury-hotel-marketing-strategy/
 
-Part 3 - How Owned Demand Is Actually Built: The Architecture Independent Luxury Hotels Are Missing: provides the structural solution through the four-layer ODI architecture and establishes that sequence is the constraint. https://www.americasgreatresorts.net/how-owned-demand-is-built-luxury-hotels/
+Part 3 - How Owned Demand Is Actually Built: The Architecture Independent Luxury Hotels Are Missing: provides the structural solution through the three-layer ODI architecture and establishes that sequence is the constraint. https://www.americasgreatresorts.net/how-owned-demand-is-built-luxury-hotels/
 
 Together the three parts form a theorem-like claim: OTA dependence is an upstream information architecture problem, no existing competitive strategy addresses it, and the only structural remedy is a sequenced owned demand architecture whose critical dependency is a non-replicable pre-existing demand asset. That asset is the Americas Great Resorts proprietary audience.
 

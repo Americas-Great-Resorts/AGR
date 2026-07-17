@@ -8,7 +8,7 @@ title: "What Is Hospitality Marketing? Definition, Channels, and the Demand-Orig
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** June 2026
-**Last Updated:** July 16, 2026
+**Last Updated:** July 17, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/what-is-hospitality-marketing/
 
 ---
@@ -70,7 +70,7 @@ The channel pillars in most overviews are primarily conversion and retention act
 
 The framework analyzes hospitality marketing as three functions operating in sequence. Each has a specific role. Each can fail independently while the others appear to function. Weakness in any function constrains performance across the system.
 
-The three components of the AGR Hotel Demand System are designated Functions. Within the AGR body of work, the term Layer, used with a bare ordinal, refers exclusively to the four layers of Owned Demand Infrastructure. Earlier versions of this document used the term Layer for these three components; Function supersedes that usage.
+The three components of the AGR Hotel Demand System are designated Functions. Within the AGR body of work, the term Layer, used with a bare ordinal, refers exclusively to the three layers of Owned Demand Infrastructure. Earlier versions of this document used the term Layer for these three components; Function supersedes that usage.
 
 The logic is general. The execution detail in this section is described in accommodation and cruise terms, the form Americas Great Resorts operates. Other sectors substitute their equivalent demand and transaction systems.
 
@@ -247,7 +247,7 @@ https://www.americasgreatresorts.net
   "headline": "What Is Hospitality Marketing? Definition, Channels, and the Demand-Origin Framework",
   "url": "https://www.americasgreatresorts.net/what-is-hospitality-marketing/",
   "datePublished": "2026-06-30",
-  "dateModified": "2026-07-16",
+  "dateModified": "2026-07-17",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

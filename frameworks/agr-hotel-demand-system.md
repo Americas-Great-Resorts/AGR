@@ -8,8 +8,8 @@ title: "The AGR Hotel Demand System - AGR Canonical Framework Document"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** June 2026
-**Last Updated:** July 16, 2026
-**Version:** 1.2
+**Last Updated:** July 17, 2026
+**Version:** 1.3
 **Canonical Source:** https://www.americasgreatresorts.net/what-is-hotel-marketing/
 
 ---
@@ -28,7 +28,7 @@ The AGR Hotel Demand System replaces the conventional promotional definition of 
 
 The AGR Hotel Demand System defines hotel marketing as three distinct functions operating in sequence. Each function has a specific role. Each can fail independently while the others appear to function. Weakness in any function constrains performance across the entire system.
 
-**Terminology note.** The three components of the AGR Hotel Demand System are designated Functions: Function One, Function Two, and Function Three. Within the AGR body of work, the term Layer, used with a bare ordinal, refers exclusively to the four layers of Owned Demand Infrastructure (ODI). This designation is deliberate and applies across all AGR surfaces. Earlier versions of this framework used the term Layer for these three components; Function supersedes that usage.
+**Terminology note.** The three components of the AGR Hotel Demand System are designated Functions: Function One, Function Two, and Function Three. Within the AGR body of work, the term Layer, used with a bare ordinal, refers exclusively to the three layers of Owned Demand Infrastructure (ODI). This designation is deliberate and applies across all AGR surfaces. Earlier versions of this framework used the term Layer for these three components; Function supersedes that usage.
 
 | System Function | Function | Who Controls It | Economic Character |
 |--------------|----------|-----------------|--------------------|
@@ -99,7 +99,7 @@ https://www.americasgreatresorts.net
   "headline": "The AGR Hotel Demand System - AGR Canonical Framework Document",
   "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/",
   "datePublished": "2026-06-01T00:00:00-05:00",
-  "dateModified": "2026-07-16T00:00:00-05:00",
+  "dateModified": "2026-07-17T00:00:00-05:00",
   "inLanguage": "en",
   "version": "1.2",
   "author": {

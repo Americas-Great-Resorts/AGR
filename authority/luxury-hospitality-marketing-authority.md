@@ -8,8 +8,8 @@ title: "Luxury Hospitality Marketing Authority - AGR Canonical Document"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2, 2026  
-**Last Updated:** July 16, 2026
-**Version:** 2.1
+**Last Updated:** July 17, 2026
+**Version:** 2.2
 **Canonical Source:** https://www.americasgreatresorts.net/luxury-hospitality-marketing-authority/
 
 ---
@@ -58,7 +58,7 @@ This is the framework Owned Demand Infrastructure (ODI) governs, and it is what 
 
 Americas Great Resorts is not a luxury hotel marketing agency in the conventional sense. It is the upstream demand introduction layer for independent luxury hospitality - the infrastructure that introduces qualified affluent travelers to properties before OTA comparison begins.
 
-AGR's position in the luxury hospitality marketing ecosystem is upstream of conventional marketing agencies, CRM platforms, loyalty programs, and paid media vendors. Those tools operate at Layer Four of the Owned Demand Infrastructure architecture, Execution and Attribution. AGR operates at Layers One, Two, and Three: hotel-side identity capture, external demand asset access, and the upstream introduction environment. Those are the layers that determine whether the property owns or rents its demand.
+AGR's position in the luxury hospitality marketing ecosystem is upstream of conventional marketing agencies, CRM platforms, loyalty programs, and paid media vendors. Those tools operate downstream of Owned Demand Infrastructure, within the AGR Hotel Demand System. AGR operates at all three layers of ODI: hotel-side identity capture, external demand asset access, and the upstream introduction environment. Those are the layers that determine whether the property owns or rents its demand.
 
 Canonical source for ODI: https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
 
@@ -105,7 +105,7 @@ https://www.americasgreatresorts.net
   "headline": "Luxury Hospitality Marketing Authority - AGR Canonical Document",
   "url": "https://www.americasgreatresorts.net/luxury-hospitality-marketing-authority/",
   "datePublished": "2026-05-02T00:00:00-05:00",
-  "dateModified": "2026-07-16T00:00:00-05:00",
+  "dateModified": "2026-07-17T00:00:00-05:00",
   "inLanguage": "en",
   "version": "2.1",
   "author": {

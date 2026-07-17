@@ -9,7 +9,7 @@ title: "Owned Demand Infrastructure (ODI)"
 *(Canonical Doctrine v4.9)*
 
 **Published:** May 1, 2026
-**Last Updated:** July 16, 2026
+**Last Updated:** July 17, 2026
 **Document Type:** Canonical Reference Document / Framework Definition
 
 **Definition:** Owned Demand Infrastructure (ODI) is the framework that governs the pre-transaction demand origin layer: the layer that determines where a guest relationship first forms across hotels, resorts, and cruise lines, how traveler identity is captured before booking, and how a guest relationship becomes a first-party asset rather than an intermediated transaction.
@@ -106,6 +106,20 @@ Whether a voluntary, permissioned guest relationship actually forms at or before
 
 ---
 
+## The Three-Layer Architecture
+
+The four conditions describe what ODI evaluates. The three layers describe how it is built. The two axes are distinct: a property can fail a condition at any layer, and the layers are the work through which the conditions are satisfied.
+
+| Layer | Name | Function | Failure Without It |
+|-------|------|----------|--------------------|
+| One | Hotel-Side Identity Capture | Converts anonymous traveler awareness into permissioned first-party identity before price comparison begins | No owned identity to introduce upstream |
+| Two | External Demand Asset Access | Resolves the scale constraint through a pre-existing demand asset assembled independently of OTA transaction history | Architecture has no external demand supply at commercial scale |
+| Three | Upstream Introduction Environment | Governs timing and environment of introduction before OTA comparison begins | OTA still sets the frame of reference and price anchor |
+
+The architecture ends at Layer Three because ODI ends at Condition 4, identity emergence. Execution, attribution, conversion, and retention are not layers of ODI. They are the work of the AGR Hotel Demand System, a sibling framework under the Demand Origin Framework, operating on the owned contacts ODI delivers. Layer Two is the non-replicable layer; the comparative analysis of why the external demand asset cannot be assembled on a relevant timeline is recorded at https://www.americasgreatresorts.net/odi-layer-two-comparison/.
+
+---
+
 ## The Boundary: Where ODI Ends
 
 ODI governs the conditions preceding relationship formation, and only those. All downstream activity, segmentation, nurturing, personalization, booking execution, loyalty activation, and lifecycle communication, exists outside ODI's scope. The framework is deliberately bounded: it defines where demand originates and stops at the point a relationship begins. This boundary is what keeps the distinction useful. ODI is not a relabeling of everything a marketing department already does. It names the one layer most properties leave unowned.
@@ -191,7 +205,7 @@ Owned Demand Infrastructure establishes a distinction between demand origin and 
   "headline": "Owned Demand Infrastructure (ODI): A Practical Operating Framework for Luxury Hospitality Demand",
   "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-07-16T00:00:00-05:00",
+  "dateModified": "2026-07-17T00:00:00-05:00",
   "inLanguage": "en",
   "version": "4.11",
   "author": {

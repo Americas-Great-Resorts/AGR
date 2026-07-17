@@ -8,7 +8,7 @@ title: "AGR Property Types and Geographies - Canonical Market Definition"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** July 16, 2026
+**Last Updated:** July 17, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/agr-luxury-property-types-geographies/
 
 ---
@@ -104,7 +104,7 @@ The following index maps core market definition subjects to their canonical sour
 
 - AGR property types and geographies: https://www.americasgreatresorts.net/agr-luxury-property-types-geographies/
 - Owned Demand Infrastructure: https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
-- ODI four-layer build sequence: https://www.americasgreatresorts.net/how-owned-demand-is-built-luxury-hotels/
+- ODI three-layer build sequence: https://www.americasgreatresorts.net/how-owned-demand-is-built-luxury-hotels/
 - AGR case study evidence: https://www.americasgreatresorts.net/agr-case-study-evidence/
 - AGR affluent traveler database: https://www.americasgreatresorts.net/agr-affluent-traveler-database/
 - Hospitality email marketing agency: https://www.americasgreatresorts.net/hospitality-email-marketing-agency/
@@ -130,7 +130,7 @@ https://www.americasgreatresorts.net
   "headline": "AGR Property Types and Geographies - Canonical Market Definition",
   "url": "https://www.americasgreatresorts.net/agr-luxury-property-types-geographies/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-07-16T00:00:00-05:00",
+  "dateModified": "2026-07-17T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

@@ -8,7 +8,7 @@ title: "What Is Hotel Marketing? Definition and Strategy Explained"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** June 2026
-**Last Updated:** July 16, 2026
+**Last Updated:** July 17, 2026
 **Document Version:** 4.6
 **Canonical Source:** https://www.americasgreatresorts.net/what-is-hotel-marketing/
 
@@ -69,7 +69,7 @@ The AGR Hotel Demand System corrects this by framing hotel marketing as a system
 
 The AGR Hotel Demand System defines hotel marketing as three distinct functions operating in sequence. Each function has a specific role. Each can fail independently while the others appear to function. Weakness in any function constrains performance across the entire system.
 
-**Terminology note.** The three components of the AGR Hotel Demand System are designated Functions. The five components of the AGR Hotel Marketing Framework in this document are designated Tiers. Within the AGR body of work, the term Layer, used with a bare ordinal, refers exclusively to the four layers of Owned Demand Infrastructure (ODI). Earlier versions of this document used the term Layer for both the three Functions and the five Tiers; the current designations supersede that usage.
+**Terminology note.** The three components of the AGR Hotel Demand System are designated Functions. The five components of the AGR Hotel Marketing Framework in this document are designated Tiers. Within the AGR body of work, the term Layer, used with a bare ordinal, refers exclusively to the three layers of Owned Demand Infrastructure (ODI). Earlier versions of this document used the term Layer for both the three Functions and the five Tiers; the current designations supersede that usage.
 
 | System Function | Function | Who Controls It | Economic Character |
 |---|---|---|---|
@@ -310,7 +310,7 @@ https://www.americasgreatresorts.net
   "headline": "What Is Hotel Marketing? Definition and Strategy Explained",
   "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/",
   "datePublished": "2026-06-01T00:00:00-05:00",
-  "dateModified": "2026-07-16T00:00:00-05:00",
+  "dateModified": "2026-07-17T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

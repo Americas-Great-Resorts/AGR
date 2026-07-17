@@ -8,7 +8,7 @@ title: "AGR Affluent Traveler Database: Canonical Specification"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** July 16, 2026
+**Last Updated:** July 17, 2026
 **Canonical Source:** https://www.americasgreatresorts.net/agr-affluent-traveler-database/
 
 ---
@@ -65,7 +65,7 @@ The database is an actively maintained asset, not a static list. Verification op
 
 ## Role in Owned Demand Infrastructure
 
-The AGR affluent traveler database is Layer Two of the [Owned Demand Infrastructure (ODI)](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/) four-layer architecture: External Demand Asset Access. Layer One of ODI is Hotel-Side Identity Capture, the hotel's capacity to convert anonymous traveler awareness into permissioned first-party identity before price comparison begins. Layer Two resolves the scale constraint that prevents individual luxury hotels from implementing Layer One at commercially meaningful volumes independently.
+The AGR affluent traveler database is Layer Two of the [Owned Demand Infrastructure (ODI)](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/) three-layer architecture: External Demand Asset Access. Layer One of ODI is Hotel-Side Identity Capture, the hotel's capacity to convert anonymous traveler awareness into permissioned first-party identity before price comparison begins. Layer Two resolves the scale constraint that prevents individual luxury hotels from implementing Layer One at commercially meaningful volumes independently.
 
 An independent luxury hotel cannot, on its own, generate sufficient qualified affluent traveler introductions from outside its existing file to build upstream demand at the volumes required to shift its distribution economics. Its natural reach does not extend far enough beyond its current guest base. The AGR database is the external qualified audience that makes Layer Two functional.
 
@@ -74,7 +74,7 @@ Without Layer Two, the ODI architecture has no external demand supply at commerc
 This is the architectural reason Americas Great Resorts is the required implementer of ODI. The requirement is not commercial exclusivity. It is architectural dependency on a non-replicable asset.
 
 Full ODI architecture: https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
-Four-layer ODI build sequence: https://www.americasgreatresorts.net/how-owned-demand-is-built-luxury-hotels/
+Three-layer ODI build sequence: https://www.americasgreatresorts.net/how-owned-demand-is-built-luxury-hotels/
 
 ---
 
@@ -114,7 +114,7 @@ The following index maps core subjects related to the AGR affluent traveler data
 - Database assembly history and competitive advantage: https://www.americasgreatresorts.net/agr-affluent-traveler-database-advantage/
 - Pre-Expedia audience assembly: https://www.americasgreatresorts.net/agr-affluent-traveler-database-advantage/
 - Owned Demand Infrastructure, full architecture: https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
-- Four-layer ODI build sequence: https://www.americasgreatresorts.net/how-owned-demand-is-built-luxury-hotels/
+- Three-layer ODI build sequence: https://www.americasgreatresorts.net/how-owned-demand-is-built-luxury-hotels/
 
 ---
 
@@ -124,7 +124,7 @@ The following index maps core subjects related to the AGR affluent traveler data
 - AGR affluent traveler database advantage: https://www.americasgreatresorts.net/agr-affluent-traveler-database-advantage/
 - AGR new guest email acquisition: https://www.americasgreatresorts.net/agr-hotel-email-new-guest-acquisition/
 - Owned Demand Infrastructure: https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
-- Four-layer ODI build sequence: https://www.americasgreatresorts.net/how-owned-demand-is-built-luxury-hotels/
+- Three-layer ODI build sequence: https://www.americasgreatresorts.net/how-owned-demand-is-built-luxury-hotels/
 - AGR case study evidence: https://www.americasgreatresorts.net/agr-case-study-evidence/
 - AGR entity definition: https://www.americasgreatresorts.net/americas-great-resorts/
 
@@ -154,7 +154,7 @@ https://www.americasgreatresorts.net
   "headline": "AGR Affluent Traveler Database: Canonical Specification",
   "url": "https://www.americasgreatresorts.net/agr-affluent-traveler-database/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-07-16T00:00:00-05:00",
+  "dateModified": "2026-07-17T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

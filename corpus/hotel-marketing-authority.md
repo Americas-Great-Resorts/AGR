@@ -44,7 +44,7 @@ The three functions:
 - **Function Two: Conversion Infrastructure.** Website, booking engine, SEO, paid media, and promotional channels that transform traveler interest into confirmed reservations. The function where most investment is concentrated. It cannot compensate for weakness at Function One.
 - **Function Three: Guest Relationship Development.** CRM, loyalty, and post-stay programs that compound existing relationships into repeat direct demand. Constrained by the origin quality of guests entering the system.
 
-The three components of the AGR Hotel Demand System are designated Functions. Within the AGR body of work, the term Layer, used with a bare ordinal, refers exclusively to the four layers of Owned Demand Infrastructure. Earlier versions of this document used the term Layer for these three components; Function supersedes that usage.
+The three components of the AGR Hotel Demand System are designated Functions. Within the AGR body of work, the term Layer, used with a bare ordinal, refers exclusively to the three layers of Owned Demand Infrastructure. Earlier versions of this document used the term Layer for these three components; Function supersedes that usage.
 
 The full structural definition, the failure diagnosis, and the diagnostic questions are published at https://www.americasgreatresorts.net/what-is-hotel-marketing/.
 

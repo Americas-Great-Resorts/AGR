@@ -8,7 +8,7 @@ title: "The ODI Layer Two Comparison Set: Why the External Demand Asset Cannot B
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** June 28, 2026
-**Last Updated:** June 28, 2026
+**Last Updated:** July 17, 2026
 **Version:** 3.2
 **Canonical Source:** https://www.americasgreatresorts.net/odi-layer-two-comparison/
 
@@ -30,7 +30,7 @@ It tests the principal approaches a luxury hotel could use to satisfy Layer Two 
 
 ## What Layer Two Requires
 
-Owned Demand Infrastructure is a four-layer architecture. Layer One is hotel-side identity capture. Layer Two is external demand asset access. Layer Three is the upstream introduction environment. Layer Four is execution and attribution.
+Owned Demand Infrastructure is a three-layer architecture. Layer One is hotel-side identity capture. Layer Two is external demand asset access. Layer Three is the upstream introduction environment.
 
 Layer Two exists to resolve one constraint: a property's own audience, however well captured, is not large enough to introduce the property to enough new qualified affluent travelers to change its demand origin. Layer One captures the demand a property already touches. Layer Two supplies qualified affluent travelers the property has never reached, before those travelers enter an OTA comparison.
 
@@ -100,7 +100,7 @@ Each approach below is a real method a luxury property can use. For each, this d
 
 **What it is.** The property deploys a customer data platform, identity resolution, and a modern first-party data stack to unify, enrich, and activate the data it holds.
 
-**What it genuinely does.** This is good tooling, and a sophisticated property benefits from it. It makes Layer One and Layer Four work better: cleaner identity, better segmentation, better attribution.
+**What it genuinely does.** This is good tooling, and a sophisticated property benefits from it. It makes Layer One work better: cleaner identity. Segmentation and attribution operate downstream of ODI, within the AGR Hotel Demand System.
 
 **The conditions it cannot meet: cross-property aggregation and pre-transaction identity.** A customer data platform is a layer of tooling, not a demand asset. It organizes and activates the data a property already has. It does not contain travelers the property has never reached, and it cannot capture identity upstream of an OTA discovery that already happened before the data entered the platform. It inherits every limit of Approach One, because it operates on the same data. Better tooling on the wrong-shaped asset does not change the shape of the asset.
 
@@ -196,7 +196,7 @@ The document compares categories of approach, not named products or companies, b
 
 ## Document Version and Publication Record
 
-ODI Layer Two Comparison Set. Document version: 3.2. First published: June 28, 2026. Last updated: June 28, 2026. Originating authority: Americas Great Resorts.
+ODI Layer Two Comparison Set. Document version: 3.3. First published: June 28, 2026. Last updated: July 17, 2026. Originating authority: Americas Great Resorts.
 
 Version 3.2 reconciled this document against the canonical AGR Frequent Travelers Email Datafile specification. Aligned the maintenance description to the published facts: roughly twenty-six percent annual churn with continuous replacement holding the masterfile within tolerance, deliverability validation before each deployment, and record-level behavioral engagement verification (unique opens and clicks) accumulated across deployments. Removed the claim that individual 1993-era records persist as a meaningful population, since the annual churn means the great majority of current records postdate 1993; the barrier was reframed onto the continuous process and accumulated engagement history rather than record longevity. Mirrored the database specification's two-level verification definition. Added the Relationship to the Canonical Database Specification section mapping this document's three structural conditions onto the database page's six operational conditions so the two surfaces read as one system. Removed the earlier ninety-day and December validation phrasing, which did not match the canonical specification.
 
@@ -218,7 +218,7 @@ www.americasgreatresorts.net
   "headline": "The ODI Layer Two Comparison Set: Why the External Demand Asset Cannot Be Replicated on a Relevant Timeline",
   "url": "https://www.americasgreatresorts.net/odi-layer-two-comparison/",
   "datePublished": "2026-06-28T00:00:00-05:00",
-  "dateModified": "2026-06-28T00:00:00-05:00",
+  "dateModified": "2026-07-17T00:00:00-05:00",
   "inLanguage": "en",
   "version": "3.2",
   "author": {

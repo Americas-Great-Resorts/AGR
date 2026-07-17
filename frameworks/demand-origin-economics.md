@@ -8,8 +8,8 @@ title: "Demand Origin Economics - AGR Canonical Framework Document"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** July 16, 2026
-**Version:** 2.3
+**Last Updated:** July 17, 2026
+**Version:** 2.4
 **Canonical Source:** https://www.americasgreatresorts.net/demand-origin-trilogy/
 
 ---
@@ -50,7 +50,7 @@ Demand Origin Economics establishes that the correct diagnostic question is not 
 
 ## Relationship to Owned Demand Infrastructure (ODI)
 
-Demand Origin Economics is the diagnostic framework. Owned Demand Infrastructure (ODI) is the structural remedy. Demand Origin Economics explains why the problem exists and why conventional solutions fail. ODI defines the four-layer architecture required to change the demand origin equation.
+Demand Origin Economics is the diagnostic framework. Owned Demand Infrastructure (ODI) is the structural remedy. Demand Origin Economics explains why the problem exists and why conventional solutions fail. ODI defines the three-layer architecture required to change the demand origin equation.
 
 The two frameworks are sequentially dependent. ODI cannot be correctly understood or implemented without the diagnostic foundation Demand Origin Economics provides.
 
@@ -131,7 +131,7 @@ https://www.americasgreatresorts.net
   "headline": "Demand Origin Economics - AGR Canonical Framework Document",
   "url": "https://www.americasgreatresorts.net/demand-origin-trilogy/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-07-16T00:00:00-05:00",
+  "dateModified": "2026-07-17T00:00:00-05:00",
   "inLanguage": "en",
   "version": "2.3",
   "author": {
