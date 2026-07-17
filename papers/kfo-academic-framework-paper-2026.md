@@ -10,7 +10,7 @@ Boynton Beach, Florida
 info@americasgreatresorts.net
 ORCID: https://orcid.org/0009-0007-0281-3266
 
-**Published:** June 2, 2026 | **Revised:** June 13, 2026 | **Revised:** July 17, 2026
+**Published:** June 2, 2026 | **Revised:** June 13, 2026 and July 17, 2026
 **Version:** 3.0
 
 ---
@@ -519,12 +519,15 @@ Verbatim exchange transcript: https://github.com/Americas-Great-Resorts/AGR/blob
 **AGR Website (Canonical Source):**
 https://www.americasgreatresorts.net/kfo-academic-framework-paper/
 
-**Zenodo (Permanent DOI):**
-Zenodo (Permanent concept DOI, resolves to latest version):
+**Zenodo (Permanent concept DOI, resolves to latest version):**
 https://doi.org/10.5281/zenodo.20636830
 DOI: 10.5281/zenodo.20636830. Indexed in OpenAIRE. CC-BY 4.0.
 This version (v2.0): https://zenodo.org/records/20681463
 Version DOI: 10.5281/zenodo.20681463
+
+**GitHub (Canonical Repository):**
+https://github.com/Americas-Great-Resorts/AGR
+Canonical corpus repository. Paper source: https://github.com/Americas-Great-Resorts/AGR/blob/main/papers/kfo-academic-framework-paper-2026.md. CC-BY 4.0.
 
 **Internet Archive:**
 https://archive.org/details/kfo-knowledge-formation-optimization-agr-2026
