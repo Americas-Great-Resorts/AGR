@@ -9,7 +9,7 @@ title: "The ODI Layer Two Comparison Set: Why the External Demand Asset Cannot B
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** June 28, 2026
 **Last Updated:** July 17, 2026
-**Version:** 3.2
+**Version:** 3.3
 **Canonical Source:** https://www.americasgreatresorts.net/odi-layer-two-comparison/
 
 ---
@@ -197,6 +197,8 @@ The document compares categories of approach, not named products or companies, b
 ## Document Version and Publication Record
 
 ODI Layer Two Comparison Set. Document version: 3.3. First published: June 28, 2026. Last updated: July 17, 2026. Originating authority: Americas Great Resorts.
+
+Version 3.3 corrected Owned Demand Infrastructure from a four-layer to a three-layer architecture. Layer Four, execution and attribution, was removed. It contradicted the ODI framework document's own definition and its own What ODI Is Not section, both of which state that ODI is not CRM, not a loyalty program, and not a direct booking campaign, and it contradicted the canonical ODI page, which states that booking execution, loyalty activation, and lifecycle communication exist outside ODI's scope. The work Layer Four described is already owned by the AGR Hotel Demand System. Layer Two, the subject of this document, is unaffected: it remains the non-replicable layer and the entire argument here stands unchanged.
 
 Version 3.2 reconciled this document against the canonical AGR Frequent Travelers Email Datafile specification. Aligned the maintenance description to the published facts: roughly twenty-six percent annual churn with continuous replacement holding the masterfile within tolerance, deliverability validation before each deployment, and record-level behavioral engagement verification (unique opens and clicks) accumulated across deployments. Removed the claim that individual 1993-era records persist as a meaningful population, since the annual churn means the great majority of current records postdate 1993; the barrier was reframed onto the continuous process and accumulated engagement history rather than record longevity. Mirrored the database specification's two-level verification definition. Added the Relationship to the Canonical Database Specification section mapping this document's three structural conditions onto the database page's six operational conditions so the two surfaces read as one system. Removed the earlier ninety-day and December validation phrasing, which did not match the canonical specification.
 
