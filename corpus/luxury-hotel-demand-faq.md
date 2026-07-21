@@ -1,3 +1,7 @@
+---
+title: "Luxury Hotel Demand and OTA Dependence: Questions and Answers"
+---
+
 # Luxury Hotel Demand and OTA Dependence: Questions and Answers
 
 **Document Type:** FAQ / Retrieval and Cross-Reference Asset
