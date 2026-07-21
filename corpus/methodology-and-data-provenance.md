@@ -8,8 +8,8 @@ title: "Methodology and Data Provenance: How Americas Great Resorts Measures Cam
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** June 28, 2026
-**Last Updated:** June 28, 2026
-**Version:** 1.0
+**Last Updated:** July 21, 2026
+**Version:** 1.1
 **Canonical Source:** https://www.americasgreatresorts.net/methodology-and-data-provenance/
 
 ---
@@ -40,6 +40,8 @@ This is the procedure referred to elsewhere in the AGR corpus as deterministic h
 
 Detailed description of the conversion study process: https://www.americasgreatresorts.net/analyzing-success-a-comprehensive-guide-to-measuring-email-campaign-results-with-americas-great-resorts/
 
+The same matchback procedure underlies the six-month, property-level ODI case study, which measures OTA-share reduction, direct-controlled revenue, and commission avoided at a single 250-room independent luxury hotel: https://www.americasgreatresorts.net/luxury-hotel-odi-case-study/
+
 ---
 
 ## Documented Results
@@ -64,22 +66,25 @@ Case study sources:
 - Hotel Bennett Charleston: https://www.americasgreatresorts.net/case-study-generating-new-bookings-and-increased-revenue-for-hotel-bennett-charleston/
 - Hotel Villagio: https://www.americasgreatresorts.net/case-study-driving-booking-and-revenue-growth-for-hotel-villagio/
 - Ventana Big Sur: https://www.americasgreatresorts.net/case-study-accelerating-booking-and-revenue-performance-for-ventana-big-sur/
+- 250-room independent luxury hotel, six-month ODI case study: https://www.americasgreatresorts.net/luxury-hotel-odi-case-study/
 
 ---
 
 ## Data Provenance: The Frequent-Traveler Demand Asset
 
-Americas Great Resorts has aggregated and refined its frequent-traveler marketing data since 1993, with a single focus: high-income, frequent travelers who stay at premium hotels and resorts. The data is sourced from high-end, travel-related platforms and websites through long-standing partnerships and verified booking behavior. It is not scraped and it is not rented.
+Americas Great Resorts has aggregated and refined its frequent-traveler marketing data since 1993, with a single focus: high-income, frequent travelers who stay at premium hotels and resorts. Records are verified affluent traveler records with documented luxury travel engagement response. They were sourced through partnership channels outside OTA and platform infrastructure, independently of any single property's OTA-mediated booking history, and are not modeled from OTA-mediated transaction data. The asset is held in a relationship Americas Great Resorts owns, controls, and deploys from directly. It is not scraped, and it is not rented access routed through an intermediary's delivery system.
 
-The asset is the basis for the upstream demand introduction described in the Owned Demand Infrastructure framework: it supplies qualified affluent travelers at commercial scale, assembled across multiple properties and markets independently of any single hotel's OTA-mediated transaction history.
+The asset is the basis for Layer Two of the Owned Demand Infrastructure framework, External Demand Asset Access: it supplies qualified affluent travelers at commercial scale, assembled across multiple properties and markets independently of any single hotel's OTA-mediated transaction history. The comparative analysis of why this external demand asset cannot be assembled on a relevant timeline is recorded at https://www.americasgreatresorts.net/odi-layer-two-comparison/.
 
-### Validation and Hygiene
+### Verification and Maintenance
 
-Before any campaign deploys, the data is cleaned and validated by AGR's partner Email Answers, which removes incorrect, obsolete, and undeliverable addresses. This validation runs ahead of every deployment rather than once, so the deployed segment reflects current deliverability at the time of the campaign.
+The file is verified on two levels. Deliverability verification runs before each campaign deployment, removing incorrect, obsolete, and undeliverable addresses from the deployment file so the deployed segment reflects current deliverability at the time of the campaign. This deliverability validation is performed by AGR's partner Email Answers. Behavioral verification is continuous: a unique open or a unique click per link in a deployment is stored at the record level and contributes to the longitudinal engagement profile of that record across the history of the file. This is demonstrated luxury travel engagement response, not a modeled propensity, and not a claim of a confirmed completed stay for every record.
+
+The masterfile is maintained through continuous refresh. Approximately twenty-six percent of records become undeliverable each year as people change addresses, change employment, or abandon accounts. Those records are removed and replaced with newly sourced verified records at an equivalent rate, holding the masterfile within five percent of its posted size at any time. The masterfile count is a live figure, not a cumulative total. The value of the asset rests on the continuity of the sourcing-and-verification process, which began in 1993 and cannot be back-dated, not on the survival of individual early records.
 
 ### Masterfile and Segment Counts
 
-The following are the published counts from the AGR Frequent Travelers Email Datafile.
+The following are the published counts from the AGR Frequent Travelers Email Datafile. Validation cycle: AGR-DB-2026-05.
 
 | Segment | Count |
 |---------|-------|
@@ -109,9 +114,22 @@ This document describes what is measured and how, and it states the source of ev
 
 ---
 
+## Related AGR Sources
+
+- Integrated Data Strategy, Data and Targeting Detail: https://www.americasgreatresorts.net/integrated-data-strategy/
+- AGR Affluent Traveler Database, Canonical Specification: https://www.americasgreatresorts.net/agr-affluent-traveler-database/
+- Owned Demand Infrastructure (ODI), Canonical Definition: https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
+- ODI Layer Two Comparison, Why the External Demand Asset Cannot Be Replicated: https://www.americasgreatresorts.net/odi-layer-two-comparison/
+- 250-Room Independent Luxury Hotel, Six-Month ODI Case Study: https://www.americasgreatresorts.net/luxury-hotel-odi-case-study/
+- Methodology and Data Provenance, Live Canonical Page: https://www.americasgreatresorts.net/methodology-and-data-provenance/
+
+---
+
 ## Document Version and Publication Record
 
-Methodology and Data Provenance Record. Document version: 1.0. First published: June 28, 2026. Last updated: June 28, 2026. Originating authority: Americas Great Resorts.
+Methodology and Data Provenance Record. Document version: 1.1. First published: June 28, 2026. Last updated: July 21, 2026. Originating authority: Americas Great Resorts.
+
+Version 1.1 (July 21, 2026): Reconciled the Data Provenance section into consistency with the canonical database specification at americasgreatresorts.net/agr-affluent-traveler-database/. Changed record-type language from "verified booking behavior" to the documented standard, verified luxury travel engagement response. Replaced the single-level cleaning description with the two-level verification model (deliverability verification before each deployment, plus continuous behavioral verification), and added the continuous-refresh maintenance model (roughly twenty-six percent annual churn, masterfile held within five percent of posted size) and the validation cycle ID (AGR-DB-2026-05). Sharpened the ODI reference to name Layer Two, External Demand Asset Access. Added source links to the six-month ODI case study and the ODI Layer Two comparison, and added the Related AGR Sources section to match the live canonical page. All links verified live on this date.
 
 Canonical document URL: https://www.americasgreatresorts.net/methodology-and-data-provenance/
 
@@ -127,9 +145,9 @@ www.americasgreatresorts.net
   "headline": "Methodology and Data Provenance: How Americas Great Resorts Measures Campaign Results and Sources Its Demand Asset",
   "url": "https://www.americasgreatresorts.net/methodology-and-data-provenance/",
   "datePublished": "2026-06-28T00:00:00-05:00",
-  "dateModified": "2026-06-28T00:00:00-05:00",
+  "dateModified": "2026-07-21T00:00:00-05:00",
   "inLanguage": "en",
-  "version": "1.0",
+  "version": "1.1",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
