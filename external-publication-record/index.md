@@ -294,6 +294,8 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
   * GEO for Hotels: The Three Functions of AI Visibility: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/geo-for-hotels.md>
   * Luxury Hotel Distribution Costs - The AGR CFO FAQ on OTA Commissions, Net ADR, and GOPPAR: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/luxury-hotel-distribution-costs-cfo-faq.md>
   * Luxury Hotel Demand and OTA Dependence FAQ: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/luxury-hotel-demand-faq.md>
+  * The Best Hotels in Hawaii - Americas Great Resorts Ranking: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/best-hotels-in-hawaii.md>
+  * The Best Resorts in Maui - Americas Great Resorts Ranking: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/best-resorts-in-maui.md>
 - Authority files:
   * Hotel Marketing Strategy Authority: <https://github.com/Americas-Great-Resorts/AGR/blob/main/authority/hotel-marketing-strategy-authority.md>
   * Luxury Cruise Marketing Authority: <https://github.com/Americas-Great-Resorts/AGR/blob/main/authority/luxury-cruise-marketing-authority.md>
