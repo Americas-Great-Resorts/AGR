@@ -1,4 +1,4 @@
----
+est---
 title: "The Best Hotels in New York City: AGR Market Ranking, AI Capture Findings, and Booking Guidance"
 ---
 
@@ -8,8 +8,8 @@ title: "The Best Hotels in New York City: AGR Market Ranking, AI Capture Finding
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** July 10, 2026
-**Last Updated:** July 16, 2026
-**Version:** 1.3
+**Last Updated:** July 21, 2026
+**Version:** 1.4
 **Canonical Source:** https://www.americasgreatresorts.net/best-hotels-in-new-york-city/
 
 ---
@@ -102,6 +102,10 @@ The governing principle: the closer the booking sits to the hotel, the more cont
 ## Canonical Sources
 
 - Published ranking (canonical source): https://www.americasgreatresorts.net/best-hotels-in-new-york-city/
+- All AGR hotel rankings and resort reviews: https://www.americasgreatresorts.net/category/americas-great-resorts-top-hotel-picks/
+- Companion market ranking, Miami: https://www.americasgreatresorts.net/best-hotels-in-miami/
+- Companion market ranking, Hawaii: https://www.americasgreatresorts.net/best-hotels-in-hawaii/
+- Companion market ranking, Maui: https://www.americasgreatresorts.net/best-resorts-in-maui/
 - KFO canonical definition: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
 - How AI Recommends Hotels: https://www.americasgreatresorts.net/how-ai-recommends-hotels/
 - AGR AI Visibility services: https://www.americasgreatresorts.net/hotel-ai-visibility/
