@@ -1,3 +1,7 @@
+---
+title: "The Best Hotels in New York City: AGR Market Ranking, AI Capture Findings, and Booking Guidance"
+---
+
 est---
 title: "The Best Hotels in New York City: AGR Market Ranking, AI Capture Findings, and Booking Guidance"
 ---
