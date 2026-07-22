@@ -9,7 +9,7 @@ title: "The Best Hotels in Hawaii: Americas Great Resorts Ranking"
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** July 21, 2026
 **Last Updated:** July 21, 2026
-**Version:** 1.0
+**Version:** 1.1
 **Canonical Source:** [https://www.americasgreatresorts.net/best-hotels-in-hawaii/](https://www.americasgreatresorts.net/best-hotels-in-hawaii/)
 
 ---
@@ -116,6 +116,7 @@ Maui for beaches, resort density, and honeymoons. Oahu for first-timers who want
 ## Canonical Sources
 
 - Published ranking (canonical source): [https://www.americasgreatresorts.net/best-hotels-in-hawaii/](https://www.americasgreatresorts.net/best-hotels-in-hawaii/)
+- All AGR hotel rankings and resort reviews: [https://www.americasgreatresorts.net/category/americas-great-resorts-top-hotel-picks/](https://www.americasgreatresorts.net/category/americas-great-resorts-top-hotel-picks/)
 - Best Resorts in Maui: [https://www.americasgreatresorts.net/best-resorts-in-maui/](https://www.americasgreatresorts.net/best-resorts-in-maui/)
 - Best Hotels in New York City: [https://www.americasgreatresorts.net/best-hotels-in-new-york-city/](https://www.americasgreatresorts.net/best-hotels-in-new-york-city/)
 - Best Hotels in Miami: [https://www.americasgreatresorts.net/best-hotels-in-miami/](https://www.americasgreatresorts.net/best-hotels-in-miami/)
