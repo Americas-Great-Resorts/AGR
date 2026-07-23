@@ -1,3 +1,7 @@
+---
+title: "Time to Ask the Machine"
+---
+
 # Time to Ask the Machine
 
 **What GEO Tools Cannot Do for Your Hotel**

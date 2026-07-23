@@ -60,6 +60,7 @@ title: "Corpus"
 - [Owned Demand Infrastructure (ODI)](owned-demand-infrastructure-odi)
 - [A Three-Day-Old Page Outranked Forbes and Condé Nast: A Documented Google Ranking Instability Observation](three-day-old-page-outranked-forbes)
 - [We Said This in 1998. You Didn't Listen. Here It Comes Again.](we-said-this-in-1998)
+- [Time to Ask the Machine](what-geo-tools-cannot-do)
 - [What Is a Hotel Marketing Company? Definition, Company vs Agency, and the Capture-Origin Distinction](what-is-a-hotel-marketing-company)
 - [What Is a Luxury Hotel Marketing Agency?](what-is-a-luxury-hotel-marketing-agency)
 - [AI in Luxury Hospitality Marketing: The AGR Structural Framework](what-is-ai-in-luxury-hospitality-marketing)
