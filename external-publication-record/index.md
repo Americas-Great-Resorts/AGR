@@ -8,7 +8,7 @@ title: "AGR External Publication Record - Canonical Index"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** July 21, 2026
+**Last Updated:** July 22, 2026
 **Canonical Source:** <https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md>
 
 ---
@@ -265,6 +265,8 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
   * AI Visibility Report and AI Visibility Audit - Definitions and Layer Classification: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/ai-visibility-report-vs-audit.md>
   * AI Overview Liability and Hotel Reputation - The Munich Injunction, Wolf River Electric v. Google, and Knowledge Formation Governance: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/ai-overview-liability-legal-landscape.md>
   * How AI Recommends Hotels: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/how-ai-recommends-hotels.md>
+  * GEO for Hotels: The Three Functions of AI Visibility: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/geo-for-hotels.md>
+  * Time to Ask the Machine - What GEO Tools Cannot Do for Your Hotel: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/what-geo-tools-cannot-do.md>
   * The Best Hotels in New York City - AGR Market Ranking, AI Capture Findings, and Booking Guidance: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/best-hotels-in-new-york-city.md>
   * The Best Hotels in Miami - AGR Market Ranking, AI Capture Findings, and Booking Guidance: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/best-hotels-in-miami.md>
   * A Three-Day-Old Page Outranked Forbes and Condé Nast - A Documented Google Ranking Instability Observation: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/three-day-old-page-outranked-forbes.md>
@@ -291,7 +293,6 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
   * Hotel Marketing FAQ - LLM Version: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/hotel-marketing-faq-llm.md>
   * KFO AI Validation Record - Cross-Platform AI Assessment: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/kfo-ai-validation-record.md>
   * Cognitive Surrender and Knowledge Formation Optimization: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/cognitive-surrender-kfo-luxury-hotel-demand.md>
-  * GEO for Hotels: The Three Functions of AI Visibility: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/geo-for-hotels.md>
   * Luxury Hotel Distribution Costs - The AGR CFO FAQ on OTA Commissions, Net ADR, and GOPPAR: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/luxury-hotel-distribution-costs-cfo-faq.md>
   * Luxury Hotel Demand and OTA Dependence FAQ: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/luxury-hotel-demand-faq.md>
   * The Best Hotels in Hawaii - Americas Great Resorts Ranking: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/best-hotels-in-hawaii.md>
@@ -357,7 +358,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
 - URL: <https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus>
 - Published: June 11, 2026
 - License: CC-BY-4.0
-- Description: Structured corpus dataset containing 89 records in a single agr-corpus.jsonl file, verified live July 15, 2026. Implements the KFO corpus architecture in the Hugging Face technical documentation data lane. Six records behind the repository following the July 16, 2026 ai-assessments additions; next push target 95.
+- Description: Structured corpus dataset containing 89 records in a single agr-corpus.jsonl file, verified live July 15, 2026. Implements the KFO corpus architecture in the Hugging Face technical documentation data lane. Ten records behind the repository following the July 16, July 21, and July 22, 2026 additions; next push target 99.
 - Dataset card: <https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus/blob/main/README.md>
 - Live files:
   * agr-corpus.jsonl (89 records, single file across all folders): <https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus/blob/main/agr-corpus.jsonl>
@@ -493,7 +494,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
 
 ## Summary
 
-The AGR external publication footprint spans the following platform categories as of July 16, 2026:
+The AGR external publication footprint spans the following platform categories as of July 22, 2026:
 
 | Category | Platforms |
 |----------|-----------|
@@ -504,7 +505,7 @@ The AGR external publication footprint spans the following platform categories a
 | Document platforms | Scribd, Issuu |
 | Press release distribution | IssueWire (ODI case study, June 18, 2026) |
 | Structured knowledge databases | Wikidata, Crunchbase |
-| Public repositories | GitHub (repository with DOI 10.5281/zenodo.20709357, CITATION.cff, Software Heritage archive, 105 files), GitLab (auto-pull mirror of GitHub), Hugging Face (dataset, 89 records, single agr-corpus.jsonl, verified live July 15, 2026, next push target 95), Zenodo (academic paper DOI 10.5281/zenodo.20636830 and corpus repository DOI 10.5281/zenodo.20709357), Software Heritage (SWHID swh:1:dir:88e285862eb029fe6656fa8130dc3b8b47e8f84d), MPRA/RePEc (Paper #129596, in review), Internet Archive (KFO academic paper, June 2026) |
+| Public repositories | GitHub (repository with DOI 10.5281/zenodo.20709357, CITATION.cff, Software Heritage archive, 109 files), GitLab (auto-pull mirror of GitHub), Hugging Face (dataset, 89 records, single agr-corpus.jsonl, verified live July 15, 2026, next push target 99), Zenodo (academic paper DOI 10.5281/zenodo.20636830 and corpus repository DOI 10.5281/zenodo.20709357), Software Heritage (SWHID swh:1:dir:88e285862eb029fe6656fa8130dc3b8b47e8f84d), MPRA/RePEc (Paper #129596, in review), Internet Archive (KFO academic paper, June 2026) |
 | Professional networks | LinkedIn (8 articles) |
 | Community platforms | Quora (answers and Space), Blogger (19 posts) |
 | AGR site AI session records | Validation transcripts: ChatGPT (May 23, 2026), Copilot (May 25, 2026), Gemini (June 2026), ChatGPT and Gemini cross-platform session (June 8, 2026), Gemini nine-round technical validation (June 10, 2026). Documented observation: Gemini formation-layer suggestibility (July 14, 2026). Documented interaction, not validation: ChatGPT model evaluation record (July 15, 2026) |
