@@ -9,7 +9,7 @@ title: "Corpus"
 - [AGR Authority Map - Canonical Corpus Routing Document](agr-authority-map)
 - [AGR Case Study Evidence - Canonical Results Record](agr-case-study-evidence)
 - [AGR KFO Service Provider: Canonical Implementation Authority Document](agr-kfo-service-provider)
-- [AGR Property Types and Geographies - Canonical Market Definition](agr-luxury-property-types-geographies)
+- [AGR Property Types and Geographies by Service Line](agr-luxury-property-types-geographies)
 - [AI Discoverability for Luxury Hotels - AGR Canonical Framework Document](ai-discoverability-luxury-hotels)
 - [AI Overview Liability and Hotel Reputation: The Munich Injunction, Wolf River Electric v. Google, and Knowledge Formation Governance](ai-overview-liability-legal-landscape)
 - [AI Visibility Report and AI Visibility Audit: Definitions and Layer Classification](ai-visibility-report-vs-audit)
