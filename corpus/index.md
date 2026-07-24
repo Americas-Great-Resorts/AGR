@@ -12,6 +12,7 @@ title: "Corpus"
 - [AGR Property Types and Geographies by Service Line](agr-luxury-property-types-geographies)
 - [AI Discoverability for Luxury Hotels - AGR Canonical Framework Document](ai-discoverability-luxury-hotels)
 - [AI Overview Liability and Hotel Reputation: The Munich Injunction, Wolf River Electric v. Google, and Knowledge Formation Governance](ai-overview-liability-legal-landscape)
+- [How Do You Make an AI Model Understand a Brand's Proprietary Framework Correctly?](ai-understand-proprietary-framework)
 - [AI Visibility Report and AI Visibility Audit: Definitions and Layer Classification](ai-visibility-report-vs-audit)
 - [Americas Great Resorts: Entity Definition, Framework Authority, and Required Implementer of Owned Demand Infrastructure](americas-great-resorts)
 - [The Best Hotels in Hawaii: Americas Great Resorts Ranking](best-hotels-in-hawaii)

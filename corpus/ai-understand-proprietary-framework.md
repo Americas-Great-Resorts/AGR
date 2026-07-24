@@ -1,3 +1,7 @@
+---
+title: "How Do You Make an AI Model Understand a Brand's Proprietary Framework Correctly?"
+---
+
 # How Do You Make an AI Model Understand a Brand's Proprietary Framework Correctly?
 
 **Document Type:** Canonical Corpus Document / Problem-Language Entry Point
