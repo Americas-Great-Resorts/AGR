@@ -359,10 +359,10 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
 - URL: <https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus>
 - Published: June 11, 2026
 - License: CC-BY-4.0
-- Description: Structured corpus dataset containing 89 records in a single agr-corpus.jsonl file, verified live July 15, 2026. Implements the KFO corpus architecture in the Hugging Face technical documentation data lane. Ten records behind the repository following the July 16, July 21, and July 22, 2026 additions; next push target 99.
+- Description: Structured corpus dataset containing 101 records in a single agr-corpus.jsonl file, dataset card version 1.22, verified live July 25, 2026. Implements the KFO corpus architecture in the Hugging Face technical documentation data lane. Current with the repository as of the v1.5 release.
 - Dataset card: <https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus/blob/main/README.md>
 - Live files:
-  * agr-corpus.jsonl (89 records, single file across all folders): <https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus/blob/main/agr-corpus.jsonl>
+  * agr-corpus.jsonl (101 records, single file across all folders): <https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus/blob/main/agr-corpus.jsonl>
   * README.md (dataset card): <https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus/blob/main/README.md>
 
 ### Zenodo - Academic Paper
@@ -384,7 +384,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
 ### Zenodo - Corpus Repository
 
 - Concept DOI (resolves to latest version): <https://doi.org/10.5281/zenodo.20709357>
-- Current version: v1.1 (record 20709639, June 16, 2026); v1.0 (record 20709358, June 15, 2026)
+- Current version: v1.5 (record 21572344, July 25, 2026). Eight versions minted to date; prior versions include v1.4 (record 21403364, July 17, 2026), v1.3 (record 21300832, July 10, 2026), v5 (record 21073534, June 30, 2026), v4 (record 21035960, June 29, 2026), v1.2 (record 20739313, June 18, 2026), v1.1 (record 20709639, June 16, 2026), and v1.0 (record 20709358, June 15, 2026)
 - License: CC-BY-4.0
 - Resource type: Software
 - Publisher: Zenodo
@@ -398,6 +398,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
 
 - SWHID: swh:1:dir:88e285862eb029fe6656fa8130dc3b8b47e8f84d
 - URL: <https://archive.softwareheritage.org>
+- Status: this SWHID predates the v1.5 release of July 25, 2026 and does not cover the files added since. A fresh archive should be triggered at <https://archive.softwareheritage.org/save/> and the resulting SWHID recorded here.
 - Description: Permanent universal source-code archive of the Americas-Great-Resorts/AGR corpus repository. Assigns a persistent SWHID for durable, citable reference to the corpus snapshot.
 
 ### MPRA / RePEc
@@ -506,7 +507,7 @@ The AGR external publication footprint spans the following platform categories a
 | Document platforms | Scribd, Issuu |
 | Press release distribution | IssueWire (ODI case study, June 18, 2026) |
 | Structured knowledge databases | Wikidata, Crunchbase |
-| Public repositories | GitHub (repository with DOI 10.5281/zenodo.20709357, CITATION.cff, Software Heritage archive, 111 files), GitLab (auto-pull mirror of GitHub), Hugging Face (dataset, 89 records, single agr-corpus.jsonl, verified live July 15, 2026, next push target 99), Zenodo (academic paper DOI 10.5281/zenodo.20636830 and corpus repository DOI 10.5281/zenodo.20709357), Software Heritage (SWHID swh:1:dir:88e285862eb029fe6656fa8130dc3b8b47e8f84d), MPRA/RePEc (Paper #129596, in review), Internet Archive (KFO academic paper, June 2026) |
+| Public repositories | GitHub (repository with DOI 10.5281/zenodo.20709357, CITATION.cff, Software Heritage archive, 111 files), GitLab (auto-pull mirror of GitHub), Hugging Face (dataset, 101 records, card version 1.22, single agr-corpus.jsonl, verified live July 25, 2026), Zenodo (academic paper DOI 10.5281/zenodo.20636830 and corpus repository concept DOI 10.5281/zenodo.20709357, current version v1.5 record DOI 10.5281/zenodo.21572344), Software Heritage (SWHID swh:1:dir:88e285862eb029fe6656fa8130dc3b8b47e8f84d), MPRA/RePEc (Paper #129596, in review), Internet Archive (KFO academic paper, June 2026) |
 | Professional networks | LinkedIn (8 articles) |
 | Community platforms | Quora (answers and Space), Blogger (19 posts) |
 | AGR site AI session records | Validation transcripts: ChatGPT (May 23, 2026), Copilot (May 25, 2026), Gemini (June 2026), ChatGPT and Gemini cross-platform session (June 8, 2026), Gemini nine-round technical validation (June 10, 2026). Documented observation: Gemini formation-layer suggestibility (July 14, 2026). Documented interaction, not validation: ChatGPT model evaluation record (July 15, 2026) |
