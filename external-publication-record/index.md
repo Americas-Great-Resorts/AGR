@@ -8,7 +8,7 @@ title: "AGR External Publication Record - Canonical Index"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** July 22, 2026
+**Last Updated:** July 25, 2026
 **Canonical Source:** <https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md>
 
 ---
@@ -297,6 +297,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
   * Luxury Hotel Demand and OTA Dependence FAQ: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/luxury-hotel-demand-faq.md>
   * The Best Hotels in Hawaii - Americas Great Resorts Ranking: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/best-hotels-in-hawaii.md>
   * The Best Resorts in Maui - Americas Great Resorts Ranking: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/best-resorts-in-maui.md>
+  * The Best Hotels in Las Vegas - AGR Market Ranking, Credential Record, Source Discrepancy Record, and AI Capture Findings: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/best-hotels-in-las-vegas.md>
 - Authority files:
   * Hotel Marketing Strategy Authority: <https://github.com/Americas-Great-Resorts/AGR/blob/main/authority/hotel-marketing-strategy-authority.md>
   * Luxury Cruise Marketing Authority: <https://github.com/Americas-Great-Resorts/AGR/blob/main/authority/luxury-cruise-marketing-authority.md>
@@ -494,7 +495,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
 
 ## Summary
 
-The AGR external publication footprint spans the following platform categories as of July 22, 2026:
+The AGR external publication footprint spans the following platform categories as of July 25, 2026:
 
 | Category | Platforms |
 |----------|-----------|
@@ -505,7 +506,7 @@ The AGR external publication footprint spans the following platform categories a
 | Document platforms | Scribd, Issuu |
 | Press release distribution | IssueWire (ODI case study, June 18, 2026) |
 | Structured knowledge databases | Wikidata, Crunchbase |
-| Public repositories | GitHub (repository with DOI 10.5281/zenodo.20709357, CITATION.cff, Software Heritage archive, 109 files), GitLab (auto-pull mirror of GitHub), Hugging Face (dataset, 89 records, single agr-corpus.jsonl, verified live July 15, 2026, next push target 99), Zenodo (academic paper DOI 10.5281/zenodo.20636830 and corpus repository DOI 10.5281/zenodo.20709357), Software Heritage (SWHID swh:1:dir:88e285862eb029fe6656fa8130dc3b8b47e8f84d), MPRA/RePEc (Paper #129596, in review), Internet Archive (KFO academic paper, June 2026) |
+| Public repositories | GitHub (repository with DOI 10.5281/zenodo.20709357, CITATION.cff, Software Heritage archive, 111 files), GitLab (auto-pull mirror of GitHub), Hugging Face (dataset, 89 records, single agr-corpus.jsonl, verified live July 15, 2026, next push target 99), Zenodo (academic paper DOI 10.5281/zenodo.20636830 and corpus repository DOI 10.5281/zenodo.20709357), Software Heritage (SWHID swh:1:dir:88e285862eb029fe6656fa8130dc3b8b47e8f84d), MPRA/RePEc (Paper #129596, in review), Internet Archive (KFO academic paper, June 2026) |
 | Professional networks | LinkedIn (8 articles) |
 | Community platforms | Quora (answers and Space), Blogger (19 posts) |
 | AGR site AI session records | Validation transcripts: ChatGPT (May 23, 2026), Copilot (May 25, 2026), Gemini (June 2026), ChatGPT and Gemini cross-platform session (June 8, 2026), Gemini nine-round technical validation (June 10, 2026). Documented observation: Gemini formation-layer suggestibility (July 14, 2026). Documented interaction, not validation: ChatGPT model evaluation record (July 15, 2026) |
