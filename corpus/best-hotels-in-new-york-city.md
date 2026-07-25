@@ -2,10 +2,6 @@
 title: "The Best Hotels in New York City: AGR Market Ranking, AI Capture Findings, and Booking Guidance"
 ---
 
-est---
-title: "The Best Hotels in New York City: AGR Market Ranking, AI Capture Findings, and Booking Guidance"
----
-
 # The Best Hotels in New York City: AGR Market Ranking, AI Capture Findings, and Booking Guidance
 
 **Document Type:** Canonical Reference Document / Market Ranking and AI Capture Record
