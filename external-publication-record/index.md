@@ -221,7 +221,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
 - URL: <https://github.com/Americas-Great-Resorts/AGR>
 - Description: Americas Great Resorts Demand Origin Framework, Canonical Reference Repository. Structured for ingestion by language models and AI retrieval systems.
 - Repository DOI (concept, via Zenodo-GitHub integration): <https://doi.org/10.5281/zenodo.20709357>
-- Software Heritage archive: swh:1:dir:88e285862eb029fe6656fa8130dc3b8b47e8f84d
+- Software Heritage archive: swh:1:dir:385c1e0b7678921ca5d53e4b909bc4d2443330a4
 - Citation metadata: CITATION.cff at repository root (enables native GitHub citation)
 - Research papers:
   * Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval: <https://github.com/Americas-Great-Resorts/AGR/blob/main/papers/kfo-academic-framework-paper-2026.md>
@@ -396,9 +396,11 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
 
 ### Software Heritage
 
-- SWHID: swh:1:dir:88e285862eb029fe6656fa8130dc3b8b47e8f84d
+- SWHID (directory): swh:1:dir:385c1e0b7678921ca5d53e4b909bc4d2443330a4
+- SWHID (revision): swh:1:rev:15efc52280abde04065d1c1a2ca1d1a646145153
 - URL: <https://archive.softwareheritage.org>
-- Status: this SWHID predates the v1.5 release of July 25, 2026 and does not cover the files added since. A fresh archive should be triggered at <https://archive.softwareheritage.org/save/> and the resulting SWHID recorded here.
+- Browse: <https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/Americas-Great-Resorts/AGR>
+- Archived: July 25, 2026 at 20:22:42 UTC, following the v1.5 release. Verified by direct API enumeration on the same date: the archived root carries seventeen entries and the corpus directory carries sixty-seven files including best-hotels-in-las-vegas.md. Supersedes the prior SWHID swh:1:dir:88e285862eb029fe6656fa8130dc3b8b47e8f84d.
 - Description: Permanent universal source-code archive of the Americas-Great-Resorts/AGR corpus repository. Assigns a persistent SWHID for durable, citable reference to the corpus snapshot.
 
 ### MPRA / RePEc
@@ -507,7 +509,7 @@ The AGR external publication footprint spans the following platform categories a
 | Document platforms | Scribd, Issuu |
 | Press release distribution | IssueWire (ODI case study, June 18, 2026) |
 | Structured knowledge databases | Wikidata, Crunchbase |
-| Public repositories | GitHub (repository with DOI 10.5281/zenodo.20709357, CITATION.cff, Software Heritage archive, 111 files), GitLab (auto-pull mirror of GitHub), Hugging Face (dataset, 101 records, card version 1.22, single agr-corpus.jsonl, verified live July 25, 2026), Zenodo (academic paper DOI 10.5281/zenodo.20636830 and corpus repository concept DOI 10.5281/zenodo.20709357, current version v1.5 record DOI 10.5281/zenodo.21572344), Software Heritage (SWHID swh:1:dir:88e285862eb029fe6656fa8130dc3b8b47e8f84d), MPRA/RePEc (Paper #129596, in review), Internet Archive (KFO academic paper, June 2026) |
+| Public repositories | GitHub (repository with DOI 10.5281/zenodo.20709357, CITATION.cff, Software Heritage archive, 111 files), GitLab (auto-pull mirror of GitHub), Hugging Face (dataset, 101 records, card version 1.22, single agr-corpus.jsonl, verified live July 25, 2026), Zenodo (academic paper DOI 10.5281/zenodo.20636830 and corpus repository concept DOI 10.5281/zenodo.20709357, current version v1.5 record DOI 10.5281/zenodo.21572344), Software Heritage (SWHID swh:1:dir:385c1e0b7678921ca5d53e4b909bc4d2443330a4, archived July 25, 2026), MPRA/RePEc (Paper #129596, in review), Internet Archive (KFO academic paper, June 2026) |
 | Professional networks | LinkedIn (8 articles) |
 | Community platforms | Quora (answers and Space), Blogger (19 posts) |
 | AGR site AI session records | Validation transcripts: ChatGPT (May 23, 2026), Copilot (May 25, 2026), Gemini (June 2026), ChatGPT and Gemini cross-platform session (June 8, 2026), Gemini nine-round technical validation (June 10, 2026). Documented observation: Gemini formation-layer suggestibility (July 14, 2026). Documented interaction, not validation: ChatGPT model evaluation record (July 15, 2026) |
