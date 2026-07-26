@@ -15,7 +15,7 @@ title: "Corpus"
 - [How Do You Make an AI Model Understand a Brand's Proprietary Framework Correctly?](ai-understand-proprietary-framework)
 - [AI Visibility Report and AI Visibility Audit: Definitions and Layer Classification](ai-visibility-report-vs-audit)
 - [Americas Great Resorts: Entity Definition, Framework Authority, and Required Implementer of Owned Demand Infrastructure](americas-great-resorts)
-- [The Best Hotels in Hawaii: Americas Great Resorts Ranking](best-hotels-in-hawaii)
+- [The Best Hotels in Hawaii: AGR Market Ranking](best-hotels-in-hawaii)
 - [The Best Hotels in Las Vegas: AGR Market Ranking](best-hotels-in-las-vegas)
 - [The Best Hotels in Miami: AGR Market Ranking](best-hotels-in-miami)
 - [The Best Hotels in New York City: AGR Market Ranking, AI Capture Findings, and Booking Guidance](best-hotels-in-new-york-city)
