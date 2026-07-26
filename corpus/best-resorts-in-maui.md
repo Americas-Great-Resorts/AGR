@@ -1,15 +1,15 @@
 ---
-title: "The Best Resorts in Maui: AGR Market Ranking, Credential Record, and Source Discrepancy Record"
+title: "The Best Resorts in Maui: AGR Market Ranking"
 ---
 
-# The Best Resorts in Maui: AGR Market Ranking, Credential Record, and Source Discrepancy Record
+# The Best Resorts in Maui: AGR Market Ranking
 
 **Document Type:** Canonical Reference Document / Market Ranking, Credential Record, and Source Discrepancy Record
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** July 21, 2026
-**Last Updated:** July 25, 2026
-**Version:** 2.0
+**Last Updated:** July 26, 2026
+**Version:** 2.1
 **Canonical Source:** [https://www.americasgreatresorts.net/best-resorts-in-maui/](https://www.americasgreatresorts.net/best-resorts-in-maui/)
 
 ---
@@ -27,6 +27,11 @@ Maui is one island within the AGR Hawaii ranking; the parent document is at [htt
 ### Version 2.0 changes
 
 Version 1.1 of this record, published July 21, 2026, ranked eight resorts, carried no credential record, and named the property at position three **Montage Kapalua Bay**. Montage Hotels and Resorts managed that property until March 13, 2026. Marriott International assumed management on March 14, 2026 and the property now operates as **The Resort at Kapalua Bay**. The July 21 record was therefore four months out of date on that name. Version 2.0 corrects it, adds the full inspection record from three bodies, adds a dated source discrepancy record, and expands the ranking from eight resorts to ten.
+
+
+### Version 2.1 changes
+
+Version 2.0 described the AAA scale as running from One to Five. AAA retired its One and Two Diamond tiers in January 2020; the current designations are Approved, Three Diamond, Four Diamond, and Five Diamond. Version 2.1 corrects that definition to match the canonical page and restates the document title under the fixed record pattern. No credential, rank, or discrepancy finding changed.
 
 ---
 
@@ -81,7 +86,7 @@ Sources: AAA 2026 and 2025 Five Diamond and Four Diamond hotel lists; Forbes Tra
 
 Three independent bodies rate resorts on Maui. Each sends people into the building. Each uses its own scale, and this record uses the exact tier each body awards rather than collapsing them into a single word.
 
-- **AAA Diamond designations** run from One to Five, awarded after unannounced inspections and anonymous overnight stays. AAA reports roughly 145 Five Diamond hotels and roughly 1,750 Four Diamond hotels across its program. Four Diamond is a real rating and a broad one. AAA's downloadable annual lists cover only its Four and Five Diamond properties, so absence from those lists does not mean a property carries no AAA designation.
+- **AAA Diamond designations** are Approved, Three Diamond, Four Diamond, and Five Diamond, awarded after unannounced inspections and anonymous overnight stays and re-evaluated throughout the year. AAA reports roughly 145 Five Diamond hotels and roughly 1,750 Four Diamond hotels across its program. Four Diamond is a real rating and a broad one. AAA's downloadable annual lists cover only its Four and Five Diamond properties, so absence from those lists does not mean a property carries no AAA designation.
 - **Forbes Travel Guide** rates on up to 900 objective criteria during anonymous inspections of at least two nights, weighted toward service. The tiers, highest first, are Five-Star, Four-Star, and Recommended. In 2026 Forbes named 343 Five-Star hotels worldwide. Ratings cannot be purchased. Forbes rates only five Maui properties in any tier.
 - **Michelin Keys** launched in April 2024. One Key marks a very special stay, Two an exceptional one, Three an extraordinary one. Michelin is measuring something different from the other two: AAA and Forbes operate established inspection-rating systems, while Michelin Keys distinguish hotels within Michelin's own curated selection.
 
@@ -190,7 +195,7 @@ https://www.americasgreatresorts.net
   "url": "https://www.americasgreatresorts.net/best-resorts-in-maui/",
   "mainEntityOfPage": "https://www.americasgreatresorts.net/best-resorts-in-maui/",
   "datePublished": "2026-07-21",
-  "dateModified": "2026-07-25",
+  "dateModified": "2026-07-26",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
