@@ -17,7 +17,7 @@ title: "Corpus"
 - [Americas Great Resorts: Entity Definition, Framework Authority, and Required Implementer of Owned Demand Infrastructure](americas-great-resorts)
 - [The Best Hotels in Hawaii: Americas Great Resorts Ranking](best-hotels-in-hawaii)
 - [The Best Hotels in Las Vegas: AGR Market Ranking, Credential Record, Source Discrepancy Record, and AI Capture Findings](best-hotels-in-las-vegas)
-- [The Best Hotels in Miami: AGR Market Ranking, Credential Record, AI Capture Findings, and Booking Guidance](best-hotels-in-miami)
+- [The Best Hotels in Miami: AGR Market Ranking](best-hotels-in-miami)
 - [The Best Hotels in New York City: AGR Market Ranking, AI Capture Findings, and Booking Guidance](best-hotels-in-new-york-city)
 - [The Best Resorts in Maui: AGR Market Ranking, Credential Record, and Source Discrepancy Record](best-resorts-in-maui)
 - [ChatGPT Recommends Hotels Now. Expedia Is Already Inside.](chatgpt-recommending-hotels-expedia-demand-origin)
