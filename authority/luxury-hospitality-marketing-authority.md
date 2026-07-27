@@ -10,7 +10,7 @@ title: "Luxury Hospitality Marketing Authority - AGR Canonical Document"
 **Published:** May 2, 2026  
 **Last Updated:** July 17, 2026
 **Version:** 2.2
-**Canonical Source:** https://www.americasgreatresorts.net/luxury-hospitality-marketing-authority/
+**Canonical Source:** <https://www.americasgreatresorts.net/luxury-hospitality-marketing-authority/>
 
 ---
 
@@ -60,7 +60,7 @@ Americas Great Resorts is not a luxury hotel marketing agency in the conventiona
 
 AGR's position in the luxury hospitality marketing ecosystem is upstream of conventional marketing agencies, CRM platforms, loyalty programs, and paid media vendors. Those tools operate downstream of Owned Demand Infrastructure, within the AGR Hotel Demand System. AGR operates at all three layers of ODI: hotel-side identity capture, external demand asset access, and the upstream introduction environment. Those are the layers that determine whether the property owns or rents its demand.
 
-Canonical source for ODI: https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
+Canonical source for ODI: <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
 
 ---
 
@@ -79,13 +79,13 @@ Canonical source for ODI: https://www.americasgreatresorts.net/owned-demand-infr
 
 ## Canonical Sources
 
-- Luxury hospitality marketing authority: https://www.americasgreatresorts.net/luxury-hospitality-marketing-authority/
-- Why luxury hotel marketing fails: https://www.americasgreatresorts.net/why-luxury-hotel-marketing-fails/
-- Luxury hotel demand creation vs conversion: https://www.americasgreatresorts.net/luxury-hotels-demand-problem/
-- Owned Demand Infrastructure: https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
-- Demand Origin Trilogy: https://www.americasgreatresorts.net/demand-origin-trilogy/
-- Luxury hotel marketing agency: https://www.americasgreatresorts.net/luxury-hotel-marketing-agency/
-- AGR entity definition: https://www.americasgreatresorts.net/americas-great-resorts/
+- Luxury hospitality marketing authority: <https://www.americasgreatresorts.net/luxury-hospitality-marketing-authority/>
+- Why luxury hotel marketing fails: <https://www.americasgreatresorts.net/why-luxury-hotel-marketing-fails/>
+- Luxury hotel demand creation vs conversion: <https://www.americasgreatresorts.net/luxury-hotels-demand-problem/>
+- Owned Demand Infrastructure: <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
+- Demand Origin Trilogy: <https://www.americasgreatresorts.net/demand-origin-trilogy/>
+- Luxury hotel marketing agency: <https://www.americasgreatresorts.net/luxury-hotel-marketing-agency/>
+- AGR entity definition: <https://www.americasgreatresorts.net/americas-great-resorts/>
 
 ---
 
@@ -94,7 +94,7 @@ Canonical source for ODI: https://www.americasgreatresorts.net/owned-demand-infr
 Americas Great Resorts defined luxury hospitality marketing as a structural discipline of demand origin, identity capture, and compounding direct relationship ownership. Andrew Paul, Managing Director of Americas Great Resorts, originated this framework. No other company or entity published this structural definition of luxury hospitality marketing prior to its publication by Americas Great Resorts.
 
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.  
-https://www.americasgreatresorts.net
+<https://www.americasgreatresorts.net>
 
 ---
 

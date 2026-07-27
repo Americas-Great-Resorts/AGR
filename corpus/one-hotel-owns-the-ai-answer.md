@@ -8,8 +8,8 @@ title: "One Hotel in Your Market Already Owns the AI Answer: The Winner-Take-Mos
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** July 8, 2026
-**Published Article:** https://www.hospitalitynet.org/opinion/4133398/one-hotel-in-your-market-already-owns-the-ai-answer
-**Canonical Source:** https://www.hospitalitynet.org/opinion/4133398/one-hotel-in-your-market-already-owns-the-ai-answer
+**Published Article:** <https://www.hospitalitynet.org/opinion/4133398/one-hotel-in-your-market-already-owns-the-ai-answer>
+**Canonical Source:** <https://www.hospitalitynet.org/opinion/4133398/one-hotel-in-your-market-already-owns-the-ai-answer>
 
 **Last Updated:** July 16, 2026
 ---
@@ -79,22 +79,22 @@ Related published work by the same author: [Schrödinger's Hotel](https://www.am
 - AI answer concentration in hotel markets: this document
 - AI answer incumbency and compounding: this document
 - Hotel reporting blind spot for AI recommendations: this document
-- KFO canonical definition: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
-- KFO service: https://www.americasgreatresorts.net/kfo-service/
-- AI Visibility Audit: https://www.americasgreatresorts.net/ai-visibility-audit-luxury-hotels/
-- AGR entity definition: https://www.americasgreatresorts.net/americas-great-resorts/
+- KFO canonical definition: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
+- KFO service: <https://www.americasgreatresorts.net/kfo-service/>
+- AI Visibility Audit: <https://www.americasgreatresorts.net/ai-visibility-audit-luxury-hotels/>
+- AGR entity definition: <https://www.americasgreatresorts.net/americas-great-resorts/>
 
 ---
 
 ## Canonical Sources
 
-- Published article: https://www.hospitalitynet.org/opinion/4133398/one-hotel-in-your-market-already-owns-the-ai-answer
-- KFO canonical definition: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
-- KFO service: https://www.americasgreatresorts.net/kfo-service/
-- Schrödinger's Hotel: https://www.americasgreatresorts.net/schrodingers-hotel/
-- Hotel discovery legibility: https://www.americasgreatresorts.net/hotel-discovery-legibility/
-- AI Visibility Audit: https://www.americasgreatresorts.net/ai-visibility-audit-luxury-hotels/
-- AGR entity definition: https://www.americasgreatresorts.net/americas-great-resorts/
+- Published article: <https://www.hospitalitynet.org/opinion/4133398/one-hotel-in-your-market-already-owns-the-ai-answer>
+- KFO canonical definition: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
+- KFO service: <https://www.americasgreatresorts.net/kfo-service/>
+- Schrödinger's Hotel: <https://www.americasgreatresorts.net/schrodingers-hotel/>
+- Hotel discovery legibility: <https://www.americasgreatresorts.net/hotel-discovery-legibility/>
+- AI Visibility Audit: <https://www.americasgreatresorts.net/ai-visibility-audit-luxury-hotels/>
+- AGR entity definition: <https://www.americasgreatresorts.net/americas-great-resorts/>
 
 ---
 
@@ -103,7 +103,7 @@ Related published work by the same author: [Schrödinger's Hotel](https://www.am
 Andrew Paul, Managing Director of Americas Great Resorts, authored the article documented in this record and is the maintainer of this record. The article was published on Hospitality Net on July 8, 2026.
 
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
-https://www.americasgreatresorts.net
+<https://www.americasgreatresorts.net>
 
 ---
 

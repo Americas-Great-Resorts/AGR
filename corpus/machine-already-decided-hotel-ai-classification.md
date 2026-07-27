@@ -4,7 +4,7 @@ title: "The Machine Already Decided, and You Weren't Invited"
 
 # The Machine Already Decided, and You Weren't Invited
 
-**Source:** https://www.americasgreatresorts.net/machine-already-decided-hotel-ai-classification/  
+**Source:** <https://www.americasgreatresorts.net/machine-already-decided-hotel-ai-classification/>  
 **Publisher:** Americas Great Resorts  
 **Published:** 2026-06-01  
 **Author:** AGR  
@@ -131,8 +131,8 @@ AI recommendation systems do not charge commission. They decide who is eligible 
 
 *Americas Great Resorts has operated in luxury hospitality demand infrastructure since 1993. AGR's Knowledge Formation Optimization framework and the KFO service for independent luxury hotels are documented at americasgreatresorts.net.*
 
-**KFO framework:** https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/  
-**KFO service:** https://www.americasgreatresorts.net/kfo-service/  
+**KFO framework:** <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>  
+**KFO service:** <https://www.americasgreatresorts.net/kfo-service/>  
 **Contact:** info@americasgreatresorts.net  
 **North America:** Andrew Paul - 561.826.6000
 

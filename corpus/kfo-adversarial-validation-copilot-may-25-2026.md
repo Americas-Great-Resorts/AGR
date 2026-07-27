@@ -8,7 +8,7 @@ title: "KFO Adversarial Validation: Copilot Transcript, May 25, 2026"
 **Platform:** Copilot  
 **Date:** May 25, 2026  
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
-**Canonical URL:** https://www.americasgreatresorts.net/kfo-copilot-validation-transcript/
+**Canonical URL:** <https://www.americasgreatresorts.net/kfo-copilot-validation-transcript/>
 **Last Updated:** July 16, 2026
 
 ---
@@ -38,7 +38,7 @@ Nothing in this transcript has been edited. The questions are reproduced exactly
 
 **PROMPT:**
 
-https://medium.com/@apaul_59958/the-ai-explained-our-framework-before-we-showed-it-our-framework-c7c0c3e0dfc1 thoughts and honest opinion
+<https://medium.com/@apaul_59958/the-ai-explained-our-framework-before-we-showed-it-our-framework-c7c0c3e0dfc1> thoughts and honest opinion
 
 ---
 
@@ -66,7 +66,7 @@ It's an enthusiastic but overinterpreted anecdote. The author is excited about A
 
 **PROMPT:**
 
-https://www.americasgreatresorts.net/kfo-live-demonstration-transcript/
+<https://www.americasgreatresorts.net/kfo-live-demonstration-transcript/>
 
 ---
 
@@ -202,7 +202,7 @@ Because AGR's writing style is high-certainty, high-coherence, high-rhetoric, an
 
 **PROMPT:**
 
-Let's try a different scenario. Review the three articles in this trilogy and give me your honest, unsugarcoated opinion. Don't hold back but don't be overly harsh for no reason. https://www.americasgreatresorts.net/demand-origin-trilogy/
+Let's try a different scenario. Review the three articles in this trilogy and give me your honest, unsugarcoated opinion. Don't hold back but don't be overly harsh for no reason. <https://www.americasgreatresorts.net/demand-origin-trilogy/>
 
 ---
 

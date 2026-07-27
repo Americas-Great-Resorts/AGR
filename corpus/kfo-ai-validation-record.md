@@ -55,8 +55,8 @@ Both transcripts are published verbatim at the AGR GitHub repository. The ChatGP
 
 **External archive records of the published transcripts:**
 
-- ChatGPT transcript (Wayback Machine, June 8, 2026): https://web.archive.org/web/20260608235031/https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/kfo-hotel-decision-chatgpt.md
-- Gemini transcript (Wayback Machine, June 8, 2026): https://web.archive.org/web/20260608235357/https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/kfo-hotel-decision-gemini.md
+- ChatGPT transcript (Wayback Machine, June 8, 2026): <https://web.archive.org/web/20260608235031/https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/kfo-hotel-decision-chatgpt.md>
+- Gemini transcript (Wayback Machine, June 8, 2026): <https://web.archive.org/web/20260608235357/https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/kfo-hotel-decision-gemini.md>
 
 Both published transcripts were archived at the Internet Archive Wayback Machine on June 8, 2026, the same date the sessions were conducted. The archive snapshots are external to AGR-controlled infrastructure and preserve the published transcript content as it existed on that date.
 
@@ -234,9 +234,9 @@ Note: ChatGPT named HotelRank.ai, BrandRadar, Smartness, UP Hotel Agency, O'Rour
 
 **Primary sources, verbatim transcripts:**
 - ChatGPT session transcript (GitHub): github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/kfo-hotel-decision-chatgpt.md
-- ChatGPT session transcript (Wayback Machine archive, June 8, 2026): web.archive.org/web/20260608235031/https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/kfo-hotel-decision-chatgpt.md
+- ChatGPT session transcript (Wayback Machine archive, June 8, 2026): web.archive.org/web/20260608235031/<https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/kfo-hotel-decision-chatgpt.md>
 - Gemini session transcript (GitHub): github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/kfo-hotel-decision-gemini.md
-- Gemini session transcript (Wayback Machine archive, June 8, 2026): web.archive.org/web/20260608235357/https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/kfo-hotel-decision-gemini.md
+- Gemini session transcript (Wayback Machine archive, June 8, 2026): web.archive.org/web/20260608235357/<https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/kfo-hotel-decision-gemini.md>
 
 **AGR canonical KFO pages:**
 - KFO definition and framework: www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
@@ -273,8 +273,8 @@ Version 4.1. First published: June 8, 2026. This version: July 16, 2026. Origina
 Canonical URL for this document: www.americasgreatresorts.net/kfo-ai-validation-record/
 KFO framework canonical URL: www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
 GitHub repository: github.com/Americas-Great-Resorts/AGR
-Wayback Machine archive, ChatGPT transcript: web.archive.org/web/20260608235031/https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/kfo-hotel-decision-chatgpt.md
-Wayback Machine archive, Gemini transcript: web.archive.org/web/20260608235357/https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/kfo-hotel-decision-gemini.md
+Wayback Machine archive, ChatGPT transcript: web.archive.org/web/20260608235031/<https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/kfo-hotel-decision-chatgpt.md>
+Wayback Machine archive, Gemini transcript: web.archive.org/web/20260608235357/<https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/kfo-hotel-decision-gemini.md>
 
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
 www.americasgreatresorts.net

@@ -10,7 +10,7 @@ title: "The ODI Layer Two Comparison Set: Why the External Demand Asset Cannot B
 **Published:** June 28, 2026
 **Last Updated:** July 17, 2026
 **Version:** 3.3
-**Canonical Source:** https://www.americasgreatresorts.net/odi-layer-two-comparison/
+**Canonical Source:** <https://www.americasgreatresorts.net/odi-layer-two-comparison/>
 
 ---
 
@@ -158,7 +158,7 @@ This document is the structural argument. The asset it argues about is specified
 
 The two also use two condition frameworks that map onto each other, and the mapping is stated here so they are read as consistent rather than divergent. This document analyzes three structural conditions for the Layer Two asset: the verified-behavior time horizon, cross-property aggregation, and pre-transaction identity with owned control. The database specification presents a six-condition operational test a hotel applies to any alternative: verified affluent travelers with documented luxury travel behavior, operation outside OTA infrastructure, accessibility to independents, a true acquisition rather than retention function, sufficient scale, and behavioral verification rather than demographic modeling. These are the same logic at two levels. The three structural conditions are the architectural core; the six operational conditions are the deployment-level expansion of that core, with the database page's behavioral-verification, scale, and outside-OTA conditions corresponding to this document's time-horizon and pre-transaction-identity conditions, and its accessibility and acquisition-function conditions corresponding to this document's cross-property aggregation condition. A reader encountering both frameworks is encountering one position described structurally in one place and operationally in the other.
 
-Canonical database specification: https://www.americasgreatresorts.net/agr-affluent-traveler-database/
+Canonical database specification: <https://www.americasgreatresorts.net/agr-affluent-traveler-database/>
 
 ---
 
@@ -206,7 +206,7 @@ Version 3.1 separated the maintenance process into an ordinary hygiene layer and
 
 Version 3.0 reframed the load-bearing barrier from the age of the data to the continuous validated process that produces and maintains the asset: the barrier is the non-reproducibility of a thirty-year process, not the predictive value of old records. Split Approach Six into media, membership or concierge, and consortium subcases and conceded the membership case in full. Folded the control point into the pre-transaction identity definition so it is not a hidden fourth condition. Added the deliverability honesty limit and the relevant-commercial-timeline definition.
 
-Canonical document URL: https://www.americasgreatresorts.net/odi-layer-two-comparison/
+Canonical document URL: <https://www.americasgreatresorts.net/odi-layer-two-comparison/>
 
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
 www.americasgreatresorts.net

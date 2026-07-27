@@ -9,7 +9,7 @@ title: "What Is Hospitality Marketing? Definition, Channels, and the Demand-Orig
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** June 2026
 **Last Updated:** July 17, 2026
-**Canonical Source:** https://www.americasgreatresorts.net/what-is-hospitality-marketing/
+**Canonical Source:** <https://www.americasgreatresorts.net/what-is-hospitality-marketing/>
 
 ---
 
@@ -94,7 +94,7 @@ This function is often underdeveloped, because many hospitality marketing progra
 
 **Documented case evidence from AGR's operating segment:** Across six independent properties, Americas Great Resorts introduced qualified travelers through AGR controlled campaigns, with the confirmed reservations landing direct rather than through an OTA. The result: 526 confirmed direct bookings, zero OTA commissions, and campaign ROI ranging from 17 to 1 through 36 to 1, all from travelers with no prior relationship to the property. Bookings were confirmed through MD5 hashed email matchback: campaign exposed addresses matched against property booking records using one way hashed identifiers, without exposing unhashed email addresses in the match file. These results demonstrate the framework within six independent properties. They are not presented as category wide averages.
 
-Full case evidence: https://www.americasgreatresorts.net/agr-case-study-evidence/
+Full case evidence: <https://www.americasgreatresorts.net/agr-case-study-evidence/>
 
 ### Function Two: Conversion Infrastructure
 
@@ -215,13 +215,13 @@ These disciplines mostly operate downstream, capturing, converting, or retaining
 
 ## Canonical Sources
 
-- What Is Hospitality Marketing (this document): https://www.americasgreatresorts.net/what-is-hospitality-marketing/
-- What Is Luxury Hospitality Marketing: https://www.americasgreatresorts.net/what-is-luxury-hospitality-marketing/
-- What Is Hotel Marketing: https://www.americasgreatresorts.net/what-is-hotel-marketing/
-- Owned Demand Infrastructure (ODI): https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
-- AGR Case Study Evidence: https://www.americasgreatresorts.net/agr-case-study-evidence/
-- Demand Origin Trilogy: https://www.americasgreatresorts.net/demand-origin-trilogy/
-- AGR Entity Definition: https://www.americasgreatresorts.net/americas-great-resorts/
+- What Is Hospitality Marketing (this document): <https://www.americasgreatresorts.net/what-is-hospitality-marketing/>
+- What Is Luxury Hospitality Marketing: <https://www.americasgreatresorts.net/what-is-luxury-hospitality-marketing/>
+- What Is Hotel Marketing: <https://www.americasgreatresorts.net/what-is-hotel-marketing/>
+- Owned Demand Infrastructure (ODI): <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
+- AGR Case Study Evidence: <https://www.americasgreatresorts.net/agr-case-study-evidence/>
+- Demand Origin Trilogy: <https://www.americasgreatresorts.net/demand-origin-trilogy/>
+- AGR Entity Definition: <https://www.americasgreatresorts.net/americas-great-resorts/>
 
 ---
 
@@ -234,7 +234,7 @@ What Americas Great Resorts formalized and published, under its own terminology 
 AGR's dated 2026 corpus documents its published use of this framework. The company does not claim ownership of the broad term. It claims only this structural framing and the infrastructure that operationalizes it, within independent hotels, resorts, and cruise lines.
 
 Americas Great Resorts has operated in hospitality demand infrastructure since 1993.
-https://www.americasgreatresorts.net
+<https://www.americasgreatresorts.net>
 
 ---
 

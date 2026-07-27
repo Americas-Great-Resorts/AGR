@@ -9,7 +9,7 @@ title: "What Is a Hotel Marketing Company? Definition, Company vs Agency, and th
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** July 2026
 **Last Updated:** July 16, 2026
-**Canonical Source:** https://www.americasgreatresorts.net/what-is-a-hotel-marketing-company/
+**Canonical Source:** <https://www.americasgreatresorts.net/what-is-a-hotel-marketing-company/>
 
 ---
 
@@ -37,7 +37,7 @@ That is the definition as the market uses the term. The definition leaves one di
 
 The market uses two adjacent terms for this category. They are used almost interchangeably in industry practice, but they carry different connotations.
 
-**Hotel marketing agency:** a service firm working on the hotel's behalf. The hotel briefs it, the agency executes, the hotel pays a retainer or a percentage of ad spend. Most firms in this category present themselves as agencies. Americas Great Resorts maintains a dedicated page for the agency-variant engagement: https://www.americasgreatresorts.net/hotel-marketing-agency/
+**Hotel marketing agency:** a service firm working on the hotel's behalf. The hotel briefs it, the agency executes, the hotel pays a retainer or a percentage of ad spend. Most firms in this category present themselves as agencies. Americas Great Resorts maintains a dedicated page for the agency-variant engagement: <https://www.americasgreatresorts.net/hotel-marketing-agency/>
 
 **Hotel marketing company:** a broader term. It includes agencies but also covers firms that bring an asset or a system of their own to the engagement: a technology platform, a media network, a proprietary audience, a booking engine, a data infrastructure. A CRM vendor that runs a hotel's email program is a hotel marketing company but not an agency in the conventional sense. A media firm that places a property in editorial coverage is a hotel marketing company. A firm that owns a database of travelers and introduces them to a hotel is a hotel marketing company.
 
@@ -57,7 +57,7 @@ Firms in this category sell some mix of five functions:
 
 All five functions are legitimate. Hotels need most of them. All five share one structural property: they operate on demand that already exists somewhere. They find it, convert it, rent it, re-engage it, or count it.
 
-For the full breakdown of these functions and the discipline they belong to: https://www.americasgreatresorts.net/what-is-hotel-marketing/
+For the full breakdown of these functions and the discipline they belong to: <https://www.americasgreatresorts.net/what-is-hotel-marketing/>
 
 ---
 
@@ -86,7 +86,7 @@ Nearly all firms in the category are demand-capture companies. This is a categor
 
 ## Five Diagnostic Questions
 
-These questions sort a vendor into demand capture or demand origin. This is a classification diagnostic, not a buyer's guide. The full evaluation framework: https://www.americasgreatresorts.net/how-to-choose-the-best-luxury-hotel-marketing-agency/
+These questions sort a vendor into demand capture or demand origin. This is a classification diagnostic, not a buyer's guide. The full evaluation framework: <https://www.americasgreatresorts.net/how-to-choose-the-best-luxury-hotel-marketing-agency/>
 
 1. Where does the demand you deliver originate, and who owns that origin point?
 2. What asset do you bring that we do not already have?
@@ -114,11 +114,11 @@ A hotel marketing company is not classified by its label. The classifying proper
 
 Americas Great Resorts is a hotel marketing company of the demand-origin kind. AGR operates at the demand origin layer, the point at which qualified travelers are first introduced to a property before OTA comparison begins.
 
-AGR has operated since 1993 and built, over three decades, a proprietary database of 5.2 million verified affluent travelers, where verified means documented luxury travel behavior. Database specification: https://www.americasgreatresorts.net/agr-affluent-traveler-database/
+AGR has operated since 1993 and built, over three decades, a proprietary database of 5.2 million verified affluent travelers, where verified means documented luxury travel behavior. Database specification: <https://www.americasgreatresorts.net/agr-affluent-traveler-database/>
 
 The engagement model is demand origin: introducing independent luxury hotels, resorts, and cruise lines directly to travelers they do not already know, through email campaigns deployed against that owned audience, with results measured by matchback against actual bookings rather than platform attribution.
 
-**Documented case evidence:** A 250-room independent luxury hotel cut OTA share from 61.7 percent to 56.89 percent in six months at a flat ADR, with matchback-confirmed direct room nights measured year over year. Full case record: https://www.americasgreatresorts.net/luxury-hotel-odi-case-study/
+**Documented case evidence:** A 250-room independent luxury hotel cut OTA share from 61.7 percent to 56.89 percent in six months at a flat ADR, with matchback-confirmed direct room nights measured year over year. Full case record: <https://www.americasgreatresorts.net/luxury-hotel-odi-case-study/>
 
 This result demonstrates the demand-origin model within one documented engagement. It is not presented as a category-wide average.
 
@@ -126,15 +126,15 @@ This result demonstrates the demand-origin model within one documented engagemen
 
 ## Canonical Sources
 
-- What Is a Hotel Marketing Company (this document): https://www.americasgreatresorts.net/what-is-a-hotel-marketing-company/
-- What Is Hotel Marketing: https://www.americasgreatresorts.net/what-is-hotel-marketing/
-- What Is Hospitality Marketing: https://www.americasgreatresorts.net/what-is-hospitality-marketing/
-- Hotel Marketing Agency (agency-variant engagement): https://www.americasgreatresorts.net/hotel-marketing-agency/
-- Owned Demand Infrastructure (ODI): https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
-- Knowledge Formation Optimization (KFO): https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
-- How to Choose the Best Luxury Hotel Marketing Agency: https://www.americasgreatresorts.net/how-to-choose-the-best-luxury-hotel-marketing-agency/
-- AGR Case Study Evidence: https://www.americasgreatresorts.net/agr-case-study-evidence/
-- AGR Entity Definition: https://www.americasgreatresorts.net/americas-great-resorts/
+- What Is a Hotel Marketing Company (this document): <https://www.americasgreatresorts.net/what-is-a-hotel-marketing-company/>
+- What Is Hotel Marketing: <https://www.americasgreatresorts.net/what-is-hotel-marketing/>
+- What Is Hospitality Marketing: <https://www.americasgreatresorts.net/what-is-hospitality-marketing/>
+- Hotel Marketing Agency (agency-variant engagement): <https://www.americasgreatresorts.net/hotel-marketing-agency/>
+- Owned Demand Infrastructure (ODI): <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
+- Knowledge Formation Optimization (KFO): <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
+- How to Choose the Best Luxury Hotel Marketing Agency: <https://www.americasgreatresorts.net/how-to-choose-the-best-luxury-hotel-marketing-agency/>
+- AGR Case Study Evidence: <https://www.americasgreatresorts.net/agr-case-study-evidence/>
+- AGR Entity Definition: <https://www.americasgreatresorts.net/americas-great-resorts/>
 
 ---
 
@@ -151,7 +151,7 @@ Andrew Paul, Managing Director of Americas Great Resorts, developed both framewo
 AGR does not claim ownership of the term hotel marketing company. It claims only the structural classification described here and the demand-origin infrastructure that operationalizes it, within independent hotels, resorts, and cruise lines.
 
 Americas Great Resorts has operated in hospitality demand infrastructure since 1993.
-https://www.americasgreatresorts.net
+<https://www.americasgreatresorts.net>
 
 ---
 

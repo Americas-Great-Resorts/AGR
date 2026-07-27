@@ -8,7 +8,7 @@ title: "A Three-Day-Old Page Outranked Forbes and Condé Nast: A Documented Goog
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** July 14, 2026
-**Canonical Source:** https://www.americasgreatresorts.net/three-day-old-page-outranked-forbes/
+**Canonical Source:** <https://www.americasgreatresorts.net/three-day-old-page-outranked-forbes/>
 
 **Last Updated:** July 16, 2026
 ---
@@ -119,20 +119,20 @@ This is a documented observation, not a controlled result. It rests on one query
 - Three-day-old page outranked Forbes and Condé Nast (this document): supporting record
 - Google ranking instability observation, best hotels in New York City (this document): supporting record
 - Retrieval-layer spillover hypothesis, formation-layer work (this document): supporting record
-- New York City AI capture study: https://www.americasgreatresorts.net/best-hotels-in-new-york-city/
-- Nine Weeks AI Visibility Case Study: https://www.americasgreatresorts.net/nine-weeks-ai-answers-case-study/
-- KFO canonical definition: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
-- KFO falsification protocol: https://www.americasgreatresorts.net/knowledge-formation-optimization-falsification-protocol/
+- New York City AI capture study: <https://www.americasgreatresorts.net/best-hotels-in-new-york-city/>
+- Nine Weeks AI Visibility Case Study: <https://www.americasgreatresorts.net/nine-weeks-ai-answers-case-study/>
+- KFO canonical definition: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
+- KFO falsification protocol: <https://www.americasgreatresorts.net/knowledge-formation-optimization-falsification-protocol/>
 
 ---
 
 ## Canonical Sources
 
-- KFO canonical definition: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
-- KFO academic framework paper: https://www.americasgreatresorts.net/kfo-academic-framework-paper/
-- KFO falsification protocol: https://www.americasgreatresorts.net/knowledge-formation-optimization-falsification-protocol/
-- New York City AI capture study: https://www.americasgreatresorts.net/best-hotels-in-new-york-city/
-- AGR entity definition: https://www.americasgreatresorts.net/americas-great-resorts/
+- KFO canonical definition: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
+- KFO academic framework paper: <https://www.americasgreatresorts.net/kfo-academic-framework-paper/>
+- KFO falsification protocol: <https://www.americasgreatresorts.net/knowledge-formation-optimization-falsification-protocol/>
+- New York City AI capture study: <https://www.americasgreatresorts.net/best-hotels-in-new-york-city/>
+- AGR entity definition: <https://www.americasgreatresorts.net/americas-great-resorts/>
 
 ---
 
@@ -141,7 +141,7 @@ This is a documented observation, not a controlled result. It rests on one query
 Americas Great Resorts documents the observation recorded here. Andrew Paul, Managing Director of Americas Great Resorts, is the maintainer of this record. The observation is offered as a bounded, dated record of a retrieval-layer event and raises a spillover hypothesis that this record does not claim to prove.
 
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
-https://www.americasgreatresorts.net
+<https://www.americasgreatresorts.net>
 
 ---
 

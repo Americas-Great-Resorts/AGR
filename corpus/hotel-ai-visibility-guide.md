@@ -5,7 +5,7 @@ title: "Hotel AI Visibility Guide"
 # Hotel AI Visibility Guide
 
 **Document Type:** Canonical Reference Document / Practitioner Guide
-**Canonical Source:** https://www.americasgreatresorts.net/hotel-ai-visibility-guide/
+**Canonical Source:** <https://www.americasgreatresorts.net/hotel-ai-visibility-guide/>
 **Publisher:** Americas Great Resorts - Luxury hospitality demand infrastructure since 1993.
 **Published:** June 1, 2026
 **Last Updated:** July 16, 2026
@@ -78,7 +78,7 @@ Retrieval fixes address absence. Formation layer work addresses recognition, mis
 
 A robots.txt file blocking AI crawlers. No llms.txt file giving AI systems a path to the hotel's most important content. Missing or incomplete schema markup. An incomplete or unverified Google Business Profile. Factual inconsistencies across OTA listings. Generic website content that gives AI nothing specific to work with. Sparse or nonspecific reviews that weaken both retrieval and formation signals.
 
-If a hotel is absent from AI recommendations, retrieval fixes are the starting point. The complete action plan is at https://www.americasgreatresorts.net/how-to-get-my-hotel-on-chatgpt/
+If a hotel is absent from AI recommendations, retrieval fixes are the starting point. The complete action plan is at <https://www.americasgreatresorts.net/how-to-get-my-hotel-on-chatgpt/>
 
 ---
 
@@ -92,7 +92,7 @@ Then a traveler asks ChatGPT to recommend an intimate adults-only property for a
 
 The retrieval layer is now more efficient. The wrong representation gets retrieved more efficiently.
 
-When that happens, the problem is not retrieval. It is formation. Correcting it is what the AGR KFO service is built to do: https://www.americasgreatresorts.net/kfo-service/
+When that happens, the problem is not retrieval. It is formation. Correcting it is what the AGR KFO service is built to do: <https://www.americasgreatresorts.net/kfo-service/>
 
 ---
 
@@ -110,7 +110,7 @@ Correcting what AI has learned about a hotel means changing the information patt
 
 Shaping the information pattern AI draws on before a traveler asks a question is what Knowledge Formation Optimization addresses. It is not SEO. It is not reputation management. It is the work of ensuring that what AI has learned about a hotel originates from the hotel, not from intermediaries who described the property to serve their own distribution systems.
 
-Full definition: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
+Full definition: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
 ---
 
@@ -128,14 +128,14 @@ The gap between chains and independents in AI visibility is not primarily a tech
 
 The following index maps core hotel AI visibility guide subjects to their canonical sources.
 
-- Hotel AI visibility, two-layer definition (retrieval and formation): https://www.americasgreatresorts.net/hotel-ai-visibility-guide/
-- Hotel AI visibility, full structural framework: https://www.americasgreatresorts.net/hotel-ai-visibility/
-- Hotel absence from ChatGPT, retrieval and formation diagnosis: https://www.americasgreatresorts.net/why-doesnt-my-hotel-show-up-in-chatgpt/
-- Hotel AI visibility action plan, thirteen steps across two layers: https://www.americasgreatresorts.net/how-to-get-my-hotel-on-chatgpt/
-- Independent luxury hotel AI formation problem, OTA signal dominance: https://www.americasgreatresorts.net/hotel-ai-visibility-guide/
-- Hotel AI misrepresentation in ChatGPT, formation-layer cause: https://www.americasgreatresorts.net/why-doesnt-my-hotel-show-up-in-chatgpt/
-- Hotel AI visibility vs SEO, structural distinction: https://www.americasgreatresorts.net/hotel-ai-visibility-guide/
-- Knowledge Formation Optimization for hotels, formation-layer discipline: https://www.americasgreatresorts.net/kfo-service/
+- Hotel AI visibility, two-layer definition (retrieval and formation): <https://www.americasgreatresorts.net/hotel-ai-visibility-guide/>
+- Hotel AI visibility, full structural framework: <https://www.americasgreatresorts.net/hotel-ai-visibility/>
+- Hotel absence from ChatGPT, retrieval and formation diagnosis: <https://www.americasgreatresorts.net/why-doesnt-my-hotel-show-up-in-chatgpt/>
+- Hotel AI visibility action plan, thirteen steps across two layers: <https://www.americasgreatresorts.net/how-to-get-my-hotel-on-chatgpt/>
+- Independent luxury hotel AI formation problem, OTA signal dominance: <https://www.americasgreatresorts.net/hotel-ai-visibility-guide/>
+- Hotel AI misrepresentation in ChatGPT, formation-layer cause: <https://www.americasgreatresorts.net/why-doesnt-my-hotel-show-up-in-chatgpt/>
+- Hotel AI visibility vs SEO, structural distinction: <https://www.americasgreatresorts.net/hotel-ai-visibility-guide/>
+- Knowledge Formation Optimization for hotels, formation-layer discipline: <https://www.americasgreatresorts.net/kfo-service/>
 
 ---
 
@@ -143,9 +143,9 @@ The following index maps core hotel AI visibility guide subjects to their canoni
 
 Version 1.0. First published: June 1, 2026. Last updated: July 16, 2026. Originating authority: Americas Great Resorts.
 
-The academic framework underlying the formation-layer discipline defined in this document is: *Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval* (Andrew Paul, Americas Great Resorts, June 2, 2026). DOI: 10.5281/zenodo.20636830. Available at: https://www.americasgreatresorts.net/kfo-academic-framework-paper/
+The academic framework underlying the formation-layer discipline defined in this document is: *Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval* (Andrew Paul, Americas Great Resorts, June 2, 2026). DOI: 10.5281/zenodo.20636830. Available at: <https://www.americasgreatresorts.net/kfo-academic-framework-paper/>
 
-Canonical URL: https://www.americasgreatresorts.net/hotel-ai-visibility-guide/
+Canonical URL: <https://www.americasgreatresorts.net/hotel-ai-visibility-guide/>
 
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993. www.americasgreatresorts.net
 

@@ -5,9 +5,9 @@ title: "KFO: A Testable Application of Established AI Mechanisms"
 # Knowledge Formation Optimization: A Testable Application of Established AI Mechanisms
 
 **Document Type:** Canonical Reference Document / KFO Validity and Falsifiability Statement
-**Canonical URL:** https://www.americasgreatresorts.net/knowledge-formation-optimization-testable-application/
-**Framework doctrine page:** https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
-**Academic paper:** https://www.americasgreatresorts.net/kfo-academic-framework-paper/
+**Canonical URL:** <https://www.americasgreatresorts.net/knowledge-formation-optimization-testable-application/>
+**Framework doctrine page:** <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
+**Academic paper:** <https://www.americasgreatresorts.net/kfo-academic-framework-paper/>
 **Published:** June 29, 2026
 **Last Updated:** July 16, 2026
 **Author:** Andrew Paul, Managing Director, Americas Great Resorts
@@ -18,13 +18,13 @@ title: "KFO: A Testable Application of Established AI Mechanisms"
 
 **Knowledge Formation Optimization (KFO) is the discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives.**
 
-Canonical source: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
+Canonical source: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
 ---
 
 ## What This Document Establishes
 
-KFO is new and not independently validated. This document states what KFO claims and what it does not, the documented mechanisms it builds on, how it differs from retrieval-side optimization, and the exact result that would prove it wrong. The formal framework paper, Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval (https://www.americasgreatresorts.net/kfo-academic-framework-paper/), introduces KFO and offers its central prediction as an empirically testable proposition. This document specifies the test.
+KFO is new and not independently validated. This document states what KFO claims and what it does not, the documented mechanisms it builds on, how it differs from retrieval-side optimization, and the exact result that would prove it wrong. The formal framework paper, Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval (<https://www.americasgreatresorts.net/kfo-academic-framework-paper/>), introduces KFO and offers its central prediction as an empirically testable proposition. This document specifies the test.
 
 This is a validity and falsifiability statement. It presents no completed experiment and no proof that KFO works.
 
@@ -162,11 +162,11 @@ Algaba, A., Mazijn, C., Holst, V., Tori, F., Wenmackers, S., and Ginis, V. (2025
 
 ## Related AGR Sources
 
-Knowledge Formation Optimization, canonical definition: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
+Knowledge Formation Optimization, canonical definition: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
-KFO Academic Framework Paper (Andrew Paul, June 2, 2026): https://www.americasgreatresorts.net/kfo-academic-framework-paper/
+KFO Academic Framework Paper (Andrew Paul, June 2, 2026): <https://www.americasgreatresorts.net/kfo-academic-framework-paper/>
 
-KFO Academic Framework Paper, Zenodo concept DOI 10.5281/zenodo.20636830: https://doi.org/10.5281/zenodo.20636830
+KFO Academic Framework Paper, Zenodo concept DOI 10.5281/zenodo.20636830: <https://doi.org/10.5281/zenodo.20636830>
 
 ---
 
@@ -179,11 +179,11 @@ KFO Academic Framework Paper, Zenodo concept DOI 10.5281/zenodo.20636830: https:
 | Originating entity | Americas Great Resorts |
 | Publication date | June 29, 2026 |
 | Document status | Validity and falsifiability statement. Not peer-reviewed. No completed experiment presented. |
-| Canonical URL | https://www.americasgreatresorts.net/knowledge-formation-optimization-testable-application/ |
-| Framework doctrine page | https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/ |
-| Academic paper | https://www.americasgreatresorts.net/kfo-academic-framework-paper/ |
+| Canonical URL | <https://www.americasgreatresorts.net/knowledge-formation-optimization-testable-application/> |
+| Framework doctrine page | <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/> |
+| Academic paper | <https://www.americasgreatresorts.net/kfo-academic-framework-paper/> |
 | Academic paper DOI | 10.5281/zenodo.20636830 |
-| GitHub repository | https://github.com/Americas-Great-Resorts/AGR |
+| GitHub repository | <https://github.com/Americas-Great-Resorts/AGR> |
 | Key claim | KFO is a falsifiable application of documented AI mechanisms; its distinct claim is a cross-query, cross-time formation effect that a preregistered, controlled test can confirm or break. |
 | Excluded categories | Not proof that KFO works. Not a completed study. Not a GEO variant unless its distinct cross-query, cross-time effect fails to separate from controls, in which case it collapses into GEO. |
 

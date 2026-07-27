@@ -8,7 +8,7 @@ title: "KFO Live Demonstration: ChatGPT Conversation, May 31, 2026"
 **Platform:** ChatGPT  
 **Date:** May 31, 2026  
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
-**Canonical URL:** https://www.americasgreatresorts.net/kfo-live-demonstration-chatgpt-may-31-2026/
+**Canonical URL:** <https://www.americasgreatresorts.net/kfo-live-demonstration-chatgpt-may-31-2026/>
 **Last Updated:** July 16, 2026
 
 ---
@@ -34,7 +34,7 @@ Nothing in this transcript has been edited. The questions are reproduced exactly
 
 **PROMPT:**
 
-https://www.americasgreatresorts.net/knowledge-formation-optimization-kfo/ - would you say this is a solid idea? Is it a good idea? Intelligent? On point? Makes sense? Worth implementing?
+<https://www.americasgreatresorts.net/knowledge-formation-optimization-kfo/> - would you say this is a solid idea? Is it a good idea? Intelligent? On point? Makes sense? Worth implementing?
 
 ---
 
@@ -84,7 +84,7 @@ The strongest idea in KFO is not "controlling AI." The strongest idea is: organi
 
 **PROMPT:**
 
-https://www.americasgreatresorts.net/kfo-service/
+<https://www.americasgreatresorts.net/kfo-service/>
 
 ---
 
@@ -152,7 +152,7 @@ I think the framework becomes much stronger when framed as "managing the formati
 
 **PROMPT:**
 
-After reviewing all of this, I'd like you to review one more page: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/ - does this change your overall opinion?
+After reviewing all of this, I'd like you to review one more page: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/> - does this change your overall opinion?
 
 ---
 

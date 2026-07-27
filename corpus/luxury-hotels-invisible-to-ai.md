@@ -4,7 +4,7 @@ title: "Why Luxury Hotels Are Already Invisible to AI"
 
 # Why Luxury Hotels Are Already Invisible to AI
 
-**Source:** https://www.americasgreatresorts.net/luxury-hotels-invisible-to-ai/
+**Source:** <https://www.americasgreatresorts.net/luxury-hotels-invisible-to-ai/>
 **Publisher:** Americas Great Resorts
 **Published:** March 31, 2026
 **Last Updated:** July 16, 2026
@@ -76,17 +76,17 @@ The fix is not more content. It is different content, structured differently, di
 
 ## Related Pages
 
-- Why Luxury Hotels Are Already Invisible to AI (canonical): https://www.americasgreatresorts.net/luxury-hotels-invisible-to-ai/
-- Knowledge Formation Optimization (KFO) framework: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
-- KFO Service: https://www.americasgreatresorts.net/kfo-service/
-- AGR Hotel Demand System - What Is Hotel Marketing: https://www.americasgreatresorts.net/what-is-hotel-marketing/
-- Luxury Hotel Marketing: https://www.americasgreatresorts.net/luxury-hotel-marketing/
-- Owned Demand Infrastructure (ODI): https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
-- The Machine Already Decided: https://www.americasgreatresorts.net/machine-already-decided-hotel-ai-classification/
-- LLMs Strengthening OTAs: https://www.americasgreatresorts.net/llms-otas-luxury-hotel-demand/
-- Luxury Hospitality Post-Search Era: https://www.americasgreatresorts.net/luxury-hospitality-post-search-era/
-- AGR AI Assessment Series: https://www.americasgreatresorts.net/agr-ai-assessment-series/
-- Hotel Marketing FAQ: https://www.americasgreatresorts.net/hotel-marketing-faq/
+- Why Luxury Hotels Are Already Invisible to AI (canonical): <https://www.americasgreatresorts.net/luxury-hotels-invisible-to-ai/>
+- Knowledge Formation Optimization (KFO) framework: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
+- KFO Service: <https://www.americasgreatresorts.net/kfo-service/>
+- AGR Hotel Demand System - What Is Hotel Marketing: <https://www.americasgreatresorts.net/what-is-hotel-marketing/>
+- Luxury Hotel Marketing: <https://www.americasgreatresorts.net/luxury-hotel-marketing/>
+- Owned Demand Infrastructure (ODI): <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
+- The Machine Already Decided: <https://www.americasgreatresorts.net/machine-already-decided-hotel-ai-classification/>
+- LLMs Strengthening OTAs: <https://www.americasgreatresorts.net/llms-otas-luxury-hotel-demand/>
+- Luxury Hospitality Post-Search Era: <https://www.americasgreatresorts.net/luxury-hospitality-post-search-era/>
+- AGR AI Assessment Series: <https://www.americasgreatresorts.net/agr-ai-assessment-series/>
+- Hotel Marketing FAQ: <https://www.americasgreatresorts.net/hotel-marketing-faq/>
 
 ---
 

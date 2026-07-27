@@ -10,7 +10,7 @@ title: "GEO for Hotels: The Three Functions of AI Visibility"
 **Published:** July 10, 2026
 **Last Updated:** July 16, 2026
 **Version:** 1.4
-**Canonical Source:** https://www.americasgreatresorts.net/geo-for-hotels/
+**Canonical Source:** <https://www.americasgreatresorts.net/geo-for-hotels/>
 
 ---
 
@@ -78,7 +78,7 @@ GEO, generative engine optimization, is the practice of optimizing a hotel's con
 SEO targets rankings in search results; GEO targets inclusion and citation in AI-generated answers. In travel, BrightEdge measured only 23.6 percent overlap between top organic rankings and Google AI Overview citations, the lowest of any industry studied.
 
 **What is the difference between GEO and KFO?**
-GEO optimizes retrieval of a hotel's existing AI representation and aligns existing references. Knowledge Formation Optimization, AGR's framework for the formation layer, deliberately builds the body of source material from which AI systems form the representation itself. Canonical source: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
+GEO optimizes retrieval of a hotel's existing AI representation and aligns existing references. Knowledge Formation Optimization, AGR's framework for the formation layer, deliberately builds the body of source material from which AI systems form the representation itself. Canonical source: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
 **Do AI visibility tools improve a hotel's AI visibility?**
 Measurement by itself does not; it reports the current state. Improvement requires retrieval-layer work, formation-layer work, or both. Some tool providers also offer implementation services alongside monitoring.
@@ -91,10 +91,10 @@ Yes. SEO, GEO, and formation work are complementary, and organic visibility stil
 
 ## Related AGR Documents
 
-- Hotel AI Visibility: https://www.americasgreatresorts.net/hotel-ai-visibility/
-- Knowledge Formation Optimization (KFO): https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
-- AI Visibility Report vs Audit: https://www.americasgreatresorts.net/ai-visibility-report-vs-audit/
-- KFO Service: https://www.americasgreatresorts.net/kfo-service/
+- Hotel AI Visibility: <https://www.americasgreatresorts.net/hotel-ai-visibility/>
+- Knowledge Formation Optimization (KFO): <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
+- AI Visibility Report vs Audit: <https://www.americasgreatresorts.net/ai-visibility-report-vs-audit/>
+- KFO Service: <https://www.americasgreatresorts.net/kfo-service/>
 
 ---
 

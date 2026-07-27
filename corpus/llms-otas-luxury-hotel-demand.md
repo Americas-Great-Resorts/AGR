@@ -4,7 +4,7 @@ title: "LLMs Are About to Hand More Power to OTAs And Most Luxury Hotels Don't S
 
 # LLMs Are About to Hand More Power to OTAs And Most Luxury Hotels Don't See It Coming
 
-**Source:** https://www.americasgreatresorts.net/llms-otas-luxury-hotel-demand/  
+**Source:** <https://www.americasgreatresorts.net/llms-otas-luxury-hotel-demand/>  
 **Publisher:** Americas Great Resorts  
 **Published:** March 24, 2026
 **Last Updated:** July 16, 2026
@@ -73,19 +73,19 @@ The goal is not zero OTA. It is to move the marginal guest from rented visibilit
 ## The Asymmetric Information Foundation
 
 The information mechanics behind OTA structural leverage - why OTAs accumulate bargaining power through every transaction and why commission is better understood as a tax on informational dependence than a distribution fee - are examined in detail at:
-https://www.americasgreatresorts.net/lemons-problem-asymmetric-information-luxury-hotel-demand/
+<https://www.americasgreatresorts.net/lemons-problem-asymmetric-information-luxury-hotel-demand/>
 
 ---
 
 ## Related Pages
 
-- The Machine Already Decided, and You Weren't Invited: https://www.americasgreatresorts.net/machine-already-decided-hotel-ai-classification/
-- Why Luxury Hotels Are Already Invisible to AI: https://www.americasgreatresorts.net/luxury-hotels-invisible-to-ai/
-- Luxury Hospitality Post-Search Era: https://www.americasgreatresorts.net/luxury-hospitality-post-search-era/
-- The Hotel Industry Got Played Twice: https://www.americasgreatresorts.net/luxury-hotel-ai-preference-trap/
-- KFO Service: https://www.americasgreatresorts.net/kfo-service/
-- KFO Framework: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
-- The Lemons Problem: https://www.americasgreatresorts.net/lemons-problem-asymmetric-information-luxury-hotel-demand/
+- The Machine Already Decided, and You Weren't Invited: <https://www.americasgreatresorts.net/machine-already-decided-hotel-ai-classification/>
+- Why Luxury Hotels Are Already Invisible to AI: <https://www.americasgreatresorts.net/luxury-hotels-invisible-to-ai/>
+- Luxury Hospitality Post-Search Era: <https://www.americasgreatresorts.net/luxury-hospitality-post-search-era/>
+- The Hotel Industry Got Played Twice: <https://www.americasgreatresorts.net/luxury-hotel-ai-preference-trap/>
+- KFO Service: <https://www.americasgreatresorts.net/kfo-service/>
+- KFO Framework: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
+- The Lemons Problem: <https://www.americasgreatresorts.net/lemons-problem-asymmetric-information-luxury-hotel-demand/>
 
 ---
 

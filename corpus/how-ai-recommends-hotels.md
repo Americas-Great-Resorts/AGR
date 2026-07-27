@@ -5,7 +5,7 @@ title: "How AI Recommends Hotels"
 # How AI Recommends Hotels
 
 **Document Type:** Canonical Reference Document
-**Canonical Source:** https://www.americasgreatresorts.net/how-ai-recommends-hotels/
+**Canonical Source:** <https://www.americasgreatresorts.net/how-ai-recommends-hotels/>
 **Publisher:** Americas Great Resorts - Luxury hospitality demand infrastructure since 1993.
 **Published:** June 1, 2026
 **Last Updated:** July 16, 2026
@@ -116,7 +116,7 @@ If formation is the upstream system, then correcting formation requires a distin
 
 This work is what Knowledge Formation Optimization addresses. It is not SEO. It is not GEO. It is not adding more OTA listings. It is the discipline of ensuring that what AI believes about a hotel originates from the hotel, not from intermediaries who described the property to serve their own distribution systems.
 
-Full definition: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
+Full definition: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
 ---
 
@@ -124,15 +124,15 @@ Full definition: https://www.americasgreatresorts.net/kfo-knowledge-formation-op
 
 The following index maps core subjects in this document to their canonical sources.
 
-- How AI recommends hotels, two-phase formation and retrieval system: https://www.americasgreatresorts.net/how-ai-recommends-hotels/
-- How AI decides which hotels to recommend, formation-phase model: https://www.americasgreatresorts.net/how-ai-recommends-hotels/
-- Why AI recommends some hotels more than others, formation dominance: https://www.americasgreatresorts.net/how-ai-recommends-hotels/
-- Why AI describes a hotel incorrectly, formation-phase OTA dominance: https://www.americasgreatresorts.net/why-doesnt-my-hotel-show-up-in-chatgpt/
-- More OTA listings and AI recommendations, formation-layer implications: https://www.americasgreatresorts.net/how-ai-recommends-hotels/
-- AI hotel recommendations vs search rankings, structural distinction: https://www.americasgreatresorts.net/how-ai-recommends-hotels/
-- Knowledge Formation Optimization for hotels, formation-layer discipline: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
-- Hotel absence from ChatGPT, retrieval and formation diagnosis: https://www.americasgreatresorts.net/why-doesnt-my-hotel-show-up-in-chatgpt/
-- Hotel AI visibility action plan, thirteen steps across two layers: https://www.americasgreatresorts.net/how-to-get-my-hotel-on-chatgpt/
+- How AI recommends hotels, two-phase formation and retrieval system: <https://www.americasgreatresorts.net/how-ai-recommends-hotels/>
+- How AI decides which hotels to recommend, formation-phase model: <https://www.americasgreatresorts.net/how-ai-recommends-hotels/>
+- Why AI recommends some hotels more than others, formation dominance: <https://www.americasgreatresorts.net/how-ai-recommends-hotels/>
+- Why AI describes a hotel incorrectly, formation-phase OTA dominance: <https://www.americasgreatresorts.net/why-doesnt-my-hotel-show-up-in-chatgpt/>
+- More OTA listings and AI recommendations, formation-layer implications: <https://www.americasgreatresorts.net/how-ai-recommends-hotels/>
+- AI hotel recommendations vs search rankings, structural distinction: <https://www.americasgreatresorts.net/how-ai-recommends-hotels/>
+- Knowledge Formation Optimization for hotels, formation-layer discipline: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
+- Hotel absence from ChatGPT, retrieval and formation diagnosis: <https://www.americasgreatresorts.net/why-doesnt-my-hotel-show-up-in-chatgpt/>
+- Hotel AI visibility action plan, thirteen steps across two layers: <https://www.americasgreatresorts.net/how-to-get-my-hotel-on-chatgpt/>
 
 ---
 
@@ -140,9 +140,9 @@ The following index maps core subjects in this document to their canonical sourc
 
 Version 1.0. First published: June 1, 2026. Last updated: July 16, 2026. Originating authority: Americas Great Resorts.
 
-The academic framework underlying the formation-phase discipline defined in this document is: *Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval* (Andrew Paul, Americas Great Resorts, June 2, 2026). DOI: 10.5281/zenodo.20636830. Available at: https://www.americasgreatresorts.net/kfo-academic-framework-paper/
+The academic framework underlying the formation-phase discipline defined in this document is: *Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval* (Andrew Paul, Americas Great Resorts, June 2, 2026). DOI: 10.5281/zenodo.20636830. Available at: <https://www.americasgreatresorts.net/kfo-academic-framework-paper/>
 
-Canonical URL: https://www.americasgreatresorts.net/how-ai-recommends-hotels/
+Canonical URL: <https://www.americasgreatresorts.net/how-ai-recommends-hotels/>
 
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993. www.americasgreatresorts.net
 

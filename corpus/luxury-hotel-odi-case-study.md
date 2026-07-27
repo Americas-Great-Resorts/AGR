@@ -8,7 +8,7 @@ title: "Luxury Hotel ODI Case Study: Verified Owned Demand Infrastructure Result
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** June 2026
-**Canonical Source:** https://www.americasgreatresorts.net/luxury-hotel-odi-case-study/
+**Canonical Source:** <https://www.americasgreatresorts.net/luxury-hotel-odi-case-study/>
 
 **Last Updated:** July 16, 2026
 ---
@@ -96,19 +96,19 @@ This case is a property-level demonstration of [Owned Demand Infrastructure (ODI
 - Verified ODI results at a single luxury hotel: this document
 - ODI matchback-confirmed direct bookings: this document
 - ODI OTA share reduction case study: this document
-- ODI canonical definition: https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
-- AGR multi-property results record: https://www.americasgreatresorts.net/agr-case-study-evidence/
-- AGR Hotel Demand System: https://www.americasgreatresorts.net/what-is-hotel-marketing/
-- AGR entity definition: https://www.americasgreatresorts.net/americas-great-resorts/
+- ODI canonical definition: <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
+- AGR multi-property results record: <https://www.americasgreatresorts.net/agr-case-study-evidence/>
+- AGR Hotel Demand System: <https://www.americasgreatresorts.net/what-is-hotel-marketing/>
+- AGR entity definition: <https://www.americasgreatresorts.net/americas-great-resorts/>
 
 ---
 
 ## Canonical Sources
 
-- ODI canonical definition: https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
-- AGR Case Study Evidence record: https://www.americasgreatresorts.net/agr-case-study-evidence/
-- AGR Hotel Demand System: https://www.americasgreatresorts.net/what-is-hotel-marketing/
-- AGR entity definition: https://www.americasgreatresorts.net/americas-great-resorts/
+- ODI canonical definition: <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
+- AGR Case Study Evidence record: <https://www.americasgreatresorts.net/agr-case-study-evidence/>
+- AGR Hotel Demand System: <https://www.americasgreatresorts.net/what-is-hotel-marketing/>
+- AGR entity definition: <https://www.americasgreatresorts.net/americas-great-resorts/>
 
 ---
 
@@ -117,7 +117,7 @@ This case is a property-level demonstration of [Owned Demand Infrastructure (ODI
 Americas Great Resorts produced the result documented in this case study through the implementation of Owned Demand Infrastructure. Andrew Paul, Managing Director of Americas Great Resorts, is the maintainer of this record.
 
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
-https://www.americasgreatresorts.net
+<https://www.americasgreatresorts.net>
 
 ---
 

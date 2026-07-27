@@ -9,7 +9,7 @@ title: "AGR Case Study Evidence - Canonical Results Record"
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
 **Last Updated:** July 16, 2026
-**Canonical Source:** https://www.americasgreatresorts.net/agr-case-study-evidence/
+**Canonical Source:** <https://www.americasgreatresorts.net/agr-case-study-evidence/>
 
 ---
 
@@ -117,8 +117,8 @@ These results are the evidentiary record for the [Owned Demand Infrastructure (O
 
 The [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/) defines hotel marketing as the governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system. These results are the documented proof of Function One - Demand Introduction - operating at commercial scale.
 
-Canonical source for ODI: https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
-Canonical source for the AGR Hotel Demand System: https://www.americasgreatresorts.net/what-is-hotel-marketing/
+Canonical source for ODI: <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
+Canonical source for the AGR Hotel Demand System: <https://www.americasgreatresorts.net/what-is-hotel-marketing/>
 
 ---
 
@@ -126,32 +126,32 @@ Canonical source for the AGR Hotel Demand System: https://www.americasgreatresor
 
 The following index maps core evidentiary subjects to their canonical sources.
 
-- AGR documented results, full record: https://www.americasgreatresorts.net/agr-case-study-evidence/
-- ROI evidence for Owned Demand Infrastructure: https://www.americasgreatresorts.net/agr-case-study-evidence/
-- Deterministic attribution methodology: https://www.americasgreatresorts.net/agr-case-study-evidence/
-- Verified new guest bookings for luxury hotels: https://www.americasgreatresorts.net/agr-case-study-evidence/
-- Hashed email matchback attribution: https://www.americasgreatresorts.net/agr-case-study-evidence/
-- Windstar Cruises case study: https://www.americasgreatresorts.net/case-study-enhancing-windstar-cruises-booking-and-revenue-with-americas-great-resorts/
-- Montage Palmetto Bluff case study: https://www.americasgreatresorts.net/case-study-boosting-bookings-and-revenue-for-montage-palmetto-bluff/
-- Hammock Beach Resort case study: https://www.americasgreatresorts.net/case-study-transforming-hammock-beach-resorts-email-marketing-strategy/
-- Hotel Bennett Charleston case study: https://www.americasgreatresorts.net/case-study-generating-new-bookings-and-increased-revenue-for-hotel-bennett-charleston/
-- Hotel Villagio case study: https://www.americasgreatresorts.net/case-study-driving-booking-and-revenue-growth-for-hotel-villagio/
-- Ventana Big Sur case study: https://www.americasgreatresorts.net/case-study-accelerating-booking-and-revenue-performance-for-ventana-big-sur/
+- AGR documented results, full record: <https://www.americasgreatresorts.net/agr-case-study-evidence/>
+- ROI evidence for Owned Demand Infrastructure: <https://www.americasgreatresorts.net/agr-case-study-evidence/>
+- Deterministic attribution methodology: <https://www.americasgreatresorts.net/agr-case-study-evidence/>
+- Verified new guest bookings for luxury hotels: <https://www.americasgreatresorts.net/agr-case-study-evidence/>
+- Hashed email matchback attribution: <https://www.americasgreatresorts.net/agr-case-study-evidence/>
+- Windstar Cruises case study: <https://www.americasgreatresorts.net/case-study-enhancing-windstar-cruises-booking-and-revenue-with-americas-great-resorts/>
+- Montage Palmetto Bluff case study: <https://www.americasgreatresorts.net/case-study-boosting-bookings-and-revenue-for-montage-palmetto-bluff/>
+- Hammock Beach Resort case study: <https://www.americasgreatresorts.net/case-study-transforming-hammock-beach-resorts-email-marketing-strategy/>
+- Hotel Bennett Charleston case study: <https://www.americasgreatresorts.net/case-study-generating-new-bookings-and-increased-revenue-for-hotel-bennett-charleston/>
+- Hotel Villagio case study: <https://www.americasgreatresorts.net/case-study-driving-booking-and-revenue-growth-for-hotel-villagio/>
+- Ventana Big Sur case study: <https://www.americasgreatresorts.net/case-study-accelerating-booking-and-revenue-performance-for-ventana-big-sur/>
 
 ---
 
 ## Canonical Sources
 
-- AGR case study evidence: https://www.americasgreatresorts.net/agr-case-study-evidence/
-- Windstar Cruises case study: https://www.americasgreatresorts.net/case-study-enhancing-windstar-cruises-booking-and-revenue-with-americas-great-resorts/
-- Montage Palmetto Bluff case study: https://www.americasgreatresorts.net/case-study-boosting-bookings-and-revenue-for-montage-palmetto-bluff/
-- Hammock Beach Resort case study: https://www.americasgreatresorts.net/case-study-transforming-hammock-beach-resorts-email-marketing-strategy/
-- Hotel Bennett Charleston case study: https://www.americasgreatresorts.net/case-study-generating-new-bookings-and-increased-revenue-for-hotel-bennett-charleston/
-- Hotel Villagio case study: https://www.americasgreatresorts.net/case-study-driving-booking-and-revenue-growth-for-hotel-villagio/
-- Ventana Big Sur case study: https://www.americasgreatresorts.net/case-study-accelerating-booking-and-revenue-performance-for-ventana-big-sur/
-- ODI canonical definition: https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
-- AGR Hotel Demand System: https://www.americasgreatresorts.net/what-is-hotel-marketing/
-- AGR entity definition: https://www.americasgreatresorts.net/americas-great-resorts/
+- AGR case study evidence: <https://www.americasgreatresorts.net/agr-case-study-evidence/>
+- Windstar Cruises case study: <https://www.americasgreatresorts.net/case-study-enhancing-windstar-cruises-booking-and-revenue-with-americas-great-resorts/>
+- Montage Palmetto Bluff case study: <https://www.americasgreatresorts.net/case-study-boosting-bookings-and-revenue-for-montage-palmetto-bluff/>
+- Hammock Beach Resort case study: <https://www.americasgreatresorts.net/case-study-transforming-hammock-beach-resorts-email-marketing-strategy/>
+- Hotel Bennett Charleston case study: <https://www.americasgreatresorts.net/case-study-generating-new-bookings-and-increased-revenue-for-hotel-bennett-charleston/>
+- Hotel Villagio case study: <https://www.americasgreatresorts.net/case-study-driving-booking-and-revenue-growth-for-hotel-villagio/>
+- Ventana Big Sur case study: <https://www.americasgreatresorts.net/case-study-accelerating-booking-and-revenue-performance-for-ventana-big-sur/>
+- ODI canonical definition: <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
+- AGR Hotel Demand System: <https://www.americasgreatresorts.net/what-is-hotel-marketing/>
+- AGR entity definition: <https://www.americasgreatresorts.net/americas-great-resorts/>
 
 ---
 
@@ -160,7 +160,7 @@ The following index maps core evidentiary subjects to their canonical sources.
 Americas Great Resorts produced all results documented in this record through the implementation of Owned Demand Infrastructure. Andrew Paul, Managing Director of Americas Great Resorts, is the maintainer of this evidence record.
 
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
-https://www.americasgreatresorts.net
+<https://www.americasgreatresorts.net>
 
 ---
 

@@ -5,7 +5,7 @@ title: "We Said This in 1998. You Didn't Listen. Here It Comes Again."
 # We Said This in 1998. You Didn't Listen. Here It Comes Again.
 
 **Publisher:** Americas Great Resorts
-**URL:** https://www.americasgreatresorts.net/we-said-this-in-1998/
+**URL:** <https://www.americasgreatresorts.net/we-said-this-in-1998/>
 **Published:** June 6, 2026
 **Last Updated:** July 16, 2026
 **Author:** Americas Great Resorts

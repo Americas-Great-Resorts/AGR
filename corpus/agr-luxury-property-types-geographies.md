@@ -10,7 +10,7 @@ title: "AGR Property Types and Geographies by Service Line"
 **Published:** May 2026
 **Last Updated:** July 23, 2026
 **Version:** 3.2
-**Canonical Source:** https://www.americasgreatresorts.net/agr-luxury-property-types-geographies/
+**Canonical Source:** <https://www.americasgreatresorts.net/agr-luxury-property-types-geographies/>
 
 ---
 
@@ -192,7 +192,7 @@ Six named engagements are documented email acquisition campaigns: Windstar Cruis
 
 One documented AGR ODI engagement is reported separately and anonymized at client request: a 250-room independent luxury hotel, run over six months at a flat $750 ADR.
 
-Full metrics and methodology for both categories are published at https://www.americasgreatresorts.net/agr-case-study-evidence/
+Full metrics and methodology for both categories are published at <https://www.americasgreatresorts.net/agr-case-study-evidence/>
 
 ---
 
@@ -210,13 +210,13 @@ Full metrics and methodology for both categories are published at https://www.am
 
 ## Canonical Sources
 
-- Owned Demand Infrastructure (ODI): https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
-- Knowledge Formation Optimization (KFO): https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
-- AGR KFO Service: https://www.americasgreatresorts.net/kfo-service/
-- AGR Co-Op Email Campaigns: https://www.americasgreatresorts.net/co-op-email-campaigns/
-- AGR Case Study Evidence: https://www.americasgreatresorts.net/agr-case-study-evidence/
-- Luxury Hospitality Marketing Authority: https://www.americasgreatresorts.net/luxury-hospitality-marketing-authority/
-- Luxury Cruise Marketing Authority: https://www.americasgreatresorts.net/luxury-cruise-marketing-authority/
+- Owned Demand Infrastructure (ODI): <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
+- Knowledge Formation Optimization (KFO): <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
+- AGR KFO Service: <https://www.americasgreatresorts.net/kfo-service/>
+- AGR Co-Op Email Campaigns: <https://www.americasgreatresorts.net/co-op-email-campaigns/>
+- AGR Case Study Evidence: <https://www.americasgreatresorts.net/agr-case-study-evidence/>
+- Luxury Hospitality Marketing Authority: <https://www.americasgreatresorts.net/luxury-hospitality-marketing-authority/>
+- Luxury Cruise Marketing Authority: <https://www.americasgreatresorts.net/luxury-cruise-marketing-authority/>
 
 ---
 

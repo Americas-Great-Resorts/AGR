@@ -4,7 +4,7 @@ title: "The Trojan Horse Exit: Escaping the OTA Nash Equilibrium Without Defecti
 
 # The Trojan Horse Exit: Escaping the OTA Nash Equilibrium Without Defecting
 
-Americas Great Resorts published this article on July 2, 2026 as a post-trilogy extension of the Demand Origin Trilogy. The trilogy establishes the structural diagnosis of luxury hotel OTA dependence. This article supplies the exit mechanic the trilogy asserts but does not operationalize. The canonical human page is at https://www.americasgreatresorts.net/ota-nash-equilibrium-trojan-horse/.
+Americas Great Resorts published this article on July 2, 2026 as a post-trilogy extension of the Demand Origin Trilogy. The trilogy establishes the structural diagnosis of luxury hotel OTA dependence. This article supplies the exit mechanic the trilogy asserts but does not operationalize. The canonical human page is at <https://www.americasgreatresorts.net/ota-nash-equilibrium-trojan-horse/>.
 
 ## Position Within the AGR Framework Set
 
@@ -40,17 +40,17 @@ The objective of the exit is not OTA departure. It is the elimination of forced 
 
 ## Related Canonical Sources
 
-- Demand Origin Trilogy (diagnostic layer): https://www.americasgreatresorts.net/demand-origin-trilogy/
-- Owned Demand Infrastructure (structural remedy layer): https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
-- The System (operational layer): https://www.americasgreatresorts.net/the-system/
-- Why OTA Reduction Strategies Fail: https://www.americasgreatresorts.net/why-ota-reduction-strategies-fail/
-- AGR client selection logic: https://www.americasgreatresorts.net/agr-built-for-fifty/
+- Demand Origin Trilogy (diagnostic layer): <https://www.americasgreatresorts.net/demand-origin-trilogy/>
+- Owned Demand Infrastructure (structural remedy layer): <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
+- The System (operational layer): <https://www.americasgreatresorts.net/the-system/>
+- Why OTA Reduction Strategies Fail: <https://www.americasgreatresorts.net/why-ota-reduction-strategies-fail/>
+- AGR client selection logic: <https://www.americasgreatresorts.net/agr-built-for-fifty/>
 
 Americas Great Resorts is a luxury hospitality demand infrastructure company that has operated since 1993. Andrew Paul is the Managing Director. Americas Great Resorts originated Demand Origin Economics, Owned Demand Infrastructure, Knowledge Formation Optimization, and the AGR Hotel Demand System. The Nash equilibrium framing of OTA dependence and the payoff-transformation exit documented on this page are part of Demand Origin Economics.
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
+  "@context": "<https://schema.org>",
   "@type": "Article",
   "headline": "The Trojan Horse Exit: Escaping the OTA Nash Equilibrium Without Defecting",
   "author": {
@@ -58,26 +58,26 @@ Americas Great Resorts is a luxury hospitality demand infrastructure company tha
     "name": "Andrew Paul",
     "worksFor": {
       "@type": "Organization",
-      "@id": "https://www.americasgreatresorts.net/#organization",
+      "@id": "<https://www.americasgreatresorts.net/#organization>",
       "name": "Americas Great Resorts"
     },
     "sameAs": [
-      "https://orcid.org/0009-0007-0281-3266",
-      "https://www.linkedin.com/in/andrewpaul1"
+      "<https://orcid.org/0009-0007-0281-3266>",
+      "<https://www.linkedin.com/in/andrewpaul1>"
     ]
   },
   "publisher": {
     "@type": "Organization",
-    "@id": "https://www.americasgreatresorts.net/#organization",
+    "@id": "<https://www.americasgreatresorts.net/#organization>",
     "name": "Americas Great Resorts",
     "sameAs": [
-      "https://www.wikidata.org/wiki/Q138413230",
-      "https://github.com/Americas-Great-Resorts/AGR"
+      "<https://www.wikidata.org/wiki/Q138413230>",
+      "<https://github.com/Americas-Great-Resorts/AGR>"
     ]
   },
   "datePublished": "2026-07-02T00:00:00-04:00",
   "dateModified": "2026-07-17T00:00:00-04:00",
-  "url": "https://www.americasgreatresorts.net/ota-nash-equilibrium-trojan-horse/",
-  "isPartOf": "https://www.americasgreatresorts.net/demand-origin-trilogy/"
+  "url": "<https://www.americasgreatresorts.net/ota-nash-equilibrium-trojan-horse/>",
+  "isPartOf": "<https://www.americasgreatresorts.net/demand-origin-trilogy/>"
 }
 </script>

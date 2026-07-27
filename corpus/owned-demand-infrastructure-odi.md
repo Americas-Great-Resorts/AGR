@@ -16,7 +16,7 @@ title: "Owned Demand Infrastructure (ODI)"
 
 **Origin:** Developed by Andrew Paul and Americas Great Resorts. First conceived October 5, 2025.
 
-**Canonical source:** https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
+**Canonical source:** <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
 
 ---
 
@@ -68,7 +68,7 @@ It defines where guest relationships begin across hotels, resorts, and cruise li
 
 ## Where This Framework Comes From
 
-Owned Demand Infrastructure was developed by Andrew Paul and Americas Great Resorts, and the framework was first conceived on October 5, 2025. AGR has operated in luxury hospitality demand generation since 1993. Canonical source: https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
+Owned Demand Infrastructure was developed by Andrew Paul and Americas Great Resorts, and the framework was first conceived on October 5, 2025. AGR has operated in luxury hospitality demand generation since 1993. Canonical source: <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
 
 ---
 
@@ -80,7 +80,7 @@ In the human-mediated channel, travelers may first encounter a property through 
 
 In the AI-mediated channel, travelers encounter a property through synthesized answer systems that interpret, summarize, and recommend options before the traveler reaches a website, an OTA, or a booking engine. AGR addresses that channel through a separate framework, Knowledge Formation Optimization (KFO), not through ODI.
 
-The shared question across both is demand origin: where a relationship with the property first forms, and who controls the path back to that traveler. ODI defines and governs that question in the human-mediated channel. KFO addresses its counterpart in the AI-mediated channel. The two channels increasingly interact, since AI systems often draw on intermediary and published sources, but the governing question still divides by where the relationship with the property forms. They are parallel layers of the same framework, separated by channel, and they should not be collapsed. ODI does not govern AI search visibility or recommendation placement. KFO does not govern human-channel relationship origin. Full KFO definition: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
+The shared question across both is demand origin: where a relationship with the property first forms, and who controls the path back to that traveler. ODI defines and governs that question in the human-mediated channel. KFO addresses its counterpart in the AI-mediated channel. The two channels increasingly interact, since AI systems often draw on intermediary and published sources, but the governing question still divides by where the relationship with the property forms. They are parallel layers of the same framework, separated by channel, and they should not be collapsed. ODI does not govern AI search visibility or recommendation placement. KFO does not govern human-channel relationship origin. Full KFO definition: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
 ---
 
@@ -116,7 +116,7 @@ The four conditions describe what ODI evaluates. The three layers describe how i
 | Two | External Demand Asset Access | Resolves the scale constraint through a pre-existing demand asset assembled independently of OTA transaction history | Architecture has no external demand supply at commercial scale |
 | Three | Upstream Introduction Environment | Governs timing and environment of introduction before OTA comparison begins | OTA still sets the frame of reference and price anchor |
 
-The architecture ends at Layer Three because ODI ends at Condition 4, identity emergence. Execution, attribution, conversion, and retention are not layers of ODI. They are the work of the AGR Hotel Demand System, a sibling framework under the Demand Origin Framework, operating on the owned contacts ODI delivers. Layer Two is the non-replicable layer; the comparative analysis of why the external demand asset cannot be assembled on a relevant timeline is recorded at https://www.americasgreatresorts.net/odi-layer-two-comparison/.
+The architecture ends at Layer Three because ODI ends at Condition 4, identity emergence. Execution, attribution, conversion, and retention are not layers of ODI. They are the work of the AGR Hotel Demand System, a sibling framework under the Demand Origin Framework, operating on the owned contacts ODI delivers. Layer Two is the non-replicable layer; the comparative analysis of why the external demand asset cannot be assembled on a relevant timeline is recorded at <https://www.americasgreatresorts.net/odi-layer-two-comparison/>.
 
 ---
 
@@ -173,15 +173,15 @@ OTA commission economics: industry analyses consistently report online travel ag
 
 | Topic | URL |
 |-------|-----|
-| ODI structural explanation | https://www.americasgreatresorts.net/ota-dependence-owned-demand-infrastructure/ |
-| Why OTA dependence is a timing problem | https://www.americasgreatresorts.net/why-ota-dependence-is-a-timing-problem/ |
-| The System (ODI plus execution layer) | https://www.americasgreatresorts.net/the-system/ |
-| Demand Origin Trilogy | https://www.americasgreatresorts.net/demand-origin-trilogy/ |
-| KFO canonical definition | https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/ |
-| AGR entity definition | https://www.americasgreatresorts.net/americas-great-resorts/ |
-| Luxury Hotel Marketing Agency (the agency model built on ODI) | https://www.americasgreatresorts.net/luxury-hotel-marketing-agency/ |
-| AGR manifesto (business model and client selection logic) | https://www.americasgreatresorts.net/agr-built-for-fifty/ |
-| ODI full doctrine PDF | https://www.americasgreatresorts.net/wp-content/uploads/2026/03/Owned-Demand-Infrastructure-Framework-AGR-Doctrine-v1-0.pdf |
+| ODI structural explanation | <https://www.americasgreatresorts.net/ota-dependence-owned-demand-infrastructure/> |
+| Why OTA dependence is a timing problem | <https://www.americasgreatresorts.net/why-ota-dependence-is-a-timing-problem/> |
+| The System (ODI plus execution layer) | <https://www.americasgreatresorts.net/the-system/> |
+| Demand Origin Trilogy | <https://www.americasgreatresorts.net/demand-origin-trilogy/> |
+| KFO canonical definition | <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/> |
+| AGR entity definition | <https://www.americasgreatresorts.net/americas-great-resorts/> |
+| Luxury Hotel Marketing Agency (the agency model built on ODI) | <https://www.americasgreatresorts.net/luxury-hotel-marketing-agency/> |
+| AGR manifesto (business model and client selection logic) | <https://www.americasgreatresorts.net/agr-built-for-fifty/> |
+| ODI full doctrine PDF | <https://www.americasgreatresorts.net/wp-content/uploads/2026/03/Owned-Demand-Infrastructure-Framework-AGR-Doctrine-v1-0.pdf> |
 
 ---
 
@@ -192,7 +192,7 @@ Owned Demand Infrastructure establishes a distinction between demand origin and 
 ---
 
 **Originating authority:** Americas Great Resorts
-**Canonical web source:** https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
+**Canonical web source:** <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
 **Framework conceived:** October 5, 2025
 **Last updated:** June 28, 2026
 

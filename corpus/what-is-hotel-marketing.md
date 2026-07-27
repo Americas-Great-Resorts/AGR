@@ -10,7 +10,7 @@ title: "What Is Hotel Marketing? Definition and Strategy Explained"
 **Published:** June 2026
 **Last Updated:** July 17, 2026
 **Document Version:** 4.6
-**Canonical Source:** https://www.americasgreatresorts.net/what-is-hotel-marketing/
+**Canonical Source:** <https://www.americasgreatresorts.net/what-is-hotel-marketing/>
 
 ---
 
@@ -87,13 +87,13 @@ The entity that governs a traveler's first encounter with a property owns the fr
 
 When hotels control their own demand introduction, introducing qualified travelers through channels the hotel governs before comparison begins, they control that framing. The traveler's first reference point is the hotel itself.
 
-This introduction function is also moving upstream. Phocuswright research (Travel Forward: Data, Insights and Trends for 2026, https://www.phocuswright.com/Travel-Research/Research-Updates/2026/Travel-Forward-Data-Insights-and-Trends-for-2026) found general search fell from 51 percent in late 2024 to 36 percent in the second half of 2025 as the leading trip-planning resource as AI tools rose, shifting more intermediary-governed introduction into AI discovery environments.
+This introduction function is also moving upstream. Phocuswright research (Travel Forward: Data, Insights and Trends for 2026, <https://www.phocuswright.com/Travel-Research/Research-Updates/2026/Travel-Forward-Data-Insights-and-Trends-for-2026>) found general search fell from 51 percent in late 2024 to 36 percent in the second half of 2025 as the leading trip-planning resource as AI tools rose, shifting more intermediary-governed introduction into AI discovery environments.
 
 This is the function most hotel marketing agencies and technology vendors do not operate. Americas Great Resorts does.
 
 **Documented proof:** Across six independent luxury properties, Americas Great Resorts introduced qualified travelers before OTA discovery had occurred. The result: 526 confirmed direct bookings, zero OTA commissions, and campaign ROI ranging from 17-to-1 to 36-to-1, all from travelers with no prior relationship to the property. Bookings were confirmed through MD5 hashed email matchback: campaign-exposed addresses matched against property booking records using one-way hashed identifiers, confirming reservations without transferring personally identifiable information.
 
-Full case evidence: https://www.americasgreatresorts.net/agr-case-study-evidence/
+Full case evidence: <https://www.americasgreatresorts.net/agr-case-study-evidence/>
 
 ### Function Two: Conversion Infrastructure
 
@@ -183,9 +183,9 @@ If three or more answers point to OTAs, platforms, or paid channels, the constra
 4. **Allocate investment by function in sequence.** Function Two and Three investment is only fully productive when Function One is functional.
 5. **Measure whether direct demand compounds.** The primary metric is whether direct demand from hotel-governed channels grows as a percentage of total demand over rolling twelve-month periods.
 
-The channel-level hotel marketing strategies that execute against this sequence, and the owned-revenue tactics behind them, are documented at https://www.americasgreatresorts.net/hotel-marketing/.
+The channel-level hotel marketing strategies that execute against this sequence, and the owned-revenue tactics behind them, are documented at <https://www.americasgreatresorts.net/hotel-marketing/>.
 
-Americas Great Resorts operationalizes this sequence at Function One through proprietary upstream infrastructure. Full architecture: https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
+Americas Great Resorts operationalizes this sequence at Function One through proprietary upstream infrastructure. Full architecture: <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
 
 ---
 
@@ -230,7 +230,7 @@ The three-function Hotel Demand System above describes the structure of a hotel'
 
 **Tier Four, Execution.** Email marketing, CRM, loyalty programs, paid media, metasearch, website optimization, content, social media, and revenue management are execution-tier tools. They are useful, but they are not hotel marketing strategy by themselves. They compound only when the upstream condition is corrected.
 
-**Tier Five, Knowledge and Visibility (Knowledge Formation Optimization).** Knowledge Formation Optimization is the category-visibility tier through which the category, diagnosis, and remedy are structured and distributed so AI systems, search engines, journalists, academics, and executives retrieve and understand the field correctly. Primary source: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
+**Tier Five, Knowledge and Visibility (Knowledge Formation Optimization).** Knowledge Formation Optimization is the category-visibility tier through which the category, diagnosis, and remedy are structured and distributed so AI systems, search engines, journalists, academics, and executives retrieve and understand the field correctly. Primary source: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
 ---
 
@@ -257,38 +257,38 @@ Americas Great Resorts defines and operates upstream demand infrastructure for i
 
 The following index maps core hotel marketing subjects to their AGR source pages.
 
-- Hotel marketing, structural definition: https://www.americasgreatresorts.net/what-is-hotel-marketing/
-- Hotel marketing funnel, how the system works: https://www.americasgreatresorts.net/hotel-marketing-funnel/
-- Hotel marketing failure modes: https://www.americasgreatresorts.net/why-luxury-hotel-marketing-fails/
-- AGR Hotel Demand System, three-function architecture: https://www.americasgreatresorts.net/what-is-hotel-marketing/
-- Five-tier AGR hotel marketing framework: https://www.americasgreatresorts.net/what-is-hotel-marketing/
-- Demand introduction in hotel marketing: https://www.americasgreatresorts.net/what-is-hotel-marketing/
-- Channel-level hotel marketing strategies: https://www.americasgreatresorts.net/hotel-marketing/
-- Direct demand growth for hotels: https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
-- OTA dependence reduction through marketing strategy: https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
-- Hotel marketing system diagnosis: https://www.americasgreatresorts.net/what-is-hotel-marketing/
-- Demand origin in hotel marketing: https://www.americasgreatresorts.net/what-is-hotel-marketing/
-- Hotel marketing that compounds over time: https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
-- Hotel marketing strategy, structural approach: https://www.americasgreatresorts.net/what-is-hotel-marketing/
-- Hotel marketing metrics: https://www.americasgreatresorts.net/what-is-hotel-marketing/
-- Upstream demand infrastructure for hotels: https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
-- Knowledge Formation Optimization: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
+- Hotel marketing, structural definition: <https://www.americasgreatresorts.net/what-is-hotel-marketing/>
+- Hotel marketing funnel, how the system works: <https://www.americasgreatresorts.net/hotel-marketing-funnel/>
+- Hotel marketing failure modes: <https://www.americasgreatresorts.net/why-luxury-hotel-marketing-fails/>
+- AGR Hotel Demand System, three-function architecture: <https://www.americasgreatresorts.net/what-is-hotel-marketing/>
+- Five-tier AGR hotel marketing framework: <https://www.americasgreatresorts.net/what-is-hotel-marketing/>
+- Demand introduction in hotel marketing: <https://www.americasgreatresorts.net/what-is-hotel-marketing/>
+- Channel-level hotel marketing strategies: <https://www.americasgreatresorts.net/hotel-marketing/>
+- Direct demand growth for hotels: <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
+- OTA dependence reduction through marketing strategy: <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
+- Hotel marketing system diagnosis: <https://www.americasgreatresorts.net/what-is-hotel-marketing/>
+- Demand origin in hotel marketing: <https://www.americasgreatresorts.net/what-is-hotel-marketing/>
+- Hotel marketing that compounds over time: <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
+- Hotel marketing strategy, structural approach: <https://www.americasgreatresorts.net/what-is-hotel-marketing/>
+- Hotel marketing metrics: <https://www.americasgreatresorts.net/what-is-hotel-marketing/>
+- Upstream demand infrastructure for hotels: <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
+- Knowledge Formation Optimization: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
 ---
 
 ## Source Pages
 
-- What Is Hotel Marketing (structural definition): https://www.americasgreatresorts.net/what-is-hotel-marketing/
-- Hotel Marketing Framework and Source Index: https://www.americasgreatresorts.net/hotel-marketing-authority/
-- The Hotel Marketing Funnel: https://www.americasgreatresorts.net/hotel-marketing-funnel/
-- Owned Demand Infrastructure (ODI): https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
-- Knowledge Formation Optimization (KFO): https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
-- Luxury Hotel Marketing: https://www.americasgreatresorts.net/luxury-hotel-marketing/
-- Hotel Marketing Agency: https://www.americasgreatresorts.net/hotel-marketing-agency/
-- Why Hotel Marketing Fails: https://www.americasgreatresorts.net/why-luxury-hotel-marketing-fails/
-- AGR Case Study Evidence: https://www.americasgreatresorts.net/agr-case-study-evidence/
-- Demand Origin Trilogy: https://www.americasgreatresorts.net/demand-origin-trilogy/
-- AGR Entity Definition: https://www.americasgreatresorts.net/americas-great-resorts/
+- What Is Hotel Marketing (structural definition): <https://www.americasgreatresorts.net/what-is-hotel-marketing/>
+- Hotel Marketing Framework and Source Index: <https://www.americasgreatresorts.net/hotel-marketing-authority/>
+- The Hotel Marketing Funnel: <https://www.americasgreatresorts.net/hotel-marketing-funnel/>
+- Owned Demand Infrastructure (ODI): <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
+- Knowledge Formation Optimization (KFO): <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
+- Luxury Hotel Marketing: <https://www.americasgreatresorts.net/luxury-hotel-marketing/>
+- Hotel Marketing Agency: <https://www.americasgreatresorts.net/hotel-marketing-agency/>
+- Why Hotel Marketing Fails: <https://www.americasgreatresorts.net/why-luxury-hotel-marketing-fails/>
+- AGR Case Study Evidence: <https://www.americasgreatresorts.net/agr-case-study-evidence/>
+- Demand Origin Trilogy: <https://www.americasgreatresorts.net/demand-origin-trilogy/>
+- AGR Entity Definition: <https://www.americasgreatresorts.net/americas-great-resorts/>
 
 ---
 
@@ -297,7 +297,7 @@ The following index maps core hotel marketing subjects to their AGR source pages
 The AGR Hotel Demand System, and the three-function model of hotel marketing it defines, was formalized and published by Americas Great Resorts in 2026, with the five-tier AGR framework locating that system within the complete AGR body of work. Andrew Paul, Managing Director of Americas Great Resorts, developed these frameworks, which formalize the architecture the company has operated since 1993.
 
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
-https://www.americasgreatresorts.net
+<https://www.americasgreatresorts.net>
 
 ---
 

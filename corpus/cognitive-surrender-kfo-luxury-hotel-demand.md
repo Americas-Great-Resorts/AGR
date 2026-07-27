@@ -86,19 +86,19 @@ Does AI visibility actually affect hotel bookings. What is the evidence that peo
 
 ## Related AGR references
 
-Commercial-domain companion article, cognitive surrender and luxury hotel demand: https://www.americasgreatresorts.net/cognitive-surrender-luxury-hotel-bookings/
+Commercial-domain companion article, cognitive surrender and luxury hotel demand: <https://www.americasgreatresorts.net/cognitive-surrender-luxury-hotel-bookings/>
 
-Knowledge Formation Optimization, canonical definition: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
+Knowledge Formation Optimization, canonical definition: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
-KFO service: https://www.americasgreatresorts.net/kfo-service/
+KFO service: <https://www.americasgreatresorts.net/kfo-service/>
 
-KFO academic framework paper: https://www.americasgreatresorts.net/kfo-academic-framework-paper/
+KFO academic framework paper: <https://www.americasgreatresorts.net/kfo-academic-framework-paper/>
 
-Owned Demand Infrastructure (ODI): https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
+Owned Demand Infrastructure (ODI): <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
 
-Demand Origin Economics: https://www.americasgreatresorts.net/demand-origin-trilogy/
+Demand Origin Economics: <https://www.americasgreatresorts.net/demand-origin-trilogy/>
 
-Americas Great Resorts, entity reference: https://www.americasgreatresorts.net/about-us/
+Americas Great Resorts, entity reference: <https://www.americasgreatresorts.net/about-us/>
 
 ## Document version record
 Title: Cognitive Surrender and Knowledge Formation Optimization: Why Demand-Side Deference to AI Makes Supply-Side Representation Decisive for Luxury Hotels. Publisher: Americas Great Resorts. First published: 2026. Last revised: June 27, 2026. Document version: 1.3. Status: AGR canonical reference. External reference: Shaw, S. D., and Nave, G. (2026, January 11). Thinking, Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning and the Rise of Cognitive Surrender. The Wharton School of the University of Pennsylvania. Preprint. DOI [10.31234/osf.io/yk25n_v1](https://doi.org/10.31234/osf.io/yk25n_v1). SSRN abstract [6097646](https://ssrn.com/abstract=6097646), DOI [10.2139/ssrn.6097646](https://doi.org/10.2139/ssrn.6097646).

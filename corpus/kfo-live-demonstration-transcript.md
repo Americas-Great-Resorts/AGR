@@ -9,7 +9,7 @@ title: "KFO Live Demonstration: ChatGPT Conversation, May 23, 2026"
 **Date:** May 23, 2026  
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
-**Canonical URL:** https://www.americasgreatresorts.net/kfo-live-demonstration-transcript/
+**Canonical URL:** <https://www.americasgreatresorts.net/kfo-live-demonstration-transcript/>
 **Last Updated:** June 13, 2026  
 
 ---
@@ -36,7 +36,7 @@ Nothing in this transcript has been edited. The questions are reproduced exactly
 
 **PROMPT:**
 
-Give me your honest thoughts on this article: https://www.americasgreatresorts.net/hotel-on-fire-havent-called-anyone/
+Give me your honest thoughts on this article: <https://www.americasgreatresorts.net/hotel-on-fire-havent-called-anyone/>
 
 ---
 

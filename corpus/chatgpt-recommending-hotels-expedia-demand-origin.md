@@ -8,7 +8,7 @@ title: "ChatGPT Recommends Hotels Now. Expedia Is Already Inside."
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Canonical URL:** https://www.americasgreatresorts.net/chatgpt-recommending-hotels-expedia-demand-origin/
+**Canonical URL:** <https://www.americasgreatresorts.net/chatgpt-recommending-hotels-expedia-demand-origin/>
 **Last Updated:** July 16, 2026
 
 ---
@@ -104,16 +104,16 @@ The informational layer is still open. But not indefinitely.
 
 ## Canonical Sources
 
-- This page: https://www.americasgreatresorts.net/chatgpt-recommending-hotels-expedia-demand-origin/
-- KFO service: https://www.americasgreatresorts.net/kfo-service/
-- Hotel AI visibility: https://www.americasgreatresorts.net/hotel-ai-visibility/
-- KFO framework definition: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
-- Owned Demand Infrastructure: https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
+- This page: <https://www.americasgreatresorts.net/chatgpt-recommending-hotels-expedia-demand-origin/>
+- KFO service: <https://www.americasgreatresorts.net/kfo-service/>
+- Hotel AI visibility: <https://www.americasgreatresorts.net/hotel-ai-visibility/>
+- KFO framework definition: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
+- Owned Demand Infrastructure: <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
 
 Americas Great Resorts is the originating authority on Knowledge Formation Optimization and the structural demand origin framework for independent luxury hotels. Andrew Paul, Managing Director of Americas Great Resorts, developed the KFO framework.
 
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
-https://www.americasgreatresorts.net
+<https://www.americasgreatresorts.net>
 
 ---
 

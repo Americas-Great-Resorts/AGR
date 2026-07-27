@@ -8,7 +8,7 @@ title: "Nine Weeks AI Visibility Case Study: Documented Knowledge Formation Opti
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** July 7, 2026
-**Canonical Source:** https://www.americasgreatresorts.net/nine-weeks-ai-answers-case-study/
+**Canonical Source:** <https://www.americasgreatresorts.net/nine-weeks-ai-answers-case-study/>
 
 **Last Updated:** July 16, 2026
 ---
@@ -140,19 +140,19 @@ This case is a self-implementation demonstration of [Knowledge Formation Optimiz
 - Documented KFO results on contested commercial queries (this document): supporting record
 - KFO self-implementation case study (this document): supporting record
 - AI Overview citation case study luxury hospitality (this document): supporting record
-- KFO canonical definition: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
-- KFO academic framework paper: https://www.americasgreatresorts.net/kfo-academic-framework-paper/
-- AGR AI visibility: https://www.americasgreatresorts.net/hotel-ai-visibility/
-- AGR entity definition: https://www.americasgreatresorts.net/americas-great-resorts/
+- KFO canonical definition: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
+- KFO academic framework paper: <https://www.americasgreatresorts.net/kfo-academic-framework-paper/>
+- AGR AI visibility: <https://www.americasgreatresorts.net/hotel-ai-visibility/>
+- AGR entity definition: <https://www.americasgreatresorts.net/americas-great-resorts/>
 
 ---
 
 ## Canonical Sources
 
-- KFO canonical definition: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
-- KFO academic framework paper: https://www.americasgreatresorts.net/kfo-academic-framework-paper/
-- Owned Demand Infrastructure: https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
-- AGR entity definition: https://www.americasgreatresorts.net/americas-great-resorts/
+- KFO canonical definition: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
+- KFO academic framework paper: <https://www.americasgreatresorts.net/kfo-academic-framework-paper/>
+- Owned Demand Infrastructure: <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
+- AGR entity definition: <https://www.americasgreatresorts.net/americas-great-resorts/>
 
 ---
 
@@ -161,7 +161,7 @@ This case is a self-implementation demonstration of [Knowledge Formation Optimiz
 Americas Great Resorts documents the result observed in this case study following the implementation of Knowledge Formation Optimization. Andrew Paul, Managing Director of Americas Great Resorts, is the maintainer of this record.
 
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
-https://www.americasgreatresorts.net
+<https://www.americasgreatresorts.net>
 
 ---
 

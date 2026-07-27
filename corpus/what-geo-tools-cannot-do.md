@@ -10,7 +10,7 @@ title: "Time to Ask the Machine"
 |---|---|
 | Published | July 22, 2026 |
 | Last Updated | July 22, 2026 |
-| Canonical | https://www.americasgreatresorts.net/what-geo-tools-cannot-do/ |
+| Canonical | <https://www.americasgreatresorts.net/what-geo-tools-cannot-do/> |
 | Author | Andrew Paul, Founder and Managing Director, Americas Great Resorts |
 | ORCID | 0009-0007-0281-3266 |
 | Organization | Americas Great Resorts (Wikidata Q138413230) |
@@ -67,7 +67,7 @@ Sit with why that is.
 
 ## Provenance
 
-First published July 22, 2026 at https://www.americasgreatresorts.net/what-geo-tools-cannot-do/ by Americas Great Resorts. This file is the corpus copy of that article and carries the same text.
+First published July 22, 2026 at <https://www.americasgreatresorts.net/what-geo-tools-cannot-do/> by Americas Great Resorts. This file is the corpus copy of that article and carries the same text.
 
 Competitor observations in this article describe the public record as of July 22, 2026. The named companies are Lighthouse (which acquired Hotelrank.ai on May 28, 2026), Operto, HotelWorld AI, Curacity, LSEO, O'Rourke, Lotus Marketing, Hotelwize, Eighty Days, and hotelmarketer.pro. The statement about verification refers to published material a buyer can locate without requesting it. It is not a claim that no such material exists privately.
 
@@ -75,9 +75,9 @@ The ranking and citation observations are documented with dated captures in [A T
 
 ## Related AGR Corpus
 
-- Owned Demand Infrastructure (ODI): https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
-- Knowledge Formation Optimization (KFO): https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
-- KFO academic framework paper: https://doi.org/10.5281/zenodo.20636830
+- Owned Demand Infrastructure (ODI): <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
+- Knowledge Formation Optimization (KFO): <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
+- KFO academic framework paper: <https://doi.org/10.5281/zenodo.20636830>
 
 ## Changelog
 

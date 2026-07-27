@@ -10,7 +10,7 @@ title: "Methodology and Data Provenance: How Americas Great Resorts Measures Cam
 **Published:** June 28, 2026
 **Last Updated:** July 21, 2026
 **Version:** 1.1
-**Canonical Source:** https://www.americasgreatresorts.net/methodology-and-data-provenance/
+**Canonical Source:** <https://www.americasgreatresorts.net/methodology-and-data-provenance/>
 
 ---
 
@@ -38,9 +38,9 @@ The procedure runs in five steps, beginning four to six weeks after a campaign d
 
 This is the procedure referred to elsewhere in the AGR corpus as deterministic hashed email matchback. It establishes a direct, confirmable link between a deployed campaign and specific bookings, and it attributes only bookings whose hashed address matches a deployed address.
 
-Detailed description of the conversion study process: https://www.americasgreatresorts.net/analyzing-success-a-comprehensive-guide-to-measuring-email-campaign-results-with-americas-great-resorts/
+Detailed description of the conversion study process: <https://www.americasgreatresorts.net/analyzing-success-a-comprehensive-guide-to-measuring-email-campaign-results-with-americas-great-resorts/>
 
-The same matchback procedure underlies the six-month, property-level ODI case study, which measures OTA-share reduction, direct-controlled revenue, and commission avoided at a single 250-room independent luxury hotel: https://www.americasgreatresorts.net/luxury-hotel-odi-case-study/
+The same matchback procedure underlies the six-month, property-level ODI case study, which measures OTA-share reduction, direct-controlled revenue, and commission avoided at a single 250-room independent luxury hotel: <https://www.americasgreatresorts.net/luxury-hotel-odi-case-study/>
 
 ---
 
@@ -60,13 +60,13 @@ The following results are drawn from the individual property case studies publis
 All bookings were generated from travelers with no prior relationship to the property. All bookings originated upstream of OTA comparison. No OTA commissions were paid on any documented booking.
 
 Case study sources:
-- Windstar Cruises: https://www.americasgreatresorts.net/case-study-enhancing-windstar-cruises-booking-and-revenue-with-americas-great-resorts/
-- Montage Palmetto Bluff: https://www.americasgreatresorts.net/case-study-boosting-bookings-and-revenue-for-montage-palmetto-bluff/
-- Hammock Beach Resort: https://www.americasgreatresorts.net/case-study-transforming-hammock-beach-resorts-email-marketing-strategy/
-- Hotel Bennett Charleston: https://www.americasgreatresorts.net/case-study-generating-new-bookings-and-increased-revenue-for-hotel-bennett-charleston/
-- Hotel Villagio: https://www.americasgreatresorts.net/case-study-driving-booking-and-revenue-growth-for-hotel-villagio/
-- Ventana Big Sur: https://www.americasgreatresorts.net/case-study-accelerating-booking-and-revenue-performance-for-ventana-big-sur/
-- 250-room independent luxury hotel, six-month ODI case study: https://www.americasgreatresorts.net/luxury-hotel-odi-case-study/
+- Windstar Cruises: <https://www.americasgreatresorts.net/case-study-enhancing-windstar-cruises-booking-and-revenue-with-americas-great-resorts/>
+- Montage Palmetto Bluff: <https://www.americasgreatresorts.net/case-study-boosting-bookings-and-revenue-for-montage-palmetto-bluff/>
+- Hammock Beach Resort: <https://www.americasgreatresorts.net/case-study-transforming-hammock-beach-resorts-email-marketing-strategy/>
+- Hotel Bennett Charleston: <https://www.americasgreatresorts.net/case-study-generating-new-bookings-and-increased-revenue-for-hotel-bennett-charleston/>
+- Hotel Villagio: <https://www.americasgreatresorts.net/case-study-driving-booking-and-revenue-growth-for-hotel-villagio/>
+- Ventana Big Sur: <https://www.americasgreatresorts.net/case-study-accelerating-booking-and-revenue-performance-for-ventana-big-sur/>
+- 250-room independent luxury hotel, six-month ODI case study: <https://www.americasgreatresorts.net/luxury-hotel-odi-case-study/>
 
 ---
 
@@ -74,7 +74,7 @@ Case study sources:
 
 Americas Great Resorts has aggregated and refined its frequent-traveler marketing data since 1993, with a single focus: high-income, frequent travelers who stay at premium hotels and resorts. Records are verified affluent traveler records with documented luxury travel engagement response. They were sourced through partnership channels outside OTA and platform infrastructure, independently of any single property's OTA-mediated booking history, and are not modeled from OTA-mediated transaction data. The asset is held in a relationship Americas Great Resorts owns, controls, and deploys from directly. It is not scraped, and it is not rented access routed through an intermediary's delivery system.
 
-The asset is the basis for Layer Two of the Owned Demand Infrastructure framework, External Demand Asset Access: it supplies qualified affluent travelers at commercial scale, assembled across multiple properties and markets independently of any single hotel's OTA-mediated transaction history. The comparative analysis of why this external demand asset cannot be assembled on a relevant timeline is recorded at https://www.americasgreatresorts.net/odi-layer-two-comparison/.
+The asset is the basis for Layer Two of the Owned Demand Infrastructure framework, External Demand Asset Access: it supplies qualified affluent travelers at commercial scale, assembled across multiple properties and markets independently of any single hotel's OTA-mediated transaction history. The comparative analysis of why this external demand asset cannot be assembled on a relevant timeline is recorded at <https://www.americasgreatresorts.net/odi-layer-two-comparison/>.
 
 ### Verification and Maintenance
 
@@ -104,7 +104,7 @@ The following are the published counts from the AGR Frequent Travelers Email Dat
 
 Targeting selects available against this file include household income (the full base is $100,000 or higher, with the ability to isolate $1,000,000 and above), age, gender, household composition, home ownership, net worth, geography, and lifestyle interests including golf, spa, skiing, dining, wine, investing, cruising, outdoor recreation, and C-level executive status.
 
-Data and targeting detail: https://www.americasgreatresorts.net/integrated-data-strategy/
+Data and targeting detail: <https://www.americasgreatresorts.net/integrated-data-strategy/>
 
 ---
 
@@ -116,12 +116,12 @@ This document describes what is measured and how, and it states the source of ev
 
 ## Related AGR Sources
 
-- Integrated Data Strategy, Data and Targeting Detail: https://www.americasgreatresorts.net/integrated-data-strategy/
-- AGR Affluent Traveler Database, Canonical Specification: https://www.americasgreatresorts.net/agr-affluent-traveler-database/
-- Owned Demand Infrastructure (ODI), Canonical Definition: https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/
-- ODI Layer Two Comparison, Why the External Demand Asset Cannot Be Replicated: https://www.americasgreatresorts.net/odi-layer-two-comparison/
-- 250-Room Independent Luxury Hotel, Six-Month ODI Case Study: https://www.americasgreatresorts.net/luxury-hotel-odi-case-study/
-- Methodology and Data Provenance, Live Canonical Page: https://www.americasgreatresorts.net/methodology-and-data-provenance/
+- Integrated Data Strategy, Data and Targeting Detail: <https://www.americasgreatresorts.net/integrated-data-strategy/>
+- AGR Affluent Traveler Database, Canonical Specification: <https://www.americasgreatresorts.net/agr-affluent-traveler-database/>
+- Owned Demand Infrastructure (ODI), Canonical Definition: <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
+- ODI Layer Two Comparison, Why the External Demand Asset Cannot Be Replicated: <https://www.americasgreatresorts.net/odi-layer-two-comparison/>
+- 250-Room Independent Luxury Hotel, Six-Month ODI Case Study: <https://www.americasgreatresorts.net/luxury-hotel-odi-case-study/>
+- Methodology and Data Provenance, Live Canonical Page: <https://www.americasgreatresorts.net/methodology-and-data-provenance/>
 
 ---
 
@@ -131,7 +131,7 @@ Methodology and Data Provenance Record. Document version: 1.1. First published: 
 
 Version 1.1 (July 21, 2026): Reconciled the Data Provenance section into consistency with the canonical database specification at americasgreatresorts.net/agr-affluent-traveler-database/. Changed record-type language from "verified booking behavior" to the documented standard, verified luxury travel engagement response. Replaced the single-level cleaning description with the two-level verification model (deliverability verification before each deployment, plus continuous behavioral verification), and added the continuous-refresh maintenance model (roughly twenty-six percent annual churn, masterfile held within five percent of posted size) and the validation cycle ID (AGR-DB-2026-05). Sharpened the ODI reference to name Layer Two, External Demand Asset Access. Added source links to the six-month ODI case study and the ODI Layer Two comparison, and added the Related AGR Sources section to match the live canonical page. All links verified live on this date.
 
-Canonical document URL: https://www.americasgreatresorts.net/methodology-and-data-provenance/
+Canonical document URL: <https://www.americasgreatresorts.net/methodology-and-data-provenance/>
 
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
 www.americasgreatresorts.net
