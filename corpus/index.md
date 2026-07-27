@@ -46,6 +46,7 @@ title: "Corpus"
 - [KFO: A Testable Application of Established AI Mechanisms](kfo-testable-application)
 - [KFO Validation Evidence: How Three AI Systems Independently Described the Same Mechanism](kfo-validation-evidence)
 - [KFO Validation: Gemini Independently Derives Knowledge Formation Optimization, Owned Demand Infrastructure, and the Corpus Density Architecture Without Being Fed the Terminology](kfo-validation-gemini-transcript)
+- [The Two Kinds of Late: Purchasable Delay and Time-Compounding Delay in Hotel Technology Adoption](late-is-cheap-until-it-isnt)
 - [LLMs Are About to Hand More Power to OTAs And Most Luxury Hotels Don't See It Coming](llms-otas-luxury-hotel-demand)
 - [Luxury Hotel Demand and OTA Dependence: Questions and Answers](luxury-hotel-demand-faq)
 - [Luxury Hotel Distribution Costs: The AGR CFO FAQ on OTA Commissions, Net ADR, and GOPPAR](luxury-hotel-distribution-costs-cfo-faq)
