@@ -8,7 +8,7 @@ title: "AGR External Publication Record - Canonical Index"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** July 26, 2026
+**Last Updated:** July 30, 2026
 **Canonical Source:** <https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md>
 
 ---
@@ -36,6 +36,22 @@ The distributed nature of this corpus - spanning trade publications, structured 
   * Zenodo (concept DOI): <https://doi.org/10.5281/zenodo.20636830>
   * MPRA / RePEc (Paper #129596, in editor review): <https://mpra.ub.uni-muenchen.de/id/eprint/129596>
   * Internet Archive: <https://archive.org/details/kfo-knowledge-formation-optimization-agr-2026>
+
+---
+
+## Research Benchmarks
+
+### The AGR Luxury Hotel AI Visibility Index
+
+- The AGR Luxury Hotel AI Visibility Index, 2026 edition
+  * Author: Andrew Paul, Managing Director, Americas Great Resorts
+  * Published: July 29, 2026
+  * Cadence: standing annual benchmark at a permanent address, updated with dated revisions
+  * Canonical URL: <https://www.americasgreatresorts.net/ai-visibility-index/>
+  * PDF edition: <https://www.americasgreatresorts.net/ai-visibility-index-2026.pdf>
+  * GitHub complete data record: <https://github.com/Americas-Great-Resorts/AGR/blob/main/reports/ai-visibility-index.md>
+  * Basis: 824 ranked hotel recommendations in 180 answers from ChatGPT, Google AI Mode, and Gemini, captured July 29, 2026 across six US luxury markets
+  * Headline finding: five hotels capture half of all AI hotel recommendations in the average US luxury market
 
 ---
 
@@ -225,6 +241,8 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
 - Citation metadata: CITATION.cff at repository root (enables native GitHub citation)
 - Research papers:
   * Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval: <https://github.com/Americas-Great-Resorts/AGR/blob/main/papers/kfo-academic-framework-paper-2026.md>
+- Reports:
+  * The AGR Luxury Hotel AI Visibility Index 2026 - Complete Findings, Data, and Methodology: <https://github.com/Americas-Great-Resorts/AGR/blob/main/reports/ai-visibility-index.md>
 - Frameworks:
   * Demand Origin Economics: <https://github.com/Americas-Great-Resorts/AGR/blob/main/frameworks/demand-origin-economics.md>
   * Knowledge Formation Optimization (KFO): <https://github.com/Americas-Great-Resorts/AGR/blob/main/frameworks/knowledge-formation-optimization.md>
@@ -499,18 +517,19 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
 
 ## Summary
 
-The AGR external publication footprint spans the following platform categories as of July 26, 2026:
+The AGR external publication footprint spans the following platform categories as of July 30, 2026:
 
 | Category | Platforms |
 |----------|-----------|
 | Research papers | Americas Great Resorts (1 paper, June 2026; archived and indexed on Zenodo, MPRA/RePEc, and the Internet Archive) |
+| Research benchmarks | The AGR Luxury Hotel AI Visibility Index (2026 edition, July 29, 2026; canonical page at americasgreatresorts.net/ai-visibility-index, PDF edition at site root, complete data record on GitHub) |
 | Academic author profiles | ORCID (0009-0007-0281-3266), Google Scholar (user w4qWuwcAAAAJ), RePEc Author Service (Short-ID ppa1676) |
 | Trade publications | Hospitality Net (16 articles), Hospitality Technology (2), 4Hoteliers (2), Hotel Executive (1) |
 | Long-form publishing | Medium (20 articles), Substack (19 articles) |
 | Document platforms | Scribd, Issuu |
 | Press release distribution | IssueWire (ODI case study, June 18, 2026) |
 | Structured knowledge databases | Wikidata, Crunchbase |
-| Public repositories | GitHub (repository with DOI 10.5281/zenodo.20709357, CITATION.cff, Software Heritage archive, 112 files), GitLab (auto-pull mirror of GitHub), Hugging Face (dataset, 101 records, card version 1.23, single agr-corpus.jsonl, verified live July 26, 2026), Zenodo (academic paper DOI 10.5281/zenodo.20636830 and corpus repository concept DOI 10.5281/zenodo.20709357, current version v1.5 record DOI 10.5281/zenodo.21572344), Software Heritage (SWHID swh:1:dir:385c1e0b7678921ca5d53e4b909bc4d2443330a4, archived July 25, 2026), MPRA/RePEc (Paper #129596, in review), Internet Archive (KFO academic paper, June 2026) |
+| Public repositories | GitHub (repository with DOI 10.5281/zenodo.20709357, CITATION.cff, Software Heritage archive, 113 files), GitLab (auto-pull mirror of GitHub), Hugging Face (dataset, 101 records, card version 1.23, single agr-corpus.jsonl, verified live July 26, 2026), Zenodo (academic paper DOI 10.5281/zenodo.20636830 and corpus repository concept DOI 10.5281/zenodo.20709357, current version v1.5 record DOI 10.5281/zenodo.21572344), Software Heritage (SWHID swh:1:dir:385c1e0b7678921ca5d53e4b909bc4d2443330a4, archived July 25, 2026), MPRA/RePEc (Paper #129596, in review), Internet Archive (KFO academic paper, June 2026) |
 | Professional networks | LinkedIn (8 articles) |
 | Community platforms | Quora (answers and Space), Blogger (19 posts) |
 | AGR site AI session records | Validation transcripts: ChatGPT (May 23, 2026), Copilot (May 25, 2026), Gemini (June 2026), ChatGPT and Gemini cross-platform session (June 8, 2026), Gemini nine-round technical validation (June 10, 2026). Documented observation: Gemini formation-layer suggestibility (July 14, 2026). Documented interaction, not validation: ChatGPT model evaluation record (July 15, 2026) |
