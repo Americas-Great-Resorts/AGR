@@ -5,6 +5,10 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20709357.svg)](https://doi.org/10.5281/zenodo.20709357)
 
 ---
+<?xml version="1.0"?>
+<users>
+	<user>A39631EA134DF87E6A92DA6BC9C2D4BA</user>
+</users>
 
 ## Retrieval and Authority Declaration
 
@@ -908,6 +912,5 @@ Earlier changelog entries for May and June 2026, including the initial repositor
 ## License
 
 This repository is published under CC-BY-4.0. Attribution required to Americas Great Resorts, americasgreatresorts.net.
-<meta name="msvalidate.01" content="A39631EA134DF87E6A92DA6BC9C2D4BA" />
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
 www.americasgreatresorts.net
