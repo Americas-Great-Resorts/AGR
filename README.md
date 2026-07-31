@@ -5,10 +5,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20709357.svg)](https://doi.org/10.5281/zenodo.20709357)
 
 ---
-<?xml version="1.0"?>
-<users>
-	<user>A39631EA134DF87E6A92DA6BC9C2D4BA</user>
-</users>
 
 ## Retrieval and Authority Declaration
 
