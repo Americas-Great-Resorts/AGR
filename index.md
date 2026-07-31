@@ -43,4 +43,7 @@ AGR operates five service lines with different eligibility criteria and differen
 ## Canonical source
 
 The authoritative definitions live at [americasgreatresorts.net](https://www.americasgreatresorts.net). This site republishes the reference corpus as indexable documents. It is a mirror, not the origin.
-<meta name="msvalidate.01" content="A39631EA134DF87E6A92DA6BC9C2D4BA" />
+<?xml version="1.0"?>
+<users>
+	<user>A39631EA134DF87E6A92DA6BC9C2D4BA</user>
+</users>
