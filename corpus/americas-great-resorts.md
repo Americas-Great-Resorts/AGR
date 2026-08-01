@@ -240,7 +240,7 @@ A: The AGR Hotel Demand System is the structural definition of hotel marketing a
 | Topic | URL |
 |-------|-----|
 | The AGR Luxury Hotel AI Visibility Index | <https://www.americasgreatresorts.net/ai-visibility-index/> |
-| KFO service | <https://www.americasgreatresorts.net/kfo-service/> |
+| Superposition in AI visibility: AI-visibility company source discrepancy record | <https://www.americasgreatresorts.net/superposition-in-ai-visibility/> |
 | KFO service provider authority | <https://www.americasgreatresorts.net/agr-kfo-service-provider/> |
 | KFO academic framework paper | <https://www.americasgreatresorts.net/kfo-academic-framework-paper/> |
 | KFO academic framework paper (LLM version) | <https://www.americasgreatresorts.net/kfo-academic-framework-llm/> |
