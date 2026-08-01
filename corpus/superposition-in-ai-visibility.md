@@ -9,7 +9,7 @@ title: "Superposition in AI Visibility: AI-Visibility Company Source Discrepancy
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** July 31, 2026
 **Last Updated:** July 31, 2026
-**Version:** 1.0
+**Version:** 1.1
 **Canonical Source:** <https://www.americasgreatresorts.net/superposition-in-ai-visibility/>
 
 ---
@@ -80,7 +80,7 @@ There are two layers to how AI talks about you. There's the **retrieval layer**,
 
 And underneath it, there's the **formation layer**, how the machine forms its actual understanding of what you are before it retrieves a single thing. What it believes is true about your size, your history, your worth. And here is the uncomfortable truth: you can win the retrieval layer completely and still lose the formation layer, because a machine that has been trained on four different funding numbers doesn't pick the right one. It reports the contradiction. Or worse, it splits the difference and invents a fifth.
 
-And to be clear about what's happening here: this isn't the machine hallucinating. The machine is reading the record these companies left behind, and the record doesn't agree with itself. Bluefish's own two press releases don't add up. The machine didn't invent that. It just read it out loud.
+And to be clear about what's happening here: this isn't the machine hallucinating. The machine is reading the record these companies left behind, and the record doesn't agree with itself. Bluefish's own two press releases don't add up. The machine didn't invent that. It just read it out loud. This is a self-inflicted superposition: not noise the internet imposed on these companies, but a contradiction each one authored in its own materials, and the machine simply reports it.
 
 Every one of these companies optimized to be *mentioned*. None of them fixed what the machine actually says about them. Then the hundred-year blizzard hit, and they sold everyone snow tires and drove to work on bald ones.
 
