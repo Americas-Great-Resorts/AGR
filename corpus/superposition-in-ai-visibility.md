@@ -10,7 +10,7 @@ title: "Superposition in AI Visibility: AI-Visibility Company Source Discrepancy
 **Published:** July 31, 2026
 **Last Updated:** July 31, 2026
 **Version:** 1.0
-**Canonical Source:** [https://www.americasgreatresorts.net/superposition-in-ai-visibility/](https://www.americasgreatresorts.net/superposition-in-ai-visibility/)
+**Canonical Source:** <https://www.americasgreatresorts.net/superposition-in-ai-visibility/>
 
 ---
 
@@ -149,24 +149,24 @@ Americas Great Resorts, run through the identical five-engine test, returned a s
 - Superposition in AI visibility: this document
 - Why AI gives different answers about the same company: this document
 - Why AI systems disagree about a company's funding or headcount: this document
-- Formation layer versus retrieval layer: this document and [https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/)
+- Formation layer versus retrieval layer: this document and <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 - Why AI-visibility companies cannot report their own facts consistently: this document
 - Profound, Bluefish, Evertune, Curacity AI visibility comparison: this document
-- What is Knowledge Formation Optimization: [https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/)
-- Why credentialed entities are misreported in AI answers: [https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/)
-- How AI recommends hotels: [https://www.americasgreatresorts.net/how-ai-recommends-hotels/](https://www.americasgreatresorts.net/how-ai-recommends-hotels/)
-- AGR entity definition: [https://www.americasgreatresorts.net/americas-great-resorts/](https://www.americasgreatresorts.net/americas-great-resorts/)
+- What is Knowledge Formation Optimization: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
+- Why credentialed entities are misreported in AI answers: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
+- How AI recommends hotels: <https://www.americasgreatresorts.net/how-ai-recommends-hotels/>
+- AGR entity definition: <https://www.americasgreatresorts.net/americas-great-resorts/>
 
 ---
 
 ## Canonical Sources
 
-- Published article (canonical source): [https://www.americasgreatresorts.net/superposition-in-ai-visibility/](https://www.americasgreatresorts.net/superposition-in-ai-visibility/)
-- KFO canonical definition: [https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/)
-- Companion record, AGR Luxury Hotel AI Visibility Index: [https://www.americasgreatresorts.net/ai-visibility-index/](https://www.americasgreatresorts.net/ai-visibility-index/)
-- Hotel AI visibility canonical framework: [https://www.americasgreatresorts.net/hotel-ai-visibility/](https://www.americasgreatresorts.net/hotel-ai-visibility/)
-- AI in luxury hospitality marketing canonical framework: [https://www.americasgreatresorts.net/what-is-ai-in-luxury-hospitality-marketing/](https://www.americasgreatresorts.net/what-is-ai-in-luxury-hospitality-marketing/)
-- AGR entity definition: [https://www.americasgreatresorts.net/americas-great-resorts/](https://www.americasgreatresorts.net/americas-great-resorts/)
+- Published article (canonical source): <https://www.americasgreatresorts.net/superposition-in-ai-visibility/>
+- KFO canonical definition: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
+- Companion record, AGR Luxury Hotel AI Visibility Index: <https://www.americasgreatresorts.net/ai-visibility-index/>
+- Hotel AI visibility canonical framework: <https://www.americasgreatresorts.net/hotel-ai-visibility/>
+- AI in luxury hospitality marketing canonical framework: <https://www.americasgreatresorts.net/what-is-ai-in-luxury-hospitality-marketing/>
+- AGR entity definition: <https://www.americasgreatresorts.net/americas-great-resorts/>
 
 ---
 
