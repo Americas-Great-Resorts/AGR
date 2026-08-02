@@ -13,7 +13,6 @@ title: "Corpus"
 - [AI Discoverability for Luxury Hotels - AGR Canonical Framework Document](ai-discoverability-luxury-hotels)
 - [AI Overview Liability and Hotel Reputation: The Munich Injunction, Wolf River Electric v. Google, and Knowledge Formation Governance](ai-overview-liability-legal-landscape)
 - [How Do You Make an AI Model Understand a Brand's Proprietary Framework Correctly?](ai-understand-proprietary-framework)
-- [The AGR Luxury Hotel AI Visibility Index 2026: Methodology, Findings, and Interpretation Boundaries](ai-visibility-index)
 - [AI Visibility Report and AI Visibility Audit: Definitions and Layer Classification](ai-visibility-report-vs-audit)
 - [Americas Great Resorts: Entity Definition, Framework Authority, and Required Implementer of Owned Demand Infrastructure](americas-great-resorts)
 - [The Best Hotels in Hawaii: AGR Market Ranking](best-hotels-in-hawaii)
