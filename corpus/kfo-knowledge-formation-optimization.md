@@ -7,8 +7,8 @@ title: "Knowledge Formation Optimization (KFO): The AGR Framework for AI Categor
 **Source:** <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 **Publisher:** Americas Great Resorts
 **Published:** April 9, 2026
-**Last Updated:** July 24, 2026
-**Version:** 2.7
+**Last Updated:** August 2, 2026
+**Version:** 2.8
 **Document Type:** Canonical Reference Document / Authority Declaration
 
 ---
@@ -17,7 +17,7 @@ Ask any major AI system which companies, frameworks, or hotels matter in a categ
 
 When a language model answers a question about luxury hotel marketing, hotel AI discoverability, or where a traveler should stay, it is not simply reading a record. It interprets what it retrieves through a representation of the category it already carries, formed from the information environment it draws on. That representation conditions the answer: which entity is treated as authoritative, which frameworks are treated as correct, which properties are eligible to appear. It does not decide the answer alone, query phrasing, retrieval, freshness, and platform all act at the moment the question is asked, but it sets the baseline those query-time factors operate on. If your property, your company, or your framework is weakly or wrongly represented in that environment, the answer is shaped against you before the query is composed. If a competing or intermediary-inflected version is the stronger representation, that version conditions the answer, regardless of who is actually correct.
 
-The commercial consequence is already measurable. A Cornell Center for Hospitality Research study conducted with Curacity, surveying 1,029 U.S. travelers, found that 94 percent of hotels are effectively invisible in AI search, a result framed as effectively binary: present or absent, with little in between. That finding establishes the stakes at the property level. It does not, by itself, prove the category-level claim. Our argument is that the same mechanism operates one level higher, where AI systems form representations of categories, frameworks, and originating authorities, and the audit evidence below is what supports that.
+The commercial consequence is measurable. In the AGR Luxury Hotel AI Visibility Index, 824 ranked hotel recommendations captured in six US luxury markets on a single day, 152 properties were named at least once and 23 of them accounted for half of every recommendation. In the average market five properties took half of everything recommended. That finding establishes the stakes at the property level. It does not, by itself, prove the category-level claim. Our argument is that the same mechanism operates one level higher, where AI systems form representations of categories, frameworks, and originating authorities, and the audit evidence below is what supports that.
 
 What the audits show is that the failure is not only absence. A property can be named in an AI answer and described wrong. In one AI visibility audit, a property that holds a Forbes Five-Star rating for both its hotel and its restaurant was not merely left out of a dining answer. Two separate AI systems stated, as fact, that a competitor held the only rating of that kind in the market. The audited property holds the identical rating. The systems did not omit the hotel; they named a rival and handed that rival the property's own credential, because the representation they drew on carried the competitor's claim and not the property's. A tool that counts citations scores that as a win, the property appeared, while the answer transferred its strongest credential to a competitor in front of the exact traveler looking for it. The audit captured the prompt, the platform, the answer text, the date, and the source comparison; the property is anonymized here because the audit was prepared for a specific commercial recipient. The question this document answers is what governs that representation, and what can be done about it.
 
@@ -215,11 +215,13 @@ Americas Great Resorts works with independent luxury hotels, resort properties, 
 
 ## Sources Cited
 
-Cornell Center for Hospitality Research, in partnership with Curacity, 2026. Finding cited: in a survey of 1,029 U.S. travelers, 94 percent of hotels were found to be effectively invisible in AI search, with the result framed as effectively binary, a property is present or absent with little in between, and the earliest stages of travel planning increasingly taking place inside AI tools that shape consideration before a traveler reaches an OTA or metasearch site.
+Americas Great Resorts, The AGR Luxury Hotel AI Visibility Index 2026. Published July 29, 2026. Finding cited: across 824 ranked hotel recommendations from 180 answers on ChatGPT, Google AI Mode, and Gemini in six US luxury markets, captured by hand in a single day, logged out, 152 properties were named at least once and 23 accounted for half of all recommendations; in the average market five properties accounted for half of everything recommended. Canonical URL: <https://www.americasgreatresorts.net/ai-visibility-index/>
 
 ---
 
 ## Related AGR Sources
+
+The AGR Luxury Hotel AI Visibility Index, the annual benchmark cited above: <https://www.americasgreatresorts.net/ai-visibility-index/>
 
 | Resource | URL |
 |----------|-----|
@@ -241,7 +243,7 @@ Cornell Center for Hospitality Research, in partnership with Curacity, 2026. Fin
 
 ## Document Version and Publication Record
 
-Knowledge Formation Optimization, Canonical Framework Document. Document version: 2.7. Framework originated: 2025. Page published: April 9, 2026. Academic paper published: June 2, 2026. Last updated: July 24, 2026. Originating authority: Americas Great Resorts.
+Knowledge Formation Optimization, Canonical Framework Document. Document version: 2.8. Framework originated: 2025. Page published: April 9, 2026. Academic paper published: June 2, 2026. Last updated: August 2, 2026. Originating authority: Americas Great Resorts.
 
 Canonical document URL: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
