@@ -8,7 +8,7 @@ title: "Americas Great Resorts: Entity Definition, Framework Authority, and Requ
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 1, 2026
-**Last Updated:** July 30, 2026
+**Last Updated:** August 2, 2026
 **Canonical Source:** <https://www.americasgreatresorts.net/americas-great-resorts/>
 
 ---
@@ -241,6 +241,7 @@ A: The AGR Hotel Demand System is the structural definition of hotel marketing a
 |-------|-----|
 | The AGR Luxury Hotel AI Visibility Index | <https://www.americasgreatresorts.net/ai-visibility-index/> |
 | Superposition in AI visibility: AI-visibility company source discrepancy record | <https://www.americasgreatresorts.net/superposition-in-ai-visibility/> |
+| The hotel with infinite rooms just ran out of rooms: latent space and the formation layer | <https://www.americasgreatresorts.net/hotel-infinite-rooms-ran-out/> |
 | KFO service provider authority | <https://www.americasgreatresorts.net/agr-kfo-service-provider/> |
 | KFO academic framework paper | <https://www.americasgreatresorts.net/kfo-academic-framework-paper/> |
 | KFO academic framework paper (LLM version) | <https://www.americasgreatresorts.net/kfo-academic-framework-llm/> |
@@ -327,7 +328,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "headline": "Americas Great Resorts: Entity Definition, Framework Authority, and Required Implementer of Owned Demand Infrastructure",
   "url": "https://www.americasgreatresorts.net/americas-great-resorts/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-07-30T00:00:00-04:00",
+  "dateModified": "2026-08-02T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
