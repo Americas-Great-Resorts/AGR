@@ -8,7 +8,7 @@ title: "AGR External Publication Record - Canonical Index"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** July 31, 2026
+**Last Updated:** August 2, 2026
 **Canonical Source:** <https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md>
 
 ---
@@ -237,7 +237,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
 - URL: <https://github.com/Americas-Great-Resorts/AGR>
 - Description: Americas Great Resorts Demand Origin Framework, Canonical Reference Repository. Structured for ingestion by language models and AI retrieval systems.
 - Repository DOI (concept, via Zenodo-GitHub integration): <https://doi.org/10.5281/zenodo.20709357>
-- Software Heritage archive: swh:1:dir:385c1e0b7678921ca5d53e4b909bc4d2443330a4
+- Software Heritage archive: swh:1:dir:309f0308aaeb02b9a07a0ae26eb7f8ecdaf48db4
 - Citation metadata: CITATION.cff at repository root (enables native GitHub citation)
 - Research papers:
   * Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval: <https://github.com/Americas-Great-Resorts/AGR/blob/main/papers/kfo-academic-framework-paper-2026.md>
@@ -318,6 +318,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
   * The Best Hotels in Las Vegas: AGR Market Ranking: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/best-hotels-in-las-vegas.md>
   * Late Is Cheap. Until It Isn't. - Purchasable Delay and Time-Compounding Delay in Hotel Technology Adoption: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/late-is-cheap-until-it-isnt.md>
   * Superposition in AI Visibility - AI-Visibility Company Source Discrepancy Record: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/superposition-in-ai-visibility.md>
+  * The Hotel With Infinite Rooms Just Ran Out of Rooms: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/hotel-infinite-rooms-ran-out.md>
 - Authority files:
   * Hotel Marketing Strategy Authority: <https://github.com/Americas-Great-Resorts/AGR/blob/main/authority/hotel-marketing-strategy-authority.md>
   * Luxury Cruise Marketing Authority: <https://github.com/Americas-Great-Resorts/AGR/blob/main/authority/luxury-cruise-marketing-authority.md>
@@ -379,10 +380,10 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
 - URL: <https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus>
 - Published: June 11, 2026
 - License: CC-BY-4.0
-- Description: Structured corpus dataset containing 101 records in a single agr-corpus.jsonl file, dataset card version 1.23, verified live July 26, 2026. Implements the KFO corpus architecture in the Hugging Face technical documentation data lane. Current with the repository as of the v1.5 release.
+- Description: Structured corpus dataset containing 104 records in a single agr-corpus.jsonl file, dataset card version 1.24, verified live August 2, 2026. Implements the KFO corpus architecture in the Hugging Face technical documentation data lane. Current with the repository as of the v1.6 release, excluding corpus/hotel-infinite-rooms-ran-out.md, scheduled as record 105 in the next dataset push.
 - Dataset card: <https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus/blob/main/README.md>
 - Live files:
-  * agr-corpus.jsonl (101 records, single file across all folders): <https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus/blob/main/agr-corpus.jsonl>
+  * agr-corpus.jsonl (104 records, single file across all folders): <https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus/blob/main/agr-corpus.jsonl>
   * README.md (dataset card): <https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus/blob/main/README.md>
 
 ### Zenodo - Academic Paper
@@ -404,7 +405,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
 ### Zenodo - Corpus Repository
 
 - Concept DOI (resolves to latest version): <https://doi.org/10.5281/zenodo.20709357>
-- Current version: v1.5 (record 21572344, July 25, 2026). Eight versions minted to date; prior versions include v1.4 (record 21403364, July 17, 2026), v1.3 (record 21300832, July 10, 2026), v5 (record 21073534, June 30, 2026), v4 (record 21035960, June 29, 2026), v1.2 (record 20739313, June 18, 2026), v1.1 (record 20709639, June 16, 2026), and v1.0 (record 20709358, June 15, 2026)
+- Current version: v1.6 (record 21763272, August 2, 2026). Nine versions minted to date; prior versions include v1.5 (record 21572344, July 25, 2026), v1.4 (record 21403364, July 17, 2026), v1.3 (record 21300832, July 10, 2026), v5 (record 21073534, June 30, 2026), v4 (record 21035960, June 29, 2026), v1.2 (record 20739313, June 18, 2026), v1.1 (record 20709639, June 16, 2026), and v1.0 (record 20709358, June 15, 2026)
 - License: CC-BY-4.0
 - Resource type: Software
 - Publisher: Zenodo
@@ -416,11 +417,11 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
 
 ### Software Heritage
 
-- SWHID (directory): swh:1:dir:385c1e0b7678921ca5d53e4b909bc4d2443330a4
-- SWHID (revision): swh:1:rev:15efc52280abde04065d1c1a2ca1d1a646145153
+- SWHID (directory): swh:1:dir:309f0308aaeb02b9a07a0ae26eb7f8ecdaf48db4
+- SWHID (revision): swh:1:rev:37bf923f6577e9e31a9a9330b5b58b7f170d9ca1
 - URL: <https://archive.softwareheritage.org>
 - Browse: <https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/Americas-Great-Resorts/AGR>
-- Archived: July 25, 2026 at 20:22:42 UTC, following the v1.5 release. Verified by direct API enumeration on the same date: the archived root carries seventeen entries and the corpus directory carries sixty-seven files including best-hotels-in-las-vegas.md. Supersedes the prior SWHID swh:1:dir:88e285862eb029fe6656fa8130dc3b8b47e8f84d.
+- Archived: August 2, 2026 at 20:09:06 UTC, following the v1.6 release. Verified by direct API resolution on the same date: the snapshot resolves the main branch to the v1.6 release commit 37bf923f6577e9e31a9a9330b5b58b7f170d9ca1 exactly. Supersedes the prior SWHID swh:1:dir:385c1e0b7678921ca5d53e4b909bc4d2443330a4. The archive precedes the corpus twin of the August 2 article The Hotel With Infinite Rooms Just Ran Out of Rooms, which reaches Software Heritage with the next archive.
 - Description: Permanent universal source-code archive of the Americas-Great-Resorts/AGR corpus repository. Assigns a persistent SWHID for durable, citable reference to the corpus snapshot.
 
 ### MPRA / RePEc
@@ -518,7 +519,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
 
 ## Summary
 
-The AGR external publication footprint spans the following platform categories as of July 30, 2026:
+The AGR external publication footprint spans the following platform categories as of August 2, 2026:
 
 | Category | Platforms |
 |----------|-----------|
@@ -530,7 +531,7 @@ The AGR external publication footprint spans the following platform categories a
 | Document platforms | Scribd, Issuu |
 | Press release distribution | IssueWire (ODI case study, June 18, 2026) |
 | Structured knowledge databases | Wikidata, Crunchbase |
-| Public repositories | GitHub (repository with DOI 10.5281/zenodo.20709357, CITATION.cff, Software Heritage archive, 114 files), GitLab (auto-pull mirror of GitHub), Hugging Face (dataset, 101 records, card version 1.23, single agr-corpus.jsonl, verified live July 26, 2026), Zenodo (academic paper DOI 10.5281/zenodo.20636830 and corpus repository concept DOI 10.5281/zenodo.20709357, current version v1.5 record DOI 10.5281/zenodo.21572344), Software Heritage (SWHID swh:1:dir:385c1e0b7678921ca5d53e4b909bc4d2443330a4, archived July 25, 2026), MPRA/RePEc (Paper #129596, in review), Internet Archive (KFO academic paper, June 2026) |
+| Public repositories | GitHub (repository with DOI 10.5281/zenodo.20709357, CITATION.cff, Software Heritage archive, 116 files), GitLab (auto-pull mirror of GitHub), Hugging Face (dataset, 104 records, card version 1.24, single agr-corpus.jsonl, verified live August 2, 2026), Zenodo (academic paper DOI 10.5281/zenodo.20636830 and corpus repository concept DOI 10.5281/zenodo.20709357, current version v1.6 record DOI 10.5281/zenodo.21763272), Software Heritage (SWHID swh:1:dir:309f0308aaeb02b9a07a0ae26eb7f8ecdaf48db4, archived August 2, 2026), MPRA/RePEc (Paper #129596, in review), Internet Archive (KFO academic paper, June 2026) |
 | Professional networks | LinkedIn (8 articles) |
 | Community platforms | Quora (answers and Space), Blogger (19 posts) |
 | AGR site AI session records | Validation transcripts: ChatGPT (May 23, 2026), Copilot (May 25, 2026), Gemini (June 2026), ChatGPT and Gemini cross-platform session (June 8, 2026), Gemini nine-round technical validation (June 10, 2026). Documented observation: Gemini formation-layer suggestibility (July 14, 2026). Documented interaction, not validation: ChatGPT model evaluation record (July 15, 2026) |
