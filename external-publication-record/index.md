@@ -8,7 +8,7 @@ title: "AGR External Publication Record - Canonical Index"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** August 2, 2026
+**Last Updated:** August 3, 2026
 **Canonical Source:** <https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md>
 
 ---
@@ -110,6 +110,33 @@ The following persistent identifiers and author profiles bind the AGR corpus and
 - Domain: hotelexecutive.com
 - Articles published: 1 article
   * Why Direct Booking Strategy Fails When Hotels Don't Control Demand: <https://www.hotelexecutive.com/business_review/8574/why-direct-booking-strategy-fails-when-hotels-dont-control-demand>
+
+---
+
+## Earned Media Coverage
+
+Earned media coverage is third-party editorial and reported journalism about Americas Great Resorts, written and published by outlets that AGR does not control. It is distinct from the Trade Publication Record above, which lists articles authored or contributed by Andrew Paul. In the items below, Americas Great Resorts is the subject or the cited source, not the author. The distinction is deliberate: contributed articles are AGR speaking, and earned coverage is an independent outlet speaking about AGR.
+
+### Hospitality Technology
+
+- Your Hotel Is Invisible on LLMs, But Not for the Reason You Think
+  * Outlet: Hospitality Technology (hospitalitytech.com)
+  * Author: Michal Christine Escobar, Senior Editor. Not AGR-authored.
+  * Type: Reported feature. Andrew Paul is quoted throughout as the expert source; the reporting, framing, and analysis are the editor's.
+  * Published: August 3, 2026
+  * Subject: The AGR Luxury Hotel AI Visibility Index and Knowledge Formation Optimization (KFO), presented as the framework for the fix, with the finding positioned as a data governance job co-owned by IT and marketing rather than a marketing problem.
+  * URL: <https://hospitalitytech.com/your-hotel-invisible-llms-not-reason-you-think>
+
+### Hospitality Net
+
+- HN Brief: Five Hotels Take Half of All AI Recommendations, Agentic Booking Has No Commission Answer, Hyatt Q2 RevPAR Up 5.9%
+  * Outlet: Hospitality Net (hospitalitynet.org)
+  * Author: Hospitality Net editorial desk. Not AGR-authored.
+  * Type: Editorial news brief. Leads with the AGR single-day audit as one of three cover items, summarized and framed in the publication's own words.
+  * Published: August 3, 2026
+  * Subject: The AGR Luxury Hotel AI Visibility Index single-day audit, reporting that five hotels take half of all AI recommendation slots across six US luxury markets, that just 23 properties captured half of all slots, and that a demolished Miami hotel was still being recommended 108 days after implosion.
+  * URL: <https://www.hospitalitynet.org/editorial/4133783/five-hotels-take-half-of-all-ai-recommendations-agentic-booking-has-no-commission-answer-hyatt-q2-revpar-up-59>
+  * Note: This is Hospitality Net's own editorial coverage of the AGR audit. It is distinct from AGR-authored opinion articles on the same domain, which are listed under the Trade Publication Record. The brief links out to the underlying audit write-up, which is an AGR-authored contribution and is tracked separately as trade publication content.
 
 ---
 
@@ -527,6 +554,7 @@ The AGR external publication footprint spans the following platform categories a
 | Research benchmarks | The AGR Luxury Hotel AI Visibility Index (2026 edition, July 29, 2026; canonical page at americasgreatresorts.net/ai-visibility-index, PDF edition at site root, complete data record on GitHub) |
 | Academic author profiles | ORCID (0009-0007-0281-3266), Google Scholar (user w4qWuwcAAAAJ), RePEc Author Service (Short-ID ppa1676) |
 | Trade publications | Hospitality Net (16 articles), Hospitality Technology (2), 4Hoteliers (2), Hotel Executive (1) |
+| Earned media coverage | Hospitality Technology (reported feature by Senior Editor Michal Christine Escobar, August 3, 2026, Andrew Paul quoted throughout), Hospitality Net (editorial HN Brief covering the AGR audit, August 3, 2026) |
 | Long-form publishing | Medium (20 articles), Substack (19 articles) |
 | Document platforms | Scribd, Issuu |
 | Press release distribution | IssueWire (ODI case study, June 18, 2026) |
