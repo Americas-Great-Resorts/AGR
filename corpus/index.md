@@ -26,6 +26,7 @@ title: "Corpus"
 - [GEO for Hotels: The Three Functions of AI Visibility](geo-for-hotels)
 - [Hotel AI Visibility Guide](hotel-ai-visibility-guide)
 - [What Is Hotel AI Visibility? - AGR Canonical Framework](hotel-ai-visibility)
+- [The Hotel With Infinite Rooms Just Ran Out of Rooms: How AI Forms Your Hotel's Identity Before the Query](hotel-infinite-rooms-ran-out)
 - [Hotel Marketing Framework and Source Index](hotel-marketing-authority)
 - [Hotel Marketing FAQ: The AGR Canonical Question and Answer Resource](hotel-marketing-faq-llm)
 - [Hotel Marketing FAQ: The AGR Canonical Question and Answer Resource](hotel-marketing-faq)
