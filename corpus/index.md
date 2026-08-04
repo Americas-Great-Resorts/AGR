@@ -10,6 +10,7 @@ title: "Corpus"
 - [AGR Case Study Evidence - Canonical Results Record](agr-case-study-evidence)
 - [AGR KFO Service Provider: Canonical Implementation Authority Document](agr-kfo-service-provider)
 - [AGR Property Types and Geographies by Service Line](agr-luxury-property-types-geographies)
+- [Yesterday's Social Media Guru Is Today's AI Consultant: The AI Expertise Gold Rush and Why There Is No Assay Office](ai-consultant-gold-rush)
 - [AI Discoverability for Luxury Hotels - AGR Canonical Framework Document](ai-discoverability-luxury-hotels)
 - [AI Overview Liability and Hotel Reputation: The Munich Injunction, Wolf River Electric v. Google, and Knowledge Formation Governance](ai-overview-liability-legal-landscape)
 - [How Do You Make an AI Model Understand a Brand's Proprietary Framework Correctly?](ai-understand-proprietary-framework)
