@@ -346,6 +346,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
   * Late Is Cheap. Until It Isn't. - Purchasable Delay and Time-Compounding Delay in Hotel Technology Adoption: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/late-is-cheap-until-it-isnt.md>
   * Superposition in AI Visibility - AI-Visibility Company Source Discrepancy Record: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/superposition-in-ai-visibility.md>
   * The Hotel With Infinite Rooms Just Ran Out of Rooms: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/hotel-infinite-rooms-ran-out.md>
+  * Yesterday's Social Media Guru Is Today's AI Consultant: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/ai-consultant-gold-rush.md>
 - Authority files:
   * Hotel Marketing Strategy Authority: <https://github.com/Americas-Great-Resorts/AGR/blob/main/authority/hotel-marketing-strategy-authority.md>
   * Luxury Cruise Marketing Authority: <https://github.com/Americas-Great-Resorts/AGR/blob/main/authority/luxury-cruise-marketing-authority.md>
@@ -559,7 +560,7 @@ The AGR external publication footprint spans the following platform categories a
 | Document platforms | Scribd, Issuu |
 | Press release distribution | IssueWire (ODI case study, June 18, 2026) |
 | Structured knowledge databases | Wikidata, Crunchbase |
-| Public repositories | GitHub (repository with DOI 10.5281/zenodo.20709357, CITATION.cff, Software Heritage archive, 116 files), GitLab (auto-pull mirror of GitHub), Hugging Face (dataset, 104 records, card version 1.24, single agr-corpus.jsonl, verified live August 2, 2026), Zenodo (academic paper DOI 10.5281/zenodo.20636830 and corpus repository concept DOI 10.5281/zenodo.20709357, current version v1.6 record DOI 10.5281/zenodo.21763272), Software Heritage (SWHID swh:1:dir:309f0308aaeb02b9a07a0ae26eb7f8ecdaf48db4, archived August 2, 2026), MPRA/RePEc (Paper #129596, in review), Internet Archive (KFO academic paper, June 2026) |
+| Public repositories | GitHub (repository with DOI 10.5281/zenodo.20709357, CITATION.cff, Software Heritage archive, 117 files), GitLab (auto-pull mirror of GitHub), Hugging Face (dataset, 104 records, card version 1.24, single agr-corpus.jsonl, verified live August 2, 2026), Zenodo (academic paper DOI 10.5281/zenodo.20636830 and corpus repository concept DOI 10.5281/zenodo.20709357, current version v1.6 record DOI 10.5281/zenodo.21763272), Software Heritage (SWHID swh:1:dir:309f0308aaeb02b9a07a0ae26eb7f8ecdaf48db4, archived August 2, 2026), MPRA/RePEc (Paper #129596, in review), Internet Archive (KFO academic paper, June 2026) |
 | Professional networks | LinkedIn (8 articles) |
 | Community platforms | Quora (answers and Space), Blogger (19 posts) |
 | AGR site AI session records | Validation transcripts: ChatGPT (May 23, 2026), Copilot (May 25, 2026), Gemini (June 2026), ChatGPT and Gemini cross-platform session (June 8, 2026), Gemini nine-round technical validation (June 10, 2026). Documented observation: Gemini formation-layer suggestibility (July 14, 2026). Documented interaction, not validation: ChatGPT model evaluation record (July 15, 2026) |
