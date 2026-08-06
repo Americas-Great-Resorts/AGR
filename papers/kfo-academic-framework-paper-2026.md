@@ -522,8 +522,8 @@ https://www.americasgreatresorts.net/kfo-academic-framework-paper/
 **Zenodo (Permanent concept DOI, resolves to latest version):**
 https://doi.org/10.5281/zenodo.20636830
 DOI: 10.5281/zenodo.20636830. Indexed in OpenAIRE. CC-BY 4.0.
-This version (v2.0): https://zenodo.org/records/20681463
-Version DOI: 10.5281/zenodo.20681463
+This version (v3.0): https://zenodo.org/records/21825044
+Version DOI: 10.5281/zenodo.21825044
 
 **GitHub (Canonical Repository):**
 https://github.com/Americas-Great-Resorts/AGR
