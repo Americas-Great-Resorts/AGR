@@ -420,7 +420,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
 - Record: 20636830
 - URL: <https://doi.org/10.5281/zenodo.20636830>
 - Concept DOI: 10.5281/zenodo.20636830
-- Current version: v2.0 (record 20681463, June 13, 2026); v1.0 (record 20636831, June 2, 2026)
+- Current version: v3.0 (record 21825044, July 17, 2026); v2.0 (record 20681463, June 13, 2026); v1.0 (record 20636831, June 2, 2026)
 - License: CC-BY-4.0
 - Resource type: Working paper
 - Publisher: Americas Great Resorts
