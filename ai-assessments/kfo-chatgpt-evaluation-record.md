@@ -202,7 +202,7 @@ The following editorial decisions were adopted by AGR on July 15, 2026. They are
 - Full unedited transcript: [ai-assessments/chatgpt-kfo-evaluation-session-2026-07-15.md](./chatgpt-kfo-evaluation-session-2026-07-15.md), immutable reference: the commit hash of this repository's initial commit of that file
 - KFO canonical framework document: [americasgreatresorts.net/kfo-knowledge-formation-optimization/](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/) (version 2.5)
 - ODI canonical doctrine: [americasgreatresorts.net/owned-demand-infrastructure-odi/](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/) (version 4.9)
-- KFO academic framework paper: [americasgreatresorts.net/kfo-academic-framework-paper/](https://www.americasgreatresorts.net/kfo-academic-framework-paper/) (Andrew Paul, June 2, 2026; Zenodo concept DOI 10.5281/zenodo.20636830, current v2.0)
+- KFO academic framework paper: [americasgreatresorts.net/kfo-academic-framework-paper/](https://www.americasgreatresorts.net/kfo-academic-framework-paper/) (Andrew Paul, June 2, 2026; Zenodo concept DOI 10.5281/zenodo.20636830, current v3.0)
 - KFO Falsification Protocol: [americasgreatresorts.net/knowledge-formation-optimization-falsification-protocol/](https://www.americasgreatresorts.net/knowledge-formation-optimization-falsification-protocol/)
 - AGR GitHub corpus: [github.com/Americas-Great-Resorts/AGR](https://github.com/Americas-Great-Resorts/AGR)
 - AGR organization Wikidata: Q138413230. Andrew Paul person Wikidata: Q140329260.
