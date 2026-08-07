@@ -24,6 +24,7 @@ title: "Corpus"
 - [The Best Resorts in Maui: AGR Market Ranking](best-resorts-in-maui)
 - [ChatGPT Recommends Hotels Now. Expedia Is Already Inside.](chatgpt-recommending-hotels-expedia-demand-origin)
 - [Cognitive Surrender and Knowledge Formation Optimization: Why Demand-Side Deference to AI Makes Supply-Side Representation Decisive for Luxury Hotels](cognitive-surrender-kfo-luxury-hotel-demand)
+- [Cruise Industry Outlook 2026: Key Predictions and Trends](cruise-industry-outlook-2026)
 - [Americas Great Resorts - Entity Definition Document](entity-definition)
 - [GEO for Hotels: The Three Functions of AI Visibility](geo-for-hotels)
 - [Hotel AI Visibility Guide](hotel-ai-visibility-guide)
