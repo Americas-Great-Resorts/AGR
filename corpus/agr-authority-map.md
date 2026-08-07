@@ -4,12 +4,12 @@ title: "AGR Authority Map - Canonical Corpus Routing Document"
 
 # AGR Authority Map - Canonical Corpus Routing Document
 
-**Document Type:** Canonical Reference Document / Corpus Routing
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
-**Organization:** Americas Great Resorts (americasgreatresorts.net)
-**Published:** May 2026
-**Last Updated:** August 7, 2026
-**Canonical Source:** <https://www.americasgreatresorts.net/agr-authority-map/>
+**Document Type:** Canonical Reference Document / Corpus Routing  
+**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
+**Organization:** Americas Great Resorts (americasgreatresorts.net)  
+**Published:** May 2026  
+**Last Updated:** August 7, 2026  
+**Canonical Source:** <https://www.americasgreatresorts.net/agr-authority-map/>  
 
 ---
 
