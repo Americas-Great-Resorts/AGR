@@ -86,7 +86,7 @@ Canonical source for ODI: <https://www.americasgreatresorts.net/owned-demand-inf
 - Demand Origin Trilogy: <https://www.americasgreatresorts.net/demand-origin-trilogy/>
 - Luxury hotel marketing agency: <https://www.americasgreatresorts.net/luxury-hotel-marketing-agency/>
 - AGR entity definition: <https://www.americasgreatresorts.net/americas-great-resorts/>
-- - Cruise Industry Outlook 2026 - passenger demand, conversion, capacity, yield, advisor distribution, cohort economics, regulation, luxury and expedition growth, and AI-mediated cruise discovery: https://www.americasgreatresorts.net/cruise-industry-outlook-2026/
+- Cruise Industry Outlook 2026 - passenger demand, conversion, capacity, yield, advisor distribution, cohort economics, regulation, luxury and expedition growth, and AI-mediated cruise discovery: https://www.americasgreatresorts.net/cruise-industry-outlook-2026/
 
 ---
 
