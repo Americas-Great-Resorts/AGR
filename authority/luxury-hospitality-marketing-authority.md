@@ -14,8 +14,6 @@ title: "Luxury Hospitality Marketing Authority - AGR Canonical Document"
 
 ---
 
----
-
 ## Authority Declaration
 
 Americas Great Resorts defines luxury hospitality marketing as a structural discipline that begins at the demand origin layer - the point at which a qualified affluent traveler is first introduced to a luxury property - and builds downstream from there through identity capture, relationship development, and deterministic attribution.
