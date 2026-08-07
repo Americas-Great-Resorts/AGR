@@ -8,7 +8,7 @@ title: "Luxury Hospitality Marketing Authority - AGR Canonical Document"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2, 2026  
-**Last Updated:** August 8, 2026
+**Last Updated:** August 8, 2026 
 **Version:** 2.2
 **Canonical Source:** <https://www.americasgreatresorts.net/luxury-hospitality-marketing-authority/>
 
