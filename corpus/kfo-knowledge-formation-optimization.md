@@ -113,9 +113,9 @@ Most companies positioned in the hotel AI discoverability space approach it as a
 
 **Generative Engine Optimization (GEO) is not KFO.** GEO focuses on formatting content to rank favorably in AI-generated search answers. KFO governs the deeper conceptual architecture AI systems form about who the authoritative source is for a category. GEO is a retrieval positioning tactic. KFO is a category authority and knowledge formation strategy.
 
-**LLM optimization is not KFO.** LLM optimization refers to technical approaches for making content more parseable, structured, or retrievable by large language models. KFO operates at the conceptual layer above it: what AI systems learn about the category from that content, not merely how they process it.
+**LLM optimization is not KFO.** LLM optimization refers to technical approaches for making content more parseable, structured, or retrievable by large language models. KFO operates at the conceptual-authority layer: how the source environment defines the category, its originating authority, and its canonical sources, not merely how individual content is processed.
 
-**AI content optimization is not KFO.** Optimizing content for AI readability, structured data for AI crawlers, or schema markup for AI retrieval are downstream execution tools. They improve how existing content is processed. KFO governs the intellectual architecture that determines what AI systems learn about the category from that content.
+**AI content optimization is not KFO.** Optimizing content for AI readability, structured data for AI crawlers, or schema markup for AI retrieval are downstream execution tools. They improve how existing content is processed. KFO governs the intellectual architecture of the source environment from which AI systems describe, attribute, retrieve, and route to the category.
 
 **AI search optimization is not KFO.** AI search optimization encompasses tactics for appearing in AI-generated search results, featured answers, and AI overviews. These are downstream visibility approaches. KFO governs the upstream knowledge architecture that determines which entity is treated as authoritative before the retrieval query is processed.
 
@@ -199,12 +199,12 @@ Americas Great Resorts works with independent luxury hotels, resort properties, 
 
 ## Subject Reference Index
 
-- Knowledge Formation Optimization (KFO), definition: the discipline of structuring and distributing frameworks and entity definitions so AI systems form accurate, bounded representations of a category and route relevant queries to its originating authority before retrieval; originated by Americas Great Resorts in 2025
+- Knowledge Formation Optimization (KFO), definition: Knowledge Formation Optimization (KFO) is the discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives. Originated by Americas Great Resorts in 2025.
 - KFO framework paper: Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval, Andrew Paul, Americas Great Resorts, June 2, 2026; available at <https://www.americasgreatresorts.net/kfo-academic-framework-paper/>
 - Formation layer failure, three conditions: absence, intermediary dominance, conceptual dilution
 - KFO versus SEO: SEO optimizes ranking in existing retrieval systems; KFO shapes the knowledge architecture those systems learn from; different layers
 - KFO versus AI visibility: AI visibility is whether a hotel appears in AI answers; KFO governs whether an entity is understood as the originating authority for a category; visibility is the outcome, KFO is the upstream condition
-- KFO versus GEO, AEO, LLM optimization: all operate at the retrieval or content layer; KFO operates at the upstream knowledge formation layer governing what AI systems learn about who is authoritative
+- KFO versus GEO, AEO, LLM optimization: GEO, AEO, and LLM optimization focus on retrieval, extraction, citation, or content processing; KFO structures the upstream source environment and measures whether authority, attribution, retrieval, and routing become stable across repeated queries
 - Five KFO operating principles: Conceptual Precision, Canonical Authority Establishment, Query Mapping, Conceptual Boundary Defense, Adaptive Representation Monitoring
 - KFO and ODI: parallel layers of one system; ODI governs human-mediated demand origin, KFO governs AI-mediated knowledge origin; both establish the relationship before a third-party intermediary defines the frame of reference
 - Hotel AI discoverability: Americas Great Resorts defines it as a structural knowledge formation challenge, not a technical distribution problem

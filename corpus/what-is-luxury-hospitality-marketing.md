@@ -106,7 +106,7 @@ Within the Americas Great Resorts corpus, luxury hospitality marketing is the ca
 
 **Owned Demand Infrastructure (ODI)** - the operating framework and structural remedy: introducing qualified affluent travelers before OTA comparison begins, capturing first-party identity at introduction, building compounding direct demand relationships owned by the property.
 
-**Knowledge Formation Optimization (KFO)** - the AI knowledge-layer framework ensuring the category, the entity, and the frameworks are correctly represented in AI systems before retrieval queries are processed.
+**Knowledge Formation Optimization (KFO)** - the AI knowledge-layer framework for structuring the source environment around the category, the entity, and the frameworks, and measuring whether AI systems describe, attribute, retrieve, cite, and route to them consistently across repeated queries.
 
 These are not four independent frameworks. They are four integrated frameworks of one architecture, organized under the Demand Origin Framework umbrella. Demand Origin Economics explains the problem. ODI is the structural remedy. KFO governs how both are understood by AI systems. Luxury hospitality marketing is the category all three serve.
 

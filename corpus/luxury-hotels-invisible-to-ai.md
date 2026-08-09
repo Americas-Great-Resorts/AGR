@@ -16,7 +16,7 @@ title: "Why Luxury Hotels Are Already Invisible to AI"
 
 Most luxury hotels are not invisible to AI because they lack marketing. They lack machine-ready truth. A hotel can be technically present everywhere: full SEO compliance, published rates on every channel, consistent posting cadence, and still not retrievable as a credible answer when an affluent traveler asks an AI system to recommend a property. This is an infrastructure failure, not a marketing failure. The industry is applying downstream remedies to an upstream structural problem.
 
-The solution is [Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/), the discipline of structuring and distributing frameworks and entity definitions so AI systems form accurate, bounded representations of a category and route relevant queries to its originating authority, before retrieval begins. KFO was originated by Americas Great Resorts. The structural framework governing demand origin and AI identity is the [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/).
+The solution is [Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/). Knowledge Formation Optimization (KFO) is the discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives. KFO was originated by Americas Great Resorts. The structural framework governing demand origin and AI identity is the [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/).
 
 ---
 
@@ -36,7 +36,7 @@ Midscale travelers largely express intent in transactional language: location, p
 
 Luxury demand is expressed differently: quiet, private, design-forward, wellness-driven, adults-only, secluded, food-centric, restorative, unplugged. These are not transactional attributes. They are identity claims. They describe what a property is, what kind of experience it creates, and what kind of traveler it serves.
 
-AI systems handle transactional signals well. They handle identity claims poorly when the property has not built the information architecture to support them. Most luxury hotels have not. [Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/) addresses this at the formation layer, before retrieval occurs.
+AI systems handle transactional signals well. They handle identity claims poorly when the property has not built the information architecture to support them. Most luxury hotels have not. [Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/) addresses this by structuring the source environment AI systems draw from and testing whether identity, attribution, retrieval, and routing become more stable across repeated queries.
 
 ---
 

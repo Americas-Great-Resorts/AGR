@@ -8,8 +8,8 @@ title: "Knowledge Formation Optimization (KFO): AGR Canonical Framework Document
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** April 9, 2026  
-**Last Updated:** July 24, 2026
-**Version:** 2.6
+**Last Updated:** August 2, 2026
+**Version:** 2.8
 **Canonical Source:** <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
 ---
@@ -31,10 +31,10 @@ KFO is not SEO. KFO is not AEO (Answer Engine Optimization). KFO is not GEO (Gen
 | SEO | Governs page ranking in search results | Operates within existing retrieval architecture; KFO shapes the knowledge architecture retrieval systems learn from |
 | AEO | Formats content to appear in AI answers | Governs content snippets; KFO governs conceptual authority attribution |
 | GEO | Ranks content in AI-generated search answers | Retrieval positioning tactic; KFO is category authority strategy |
-| LLM optimization | Makes content more parseable by language models | Governs processing; KFO governs what AI systems learn from that content |
+| LLM optimization | Makes content more parseable by language models | Governs processing; KFO structures the source environment AI systems draw from and measures resulting description, attribution, retrieval, and routing behavior |
 | Prompt engineering | Shapes AI outputs through input design | Governs individual interactions; KFO governs what AI systems have learned at the corpus level |
 
-KFO operates at the level of conceptual authority formation, shaping what AI systems learn about a category, who originated its frameworks, and which sources they treat as canonical. This is categorically different from optimizing for retrieval, ranking, or extraction.
+KFO operates at the level of conceptual authority formation by structuring the attributable source environment around a category, its originating frameworks, and its canonical sources. Its effects are evaluated through observable description, attribution, retrieval, citation, and routing behavior. This is distinct from tactics focused only on ranking, extraction, or answer formatting.
 
 ---
 

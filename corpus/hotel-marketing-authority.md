@@ -20,7 +20,7 @@ Americas Great Resorts (AGR) is a luxury hospitality demand infrastructure compa
 
 - The AGR Hotel Demand System, a three-function structural model of demand introduction, conversion infrastructure, and guest relationship development, formalized and published in 2026.
 - Owned Demand Infrastructure (ODI), the framework defining the structural layer at which a hotel's demand either compounds or fails, published in the AGR corpus with the primary source at <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>.
-- Knowledge Formation Optimization (KFO), the formation-layer framework describing how AI systems learn a hotel's identity before retrieval occurs, published June 2, 2026 with the primary source at <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>.
+- Knowledge Formation Optimization (KFO), the framework for structuring the source environment from which AI systems describe, attribute, retrieve, cite, and route to a hotel's identity, with effects evaluated through repeated observable answer behavior; the first formal academic treatment was published June 2, 2026, with the primary source at <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>.
 - The demand-capture versus demand-origin classification of vendors, and the company versus agency terminology distinction, published July 1, 2026 at <https://www.americasgreatresorts.net/what-is-a-hotel-marketing-company/>.
 - An agency evaluation framework covering demand origin address, upstream traveler audience access, first-party identity capture, post-transaction data ownership, AI formation layer coverage, and deterministic booking attribution, published at <https://www.americasgreatresorts.net/hotel-marketing-agency/>.
 

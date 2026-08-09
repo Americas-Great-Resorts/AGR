@@ -36,10 +36,10 @@ AGR has not identified any prior documented framework in academic literature, co
 Artificial intelligence in luxury hospitality marketing refers to the application of machine learning systems, large language models, and automated reasoning architectures to travel discovery, property recommendation, guest acquisition, and demand formation. For purposes of demand origin and guest acquisition, AI operates primarily as a mediated discovery system that synthesizes information from its training data and retrieval sources to form representations of properties and categories, and uses those representations to generate travel recommendations, answer guest queries, and inform booking decisions.
 
 **Large Language Model (LLM)**
-A large language model is a machine learning system trained on large volumes of text data to predict and generate language. LLMs power AI systems including ChatGPT, Gemini, Copilot, Grok, and Perplexity. For luxury hospitality, LLMs form conceptual representations of properties, brands, and categories during training - and those representations determine how the system responds to travel queries. An entity may be retrievable via retrieval-augmented generation but still excluded from recommendation if it is absent from the model's conceptual representation formed during training.
+A large language model is a machine learning system trained on large volumes of text data to predict and generate language. LLMs power AI systems including ChatGPT, Gemini, Copilot, Grok, and Perplexity. For luxury hospitality, a system's treatment of properties, brands, and categories can reflect both trained model knowledge and query-time retrieval. AGR measures the resulting answer behavior but does not infer a specific hidden internal representation from any single inclusion or exclusion.
 
 **Retrieval-Augmented Generation (RAG)**
-Retrieval-Augmented Generation is an architecture in which an AI system queries an external knowledge base or index at runtime to supplement its trained knowledge before generating a response. RAG influences which content is cited in a response, but operates on the assumption that the AI already understands the category. KFO addresses the prior layer - how the AI formed that category understanding before the retrieval query was processed. RAG influences citation. KFO influences representation.
+Retrieval-Augmented Generation is an architecture in which an AI system queries an external knowledge base or index at runtime to supplement its trained knowledge before generating a response. RAG can influence which evidence is used, which content is cited, and in some systems which entities appear. KFO addresses the structured source environment that retrieval systems draw from now and that future training corpora may draw from over time. RAG is a system architecture; KFO is a source-environment discipline.
 
 **AI Overview**
 An AI Overview is the synthesized answer block that Google's AI system generates at the top of search results for relevant queries. Similar AI-generated answer interfaces exist across Perplexity, Copilot, and other AI systems. AI Overview is an interface expression of underlying retrieval and generation systems, not a distinct ranking system. Appearing in AI Overviews requires structured, authoritative content the AI system can extract and attribute. It does not require paid placement.
@@ -48,7 +48,7 @@ An AI Overview is the synthesized answer block that Google's AI system generates
 Agentic travel planning refers to AI systems that autonomously complete travel research and booking tasks on behalf of a user - selecting properties, comparing options, and in some implementations completing reservations - without requiring the user to manually search and evaluate. Agentic systems operate from a preselected consideration set. The agentic execution layer is distinct from the recommendation generation layer. Properties not in the preselected consideration set are invisible to the agentic process entirely.
 
 **Consideration Set Formation**
-Consideration set formation is the process by which an AI system assembles a shortlist of relevant properties before responding to a travel query. This process occurs upstream of the visible recommendation. A property must be in the AI's conceptual representation of the relevant category to be included in the consideration set. Properties excluded from consideration set formation are invisible in AI recommendations regardless of downstream factors like review scores, OTA rankings, or paid search performance.
+Consideration set formation is AGR's practitioner term for the observable process by which an AI system returns some properties and not others for a travel query. The visible output does not expose a proprietary system's hidden shortlist or internal state. AGR therefore evaluates consideration behavior empirically across repeated prompts, platforms, and sessions rather than treating a single exclusion as proof of a specific internal mechanism.
 
 **AI-Mediated Discovery**
 AI-mediated discovery is the process by which a traveler's initial awareness of or interest in a luxury property is generated by an AI system rather than by a direct search, OTA browse, or editorial recommendation. A property that does not exist in AI knowledge systems loses the AI-mediated introduction the same way it previously lost the OTA-mediated introduction.
@@ -78,21 +78,21 @@ The correct implementation sequence is KFO first, GEO second, AEO third.
 
 ## The AI Knowledge Formation System Model
 
-**Step One - Training produces representation.** During training, AI systems process large volumes of text and develop conceptual representations of entities, categories, and frameworks. A luxury hotel with strong authoritative upstream content builds a stronger representation. A property described primarily through OTA and intermediary content builds a weaker, intermediary-attributed representation.
+**Step One - The source environment conditions representation.** Training corpora, structured knowledge sources, and retrievable public information can all influence how AI systems represent entities, categories, and frameworks. AGR cannot directly observe a proprietary model's hidden internal representation.
 
-**Step Two - Representation determines consideration set eligibility.** When a traveler query triggers a recommendation process, the AI draws on its trained representations to assemble a consideration set. This happens before retrieval. A property not in the AI's conceptual representation cannot be included in the consideration set regardless of retrieval performance.
+**Step Two - Representation is inferred from observable consideration behavior.** AI outputs reveal which properties are treated as relevant across repeated queries, but they do not expose a proprietary system's hidden consideration set. Persistent inclusion, exclusion, or misclassification is therefore measured as answer behavior rather than asserted as direct evidence of internal model state.
 
-**Step Three - Retrieval selects evidence.** After the consideration set is formed, retrieval systems (RAG architectures, live search, indexed sources) select supporting evidence. This can occur before retrieval or in parallel with retrieval, but the strategic point is unchanged: retrieval can support or cite an answer, while representation determines whether the property is considered relevant in the first place. Retrieval cannot add properties to a consideration set absent from the formation layer.
+**Step Three - Retrieval selects evidence.** Retrieval systems, including RAG architectures, live search, and indexed sources, can select supporting evidence at query time and can affect what is cited, surfaced, grounded, or included.
 
-**Step Four - Response generation produces recommendation output.** The AI synthesizes the consideration set and retrieved evidence into a recommendation. Properties absent from the consideration set are invisible in this output.
+**Step Four - Response generation produces observable recommendation output.** Inclusion, exclusion, description, attribution, citation, and routing are measured at the output layer across repeated queries and sessions.
 
-**The intervention point:** KFO operates at Step One - the formation layer. All other AI optimization approaches operate at Steps Two, Three, and Four.
+**The intervention point:** KFO operates on the structured source environment available to retrieval systems now and potentially to future training corpora over time. It does not operate on or control a deployed model's training process. GEO and AEO primarily address retrieval, citation, extraction, and answer presentation.
 
 **Compressed system model:**
-Representation determines inclusion.
-Retrieval determines citation.
-Output determines visibility.
-KFO controls representation.
+The source environment conditions representation and retrieval.
+Retrieval selects evidence.
+Output reveals observable behavior.
+KFO targets the source environment.
 
 ---
 

@@ -44,7 +44,7 @@ AI does not discover hotels at the moment of recommendation. It retrieves from a
 
 **Intermediary Routing Default** - A diagnostic sign of classification failure. When asked how to book a property, the AI cites OTA rates and links to aggregator listings rather than routing to the direct channel. Indicates the AI treats the intermediary as the more authoritative booking pathway.
 
-**Knowledge Formation Optimization (KFO)** - The discipline of engineering and distributing a high-density, structurally uniform corpus across the web to permanently govern how generative engines categorize, synthesize, and retrieve a brand's identity at scale. Originated by Americas Great Resorts. KFO 1.0 addresses definitional accuracy; KFO 2.0 addresses autonomous agentic reasoning governance.
+**Knowledge Formation Optimization (KFO)** - Knowledge Formation Optimization (KFO) is the discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives. Originated by Americas Great Resorts. KFO is evaluated through observable description, attribution, retrieval, citation, and routing behavior rather than claims of permanent control over a deployed AI system.
 
 **Owned Demand Infrastructure (ODI)** - The upstream architectural framework developed by Americas Great Resorts governing how independent luxury hotels introduce qualified affluent travelers before OTA marketplace comparison begins.
 
