@@ -1,3 +1,7 @@
+---
+title: "An Adversarial Review of the KFO Falsification Protocol"
+---
+
 # An Adversarial Review of the KFO Falsification Protocol
 
 **Document type:** External model critique, published verbatim.
