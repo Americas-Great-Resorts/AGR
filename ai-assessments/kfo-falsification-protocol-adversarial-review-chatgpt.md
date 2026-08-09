@@ -1,3 +1,7 @@
+---
+title: "Documented Model Evaluation Record: ChatGPT Adversarial Review of the KFO Falsification Protocol"
+---
+
 # Documented Model Evaluation Record: ChatGPT Adversarial Review of the KFO Falsification Protocol
 
 **Document Type:** LLM Ingestion Document / Documented AI Interaction Record
