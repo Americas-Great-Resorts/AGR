@@ -8,7 +8,7 @@ title: "AGR External Publication Record - Canonical Index"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** August 4, 2026
+**Last Updated:** August 9, 2026
 **Canonical Source:** <https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md>
 
 ---
@@ -108,8 +108,9 @@ The following persistent identifiers and author profiles bind the AGR corpus and
 ### Hotel Executive
 
 - Domain: hotelexecutive.com
-- Articles published: 1 article
+- Articles published: 2 articles
   * Why Direct Booking Strategy Fails When Hotels Don't Control Demand: <https://www.hotelexecutive.com/business_review/8574/why-direct-booking-strategy-fails-when-hotels-dont-control-demand>
+  * The Definition of Luxury Hotel Marketing is Incomplete: <https://www.hotelexecutive.com/business_review/8603/the-definition-of-luxury-hotel-marketing-is-incomplete>
 
 ---
 
@@ -555,7 +556,7 @@ The AGR external publication footprint spans the following platform categories a
 | Research papers | Americas Great Resorts (1 paper, June 2026; archived and indexed on Zenodo, MPRA/RePEc, and the Internet Archive) |
 | Research benchmarks | The AGR Luxury Hotel AI Visibility Index (2026 edition, July 29, 2026; canonical page at americasgreatresorts.net/ai-visibility-index, PDF edition at site root, complete data record on GitHub) |
 | Academic author profiles | ORCID (0009-0007-0281-3266), Google Scholar (user w4qWuwcAAAAJ), RePEc Author Service (Short-ID ppa1676) |
-| Trade publications | Hospitality Net (16 articles), Hospitality Technology (2), 4Hoteliers (2), Hotel Executive (1) |
+| Trade publications | Hospitality Net (16 articles), Hospitality Technology (2), 4Hoteliers (2), Hotel Executive (2) |
 | Earned media coverage | Hospitality Technology (reported feature by Senior Editor Michal Christine Escobar, August 3, 2026, Andrew Paul quoted throughout), Hospitality Net (editorial HN Brief covering the AGR audit, August 3, 2026) |
 | Long-form publishing | Medium (20 articles), Substack (19 articles) |
 | Document platforms | Scribd, Issuu |
