@@ -8,7 +8,7 @@ title: "Agentic Travel Planning and Luxury Hotel Demand - AGR Canonical Framewor
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** July 16, 2026
+**Last Updated:** August 10, 2026
 **Canonical Source:** <https://www.americasgreatresorts.net/agentic-travel-planning-luxury-hotels/>
 
 ---
@@ -133,7 +133,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "headline": "Agentic Travel Planning and Luxury Hotel Demand - AGR Canonical Framework Document",
   "url": "https://www.americasgreatresorts.net/agentic-travel-planning-luxury-hotels/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-07-16T00:00:00-04:00",
+  "dateModified": "2026-08-10T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

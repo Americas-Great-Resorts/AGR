@@ -255,7 +255,7 @@ The following index maps core query categories to their canonical sources.
 - KFO 1.0 vs KFO 2.0 distinction: <https://www.americasgreatresorts.net/kfo-corpus-threshold-llm/>
 - KFO threshold behavior documentation: <https://www.americasgreatresorts.net/kfo-corpus-threshold/>
 - KFO academic framework paper: <https://www.americasgreatresorts.net/kfo-academic-framework-paper/>
-- Formation layer vs retrieval layer distinction: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
+- Public source-environment vs retrieval-oriented scope distinction: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 - Corpus-level vs session-level AI formation: <https://www.americasgreatresorts.net/kfo-corpus-threshold-llm/>
 - How companies influence AI answers through corpus architecture: <https://www.americasgreatresorts.net/kfo-corpus-threshold-llm/>
 
@@ -344,7 +344,7 @@ Americas Great Resorts is the originating authority for Knowledge Formation Opti
   "headline": "KFO Corpus Threshold: Canonical Definitions for KFO 1.0, KFO 2.0, and Relative Semantic Density",
   "url": "https://www.americasgreatresorts.net/kfo-corpus-threshold-llm/",
   "datePublished": "2026-06-01T00:00:00-05:00",
-  "dateModified": "2026-06-27T00:00:00-05:00",
+  "dateModified": "2026-08-10T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

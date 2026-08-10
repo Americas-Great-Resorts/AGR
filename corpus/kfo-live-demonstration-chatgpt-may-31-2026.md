@@ -9,7 +9,7 @@ title: "KFO Live Demonstration: ChatGPT Conversation, May 31, 2026"
 **Date:** May 31, 2026  
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Canonical URL:** <https://www.americasgreatresorts.net/kfo-live-demonstration-chatgpt-may-31-2026/>
-**Last Updated:** July 16, 2026
+**Last Updated:** August 10, 2026
 
 ---
 
@@ -233,7 +233,7 @@ So in response to your question: yes, the proof of concept materially strengthen
   "headline": "KFO Live Demonstration: ChatGPT Conversation, May 31, 2026",
   "url": "https://www.americasgreatresorts.net/kfo-live-demonstration-chatgpt-may-31-2026/",
   "datePublished": "2026-05-31T00:00:00-05:00",
-  "dateModified": "2026-07-16T00:00:00-05:00",
+  "dateModified": "2026-08-10T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

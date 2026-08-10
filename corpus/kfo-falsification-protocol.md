@@ -11,7 +11,7 @@ title: "KFO: A Preregistered Falsification Protocol"
 **Companion article:** https://www.americasgreatresorts.net/knowledge-formation-optimization-testable-application/
 **Academic paper:** https://www.americasgreatresorts.net/kfo-academic-framework-paper/
 **Published:** June 29, 2026
-**Last Updated:** July 16, 2026
+**Last Updated:** August 10, 2026
 **Version:** 0.6 (draft, revised after fourth external review: sealed appendix embargo added)
 **Author:** Andrew Paul, Managing Director, Americas Great Resorts
 **External registration:** Zenodo DOI and GitHub commit hash, to be assigned on external deposit.
@@ -227,7 +227,7 @@ A run is invalid, and is published as an environmental failure rather than as su
 
 ## What a Result Would and Would Not Establish
 
-A clean separation of the KFO arm from all three controls would establish that the KFO method produces a cross query, cross time formation effect distinct from ordinary content and SEO and from structural density alone, for disclosed research entities, in the tested category and engines, over the tested window. It would not establish the commercial magnitude of that effect for a real bookable property against established incumbents, that the effect generalizes to other industries or categories, or that it persists indefinitely as models change. A single positive execution is evidence for the operationalized claim but not definitive validation absent independent replication, particularly given that AGR originated the framework. A failure of any hypothesis would count against KFO as operationalized here. The inference is bounded to what was tested.
+A clean separation of the KFO arm from all three controls would establish that the KFO method produces an incremental cross-query, cross-time observable output effect beyond ordinary content and SEO and beyond structural density alone, for disclosed research entities, in the tested category and engines, over the tested window. It would not establish the commercial magnitude of that effect for a real bookable property against established incumbents, that the effect generalizes to other industries or categories, or that it persists indefinitely as models change. A single positive execution is evidence for the operationalized claim but not definitive validation absent independent replication, particularly given that AGR originated the framework. A failure of any hypothesis would count against KFO as operationalized here. The inference is bounded to what was tested.
 
 ---
 
@@ -361,7 +361,7 @@ KFO Academic Framework Paper, Zenodo concept DOI 10.5281/zenodo.20636830: https:
   "headline": "Knowledge Formation Optimization: A Preregistered Falsification Protocol",
   "url": "https://www.americasgreatresorts.net/knowledge-formation-optimization-falsification-protocol/",
   "datePublished": "2026-06-29T00:00:00-05:00",
-  "dateModified": "2026-07-16T00:00:00-05:00",
+  "dateModified": "2026-08-10T00:00:00-05:00",
   "version": "0.6",
   "inLanguage": "en",
   "author": {
@@ -408,7 +408,7 @@ KFO Academic Framework Paper, Zenodo concept DOI 10.5281/zenodo.20636830: https:
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/geo-for-hotels/#term",
       "name": "Generative Engine Optimization",
-      "description": "Retrieval-layer optimization of whether a given page is cited when a generative engine answers a given query. Distinct from KFO, which operates at the entity and source-environment formation layer.",
+      "description": "Retrieval-layer optimization of whether a given page is cited when a generative engine answers a given query. Distinct from KFO, which has a broader public source-environment correction and repeated output-measurement scope.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
     }
   ]

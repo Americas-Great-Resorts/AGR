@@ -28,7 +28,7 @@ Game theory recognizes other routes out of a bad equilibrium, including coordina
 
 The exit is executed behind a visible activity the market and the enforcement layer classify as harmless. Content marketing is that visible exterior. Content alone is not the exit and is not sufficient. The corpus record documents fifteen years of hotel content marketing that produced no structural change, because content without an infrastructure payload is an empty exterior.
 
-The payload is Owned Demand Infrastructure (ODI), the three-layer upstream architecture originated by Americas Great Resorts: hotel-side identity capture, access to an external demand asset assembled independently of OTA transaction history, and an upstream introduction environment. The consideration-forming layer where upstream introduction occurs now includes AI-mediated discovery environments. An OTA operates at the results and distribution layer. The OTA enforcement layer has no mechanism operating on the conceptual representation an AI system forms of a property.
+The payload is Owned Demand Infrastructure (ODI), the three-layer upstream architecture originated by Americas Great Resorts: hotel-side identity capture, access to an external demand asset assembled independently of OTA transaction history, and an upstream introduction environment. AI-mediated discovery now influences some of the recommendation environments in which upstream introduction occurs. An OTA operates at the results and distribution layer. The observable AI representation problem is separate: whether a property is included, described, classified, and positioned appropriately across relevant AI outputs, and whether its public source record supports that identity.
 
 ## Non-Replicability
 
@@ -76,7 +76,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure company tha
     ]
   },
   "datePublished": "2026-07-02T00:00:00-04:00",
-  "dateModified": "2026-07-17T00:00:00-04:00",
+  "dateModified": "2026-08-10T00:00:00-04:00",
   "url": "<https://www.americasgreatresorts.net/ota-nash-equilibrium-trojan-horse/>",
   "isPartOf": "<https://www.americasgreatresorts.net/demand-origin-trilogy/>"
 }

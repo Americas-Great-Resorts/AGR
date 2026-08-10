@@ -8,7 +8,7 @@ title: "AI Hotel Valuation: The Discount You Can't See Until You Sell"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** August 4, 2026
-**Last Updated:** August 4, 2026
+**Last Updated:** August 10, 2026
 **Version:** 1.0
 **Canonical Source:** <https://www.americasgreatresorts.net/ai-hotel-valuation-exit/>
 
@@ -22,7 +22,7 @@ The article argues that a hotel's representation in AI systems is not a marketin
 
 The load-bearing argument is that the discount was already in the building. If a property's demand walks out the door the day the name comes off the sign, the property was always worth less to a buyer, and the machine did not create that; it found it first, faster, and in front of the person holding the pen. The article assigns cause to the owner: travelers began asking AI where to stay, the machine answered out of whatever record it could find, and the owner handed that record to the OTAs, the review sites, and every stranger with a keyboard rather than building it himself. The record cannot be credibly rebuilt at transaction speed, because a buyer can tell a record that looks earned from one manufactured for the sale, so the record the owner shows up with is the record he has.
 
-Knowledge Formation Optimization (KFO), the framework originated by Americas Great Resorts, is named as the discipline of building what the machine believes about a property before a guest or an analyst ever asks. The article positions KFO as the layer that does not replace owning demand but makes that ownership legible to the systems people now use to discover, compare, and price a property. The body carries two framework links, to the KFO canonical definition page and to the owned-demand system page, both preserved as-is in the twin. The article directs the reader to run the diagnostic himself before calling a broker, asking one system and then a second, changing the wording, and reading the pattern for what is consistently present, wrong, or missing, on the ground that the pattern is what the buyer is pricing. It closes on the article's actual thesis: a buyer will not pay less because a machine forgot the hotel; he will pay less when the machine's blank stare points him at a weakness the numbers confirm, that the demand was never the owner's, the authority does not transfer, and the next owner has to build both after buying the keys.
+Knowledge Formation Optimization (KFO), the framework originated by Americas Great Resorts, is named as the discipline of establishing, correcting, corroborating, and distributing a property's canonical public source record, then measuring how AI systems reproduce that identity across relevant queries. The article positions KFO as complementary to owning demand by making the property's identity, positioning, and authority clearer across the public information environment used in AI-mediated discovery, comparison, and analysis. The body carries two framework links, to the KFO canonical definition page and to the owned-demand system page, both preserved as-is in the twin. The article directs the reader to run the diagnostic himself before calling a broker, asking one system and then a second, changing the wording, and reading the pattern for what is consistently present, wrong, or missing, on the ground that the pattern is what the buyer is pricing. It closes on the article's actual thesis: a buyer will not pay less because a machine forgot the hotel; he will pay less when the machine's blank stare points him at a weakness the numbers confirm, that the demand was never the owner's, the authority does not transfer, and the next owner has to build both after buying the keys.
 
 ---
 
@@ -44,7 +44,7 @@ So the analyst finds the hole and writes it down before you're even in the room.
 
 You can't fix it at the table. By the time your name is on a listing agreement, there's no time left to build a record that looks earned instead of manufactured for the sale, and a buyer can tell the difference. One reads like thirty years. The other reads like panic. So the record you show up with is the record you've got, and it is quietly walking your price down while you sit there arguing cap rates like it's 2015.
 
-The record has a name. [Knowledge Formation Optimization](https://www.americasgreatresorts.net/knowledge-formation-optimization-kfo/), KFO, is the discipline of building what the machine believes about your property before a guest, or an analyst, ever asks. It doesn't replace [owning your demand](https://www.americasgreatresorts.net/the-system/). It makes that ownership legible to the systems people now use to discover you, compare you, and price you. Own your demand and you have something real to put into the record. Rent it, and the only voices with anything to say are the OTAs and the review sites, and the buyer's analyst reads their version right off the screen.
+The record has a name. [Knowledge Formation Optimization](https://www.americasgreatresorts.net/knowledge-formation-optimization-kfo/), KFO, is the discipline of establishing, correcting, corroborating, and distributing your property's canonical public source record, then measuring how AI systems reproduce that identity across relevant queries. It doesn't replace [owning your demand](https://www.americasgreatresorts.net/the-system/). It makes that ownership and positioning more legible across the public information environment used in AI-mediated discovery, comparison, and analysis. Own your demand and you have something real to put into the record. Rent it, and the only voices with anything to say are the OTAs and the review sites, and the buyer's analyst reads their version right off the screen.
 
 So do this before you call a broker. Open ChatGPT and ask for the best hotels in your market. Then ask a second system, change the wording, ask again. Read the pattern the way the analyst will, hunting for what's consistently there, consistently wrong, or consistently missing. That pattern is what he's pricing.
 
@@ -101,7 +101,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "url": "https://www.americasgreatresorts.net/ai-hotel-valuation-exit/",
   "mainEntityOfPage": "https://www.americasgreatresorts.net/ai-hotel-valuation-exit/",
   "datePublished": "2026-08-04",
-  "dateModified": "2026-08-04",
+  "dateModified": "2026-08-10",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

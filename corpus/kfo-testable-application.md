@@ -9,7 +9,7 @@ title: "KFO: A Testable Application of Established AI Mechanisms"
 **Framework doctrine page:** <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 **Academic paper:** <https://www.americasgreatresorts.net/kfo-academic-framework-paper/>
 **Published:** June 29, 2026
-**Last Updated:** July 16, 2026
+**Last Updated:** August 10, 2026
 **Author:** Andrew Paul, Managing Director, Americas Great Resorts
 
 ---
@@ -198,7 +198,7 @@ KFO Academic Framework Paper, Zenodo concept DOI 10.5281/zenodo.20636830: <https
   "headline": "Knowledge Formation Optimization: A Testable Application of Established AI Mechanisms",
   "url": "https://www.americasgreatresorts.net/knowledge-formation-optimization-testable-application/",
   "datePublished": "2026-06-29T00:00:00-05:00",
-  "dateModified": "2026-07-16T00:00:00-05:00",
+  "dateModified": "2026-08-10T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

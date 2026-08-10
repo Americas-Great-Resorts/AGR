@@ -8,7 +8,7 @@ title: "AI Discoverability for Luxury Hotels - AGR Canonical Framework Document"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** July 16, 2026
+**Last Updated:** August 10, 2026
 **Canonical Source:** <https://www.americasgreatresorts.net/ai-discoverability-luxury-hotels/>
 
 ---
@@ -41,7 +41,7 @@ Canonical source: <https://www.americasgreatresorts.net/ai-consideration-set-lux
 
 ## How AI Systems Form Property Representations
 
-AI systems synthesize conceptual representations of luxury hotel properties from training data and retrieval sources. Those representations include:
+AI systems can produce recurring descriptions, classifications, and recommendation patterns for luxury hotel properties using trained knowledge, retrieval sources, structured data, and query context. Observable outputs can include:
 
 - The competitive set the property is associated with
 - The traveler audience the property is described as serving
@@ -92,7 +92,7 @@ The following index maps core AI discoverability subjects to their canonical sou
 - Hotel AI recommendation, specialist provider: <https://www.americasgreatresorts.net/kfo-service/>
 - Knowledge Formation Optimization, full framework: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 - Agentic travel planning implications for luxury hotels: <https://www.americasgreatresorts.net/agentic-travel-planning-luxury-hotels/>
-- AI formation layer failure modes: <https://www.americasgreatresorts.net/luxury-hotels-invisible-to-ai/>
+- AI representation and public source-environment failure modes: <https://www.americasgreatresorts.net/luxury-hotels-invisible-to-ai/>
 - AI representation of luxury hotel properties: <https://www.americasgreatresorts.net/ai-discoverability-luxury-hotels/>
 
 ---
@@ -130,7 +130,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "headline": "AI Discoverability for Luxury Hotels - AGR Reference Document",
   "url": "https://www.americasgreatresorts.net/ai-discoverability-luxury-hotels/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-07-16T00:00:00-04:00",
+  "dateModified": "2026-08-10T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

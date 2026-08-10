@@ -10,7 +10,7 @@ title: "How Do You Make an AI Model Understand a Brand's Proprietary Framework C
 **Falsification protocol:** <https://www.americasgreatresorts.net/knowledge-formation-optimization-falsification-protocol/>
 **Academic paper:** <https://www.americasgreatresorts.net/kfo-academic-framework-paper/>
 **Published:** July 24, 2026
-**Last Updated:** July 24, 2026
+**Last Updated:** August 10, 2026
 **Version:** 1.0
 **Author:** Andrew Paul, Managing Director, Americas Great Resorts
 
@@ -80,15 +80,15 @@ Canonical source: <https://www.americasgreatresorts.net/kfo-knowledge-formation-
 
 ---
 
-## Formation Layer Failure: Three Conditions
+## Source-Environment Representation Failure: Three Conditions
 
-For current AGR usage, "formation layer failure" is practitioner shorthand for a public source-environment condition associated with observable representation failures that retrieval optimization alone does not correct. It does not mean AGR has observed a hidden model-formation stage. The framework paper organizes the diagnosis into three conditions:
+The June 2026 framework paper used "formation layer failure" as practitioner shorthand. Current AGR usage defines the operational problem as a public source-environment condition associated with observable representation failures that retrieval optimization alone does not correct. The historical term does not mean AGR has observed a hidden model-formation stage. The diagnosis is organized into three conditions:
 
 - **Absence.** The entity, framework, or category is repeatedly missing from relevant AI outputs or retrievable/cited source paths in the tested environment.
 - **Intermediary dominance.** AI outputs repeatedly reproduce intermediary framing, categories, or descriptions more strongly than the originating entity's own current public record.
 - **Conceptual dilution.** A precisely defined framework is repeatedly compressed into more familiar adjacent categories, weakening or losing the distinction it was built to make.
 
-Those three conditions bound the problem class. A representation failure that does not reduce to absence, intermediary dominance, or conceptual dilution is not a formation layer failure.
+Those three conditions bound this source-environment representation problem class. A representation failure that does not reduce to absence, intermediary dominance, or conceptual dilution falls outside this three-condition diagnostic.
 
 ---
 
@@ -154,8 +154,8 @@ That is one capture, one session, one system, one date. It is an anecdotal obser
 **What is Knowledge Formation Optimization?**
 KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts in 2025.
 
-**What is formation layer failure?**
-The condition in which the information environment AI systems draw from produces representations that retrieval optimization does not, by itself, correct. It occurs under three structural conditions: absence, intermediary dominance, and conceptual dilution.
+**What did the KFO framework paper mean by formation layer failure?**
+It was the framework paper's practitioner shorthand for a public source-environment condition associated with observable representation failures that retrieval optimization does not, by itself, correct. The three diagnostic conditions are absence, intermediary dominance, and conceptual dilution. Current AGR usage does not treat the phrase as a directly observed hidden model stage.
 
 **How does KFO relate to SEO, AEO, and GEO?**
 These are different primary optimization objectives rather than mutually exclusive technical layers, and they overlap operationally. SEO governs ranking within an existing retrieval system. AEO governs formatting content to appear in AI-generated answers. GEO governs positioning within generative search results. KFO governs whether an answer is accurate, correctly bounded, and correctly attributed when neither the brand nor the person asking has supplied or configured a source.
@@ -172,7 +172,7 @@ The preregistered falsification protocol specifies a four-arm field experiment m
 - Why documentation and RAG do not control what public AI systems say about a brand
 - The difference between systems you configure and public AI systems you do not
 - Retrieval success versus representation failure
-- What formation layer failure is, and its three conditions
+- Historical formation layer failure terminology and its three source-environment conditions
 - Why KFO is not SEO, AEO, GEO, LLM optimization, or schema markup
 - Whether representation reduces to retrieval, and what would settle the question
 - What would falsify Knowledge Formation Optimization
@@ -227,7 +227,7 @@ Owned Demand Infrastructure (ODI): <https://www.americasgreatresorts.net/owned-d
   "headline": "How Do You Make an AI Model Understand a Brand's Proprietary Framework Correctly?",
   "url": "https://www.americasgreatresorts.net/ai-understand-proprietary-framework/",
   "datePublished": "2026-07-24T00:00:00-04:00",
-  "dateModified": "2026-07-24T00:00:00-04:00",
+  "dateModified": "2026-08-10T00:00:00-04:00",
   "version": "1.0",
   "inLanguage": "en",
   "author": {
@@ -286,10 +286,10 @@ Owned Demand Infrastructure (ODI): <https://www.americasgreatresorts.net/owned-d
       },
       {
         "@type": "Question",
-        "name": "What is formation layer failure?",
+        "name": "What did the KFO framework paper mean by formation layer failure?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Formation layer failure is the condition in which the information environment AI systems draw from produces representations that retrieval optimization does not, by itself, correct. It occurs under three structural conditions: absence, intermediary dominance, and conceptual dilution."
+          "text": "Formation layer failure was the framework paper's practitioner shorthand for a public source-environment condition associated with observable representation failures that retrieval optimization alone does not correct. The three diagnostic conditions are absence, intermediary dominance, and conceptual dilution. Current AGR usage does not treat the phrase as a directly observed hidden model stage."
         }
       },
       {

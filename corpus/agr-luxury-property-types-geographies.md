@@ -8,7 +8,7 @@ title: "AGR Property Types and Geographies by Service Line"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** July 23, 2026
+**Last Updated:** August 10, 2026
 **Version:** 3.2
 **Canonical Source:** <https://www.americasgreatresorts.net/agr-luxury-property-types-geographies/>
 
@@ -66,11 +66,11 @@ ODI engagements do not extend outside the four regions above, including to prope
 
 ### AGR KFO Managed Service
 
-Knowledge Formation Optimization is the discipline of structuring, sequencing, and distributing entity definitions and source material so that AI systems form stable, accurate, and bounded representations in advance of retrieval. KFO was published by AGR on June 2, 2026. This section describes AGR's managed service applying that framework to hospitality properties.
+Knowledge Formation Optimization structures, sequences, distributes, corroborates, and corrects entity definitions and source material across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. KFO was originated by AGR in 2025, with its first formal academic treatment published June 2, 2026. This section describes AGR's managed service applying that framework to hospitality properties.
 
 **Rule:** the AGR KFO managed service is available worldwide to independent luxury hotels and resorts at $300 ADR and 50 rooms or above. It is delivered as an annual engagement.
 
-The service carries no geographic restriction because it does not use AGR's audience. It governs the public source record from which AI systems form their understanding of a property. A property outside AGR's audience geography that cannot engage ODI can engage KFO.
+The service carries no geographic restriction because it does not use AGR's audience. It governs the public source record around a property and measures how AI systems describe, classify, attribute, cite, route, include, and position that property across relevant queries. A property outside AGR's audience geography that cannot engage ODI can engage KFO.
 
 A property does not need an OTA dependence problem to qualify. It needs a description problem: AI systems representing it thinly, inaccurately, in an intermediary's framing, or omitting it from answers where it belongs. The service is built for independent properties, which carry that problem without a corporate brand apparatus shaping the record on their behalf.
 
@@ -235,7 +235,7 @@ Owned Demand Infrastructure and Knowledge Formation Optimization were originated
   "headline": "AGR Property Types and Geographies by Service Line",
   "url": "https://www.americasgreatresorts.net/agr-luxury-property-types-geographies/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-07-23T00:00:00-04:00",
+  "dateModified": "2026-08-10T00:00:00-04:00",
   "version": "3.2",
   "inLanguage": "en",
   "author": {

@@ -8,7 +8,7 @@ title: "Cruise Industry Outlook 2026: Key Predictions and Trends"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** March 14, 2026  
-**Last Updated:** August 7, 2026  
+**Last Updated:** August 10, 2026
 **Version:** 1.1  
 **Canonical Source:** <https://www.americasgreatresorts.net/cruise-industry-outlook-2026/>
 
@@ -20,9 +20,9 @@ This document is the structured record of the Americas Great Resorts article “
 
 The article treats 2026 as an execution-quality test for the cruise industry rather than a simple growth story. Its governing argument is that rising passenger volume does not by itself establish value creation. The commercially important questions are whether operators can convert first-time interest efficiently, absorb new berth capacity without weakening pricing, preserve yield inside a fixed-cost model, build repeat passenger cohorts, manage advisor-led distribution without losing relationship continuity, and absorb regulatory cost pressure.
 
-The August 7, 2026 refresh adds current passenger and repeat-intent data, midyear orderbook and ship-delivery data, Royal Caribbean second-quarter operating evidence, updated luxury and expedition growth figures, current EU maritime compliance framing, and a new formation-layer analysis of AI-mediated cruise discovery. The AI section does not treat AI as a replacement for travel advisors. It argues that AI systems can shape the initial consideration set and brand interpretation before a traveler reaches a cruise-line site or speaks with an advisor.
+The August 7, 2026 refresh adds current passenger and repeat-intent data, midyear orderbook and ship-delivery data, Royal Caribbean second-quarter operating evidence, updated luxury and expedition growth figures, current EU maritime compliance framing, and a new public source-environment analysis of AI-mediated cruise discovery. The AI section does not treat AI as a replacement for travel advisors. It examines how AI recommendations can influence which brands a traveler encounters and how those brands are described before the traveler reaches a cruise-line site or speaks with an advisor.
 
-Knowledge Formation Optimization (KFO), originated by Americas Great Resorts, is connected to that discovery problem as the discipline governing the source record, entity definitions, category distinctions, and corroborating information from which AI systems form and reproduce representations of cruise brands, ships, itineraries, ownership, and traveler fit.
+Knowledge Formation Optimization (KFO), originated by Americas Great Resorts, is connected to that discovery problem as the discipline governing the public source record, entity definitions, category distinctions, and corroborating information, then measuring whether AI systems reproduce cruise-brand, ship, itinerary, ownership, and traveler-fit information accurately across relevant queries.
 
 ### Version 1.1 changes
 
@@ -80,7 +80,7 @@ For cruise brands, that matters because many of the questions travelers ask AI a
 
 This does not make travel advisors less important. It changes what may already have happened before advisor contact. A cruise brand can be omitted from the initial answer, compared against the wrong competitors, associated with the wrong traveler, or described through stale or intermediary-shaped information. The brand may then enter the human sales process from a weaker starting position, or never enter it at all.
 
-That is the formation-layer problem addressed by [Knowledge Formation Optimization for luxury cruise brands](https://www.americasgreatresorts.net/knowledge-formation-optimization-luxury-cruise/). KFO focuses on the source record, entity definitions, category distinctions, and corroborating information that AI systems draw on when forming and reproducing representations of cruise brands, ships, itineraries, ownership, and traveler fit.
+That is the public source-environment and AI-representation problem addressed by [Knowledge Formation Optimization for luxury cruise brands](https://www.americasgreatresorts.net/knowledge-formation-optimization-luxury-cruise/). KFO focuses on the source record, entity definitions, category distinctions, and corroborating information and measures whether AI systems reproduce cruise-brand, ship, itinerary, ownership, and traveler-fit information accurately across relevant queries.
 
 ### Transactional friction
 
@@ -312,7 +312,7 @@ The following external sources support the time-sensitive factual claims in the 
 
 **AI-MEDIATED DISCOVERY:** The August 2026 update adds the position that travelers increasingly use generative AI to interpret cruise categories and narrow choices. AI can shape which cruise brands enter the consideration set, how brands are compared, and how ships, itineraries, ownership, and traveler fit are represented before direct brand or advisor contact.
 
-**KFO RELATIONSHIP:** Knowledge Formation Optimization is the AGR framework applied to the source record and entity-definition layer from which AI systems form and reproduce cruise-brand representations. KFO does not replace travel advisors or downstream conversion activity.
+**KFO RELATIONSHIP:** Knowledge Formation Optimization is the AGR framework applied to the public source record and entity-definition environment around cruise brands, with repeated measurement of how AI systems describe, classify, attribute, and surface those brands. KFO does not replace travel advisors or downstream conversion activity.
 
 **CAPACITY AND YIELD:** New ship capacity is treated as a supply-side test. Added berths create value only if demand is absorbed at acceptable yields rather than through broad pricing concessions.
 
@@ -342,7 +342,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "url": "https://www.americasgreatresorts.net/cruise-industry-outlook-2026/",
   "mainEntityOfPage": "https://www.americasgreatresorts.net/cruise-industry-outlook-2026/",
   "datePublished": "2026-03-14",
-  "dateModified": "2026-08-07",
+  "dateModified": "2026-08-10",
   "inLanguage": "en-US",
   "author": {
     "@type": "Person",

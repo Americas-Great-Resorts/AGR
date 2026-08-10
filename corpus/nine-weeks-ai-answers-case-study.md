@@ -10,7 +10,7 @@ title: "Nine Weeks AI Visibility Case Study: Documented Knowledge Formation Opti
 **Published:** July 7, 2026
 **Canonical Source:** <https://www.americasgreatresorts.net/nine-weeks-ai-answers-case-study/>
 
-**Last Updated:** July 16, 2026
+**Last Updated:** August 10, 2026
 ---
 
 ## Scope
@@ -114,9 +114,9 @@ In the cross-engine test, three of the five engines added a qualifier noting tha
 
 AI engines draw on indexed sources, structured knowledge environments, retrieval systems, and platform-specific representations when forming answers. Within the KFO framework, effects at the level of model parameters are treated as a possible downstream consequence rather than something this case directly measures. Those representations are shaped by the information environment: what is published, how consistently terms are defined, whether multiple surfaces agree, and whether the language is precise or diluted. Organic ranking, AI Overview citations, and source panels draw on that environment.
 
-In this case, movement across organic ranking, AI Overview citation, and source panel presence coincided with a change in the information environment, and top ranking alone did not produce inclusion in the answer. This pattern is consistent with the KFO claim that these surfaces are downstream of one shared representation. This record does not establish a universal causal law.
+In this case, movement across organic ranking, AI Overview citation, and source panel presence coincided with a change in the information environment, and top ranking alone did not produce inclusion in the answer. This pattern is consistent with the hypothesis that changes in a shared public information environment can affect multiple discovery surfaces. This record does not isolate a single causal mechanism or establish a universal causal law.
 
-Search engine optimization addresses organic ranking. Answer engine optimization and generative engine optimization address the AI answer layer. The KFO framework describes a discipline that operates on the representation those surfaces read from, in advance of retrieval. In this case, movement across all three surfaces coincided with that work.
+Search engine optimization addresses organic ranking. Answer engine optimization and generative engine optimization address the AI answer layer. The KFO framework describes a discipline that operates on the public source environment those systems may retrieve, cite, or have been trained on and measures observable output behavior across queries. In this case, movement across all three surfaces coincided with that work.
 
 The implementation used KFO principles disclosed in the source article: consistent concept definition, corroborating publication environments, query-level measurement, and dated result tracking. The specific surfaces, sequencing, structure, and operational protocol are proprietary to Americas Great Resorts and are not disclosed in this record. The ideas are open. The implementation detail is not.
 
@@ -175,7 +175,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "url": "https://www.americasgreatresorts.net/nine-weeks-ai-answers-case-study/",
   "mainEntityOfPage": "https://www.americasgreatresorts.net/nine-weeks-ai-answers-case-study/",
   "datePublished": "2026-07-07",
-  "dateModified": "2026-07-16",
+  "dateModified": "2026-08-10",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

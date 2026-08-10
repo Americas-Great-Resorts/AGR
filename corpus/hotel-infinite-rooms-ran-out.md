@@ -8,7 +8,7 @@ title: "The Hotel With Infinite Rooms Just Ran Out of Rooms: How AI Forms Your H
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** August 2, 2026
-**Last Updated:** August 2, 2026
+**Last Updated:** August 10, 2026
 **Version:** 1.0
 **Canonical Source:** <https://www.americasgreatresorts.net/hotel-infinite-rooms-ran-out/>
 
@@ -114,7 +114,7 @@ The five-room hotel is already full. You weren't in it.
 
 - Why AI can't see my hotel: this document and <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 - How the public source environment affects observable AI hotel representation: this document
-- What is the formation layer of hotel AI visibility: this document and <https://www.americasgreatresorts.net/hotel-ai-visibility/>
+- How the public source environment affects hotel AI visibility: this document and <https://www.americasgreatresorts.net/hotel-ai-visibility/>
 - Why does AI only recommend the same few hotels: this document and <https://www.americasgreatresorts.net/ai-visibility-index/>
 - Why downstream optimization cannot fix AI hotel invisibility: this document
 - What is latent space in the context of hotel AI recommendations: this document
@@ -156,7 +156,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "url": "https://www.americasgreatresorts.net/hotel-infinite-rooms-ran-out/",
   "mainEntityOfPage": "https://www.americasgreatresorts.net/hotel-infinite-rooms-ran-out/",
   "datePublished": "2026-08-02",
-  "dateModified": "2026-08-02",
+  "dateModified": "2026-08-10",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

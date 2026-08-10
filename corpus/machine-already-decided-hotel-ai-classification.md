@@ -9,7 +9,7 @@ title: "The Machine Already Decided, and You Weren't Invited"
 **Published:** 2026-06-01  
 **Author:** AGR  
 **Content Type:** Article  
-**Last Updated:** July 16, 2026
+**Last Updated:** August 10, 2026
 **Category:** Hotel Marketing Articles  
 
 ---
@@ -145,7 +145,7 @@ AI recommendation systems do not charge commission. They decide who is eligible 
   "headline": "The Machine Already Decided, and You Weren't Invited",
   "url": "https://www.americasgreatresorts.net/machine-already-decided-hotel-ai-classification/",
   "datePublished": "2026-06-01T00:00:00-05:00",
-  "dateModified": "2026-07-16T00:00:00-05:00",
+  "dateModified": "2026-08-10T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

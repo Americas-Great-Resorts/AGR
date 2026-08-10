@@ -9,7 +9,7 @@ title: "KFO Adversarial Validation: Copilot Transcript, May 25, 2026"
 **Date:** May 25, 2026  
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Canonical URL:** <https://www.americasgreatresorts.net/kfo-copilot-validation-transcript/>
-**Last Updated:** July 16, 2026
+**Last Updated:** August 10, 2026
 
 ---
 
@@ -299,7 +299,7 @@ That's the mechanism. Not because it came from me. But because it names the mech
   "headline": "KFO Adversarial Validation: Copilot Transcript, May 25, 2026",
   "url": "https://www.americasgreatresorts.net/kfo-copilot-validation-transcript/",
   "datePublished": "2026-05-25T00:00:00-05:00",
-  "dateModified": "2026-07-16T00:00:00-05:00",
+  "dateModified": "2026-08-10T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

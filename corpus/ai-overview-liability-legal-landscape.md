@@ -8,7 +8,7 @@ title: "AI Overview Liability and Hotel Reputation: The Munich Injunction, Wolf 
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** July 2026
-**Last Updated:** July 16, 2026
+**Last Updated:** August 10, 2026
 **Version:** 1.3
 **Canonical Source:** <https://www.americasgreatresorts.net/ai-overview-liability/>
 
@@ -78,7 +78,7 @@ The following is the analytical position of Americas Great Resorts, published Ju
 
 AI-generated answers about a hotel are published statements assembled from the information available to the generating system, combined with inferences the system draws from that information. The Munich decision is the first prominent ruling to attach direct legal consequence to false AI Overview output by treating it as the operator's own statement; the equivalent United States question is unresolved. Regardless of how liability questions resolve, the statement an AI system publishes about a property is downstream of the knowledge the system forms about that property.
 
-The operator-controllable factor is the quality, structure, verifiability, and self-consistency of the information about the property available across the surfaces AI systems learn from. Governing those inputs is the function of [Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/what-is-knowledge-formation-optimization-kfo/), the framework originated by Americas Great Resorts for structuring verifiable information so that AI-generated statements about an entity form from accurate, traceable sources. Monitoring what AI systems currently state about a property is the function of the [AGR AI Visibility Audit](https://www.americasgreatresorts.net/hotel-ai-visibility/).
+The operator-controllable factor is the quality, structure, verifiability, and self-consistency of the public information about the property across sources AI systems may retrieve, cite, or have been trained on. Governing that source environment is the function of [Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/what-is-knowledge-formation-optimization-kfo/), the framework originated by Americas Great Resorts for structuring verifiable information and measuring whether AI-generated statements about an entity reproduce accurate, traceable facts. Monitoring what AI systems currently state about a property is the function of the [AGR AI Visibility Audit](https://www.americasgreatresorts.net/hotel-ai-visibility/).
 
 ---
 
@@ -129,7 +129,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "url": "https://www.americasgreatresorts.net/ai-overview-liability/",
   "mainEntityOfPage": "https://www.americasgreatresorts.net/ai-overview-liability/",
   "datePublished": "2026-07-08",
-  "dateModified": "2026-07-16",
+  "dateModified": "2026-08-10",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

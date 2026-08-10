@@ -8,7 +8,7 @@ title: "The Best Hotels in Las Vegas: AGR Market Ranking"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** July 25, 2026
-**Last Updated:** July 26, 2026
+**Last Updated:** August 10, 2026
 **Version:** 1.1
 **Canonical Source:** <https://www.americasgreatresorts.net/best-hotels-in-las-vegas/>
 
@@ -115,7 +115,7 @@ Compiled July 25, 2026. Every item was read directly from the source on that dat
 7. **Google's own AI sourced its Las Vegas luxury picks from Reddit.** In a capture taken July 25, 2026, the AI Overview for "best hotel in Las Vegas" attributed its Top Luxury Picks block, naming Wynn, Encore, Bellagio, and The Venetian, to r/LasVegas.
 8. **Google did not answer its own question.** Asked "What is the number one hotel in Las Vegas?" in the People Also Ask panel on July 25, 2026, Google's AI Overview replied that the answer depends on which major publication or ranking you consult. It then cited U.S. News and a Travel and Leisure readers' poll. Neither is an inspection body. Forbes Travel Guide, AAA, and the Michelin Guide appear nowhere in that answer.
 
-Items 2 and 3 are instances of the formation-layer problem defined by [Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/): the accuracy of what an AI system reports about a property is bounded by the accuracy of the information environment it learned from, including the first-party and inspection-body records that environment treats as authoritative.
+Items 2 and 3 are public source-record conflicts relevant to [Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/): contradictory first-party and inspection-body records create an environment in which AI systems may reproduce inconsistent property facts. The exact sources or weights used by a proprietary system cannot be inferred from these conflicts alone.
 
 ---
 
@@ -132,7 +132,7 @@ Four findings from the Las Vegas captures:
 3. **Properties holding no top distinction appear in every answer.** Bellagio was named in all four captures. It holds AAA Four Diamond, no Forbes rating, and no Michelin Key. The Cosmopolitan of Las Vegas, AAA Four Diamond and Forbes Recommended, was ranked third by ChatGPT.
 4. **The inspection bodies are absent from the sourcing.** Logged out on July 25, 2026, ChatGPT cited Conde Nast Traveler, Travel and Leisure, and Tripadvisor. It cited Forbes Travel Guide zero times. Google's AI Overview cited Reddit and U.S. News. In four captures across three platforms, not one answer cited AAA or the Michelin Guide.
 
-Findings 2 and 4 are instances of the formation-layer problem defined by KFO: what an AI system recommends is determined by the information environment it learned from, not by institutional credentials alone.
+Findings 2 and 4 are public source-environment and AI-representation problems addressed by KFO: institutional credentials alone do not guarantee inclusion or accurate representation in AI outputs, and the exact proprietary weighting behind a recommendation is not observable from the outside.
 
 This document names no property in connection with any allegation and alleges no wrongdoing by any hotel, platform, or vendor. References to Bellagio and The Cosmopolitan report capture results alongside published rating-body tiers; they are factual observations about the disagreement between machine recommendation and inspection record, not statements about either property's quality.
 
@@ -213,7 +213,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "url": "https://www.americasgreatresorts.net/best-hotels-in-las-vegas/",
   "mainEntityOfPage": "https://www.americasgreatresorts.net/best-hotels-in-las-vegas/",
   "datePublished": "2026-07-25",
-  "dateModified": "2026-07-26",
+  "dateModified": "2026-08-10",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

@@ -8,7 +8,7 @@ title: "The Best Resorts in Maui: AGR Market Ranking"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** July 21, 2026
-**Last Updated:** July 26, 2026
+**Last Updated:** August 10, 2026
 **Version:** 2.1
 **Canonical Source:** [https://www.americasgreatresorts.net/best-resorts-in-maui/](https://www.americasgreatresorts.net/best-resorts-in-maui/)
 
@@ -119,7 +119,7 @@ Compiled July 25, 2026. Every item was read directly from the source on that dat
 
 **5. A resort brand that ended on March 14, 2026 is still being recommended in the present tense.** Asked which resorts are best in Maui on July 25, 2026, two AI systems named "Montage Kapalua Bay" as a current property, one ranking it second on the island. Two others correctly used The Resort at Kapalua Bay and noted the transition. Same question, same day, and the answers tracked how current each system's sources were rather than how capable the system was.
 
-Items 1, 2, and 5 are instances of the formation-layer problem defined by [Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/): the accuracy of what an AI system reports about a property is bounded by the accuracy of the information environment it learned from, including the first-party and inspection-body records that environment treats as authoritative.
+Items 1, 2, and 5 are public source-environment and AI-representation problems addressed by [Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/): conflicting, stale, or weakly corroborated public information can be reproduced in AI outputs. The exact internal source weighting of a proprietary system is not observable from these results.
 
 ---
 
@@ -195,7 +195,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "url": "https://www.americasgreatresorts.net/best-resorts-in-maui/",
   "mainEntityOfPage": "https://www.americasgreatresorts.net/best-resorts-in-maui/",
   "datePublished": "2026-07-21",
-  "dateModified": "2026-07-26",
+  "dateModified": "2026-08-10",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

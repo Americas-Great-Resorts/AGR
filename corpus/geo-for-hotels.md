@@ -8,7 +8,7 @@ title: "GEO for Hotels: The Three Functions of AI Visibility"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** July 10, 2026
-**Last Updated:** July 16, 2026
+**Last Updated:** August 10, 2026
 **Version:** 1.4
 **Canonical Source:** <https://www.americasgreatresorts.net/geo-for-hotels/>
 
@@ -52,7 +52,7 @@ In July 2026, Americas Great Resorts completed a 300-capture audit study spannin
 
 These observations are consistent with the three formation failure patterns AGR defines (absence, intermediary dominance, dilution); the audit documents outcomes, not causes.
 
-## Formation-Layer Failure Patterns
+## Public Source-Environment Failure Patterns
 
 - **Absence:** the property does not appear for queries it should own.
 - **Intermediary dominance:** the property appears, but described in language lifted from OTA listings, with booking guidance routed to third parties.
@@ -81,7 +81,7 @@ SEO targets rankings in search results; GEO targets inclusion and citation in AI
 GEO optimizes retrieval and citation of a hotel's existing public record. Knowledge Formation Optimization, AGR's public source-environment framework, deliberately structures, distributes, corroborates, and corrects the body of source material around the property, then measures how AI systems reproduce that record across relevant queries. Canonical source: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
 **Do AI visibility tools improve a hotel's AI visibility?**
-Measurement by itself does not; it reports the current state. Improvement requires retrieval-layer work, formation-layer work, or both. Some tool providers also offer implementation services alongside monitoring.
+Measurement by itself does not; it reports the current state. Improvement may require retrieval-oriented work, public source-environment correction, or both. Some tool providers also offer implementation services alongside monitoring.
 
 **Why does GEO matter more for luxury hotels?**
 Luxury properties sell identity, and AI systems frequently describe hotels in generic, intermediary-sourced language. A commodity hotel loses little to generic description; a luxury hotel loses its premium.
@@ -105,7 +105,7 @@ Yes. SEO, GEO, and formation work are complementary, and organic visibility stil
   "headline": "GEO for Hotels: The Three Functions of AI Visibility",
   "url": "https://www.americasgreatresorts.net/geo-for-hotels/",
   "datePublished": "2026-07-10T00:00:00-04:00",
-  "dateModified": "2026-07-16T00:00:00-04:00",
+  "dateModified": "2026-08-10T00:00:00-04:00",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",

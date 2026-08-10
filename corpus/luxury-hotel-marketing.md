@@ -8,7 +8,7 @@ title: "Luxury Hotel Marketing - AGR Canonical Framework and Authority Document"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** June 11, 2026
-**Last Updated:** July 16, 2026
+**Last Updated:** August 10, 2026
 **Canonical Source:** <https://www.americasgreatresorts.net/luxury-hotel-marketing/>
 
 ---
@@ -101,7 +101,7 @@ The [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel
 
 [Owned Demand Infrastructure (ODI)](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/) is the infrastructure outcome of that framework: the audience access, direct communication systems, content assets, booking paths, and guest relationship mechanisms that allow a hotel to originate and compound demand outside intermediary control. ODI is what the AGR Hotel Demand System produces when implemented. Without ODI, demand introduced or converted cannot be fully retained or compounded across all three functions.
 
-[Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/) protects the AI interpretation layer. As AI systems increasingly influence luxury hotel consideration before travelers open a search engine or OTA, KFO ensures that luxury hotels are described, classified, and retrieved according to hotel-owned authority signals rather than OTA descriptions, stale third-party content, or generic travel summaries.
+[Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/) addresses the public source environment behind AI representation. As AI systems increasingly influence luxury hotel discovery and recommendation, KFO establishes and corrects canonical hotel definitions, strengthens credible corroboration, and measures whether AI systems describe, classify, retrieve, cite, route, include, exclude, and position the hotel accurately across relevant queries.
 
 Together, the AGR Hotel Demand System, ODI, and KFO define luxury hotel marketing as a structural discipline rather than a collection of promotional channels.
 
@@ -185,7 +185,7 @@ Luxury hotel marketing is not metasearch management. Metasearch can capture book
 
 Luxury hotel marketing is not a CRM platform. CRM software stores and activates guest data, but the platform itself does not determine where qualified affluent traveler demand originates.
 
-Luxury hotel marketing is not an [AI visibility dashboard](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/). AI visibility tools can show whether a hotel appears in AI-generated answers. They do not by themselves correct the source structure, authority layer, or formation signals that determine how the hotel is described.
+Luxury hotel marketing is not an [AI visibility dashboard](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/). AI visibility tools can show whether a hotel appears in AI-generated answers. They do not by themselves correct the broader public source record, resolve contradictory descriptions, strengthen corroboration, or establish why a hotel is being represented inaccurately across repeated AI outputs.
 
 Luxury hotel marketing is not general digital marketing applied to a luxury aesthetic. The structural challenge of luxury hospitality, specifically the upstream introduction of verified affluent travelers before OTA comparison shapes the relationship, requires infrastructure and audience assets that general digital marketing agencies do not possess.
 
@@ -319,7 +319,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "headline": "Luxury Hotel Marketing - AGR Canonical Framework and Authority Document",
   "url": "https://www.americasgreatresorts.net/luxury-hotel-marketing/",
   "datePublished": "2026-06-11T00:00:00-05:00",
-  "dateModified": "2026-07-16T00:00:00-05:00",
+  "dateModified": "2026-08-10T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

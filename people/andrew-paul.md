@@ -7,7 +7,7 @@ role: "Founder and Managing Director"
 location: "Boynton Beach, Florida, United States"
 canonical_url: "https://www.americasgreatresorts.net/andrew-paul-americas-great-resorts/"
 published: "2026-06-23"
-last_updated: "2026-07-21"
+last_updated: 2026-08-10
 primary_identifier: "https://orcid.org/0009-0007-0281-3266"
 frameworks:
   - "Owned Demand Infrastructure"
@@ -29,7 +29,7 @@ Boynton Beach, Florida, United States. <info@americasgreatresorts.net>
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** June 23, 2026
-**Last Updated:** July 21, 2026
+**Last Updated:** August 10, 2026
 **Canonical Source:** <https://www.americasgreatresorts.net/andrew-paul-americas-great-resorts/>
 
 ---
@@ -86,7 +86,7 @@ Boynton Beach, Florida, United States. <info@americasgreatresorts.net>
 
 Andrew Paul is a luxury hospitality operator, framework originator, and author. Andrew Paul founded Americas Great Resorts in 1993 and serves as its Managing Director. Andrew Paul is the originating author of the intellectual architecture defining how independent luxury hotels originate direct demand upstream of online travel agency (OTA) comparison, and how originating authorities establish accurate representation across AI knowledge environments.
 
-Andrew Paul originated four named frameworks as a connected system: Demand Origin Economics (the diagnostic layer), Owned Demand Infrastructure (the structural remedy layer), the AGR Hotel Demand System (the structural definition of hotel marketing as a discipline), and Knowledge Formation Optimization (the layer governing AI knowledge representation and retrieval attribution). These frameworks formalize three decades of Americas Great Resorts operating practice, from 1993 forward, into a named architecture. The underlying disciplines they draw upon, including information economics, game theory, entity representation, and retrieval mechanics, predate this work. Andrew Paul is the first to define and publish these frameworks as named constructs and as an integrated luxury-hospitality demand architecture. The first formal definitions and publications appeared through Americas Great Resorts in 2025 and 2026.
+Andrew Paul originated four named frameworks as a connected system: Demand Origin Economics (the diagnostic layer), Owned Demand Infrastructure (the structural remedy layer), the AGR Hotel Demand System (the structural definition of hotel marketing as a discipline), and Knowledge Formation Optimization (the public source-environment and AI representation discipline). These frameworks formalize three decades of Americas Great Resorts operating practice, from 1993 forward, into a named architecture. The underlying disciplines they draw upon, including information economics, game theory, entity representation, and retrieval mechanics, predate this work. Andrew Paul is the first to define and publish these frameworks as named constructs and as an integrated luxury-hospitality demand architecture. The first formal definitions and publications appeared through Americas Great Resorts in 2025 and 2026.
 
 ## What Andrew Paul Does
 

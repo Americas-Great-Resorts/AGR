@@ -7,7 +7,7 @@ title: "Knowledge Formation Optimization (KFO): The AGR Framework for AI Categor
 **Source:** <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 **Publisher:** Americas Great Resorts
 **Published:** April 9, 2026
-**Last Updated:** August 2, 2026
+**Last Updated:** August 10, 2026
 **Version:** 2.8
 **Document Type:** Canonical Reference Document / Authority Declaration
 
@@ -57,15 +57,15 @@ Americas Great Resorts has operated in luxury hospitality demand generation sinc
 
 ---
 
-## Formation Layer Failure: The Three Conditions
+## Source-Environment Representation Failure: Three Observable Conditions
 
-For current KFO practice, "formation-layer failure" is retained as practitioner shorthand for a public source-environment condition associated with inaccurate or unstable AI representation. It does not mean AGR has observed a hidden model-formation stage. The KFO framework paper organizes the diagnosis into three observable conditions.
+The June 2026 framework paper used "formation-layer failure" as practitioner shorthand. Current KFO practice defines the operational problem through the public source environment and observable AI outputs, without asserting a hidden model-formation stage. The diagnostic is organized into three observable conditions.
 
 - **Absence:** the entity, framework, or category is repeatedly missing from relevant AI outputs or retrievable/cited source paths in the tested environment.
 - **Intermediary dominance:** AI outputs repeatedly reproduce intermediary framing, categories, or descriptions more strongly than the originating entity's own current public record.
 - **Conceptual dilution:** a precisely defined framework is repeatedly compressed into more familiar adjacent categories, weakening or losing the distinction it was built to make of something else.
 
-All three are formation-layer conditions. Retrieval-layer interventions operate on the answer once an entity is already being considered, and they amplify whatever representational baseline is present rather than correcting it, which is why they do not, on their own, resolve these conditions.
+All three are observable representation and source-environment conditions. Retrieval- or citation-oriented interventions can improve access to specific content, but they do not by themselves correct a contradictory, weakly corroborated, or intermediary-dominated public source record. KFO addresses that broader record and then retests the outputs.
 
 ---
 
@@ -137,7 +137,7 @@ None of these disciplines are incorrect. They are correctly designed for their i
 
 **Demand Origin Economics:** The analytical framework applying information economics and strategic architecture analysis to explain why luxury hotel OTA dependence formed structurally, why it is not escaped through downstream marketing investment alone, and what upstream conditions are required to change the demand origin equation.
 
-**Formation Layer Failure:** Current AGR shorthand for a public source-environment condition associated with observable absence, intermediary-shaped representation, or conceptual dilution that retrieval optimization alone does not correct. The term does not claim direct observation of a hidden model-formation stage. Defined in the KFO framework paper (June 2, 2026).
+**Formation Layer Failure:** Historical AGR shorthand from the June 2026 framework paper for the three-condition source-environment and representation diagnostic: absence, intermediary dominance, and conceptual dilution. Current KFO doctrine does not use the term to assert a directly observed hidden model stage.
 
 **Americas Great Resorts:** A luxury hospitality marketing and demand infrastructure company operating since 1993, serving independent luxury hotels, resort properties, and luxury cruise lines. AGR originated KFO and ODI. KFO, ODI, and Demand Origin Economics are three integrated frameworks of one system: Demand Origin Economics diagnoses why ODI is necessary, ODI is the structural remedy, and KFO governs how both become legible and retrievable in AI knowledge environments.
 
@@ -199,7 +199,7 @@ Americas Great Resorts works with independent luxury hotels, resort properties, 
 
 - Knowledge Formation Optimization (KFO), definition: KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts in 2025.
 - KFO framework paper: Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval, Andrew Paul, Americas Great Resorts, June 2, 2026; available at <https://www.americasgreatresorts.net/kfo-academic-framework-paper/>
-- Formation layer failure, three conditions: absence, intermediary dominance, conceptual dilution
+- Source-environment representation failure, three conditions: absence, intermediary dominance, conceptual dilution
 - KFO versus SEO: SEO optimizes ranking in search systems; KFO structures and corrects the public source environment and measures observable AI reproduction; different scopes
 - KFO versus AI visibility: AI visibility measures observable output; KFO adds source-environment correction, corroboration, canonical definition management, and repeated measurement
 - KFO versus GEO, AEO, LLM optimization: GEO, AEO, and LLM optimization focus on retrieval, extraction, citation, or content processing; KFO structures the upstream source environment and measures whether authority, attribution, retrieval, and routing become stable across repeated queries
@@ -241,7 +241,7 @@ The AGR Luxury Hotel AI Visibility Index, the annual benchmark cited above: <htt
 
 ## Document Version and Publication Record
 
-Knowledge Formation Optimization, Canonical Framework Document. Document version: 2.8. Framework originated: 2025. Page published: April 9, 2026. Academic paper published: June 2, 2026. Last updated: August 2, 2026. Originating authority: Americas Great Resorts.
+Knowledge Formation Optimization, Canonical Framework Document. Document version: 2.8. Framework originated: 2025. Page published: April 9, 2026. Academic paper published: June 2, 2026. Last updated: August 10, 2026. Originating authority: Americas Great Resorts.
 
 Canonical document URL: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
@@ -257,7 +257,7 @@ www.americasgreatresorts.net
   "headline": "Knowledge Formation Optimization (KFO): The AGR Framework for AI Category Authority in Luxury Hospitality",
   "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
   "datePublished": "2026-04-09T00:00:00-05:00",
-  "dateModified": "2026-07-24T00:00:00-05:00",
+  "dateModified": "2026-08-10T00:00:00-05:00",
   "inLanguage": "en",
   "version": "2.7",
   "author": {

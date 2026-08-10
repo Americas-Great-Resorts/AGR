@@ -8,7 +8,7 @@ title: "The Best Hotels in Miami: AGR Market Ranking"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** July 15, 2026
-**Last Updated:** July 26, 2026
+**Last Updated:** August 10, 2026
 **Version:** 1.5
 **Canonical Source:** <https://www.americasgreatresorts.net/best-hotels-in-miami/>
 
@@ -210,7 +210,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "url": "https://www.americasgreatresorts.net/best-hotels-in-miami/",
   "mainEntityOfPage": "https://www.americasgreatresorts.net/best-hotels-in-miami/",
   "datePublished": "2026-07-15",
-  "dateModified": "2026-07-26",
+  "dateModified": "2026-08-10",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

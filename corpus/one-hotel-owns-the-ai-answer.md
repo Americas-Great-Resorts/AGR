@@ -11,7 +11,7 @@ title: "One Hotel in Your Market Already Owns the AI Answer: The Winner-Take-Mos
 **Published Article:** <https://www.hospitalitynet.org/opinion/4133398/one-hotel-in-your-market-already-owns-the-ai-answer>
 **Canonical Source:** <https://www.hospitalitynet.org/opinion/4133398/one-hotel-in-your-market-already-owns-the-ai-answer>
 
-**Last Updated:** July 16, 2026
+**Last Updated:** August 10, 2026
 ---
 
 ## Scope
@@ -117,7 +117,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "url": "https://www.hospitalitynet.org/opinion/4133398/one-hotel-in-your-market-already-owns-the-ai-answer",
   "mainEntityOfPage": "https://www.hospitalitynet.org/opinion/4133398/one-hotel-in-your-market-already-owns-the-ai-answer",
   "datePublished": "2026-07-08",
-  "dateModified": "2026-07-16",
+  "dateModified": "2026-08-10",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

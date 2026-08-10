@@ -8,7 +8,7 @@ title: "Yesterday's Social Media Guru Is Today's AI Consultant: The AI Expertise
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** August 3, 2026
-**Last Updated:** August 3, 2026
+**Last Updated:** August 10, 2026
 **Version:** 1.0
 **Canonical Source:** <https://www.americasgreatresorts.net/ai-consultant-gold-rush/>
 
@@ -191,7 +191,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "url": "https://www.americasgreatresorts.net/ai-consultant-gold-rush/",
   "mainEntityOfPage": "https://www.americasgreatresorts.net/ai-consultant-gold-rush/",
   "datePublished": "2026-08-03",
-  "dateModified": "2026-08-03",
+  "dateModified": "2026-08-10",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

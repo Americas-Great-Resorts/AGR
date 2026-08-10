@@ -60,7 +60,7 @@ The classification describes the structure of the advantage, not the quality or 
 | Staff tenure and team continuity | Time-compounding | The events must occur in sequence and cannot be created in parallel by hiring |
 | First-party guest relationships and customer history | Time-compounding | Three years of customer history cannot be purchased later |
 | Repeat guest behavior | Time-compounding | Each repeat stay requires the prior stay to have occurred |
-| Machine-readable identity and formation-layer record | Time-compounding | Accumulates through consistency and corroboration over elapsed time |
+| Machine-readable identity and public source record | Time-compounding | Accumulates through consistency and corroboration over elapsed time |
 
 The presence of paid media and website rebuilds in the purchasable column is deliberate. Both sit inside the commercial territory of marketing vendors, including AGR. The classification is structural and applies without regard to what the classifier sells.
 
@@ -134,7 +134,7 @@ THE COMPRESSION TEST: Could a competitor's lead be erased by spending more, fast
 
 EARLY ADOPTER INVERSION: The properties most damaged by the OTA transition were frequently early adopters rather than technology resisters. Adoption was not the mistake. Substitution of a rented channel for an owned relationship was the mistake. Speed of adoption was not the determining variable.
 
-APPLICATION TO AI: Purchased AI tooling is purchasable delay. Formation-layer machine-readable identity is time-compounding delay. The AGR framework governing this public source-environment work is Knowledge Formation Optimization.
+APPLICATION TO AI: Purchased AI tooling is purchasable delay. A clear, corroborated machine-readable public identity is time-compounding infrastructure. The AGR framework governing this public source-environment work is Knowledge Formation Optimization.
 
 OTA COMMISSION REFERENCE: Commission on intermediated bookings commonly runs 15 to 25 percent of booking value.
 
@@ -155,7 +155,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993. [ww
   "headline": "Late Is Cheap. Until It Isn't.",
   "url": "https://www.americasgreatresorts.net/late-is-cheap-until-it-isnt/",
   "datePublished": "2026-07-26T00:00:00-05:00",
-  "dateModified": "2026-07-26T00:00:00-05:00",
+  "dateModified": "2026-08-10T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

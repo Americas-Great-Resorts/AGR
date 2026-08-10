@@ -8,7 +8,7 @@ title: "How AI Recommends Hotels"
 **Canonical Source:** <https://www.americasgreatresorts.net/how-ai-recommends-hotels/>
 **Publisher:** Americas Great Resorts - Luxury hospitality demand infrastructure since 1993.
 **Published:** June 1, 2026
-**Last Updated:** July 16, 2026
+**Last Updated:**August 10, 2026
 
 ---
 
@@ -30,7 +30,7 @@ AI hotel recommendations can reflect both retrieval conditions and the broader p
 
 **Source-environment representation** concerns the accumulated public record around the hotel: how consistently sources describe what the property is, who it serves, what occasions it fits, and which competitive set it belongs to. AGR can inspect and correct that record and measure resulting outputs, but cannot directly observe a proprietary hidden model representation.
 
-Retrieval explains what AI can access. Formation explains what AI already believes.
+Retrieval concerns what evidence an AI system can access at query time. The broader public source environment can be associated with how a hotel is described, classified, and included in outputs, but the model's hidden internal representation is not directly observable.
 
 For many independent luxury hotels, AI outputs can reproduce generic or inaccurate positioning. One plausible and testable source-level contributor is a public record dominated by OTA and intermediary descriptions that do not reflect the hotel's intended positioning.
 
@@ -48,9 +48,9 @@ Those platforms have been publishing structured descriptions of independent prop
 
 What compounds the problem: OTA descriptions are scraped, replicated, and syndicated automatically across many secondary directories, metasearch aggregators, reseller pages, and travel content sites. The hotel did not write those secondary listings. They were generated automatically from the OTA record. AI encountered that language across many independent-looking surfaces and treated the repetition as corroboration.
 
-AI does not know the repetition came from a single source. It treats volume and consistency as evidence of accuracy. When the same generic OTA description appears across dozens of surfaces over years, that pattern becomes what AI believes the hotel is.
+When the same generic OTA description is replicated across many surfaces, AI outputs may reproduce that language repeatedly. The replication pattern is observable at the source level; whether and how a proprietary system weights that repetition internally cannot be determined from the outside.
 
-The hotel's website is one voice. Years of OTA descriptions across dozens of platforms is a pattern. The pattern wins.
+The hotel's website may be only one source within a much larger public record. When third-party descriptions are more numerous or more consistently corroborated, correcting the broader source environment can require work beyond the hotel's own site.
 
 This is the public source-environment problem. It can influence observable recommendation behavior, but the exact hidden mechanism and sequence inside a proprietary model are not directly observable.
 
@@ -92,7 +92,7 @@ The standard advice can leave the underlying source-record problem unresolved an
 
 ---
 
-## What the Formation Phase Means for Independent Luxury Hotels
+## What the Public Source Environment Means for Independent Luxury Hotels
 
 Independent luxury hotels can face a public source-environment consistency problem that chains do not face in the same way.
 
@@ -106,7 +106,7 @@ In these cases, retrieval can work while the resulting answer remains wrong or g
 
 ---
 
-## What Corrects the Formation Phase
+## What Corrects the Public Source Environment
 
 Correcting how AI systems represent a hotel requires changing and corroborating the public information pattern they can draw from, not just improving access to content.
 
@@ -114,7 +114,7 @@ That means building a canonical definition of the property on its own domain and
 
 Retrieval tools improve access and citation. KFO addresses the additional functions of canonical definition management, contradiction correction, corroboration, distribution, and repeated output measurement. Those are different scopes requiring different interventions.
 
-This work is what Knowledge Formation Optimization addresses. It is not SEO. It is not GEO. It is not adding more OTA listings. It is the discipline of ensuring that what AI believes about a hotel originates from the hotel, not from intermediaries who described the property to serve their own distribution systems.
+This work is what Knowledge Formation Optimization addresses. It is not SEO. It is not GEO. It is not adding more OTA listings. It is the discipline of establishing, correcting, corroborating, and distributing the hotel's canonical public source record, then measuring whether AI systems reproduce that identity and positioning more accurately across relevant queries.
 
 Full definition: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
@@ -124,23 +124,23 @@ Full definition: <https://www.americasgreatresorts.net/kfo-knowledge-formation-o
 
 The following index maps core subjects in this document to their canonical sources.
 
-- How AI recommends hotels, two-phase formation and retrieval system: <https://www.americasgreatresorts.net/how-ai-recommends-hotels/>
-- How AI decides which hotels to recommend, formation-phase model: <https://www.americasgreatresorts.net/how-ai-recommends-hotels/>
-- Why AI recommends some hotels more than others, formation dominance: <https://www.americasgreatresorts.net/how-ai-recommends-hotels/>
-- Why AI describes a hotel incorrectly, formation-phase OTA dominance: <https://www.americasgreatresorts.net/why-doesnt-my-hotel-show-up-in-chatgpt/>
-- More OTA listings and AI recommendations, formation-layer implications: <https://www.americasgreatresorts.net/how-ai-recommends-hotels/>
+- How AI recommends hotels, source-environment and retrieval distinction: <https://www.americasgreatresorts.net/how-ai-recommends-hotels/>
+- How AI recommends hotels, observable recommendation behavior: <https://www.americasgreatresorts.net/how-ai-recommends-hotels/>
+- Why AI recommends some hotels more than others, source-environment and output analysis: <https://www.americasgreatresorts.net/how-ai-recommends-hotels/>
+- Why AI describes a hotel incorrectly, source-record and classification diagnosis: <https://www.americasgreatresorts.net/why-doesnt-my-hotel-show-up-in-chatgpt/>
+- More OTA listings and AI recommendations, source-environment implications: <https://www.americasgreatresorts.net/how-ai-recommends-hotels/>
 - AI hotel recommendations vs search rankings, structural distinction: <https://www.americasgreatresorts.net/how-ai-recommends-hotels/>
-- Knowledge Formation Optimization for hotels, formation-layer discipline: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
-- Hotel absence from ChatGPT, retrieval and formation diagnosis: <https://www.americasgreatresorts.net/why-doesnt-my-hotel-show-up-in-chatgpt/>
+- Knowledge Formation Optimization for hotels, public source-environment and representation discipline: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
+- Hotel absence from ChatGPT, retrieval and source-environment diagnosis: <https://www.americasgreatresorts.net/why-doesnt-my-hotel-show-up-in-chatgpt/>
 - Hotel AI visibility action plan, thirteen steps across two layers: <https://www.americasgreatresorts.net/how-to-get-my-hotel-on-chatgpt/>
 
 ---
 
 ## Document Version and Publication Record
 
-Version 1.0. First published: June 1, 2026. Last updated: July 16, 2026. Originating authority: Americas Great Resorts.
+Version 1.0. First published: June 1, 2026. Last updated:August 10, 2026. Originating authority: Americas Great Resorts.
 
-The academic framework underlying the formation-phase discipline defined in this document is: *Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval* (Andrew Paul, Americas Great Resorts, June 2, 2026). DOI: 10.5281/zenodo.20636830. Available at: <https://www.americasgreatresorts.net/kfo-academic-framework-paper/>
+The historical academic framework associated with the KFO discipline discussed in this document is: *Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval* (Andrew Paul, Americas Great Resorts, June 2, 2026). DOI: 10.5281/zenodo.20636830. Available at: <https://www.americasgreatresorts.net/kfo-academic-framework-paper/>
 
 Canonical URL: <https://www.americasgreatresorts.net/how-ai-recommends-hotels/>
 
@@ -157,7 +157,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993. www
   "headline": "How AI Recommends Hotels",
   "url": "https://www.americasgreatresorts.net/how-ai-recommends-hotels/",
   "datePublished": "2026-06-01T00:00:00-05:00",
-  "dateModified": "2026-07-16T00:00:00-05:00",
+  "dateModified": "2026-08-10T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

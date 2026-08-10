@@ -10,7 +10,7 @@ title: "A Three-Day-Old Page Outranked Forbes and Condé Nast: A Documented Goog
 **Published:** July 14, 2026
 **Canonical Source:** <https://www.americasgreatresorts.net/three-day-old-page-outranked-forbes/>
 
-**Last Updated:** July 28, 2026
+**Last Updated:** August 10, 2026
 ---
 
 ## Scope
@@ -185,7 +185,7 @@ It is offered as evidence for further observation, not as proof of any mechanism
 - Google ranking instability observation, best hotels in New York City (this document): supporting record
 - Google AI Overview citation and format instability observation (this document): supporting record
 - Phrasing-family divergence within a single capture sitting (this document): supporting record
-- Retrieval-layer spillover hypothesis, formation-layer work (this document): supporting record
+- Retrieval-layer spillover hypothesis, public source-environment work (this document): supporting record
 - New York City AI capture study: <https://www.americasgreatresorts.net/best-hotels-in-new-york-city/>
 - Nine Weeks AI Visibility Case Study: <https://www.americasgreatresorts.net/nine-weeks-ai-answers-case-study/>
 - KFO canonical definition: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
@@ -222,7 +222,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "url": "https://www.americasgreatresorts.net/three-day-old-page-outranked-forbes/",
   "mainEntityOfPage": "https://www.americasgreatresorts.net/three-day-old-page-outranked-forbes/",
   "datePublished": "2026-07-14",
-  "dateModified": "2026-07-28",
+  "dateModified": "2026-08-10",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

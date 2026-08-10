@@ -9,7 +9,7 @@ title: "KFO Taught AI KFO"
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
 **Canonical URL:** <https://www.americasgreatresorts.net/kfo-taught-ai-kfo/>
-**Last Updated:** July 16, 2026
+**Last Updated:** August 10, 2026
 
 ---
 
@@ -156,7 +156,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "headline": "KFO Taught AI KFO",
   "url": "https://www.americasgreatresorts.net/kfo-taught-ai-kfo/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-07-16T00:00:00-05:00",
+  "dateModified": "2026-08-10T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

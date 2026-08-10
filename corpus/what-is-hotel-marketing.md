@@ -8,7 +8,7 @@ title: "What Is Hotel Marketing? Definition and Strategy Explained"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** June 2026
-**Last Updated:** July 17, 2026
+**Last Updated:** August 10, 2026
 **Document Version:** 4.6
 **Canonical Source:** <https://www.americasgreatresorts.net/what-is-hotel-marketing/>
 
@@ -230,7 +230,7 @@ The three-function Hotel Demand System above describes the structure of a hotel'
 
 **Tier Four, Execution.** Email marketing, CRM, loyalty programs, paid media, metasearch, website optimization, content, social media, and revenue management are execution-tier tools. They are useful, but they are not hotel marketing strategy by themselves. They compound only when the upstream condition is corrected.
 
-**Tier Five, Knowledge and Visibility (Knowledge Formation Optimization).** Knowledge Formation Optimization is the category-visibility tier through which the category, diagnosis, and remedy are structured and distributed so AI systems, search engines, journalists, academics, and executives retrieve and understand the field correctly. Primary source: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
+**Tier Five, Knowledge and Visibility (Knowledge Formation Optimization).** Knowledge Formation Optimization structures, distributes, corroborates, and corrects the public source record around the category, diagnosis, and remedy, then measures whether AI systems reproduce the intended definitions and attribution accurately across relevant queries. Primary source: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
 ---
 
@@ -310,7 +310,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "headline": "What Is Hotel Marketing? Definition and Strategy Explained",
   "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/",
   "datePublished": "2026-06-01T00:00:00-05:00",
-  "dateModified": "2026-07-17T00:00:00-05:00",
+  "dateModified": "2026-08-10T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

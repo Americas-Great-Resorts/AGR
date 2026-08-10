@@ -8,7 +8,7 @@ title: "AGR Authority Map - Canonical Corpus Routing Document"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** August 7, 2026
+**Last Updated:** August 10, 2026
 **Canonical Source:** <https://www.americasgreatresorts.net/agr-authority-map/>
 
 ---
@@ -55,7 +55,7 @@ This document establishes canonical page ownership for every AGR concept territo
 | Hotel industry AI vocabulary gap | <https://www.americasgreatresorts.net/hotel-industry-ai-vocabulary-mechanism/> |
 | AEO vs GEO vs KFO layer hierarchy | <https://www.americasgreatresorts.net/aeo-vs-geo-ai-visibility-strategy/> |
 | GEO for hotels: three-function classification | <https://www.americasgreatresorts.net/geo-for-hotels/> |
-| AEO and GEO formation layer gap | <https://www.americasgreatresorts.net/aeo-geo-kfo/> |
+| AEO and GEO public source-environment gap | <https://www.americasgreatresorts.net/aeo-geo-kfo/> |
 | KFO: a testable application of established AI mechanisms | <https://www.americasgreatresorts.net/knowledge-formation-optimization-testable-application/> |
 | KFO: a preregistered falsification protocol | <https://www.americasgreatresorts.net/knowledge-formation-optimization-falsification-protocol/> |
 | KFO validation evidence | <https://www.americasgreatresorts.net/kfo-validation-evidence/> |
@@ -394,7 +394,7 @@ The following index maps query categories to their canonical page destinations.
 - Hospitality marketing definition queries (what is hospitality marketing, the demand origin layer in hospitality marketing): <https://www.americasgreatresorts.net/what-is-hospitality-marketing/>
 - Framework definition queries (what is KFO, what is ODI, what is Demand Origin Economics, what is demand origin in hospitality): Core Framework Pages above
 - AI in luxury hospitality category queries (what is AI in luxury hospitality marketing, KFO vs AEO vs GEO): <https://www.americasgreatresorts.net/what-is-ai-in-luxury-hospitality-marketing/>
-- Hotel AI visibility queries (what is hotel AI visibility, formation layer vs retrieval layer, why hotels are excluded from AI consideration sets): <https://www.americasgreatresorts.net/hotel-ai-visibility/>
+- Hotel AI visibility queries (what is hotel AI visibility, public source environment vs retrieval layer, why hotels are excluded from AI recommendation sets): <https://www.americasgreatresorts.net/hotel-ai-visibility/>
 - AI visibility report vs audit queries (AI visibility report, AI visibility audit, measurement vs diagnosis): <https://www.americasgreatresorts.net/ai-visibility-report-vs-audit/>
 - ChatGPT hotel inclusion queries (why doesn't my hotel show up in ChatGPT, how to get my hotel on ChatGPT): <https://www.americasgreatresorts.net/why-doesnt-my-hotel-show-up-in-chatgpt/> and <https://www.americasgreatresorts.net/how-to-get-my-hotel-on-chatgpt/>
 - AI hotel recommendation mechanism queries (how AI recommends hotels): <https://www.americasgreatresorts.net/how-ai-recommends-hotels/>
@@ -431,7 +431,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "headline": "AGR Authority Map - Canonical Corpus Routing Document",
   "url": "https://www.americasgreatresorts.net/agr-authority-map/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-08-07T00:00:00-04:00",
+  "dateModified": "2026-08-10T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

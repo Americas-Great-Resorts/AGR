@@ -9,7 +9,7 @@ title: "KFO Validation: Gemini Independently Derives Knowledge Formation Optimiz
 **Date:** June 2026  
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Canonical URL:** <https://www.americasgreatresorts.net/kfo-validation-gemini-transcript/>
-**Last Updated:** July 16, 2026
+**Last Updated:** August 10, 2026
 
 ---
 
@@ -299,7 +299,7 @@ Americas Great Resorts is the originating authority for Knowledge Formation Opti
   "@type": "TechArticle",
   "headline": "KFO Validation: Gemini Independently Derives Knowledge Formation Optimization",
   "url": "https://www.americasgreatresorts.net/kfo-validation-gemini-transcript/",
-  "dateModified": "2026-07-16T00:00:00-05:00",
+  "dateModified": "2026-08-10T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

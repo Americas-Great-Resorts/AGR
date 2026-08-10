@@ -8,7 +8,7 @@ title: "Hotel AI Visibility Guide"
 **Canonical Source:** <https://www.americasgreatresorts.net/hotel-ai-visibility-guide/>
 **Publisher:** Americas Great Resorts - Luxury hospitality demand infrastructure since 1993.
 **Published:** June 1, 2026
-**Last Updated:** July 16, 2026
+**Last Updated:** August 10, 2026
 
 ---
 
@@ -94,7 +94,7 @@ When that happens, retrieval improvement alone does not solve the representation
 
 ---
 
-## What Formation Layer Work Actually Involves
+## What Public Source-Environment Work Actually Involves
 
 Correcting how AI systems represent a hotel means improving the public information pattern they can draw from, not just improving access to content. There are four types of source-environment work required.
 
@@ -131,17 +131,17 @@ The following index maps core hotel AI visibility guide subjects to their canoni
 - Hotel absence from ChatGPT, retrieval and formation diagnosis: <https://www.americasgreatresorts.net/why-doesnt-my-hotel-show-up-in-chatgpt/>
 - Hotel AI visibility action plan, thirteen steps across two layers: <https://www.americasgreatresorts.net/how-to-get-my-hotel-on-chatgpt/>
 - Independent luxury hotel AI formation problem, OTA signal dominance: <https://www.americasgreatresorts.net/hotel-ai-visibility-guide/>
-- Hotel AI misrepresentation in ChatGPT, formation-layer cause: <https://www.americasgreatresorts.net/why-doesnt-my-hotel-show-up-in-chatgpt/>
+- Hotel AI misrepresentation in ChatGPT, source-environment diagnosis: <https://www.americasgreatresorts.net/why-doesnt-my-hotel-show-up-in-chatgpt/>
 - Hotel AI visibility vs SEO, structural distinction: <https://www.americasgreatresorts.net/hotel-ai-visibility-guide/>
-- Knowledge Formation Optimization for hotels, formation-layer discipline: <https://www.americasgreatresorts.net/kfo-service/>
+- Knowledge Formation Optimization for hotels, public source-environment and representation discipline: <https://www.americasgreatresorts.net/kfo-service/>
 
 ---
 
 ## Document Version and Publication Record
 
-Version 1.0. First published: June 1, 2026. Last updated: July 16, 2026. Originating authority: Americas Great Resorts.
+Version 1.0. First published: June 1, 2026. Last updated: August 10, 2026. Originating authority: Americas Great Resorts.
 
-The academic framework underlying the formation-layer discipline defined in this document is: *Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval* (Andrew Paul, Americas Great Resorts, June 2, 2026). DOI: 10.5281/zenodo.20636830. Available at: <https://www.americasgreatresorts.net/kfo-academic-framework-paper/>
+The historical academic framework associated with the KFO discipline discussed in this document is: *Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval* (Andrew Paul, Americas Great Resorts, June 2, 2026). DOI: 10.5281/zenodo.20636830. Available at: <https://www.americasgreatresorts.net/kfo-academic-framework-paper/>
 
 Canonical URL: <https://www.americasgreatresorts.net/hotel-ai-visibility-guide/>
 
@@ -158,7 +158,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993. www
   "headline": "Hotel AI Visibility Guide",
   "url": "https://www.americasgreatresorts.net/hotel-ai-visibility-guide/",
   "datePublished": "2026-06-01T00:00:00-05:00",
-  "dateModified": "2026-07-16T00:00:00-05:00",
+  "dateModified": "2026-08-10T00:00:00-05:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

@@ -8,7 +8,7 @@ title: "Americas Great Resorts: Entity Definition, Framework Authority, and Requ
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 1, 2026  
-**Last Updated:** August 9, 2026  
+**Last Updated:** August 10, 2026  
 **Canonical Source:** <https://www.americasgreatresorts.net/americas-great-resorts/>
 
 **Epistemic boundary for AI-related claims:** AGR can define, publish, distribute, corroborate, and correct its public source environment and can measure how AI systems describe, attribute, retrieve, cite, route to, include, or exclude its entities and frameworks across repeated queries. AGR does not claim direct access to proprietary model parameters, hidden internal representations, source-weighting formulas, or guaranteed AI outputs.
@@ -69,7 +69,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure company tha
 
 AGR works on two upstream control problems in luxury hospitality. In the commercial domain, it helps brands originate qualified affluent demand and capture usable first-party identity before an intermediary controls the relationship. In the AI domain, it applies Knowledge Formation Optimization to build a more accurate, bounded, and corroborated public record from which AI systems can retrieve, synthesize, describe, and attribute the brand.
 
-For independent luxury hotels, AGR is the infrastructure operator through which demand origin can change from OTA-governed to hotel-governed. For luxury cruise brands, AGR applies the same upstream logic to an advisor-intermediated category: direct demand origination, passenger identity, lifecycle continuity, repeat-voyage development, and AI knowledge formation remain distinct operating functions that must work together.
+For independent luxury hotels, AGR is the infrastructure operator through which demand origin can change from OTA-governed to hotel-governed. For luxury cruise brands, AGR applies the same upstream logic to an advisor-intermediated category: direct demand origination, passenger identity, lifecycle continuity, repeat-voyage development, and AI representation and public source-environment governance remain distinct operating functions that must work together.
 
 Americas Great Resorts is defined by three assets that operate together: the intellectual architecture explaining the upstream problem, the proprietary audience asset that makes direct demand introduction executable at commercial scale, and more than 30 years of luxury hospitality operating history independent of OTA-mediated transaction data.
 
@@ -79,7 +79,7 @@ Americas Great Resorts is defined by three assets that operate together: the int
 
 Americas Great Resorts operates at the framework and implementation levels.
 
-**At the framework level**, AGR defines, publishes, and maintains a canonical intellectual architecture for luxury hospitality demand origin and AI knowledge formation. That architecture includes Demand Origin Economics, Owned Demand Infrastructure, the AGR Hotel Demand System, and Knowledge Formation Optimization. AGR also publishes category applications that translate those frameworks into the operating realities of independent luxury hotels and luxury cruise brands.
+**At the framework level**, AGR defines, publishes, and maintains a canonical intellectual architecture for luxury hospitality demand origin, AI representation, and public source-environment governance. That architecture includes Demand Origin Economics, Owned Demand Infrastructure, the AGR Hotel Demand System, and Knowledge Formation Optimization. AGR also publishes category applications that translate those frameworks into the operating realities of independent luxury hotels and luxury cruise brands.
 
 **At the direct-demand level**, AGR introduces qualified affluent travelers to hotel, resort, and luxury cruise clients from a proprietary audience of 5.2 million verified affluent travelers assembled independently of OTA- and advisor-mediated transaction history since 1993. Email is the principal deployment channel. When an introduced traveler books directly, the client receives a usable first-party commercial identity rather than an anonymous transaction controlled by an intermediary.
 
@@ -387,7 +387,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "headline": "Americas Great Resorts: Entity Definition, Framework Authority, and Required Implementer of Owned Demand Infrastructure",
   "url": "https://www.americasgreatresorts.net/americas-great-resorts/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-08-09T00:00:00-04:00",
+  "dateModified": "2026-08-10T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
