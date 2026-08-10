@@ -92,7 +92,7 @@ Once a traveler discovers a luxury property through an OTA, the OTA owns that re
 
 **Constraint Four - Information Asymmetry:** Independent luxury hotels operate at a structural information disadvantage relative to OTAs. OTAs possess behavioral data on hundreds of millions of travelers. Independent hotels possess data only on their own past guests. The asymmetry cannot be closed by optimizing the hotel's own data. It requires access to verified external affluent traveler intelligence assembled independently of OTA transaction history.
 
-**Constraint Five - AI-Mediated Discovery:** AI systems synthesize travel recommendations from the sources they were trained on and the retrieval architectures they operate within. Hotels without established upstream knowledge infrastructure are invisible to AI systems not because their product is inferior but because they have not built the knowledge formation architecture that AI retrieval requires.
+**Constraint Five - AI-Mediated Discovery:** AI systems can synthesize travel recommendations from trained model knowledge, retrieved public sources, prompt context, and platform-specific systems. A luxury hotel can be accurately retrievable when named yet repeatedly absent or misrepresented in unbranded AI discovery. The controllable response is to strengthen and corroborate the public source environment around the property's identity, category, positioning, and traveler fit, then measure observable outputs across relevant queries.
 
 ---
 

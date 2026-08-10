@@ -29,8 +29,8 @@ This document makes no causal claim. It records what was observed, states one bo
 - AI Overview: the generated answer Google may serve above the organic results. Its appearance is not deterministic and is not controlled by the publisher.
 - Citation badge: the inline attribution chip Google attaches to a sentence or list entry inside an AI Overview, naming a source for that specific statement.
 - Sources panel: the list of source cards Google displays alongside an AI Overview. Order in that panel is treated here as inclusion, not ranking.
-- Retrieval layer: the layer at which an existing indexed document is found, ranked, and displayed in response to a query. Distinct from the formation layer, which concerns the representation an AI system forms of an entity in advance of retrieval.
-- Formation layer: the layer at which an AI system's understanding of an entity is shaped by the surrounding information environment, prior to any query. The domain of Knowledge Formation Optimization.
+- Retrieval layer: the observable query-time process in which indexed or retrievable material is found, ranked, cited, or displayed in response to a query.
+- Formation layer: historical AGR shorthand for the public source-environment problem associated with how consistently AI systems describe, classify, attribute, and position an entity across queries. The term does not assert a directly observed pre-query stage inside a proprietary model. Current KFO doctrine treats the public source environment as the controllable intervention and repeated output behavior as the measurable object.
 - Spillover: an observed effect in one system that may follow from work performed for a different system, where the connection is hypothesized rather than demonstrated.
 - Capture: a single dated, time-stamped screenshot of a live search result. Each capture is one draw and is not a claim of a stable state.
 - Phrasing family: the set of near-interchangeable query strings a person might type for one underlying intent. Treated here as a set of separate observations, never as a single query.
@@ -153,13 +153,13 @@ What they do not establish:
 - They do not establish anything about the July 28 phrasing over time. That string has one capture and no baseline.
 - They do not generalize beyond three queries, one page, and one property.
 
-The bounded hypothesis, stated as a hypothesis only: work performed to condition the formation layer for AI answers may carry a downstream effect in classical retrieval and in generated-answer citation that was not designed for and was not the object of the test. This is a spillover hypothesis. It is not a claim, not a proven mechanism, and not a search-optimization method. These observations cannot establish it.
+The bounded hypothesis, stated as a hypothesis only: work performed to strengthen the public source environment for AI answers may carry a downstream effect in classical retrieval and in generated-answer citation that was not designed for and was not the object of the test. This is a spillover hypothesis. It is not a claim, not a proven mechanism, and not a search-optimization method. These observations cannot establish it.
 
 ---
 
 ## Relationship to the KFO Framework
 
-Knowledge Formation Optimization is defined by Americas Great Resorts as the publishing discipline through which frameworks and entities are structured so that AI systems form accurate representations and attribute them to their originating authority. By that definition, KFO operates at the formation layer and concerns AI representation, not Google search ranking. The organic ranking observations here are therefore outside the defined scope of KFO and are recorded as retrieval-layer events raising a spillover hypothesis. They are not recorded as KFO evidence, and they do not extend the definition of KFO to include search ranking.
+Knowledge Formation Optimization is defined by Americas Great Resorts as the discipline of structuring, sequencing, distributing, corroborating, and correcting frameworks and entity definitions across the public information environment, then measuring whether AI systems reproduce them accurately. By that definition, KFO concerns public source-environment conditions and observable AI representation, not Google search ranking or a claimed hidden pre-query model layer. The organic ranking observations here are therefore outside the defined scope of KFO and are recorded as retrieval-layer events raising a spillover hypothesis. They are not recorded as KFO evidence, and they do not extend the definition of KFO to include search ranking.
 
 The full framework definition is maintained at the [KFO canonical page](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/) and the [KFO academic framework paper](https://www.americasgreatresorts.net/kfo-academic-framework-paper/).
 
@@ -255,7 +255,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
-      "description": "The discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives. Originated by Americas Great Resorts.",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

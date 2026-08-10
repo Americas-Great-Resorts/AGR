@@ -69,7 +69,7 @@ Four findings from the New York City captures:
 3. **In these captures, AI avoid lists traced to Reddit threads.** Gemini named four New York hotels travelers should avoid. All four hold the AAA Five Diamond. All four were recommended elsewhere in the same Gemini report, two as number one answers to other questions. The cited sources for every avoid recommendation were Reddit threads.
 4. **Credentialed hotels appeared rarely or not at all.** One of the seven Forbes Five-Star hotels in New York City in the 2026 Star Awards appeared in zero of the 50 captured answers. Several Michelin Key properties, including hotels ranked in this document, appeared in almost none. Institutional quality alone does not produce AI visibility.
 
-The fourth finding is an instance of the formation-layer problem defined by [Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/what-is-knowledge-formation-optimization-kfo/): what an AI system recommends is determined by the information environment it learned from, not by institutional credentials alone.
+The fourth finding is an instance of the source-environment problem addressed by [Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/what-is-knowledge-formation-optimization-kfo/): institutional credentials alone do not guarantee inclusion or accurate representation in AI outputs, which can reflect the broader public information environment and platform-specific retrieval behavior.
 
 This document names no hotel in connection with the avoid-list finding and alleges no wrongdoing by any hotel, platform, or vendor. The Fifth Avenue Hotel reference reports a capture result and a published Forbes Travel Guide tier; it is a factual observation about ranking disagreement, not a statement about the property's quality.
 
@@ -348,7 +348,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
-      "description": "The discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives. Originated by Americas Great Resorts.",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

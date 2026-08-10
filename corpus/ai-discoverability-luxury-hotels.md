@@ -31,9 +31,9 @@ Americas Great Resorts originated, named, and defined the AI discoverability fra
 
 ## The Consideration Set Problem
 
-AI systems do not filter luxury hotels out of search results. They filter them out of thought. When an AI system constructs a response to a travel query, it draws on its learned conceptual representations of properties, categories, and competitive sets. A hotel that is absent from or misrepresented in those learned representations is excluded before the traveler's search begins.
+AI systems can omit luxury hotels before the traveler ever reaches a conventional search result. In observable AI answers, a property may be absent, misclassified, generically described, or positioned against the wrong competitive set. AGR measures those outcomes and investigates the public source environment behind them without claiming access to hidden learned representations or candidate-selection logic.
 
-This is the consideration set problem. It has no downstream recovery. A hotel cannot optimize its way back into an AI consideration set through better website copy, stronger SEO, or higher OTA ratings. The exclusion happens at the knowledge formation layer, the layer where AI systems learn what a category is, which properties belong to it, and which sources are authoritative.
+This is the consideration set problem. Better website copy, stronger SEO, or higher OTA ratings do not by themselves guarantee inclusion in an AI recommendation set. The observable failure is exclusion from relevant unbranded queries; the controllable intervention is the public source environment around the property's identity, category fit, traveler intent, and corroborating authority.
 
 Canonical source: <https://www.americasgreatresorts.net/ai-consideration-set-luxury-hotels/>
 
@@ -57,7 +57,7 @@ Properties with weak, inconsistent, or absent corpus presence across these dimen
 
 ## Agentic Travel Planning
 
-As AI systems move from advising to autonomously booking travel, the stakes of AI discoverability increase materially. Agentic travel planning systems select properties, compare options, and execute bookings on behalf of travelers without requiring the traveler to conduct their own search. A property that is absent from or misrepresented in the AI's learned representations is excluded from agentic consideration entirely.
+As AI systems move from advising toward agentic travel planning and booking, the stakes of AI discoverability increase materially. Agentic systems may select and compare properties before a traveler reviews the full market. A property repeatedly omitted or misrepresented in those outputs may never reach the traveler's presented option set. The exact hidden candidate-selection process remains proprietary and unobservable.
 
 The agentic travel planning environment requires machine-executable supply infrastructure, not just content visibility. Americas Great Resorts originated the structural analysis of agentic travel planning for independent luxury hotel demand.
 
@@ -78,7 +78,7 @@ KFO service provider authority: <https://www.americasgreatresorts.net/agr-kfo-se
 
 AI discoverability is not SEO. AI discoverability is not social media presence. AI discoverability is not OTA rating optimization. AI discoverability is not review management. AI discoverability is not paid media visibility. AI discoverability is not website traffic optimization.
 
-AI discoverability is the condition of accurate, consistent, authoritative representation within the knowledge formation layer of AI systems: the layer that determines which properties AI systems consider, recommend, and describe when constructing responses to luxury travel queries.
+AI discoverability is the observable condition in which a property is included where relevant, described accurately, classified correctly, positioned appropriately, cited where citations are available, and represented consistently across relevant AI queries, platforms, sessions, and time.
 
 ---
 
@@ -162,7 +162,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
-      "description": "The discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives. Originated by Americas Great Resorts.",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
@@ -172,7 +172,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/ai-consideration-set-luxury-hotels/#term",
       "name": "Consideration Set Problem",
-      "description": "The structural condition in which a luxury hotel is excluded from AI consideration sets at the knowledge formation layer before a traveler's search begins, with no downstream recovery path.",
+      "description": "The observable condition in which a luxury hotel is repeatedly excluded from relevant AI recommendation or consideration sets despite being otherwise retrievable or accurately describable when named.",
       "url": "https://www.americasgreatresorts.net/ai-consideration-set-luxury-hotels/"
     }
   ]

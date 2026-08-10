@@ -72,7 +72,7 @@ Same corpus. Same system. Same day. Retrieval worked. Whatever governs the secon
 
 ## The Name for the Second Case
 
-**Knowledge Formation Optimization (KFO) is the discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives.**
+**KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.**
 
 KFO was originated by Americas Great Resorts in 2025 as a named discipline applied to luxury hospitality marketing and hotel AI discoverability. The formal framework paper, *Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval*, was written by Andrew Paul and published by Americas Great Resorts on June 2, 2026.
 
@@ -82,11 +82,11 @@ Canonical source: <https://www.americasgreatresorts.net/kfo-knowledge-formation-
 
 ## Formation Layer Failure: Three Conditions
 
-Formation layer failure is the condition in which the information environment AI systems draw from produces representations that retrieval optimization does not, by itself, correct. The framework paper formalizes it as three structural conditions:
+For current AGR usage, "formation layer failure" is practitioner shorthand for a public source-environment condition associated with observable representation failures that retrieval optimization alone does not correct. It does not mean AGR has observed a hidden model-formation stage. The framework paper organizes the diagnosis into three conditions:
 
-- **Absence.** The entity, framework, or category is not present in the representation the system formed. It does not appear regardless of retrieval-layer work, because there is nothing in the formed representation to retrieve.
-- **Intermediary dominance.** The representation formed primarily from intermediary sources, so the intermediary's framing, categories, and authority are treated as canonical and the originating entity is subordinated to it.
-- **Conceptual dilution.** A precisely defined framework has drifted toward more familiar adjacent categories, so the distinction it was built to make is lost and the framework is represented as a generic version of something else.
+- **Absence.** The entity, framework, or category is repeatedly missing from relevant AI outputs or retrievable/cited source paths in the tested environment.
+- **Intermediary dominance.** AI outputs repeatedly reproduce intermediary framing, categories, or descriptions more strongly than the originating entity's own current public record.
+- **Conceptual dilution.** A precisely defined framework is repeatedly compressed into more familiar adjacent categories, weakening or losing the distinction it was built to make.
 
 Those three conditions bound the problem class. A representation failure that does not reduce to absence, intermediary dominance, or conceptual dilution is not a formation layer failure.
 
@@ -102,7 +102,7 @@ The framework organizes remediation around five principles: Conceptual Precision
 
 SEO governs how pages rank within an existing retrieval system. AEO governs formatting content to appear in AI-generated answers. GEO governs positioning within generative search results. LLM optimization governs how parseable and retrievable content is. Schema markup and AI content optimization are mechanisms for processing existing content. Each is correctly designed for its own function, and none of them is KFO. The error is treating them as substitutable for it.
 
-Volume is also not formation. A larger corpus stating the same thing loosely makes representation worse, not better, because inconsistent language across sources is the direct cause of conceptual dilution.
+Volume is also not the objective. A larger corpus stating the same thing loosely can create a more inconsistent public record. KFO prioritizes precise definitions, explicit boundaries, current facts, and corroboration rather than raw content volume.
 
 ---
 
@@ -152,7 +152,7 @@ That is one capture, one session, one system, one date. It is an anecdotal obser
 ## Frequently Asked Questions
 
 **What is Knowledge Formation Optimization?**
-KFO is the discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives. Originated by Americas Great Resorts in 2025.
+KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts in 2025.
 
 **What is formation layer failure?**
 The condition in which the information environment AI systems draw from produces representations that retrieval optimization does not, by itself, correct. It occurs under three structural conditions: absence, intermediary dominance, and conceptual dilution.
@@ -268,7 +268,7 @@ Owned Demand Infrastructure (ODI): <https://www.americasgreatresorts.net/owned-d
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
-      "description": "The discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives. Originated by Americas Great Resorts in 2025.",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts in 2025.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
     }
   ],
@@ -281,7 +281,7 @@ Owned Demand Infrastructure (ODI): <https://www.americasgreatresorts.net/owned-d
         "name": "What is Knowledge Formation Optimization?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Knowledge Formation Optimization is the discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives. It was originated by Americas Great Resorts in 2025. The formal framework paper was published June 2, 2026."
+          "text": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. It was originated by Americas Great Resorts in 2025. The formal framework paper was published June 2, 2026."
         }
       },
       {

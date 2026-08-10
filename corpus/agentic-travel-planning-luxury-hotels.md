@@ -33,7 +33,7 @@ In a search-mediated environment, a luxury hotel has multiple opportunities to i
 
 In an agentic environment, the AI system conducts the search on behalf of the traveler. The traveler does not see the options the AI system did not surface. The traveler does not encounter properties the AI system did not consider. The traveler does not evaluate competitive sets the AI system did not construct.
 
-This means that exclusion from an AI system's learned representations is exclusion from the traveler's consideration entirely: before the traveler has expressed a specific preference, before the traveler has begun a search, and before any downstream marketing or distribution strategy can intervene.
+This means that repeated exclusion from AI-generated recommendations can remove a property from the options a traveler sees before the hotel has any direct interaction with that traveler. AGR measures that observable exclusion without claiming access to a hidden learned representation or candidate-selection mechanism.
 
 ---
 
@@ -42,13 +42,13 @@ This means that exclusion from an AI system's learned representations is exclusi
 Independent luxury hotels are more exposed to agentic exclusion than branded chain properties for three structural reasons.
 
 ### Reason One: Corpus Thinness
-Branded chain properties generate consistent corpus presence through brand marketing, loyalty program communications, and scale-driven media coverage. Independent luxury hotels frequently have thin, inconsistent, or absent corpus presence across the surfaces AI systems learn from.
+Branded chain properties generate consistent public corpus presence through brand marketing, loyalty communications, and scale-driven media coverage. Independent luxury hotels frequently have thinner or more inconsistent public source records across the surfaces AI systems may retrieve or have been trained on.
 
 ### Reason Two: Competitive Set Collapse
 AI systems tend to collapse weakly defined independent properties into generic competitive categories: boutique hotel, luxury resort, five-star property, rather than maintaining the distinctive positioning that differentiates one independent property from another. Agentic systems selecting from collapsed categories cannot differentiate the property accurately.
 
 ### Reason Three: No Recovery Mechanism
-In a search environment, a hotel excluded from page one results can still be found on page two. In an agentic environment, a hotel excluded from the AI system's consideration set has no recovery mechanism. The agent has already made its selection before the traveler is aware of the options that were excluded.
+In a search environment, a hotel excluded from page one results can still be found on page two. In an agentic environment, a hotel omitted from the options an AI agent presents may never reach the traveler at all. The observable commercial risk is early exclusion from the presented recommendation set, regardless of the proprietary candidate-selection process behind it.
 
 ---
 
@@ -62,7 +62,7 @@ Machine-executable supply infrastructure consists of:
 - Consistent terminology across multiple independent corpus surfaces
 - Explicit conceptual boundary defense preventing competitive set collapse
 - Query mapping that routes relevant AI queries to canonical property descriptions
-- Cross-surface reinforcement that stabilizes the property's representation over time
+- Cross-surface corroboration intended to improve representation consistency over time
 
 This is the infrastructure [Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/) builds and maintains for independent luxury hotels.
 
@@ -72,7 +72,7 @@ This is the infrastructure [Knowledge Formation Optimization (KFO)](https://www.
 
 [Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/) is the discipline through which Americas Great Resorts builds the machine-executable supply infrastructure required for accurate agentic representation of independent luxury hotel properties.
 
-KFO addresses agentic travel planning risk at the knowledge formation layer: the layer where AI systems learn what a property is, which competitive set it belongs to, and which travelers it serves. Addressing the problem at this layer acts directly on agentic consideration set inclusion; downstream tactics operate after the consideration set has already been formed.
+KFO addresses agentic travel-planning risk through public source-environment correction and repeated measurement of how AI systems describe, classify, and include the property across relevant traveler queries. It does not claim to act directly on a proprietary hidden candidate-selection process.
 
 Canonical source for KFO: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
@@ -82,7 +82,7 @@ Canonical source for KFO: <https://www.americasgreatresorts.net/kfo-knowledge-fo
 
 [Owned Demand Infrastructure (ODI)](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/) governs upstream demand origin in the commercial domain: introducing qualified affluent travelers to luxury hotels before OTA comparison begins. Agentic travel planning creates a parallel upstream problem in the AI domain. If AI systems exclude a property from agentic consideration before the traveler begins their search, the commercial upstream introduction never reaches a traveler who has already been directed elsewhere by an agentic system.
 
-ODI and KFO together address both upstream layers: KFO governs upstream knowledge origin so that agentic systems represent the property accurately, and ODI governs upstream demand origin so that qualified travelers are introduced to the property through channels the hotel controls.
+ODI and KFO address two different upstream business problems: KFO improves and measures the public source environment and observable AI representation, while ODI governs direct demand origin so qualified travelers are introduced through channels the hotel controls.
 
 Canonical source for ODI: <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
 
@@ -165,7 +165,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
-      "description": "The discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives. Originated by Americas Great Resorts.",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

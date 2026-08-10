@@ -143,7 +143,7 @@ Luxury travelers research destinations, experiences, and properties before makin
 Paid media accelerates demand when targeted carefully and aligned with the right traveler motivations. For luxury properties, the goal is not mass exposure but precise access to verified high-value audiences in the correct feeder markets. Paid media can support demand introduction and conversion, but it does not by itself create hotel-owned demand origin infrastructure or replace Layer One owned audience access.
 
 ### AI Visibility
-AI systems now influence luxury hotel consideration before travelers open a search engine or OTA. How a property is described in AI-generated recommendations is a material luxury hotel marketing variable. Properties that do not manage their AI identity are described by intermediaries, in intermediary language, to every traveler who asks. [Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/) addresses this at the formation layer. Canonical KFO source: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
+AI systems now influence luxury hotel consideration before travelers open a search engine or OTA. How a property is described in AI-generated recommendations is a material luxury hotel marketing variable. Properties that do not manage their AI identity are described by intermediaries, in intermediary language, to every traveler who asks. [Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/) addresses this through public source-environment correction, corroboration, distribution, and repeated output measurement. Canonical KFO source: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
 ---
 
@@ -371,7 +371,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
-      "description": "The discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives. Originated by Americas Great Resorts.",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

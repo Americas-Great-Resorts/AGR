@@ -14,25 +14,25 @@ title: "How AI Recommends Hotels"
 
 ## Scope Boundary
 
-This document explains how AI hotel recommendations actually work as a two-phase system: formation and retrieval. It explains how AI builds its model of a hotel before any traveler asks a question, why independent luxury hotels are structurally vulnerable to OTA-derived misrepresentation in that model, why the retrieval phase draws on whatever the formation phase established, and why the standard AI visibility advice to list on more OTAs is correct at the retrieval layer and wrong at the formation layer.
+This document explains observable AI hotel recommendation behavior through two practical factors: retrieval/access and the quality of the public source environment. It explains why independent luxury hotels are vulnerable to OTA-derived misrepresentation, how retrieval and source conditions can interact, and why simply adding more OTA listings can strengthen intermediary-shaped public descriptions rather than correcting them.
 
 This document does not address hotel revenue management, booking engine selection, CRM software, paid media strategy, or general hotel marketing execution. Those are outside this document's scope.
 
-This document does not claim that retrieval-layer fixes have no value. It classifies them as necessary but insufficient for independent luxury hotels whose AI identity has been shaped by years of OTA descriptions. The formation phase is the missing layer most AI visibility guidance does not address.
+This document does not claim that retrieval-layer fixes have no value. It classifies them as necessary but potentially insufficient when an independent luxury hotel's public source record is dominated by years of generic or intermediary descriptions. KFO addresses that additional source-environment problem.
 
 ---
 
 ## The Two-Phase Model
 
-AI hotel recommendations work in two phases: formation and retrieval.
+AI hotel recommendations can reflect both retrieval conditions and the broader public source environment, along with trained model knowledge, prompt context, freshness, and platform-specific behavior. AGR does not claim a universal proprietary two-phase internal sequence.
 
 **Retrieval** is what happens when a traveler asks ChatGPT where to stay. AI synthesizes from signals it can access and returns a recommendation.
 
-**Formation** is what happened before the traveler asked. AI had already built a model of the hotel from accumulated signals across the web. That model determines what AI believes the hotel is, who it serves, and what occasions it belongs to. The retrieval phase draws on that model.
+**Source-environment representation** concerns the accumulated public record around the hotel: how consistently sources describe what the property is, who it serves, what occasions it fits, and which competitive set it belongs to. AGR can inspect and correct that record and measure resulting outputs, but cannot directly observe a proprietary hidden model representation.
 
 Retrieval explains what AI can access. Formation explains what AI already believes.
 
-For most independent luxury hotels, what AI believes is wrong. The formation phase was dominated by OTA descriptions that do not reflect the hotel's actual positioning.
+For many independent luxury hotels, AI outputs can reproduce generic or inaccurate positioning. One plausible and testable source-level contributor is a public record dominated by OTA and intermediary descriptions that do not reflect the hotel's intended positioning.
 
 ---
 
@@ -52,7 +52,7 @@ AI does not know the repetition came from a single source. It treats volume and 
 
 The hotel's website is one voice. Years of OTA descriptions across dozens of platforms is a pattern. The pattern wins.
 
-This is the formation phase. It happened before the traveler asked. It shapes every recommendation that follows.
+This is the public source-environment problem. It can influence observable recommendation behavior, but the exact hidden mechanism and sequence inside a proprietary model are not directly observable.
 
 ---
 
@@ -66,13 +66,13 @@ The retrieval phase is what most AI visibility guidance addresses. It covers:
 
 **Review and sentiment analysis.** AI draws on reviews across Google, TripAdvisor, and OTA platforms to understand a hotel's guest experience and category. It processes written feedback, not just star ratings. Specific language in reviews becomes part of what AI associates with the property.
 
-**Cross-platform consistency.** AI weights properties it encounters consistently across multiple authoritative sources more heavily than properties where information conflicts. Hotel name, address, star rating, and room category names must be identical across every platform.
+**Cross-platform consistency.** Conflicting names, addresses, ratings, categories, and facts create an inconsistent public record. Consistency across authoritative sources is controllable and testable, even though proprietary AI source-weighting formulas are not observable.
 
 **Personalization signals.** Where prior booking history is available, AI incorporates preference signals: past booking patterns, loyalty program data, price point preferences, and travel purpose.
 
 **Real-time data.** AI systems with live data access incorporate current pricing, room availability, and operational status.
 
-All of these retrieval signals matter. None of them change what the formation phase established.
+All of these retrieval signals matter. They do not, by themselves, correct a contradictory or intermediary-shaped public source record.
 
 ---
 
@@ -82,37 +82,37 @@ The most widely repeated AI visibility recommendation across GEO guides, AI read
 
 That reasoning is correct at the retrieval layer. More OTA listings increase the probability that AI can find and cite a property.
 
-It is structurally wrong at the formation layer. More OTA listings means more OTA language in AI's model of the hotel. More OTA language, written in generic transaction terms, means a stronger OTA pattern. The OTA pattern is already the dominant signal. Adding more OTA listings does not improve the hotel's AI identity. It deepens the incorrect one.
+It can be structurally wrong at the public source-record level. More OTA listings can mean more repeated OTA language about the hotel. If that language is generic or inconsistent with the property's intended positioning, adding more copies of it does not correct the record and may increase the amount of intermediary-shaped material that later corrections must compete against.
 
 The vendors recommending this approach are optimizing for citation probability. They are not addressing identity accuracy. Those are two different problems. A hotel can be cited more frequently in AI recommendations and still be described as something it is not.
 
 For independent luxury hotels, that outcome is commercially damaging. Being recommended more frequently as the wrong kind of property generates impressions with travelers who will not book, while the travelers who would pay a premium for the property's actual positioning are directed to competitors.
 
-The standard advice makes the formation problem worse, not better.
+The standard advice can leave the underlying source-record problem unresolved and, in some cases, add more intermediary-shaped material to it.
 
 ---
 
 ## What the Formation Phase Means for Independent Luxury Hotels
 
-Independent luxury hotels face a formation problem that chains do not face in the same way.
+Independent luxury hotels can face a public source-environment consistency problem that chains do not face in the same way.
 
 Chain properties benefit from standardized descriptions across every platform. The language is generic, but it is consistently generic. AI's model of a chain property is uniform.
 
-Independent luxury hotels depend on specific difference. Their value to the traveler is the specific location, the distinct character, the defined guest profile, the occasion the property is built for. AI cannot recommend that difference if the formation layer compressed it into generic category language.
+Independent luxury hotels depend on specific difference. Their value to the traveler is the specific location, distinct character, defined guest profile, and occasion fit. If AI outputs repeatedly compress those distinctions into generic category language, the property can be recommended in the wrong competitive frame or omitted from the right one.
 
 An adults-only coastal estate built for milestone occasions appears in AI recommendations as a family-friendly beachfront resort. A wellness retreat with a philosophy of complete disconnection appears alongside business hotels with conference facilities. A boutique property with fourteen rooms and a specific culinary program appears as a mid-range option with standard amenities.
 
-The retrieval phase is working correctly in every one of these cases. It is retrieving what the formation phase established. The formation phase established the wrong thing.
+In these cases, retrieval can work while the resulting answer remains wrong or generic because the accessible source record itself is inconsistent, incomplete, or intermediary-shaped.
 
 ---
 
 ## What Corrects the Formation Phase
 
-Correcting what AI has learned about a hotel requires changing the information pattern AI has been following, not just improving access to content.
+Correcting how AI systems represent a hotel requires changing and corroborating the public information pattern they can draw from, not just improving access to content.
 
 That means building a canonical definition of the property on its own domain and using that definition consistently across every controlled surface. It means earning corroborating references on independent surfaces that use specific vocabulary, not OTA category language. It means auditing every platform where the hotel appears and correcting descriptions that contradict its actual positioning.
 
-If formation is the upstream system, then correcting formation requires a distinct discipline. Retrieval tools improve access. They are not designed to change what AI believes. Those are different functions requiring different interventions.
+Retrieval tools improve access and citation. KFO addresses the additional functions of canonical definition management, contradiction correction, corroboration, distribution, and repeated output measurement. Those are different scopes requiring different interventions.
 
 This work is what Knowledge Formation Optimization addresses. It is not SEO. It is not GEO. It is not adding more OTA listings. It is the discipline of ensuring that what AI believes about a hotel originates from the hotel, not from intermediaries who described the property to serve their own distribution systems.
 
@@ -188,7 +188,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993. www
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
-      "description": "The discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives. Originated by Americas Great Resorts.",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
@@ -198,7 +198,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993. www
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/hotel-ai-visibility/#term",
       "name": "Hotel AI Visibility",
-      "description": "The two-phase system through which AI systems form and retrieve their understanding of a hotel property. Formation precedes retrieval and determines what retrieval returns.",
+      "description": "AGR framework for analyzing observable hotel recommendation behavior through retrieval/access conditions and the public source environment, without asserting a universal hidden pre-query sequence.",
       "url": "https://www.americasgreatresorts.net/hotel-ai-visibility/"
     }
   ]

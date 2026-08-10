@@ -124,13 +124,13 @@ The implementation used KFO principles disclosed in the source article: consiste
 
 ## Transferability
 
-This case does not establish that the method works stripped of the operator's decades of subject knowledge in luxury hospitality. It establishes that the method did not require any of the four inputs the industry treats as decisive, and that the knowledge it did require is knowledge a competent hotel operator already holds about their own property. A hotel is a harder subject than a proprietary framework, because a framework begins from an empty corpus and a hotel does not. A property's representation is already assembled from intermediary descriptions, review fragments, and third-party summaries the property did not write and does not govern. This is the reason the formation layer matters for hotels.
+This case does not establish that the method works stripped of the operator's decades of subject knowledge in luxury hospitality. It establishes that the method did not require any of the four inputs the industry treats as decisive, and that the knowledge it did require is knowledge a competent hotel operator already holds about their own property. A hotel is a harder subject than a proprietary framework, because a framework begins from an empty corpus and a hotel does not. A property's representation is already assembled from intermediary descriptions, review fragments, and third-party summaries the property did not write and does not govern. This is why the public source environment matters for hotels.
 
 ---
 
 ## Relationship to the KFO Framework
 
-This case is a self-implementation demonstration of [Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/), the formation-layer discipline originated by Americas Great Resorts that shapes the representation AI systems form of a subject in advance of retrieval. This document records outcomes observed following a self-implementation of KFO. It does not constitute validation of the entire framework. It sits alongside the [KFO academic framework paper](https://www.americasgreatresorts.net/kfo-academic-framework-paper/), which defines the formation layer, the failure taxonomy, and the operating principles.
+This case is a self-implementation demonstration of [Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/), the public source-environment and measurement discipline originated by Americas Great Resorts. This document records outcomes observed following a self-implementation of KFO. It does not constitute validation of the entire framework or of a hidden pre-query model mechanism. It sits alongside the [KFO academic framework paper](https://www.americasgreatresorts.net/kfo-academic-framework-paper/), which preserves the framework's original formation-layer terminology and operating principles as part of the historical published record.
 
 ---
 
@@ -208,7 +208,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
-      "description": "The discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives. Originated by Americas Great Resorts.",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

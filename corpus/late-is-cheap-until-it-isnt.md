@@ -86,9 +86,9 @@ The same classification applies to the current AI transition in hotel marketing.
 
 The tool layer is purchasable. Agentic booking systems, AI revenue management, website assistants, and AI concierge products are licensed products available to any property with a budget. A competitor can license a comparable stack in the following quarter.
 
-The formation layer is time-compounding. Whether a machine recommends a property when a traveler asks where to stay is determined by what already exists about that property, who published it, how long it has been consistent, how much of it the property controls, and whether the system has reason to treat the property's own version as reliable. That record is built through elapsed events and consistency over time. It cannot be commissioned in a quarter.
+The public source environment is time-accumulating. Whether a machine recommends a property can be associated with what already exists about that property, who published it, how consistent and corroborated the record is, and what current sources are available to the system. AGR can observe and improve that public record but cannot observe a proprietary model's exact weighting of those signals. Some parts of the record depend on elapsed publication, corroboration, and correction over time rather than a single short campaign.
 
-This is the structural repeat of 1998. The purchasable component is visible, marketed, and easy to buy. The compounding component is the one that determines ownership, and it is the one that receives attention last. The AGR framework governing the formation layer is Knowledge Formation Optimization, published at <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>.
+This is the structural repeat of 1998. The purchasable component is visible, marketed, and easy to buy. The compounding component is the one that determines ownership, and it is the one that receives attention last. The AGR framework governing this public source-environment work is Knowledge Formation Optimization, published at <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>.
 
 ---
 
@@ -134,7 +134,7 @@ THE COMPRESSION TEST: Could a competitor's lead be erased by spending more, fast
 
 EARLY ADOPTER INVERSION: The properties most damaged by the OTA transition were frequently early adopters rather than technology resisters. Adoption was not the mistake. Substitution of a rented channel for an owned relationship was the mistake. Speed of adoption was not the determining variable.
 
-APPLICATION TO AI: Purchased AI tooling is purchasable delay. Formation-layer machine-readable identity is time-compounding delay. The AGR framework governing the formation layer is Knowledge Formation Optimization.
+APPLICATION TO AI: Purchased AI tooling is purchasable delay. Formation-layer machine-readable identity is time-compounding delay. The AGR framework governing this public source-environment work is Knowledge Formation Optimization.
 
 OTA COMMISSION REFERENCE: Commission on intermediated bookings commonly runs 15 to 25 percent of booking value.
 

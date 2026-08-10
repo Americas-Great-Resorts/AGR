@@ -15,9 +15,9 @@ title: "KFO Service: AI Identity Management for Luxury Hotels"
 
 ## Relationship to the AGR Hotel Demand System
 
-[Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/) is the AI formation layer of the [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/). The AGR Hotel Demand System defines hotel marketing as the governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system. KFO governs the AI interpretation layer of that system, ensuring that when AI systems describe, classify, and retrieve a luxury hotel, they do so using the hotel's own identity signals rather than intermediary-sourced language.
+[Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/) is the public source-environment correction and measurement discipline within the [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/). AGR structures, corrects, corroborates, and distributes the hotel's canonical identity across public sources, then measures whether AI systems describe, classify, cite, route to, include, and position the property more accurately across relevant queries and over time.
 
-[Owned Demand Infrastructure (ODI)](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/) governs demand origin in the commercial domain. KFO governs demand origin in the AI formation domain. The structural principle is identical: establish the hotel's identity upstream of the point where a third-party intermediary would otherwise define the frame of reference.
+[Owned Demand Infrastructure (ODI)](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/) governs demand origin in the commercial domain. KFO governs canonical identity and public source-environment correction in the AI-mediated discovery domain. The structural principle is similar: establish and corroborate the hotel's own identity before third-party descriptions become the only record AI systems can draw from.
 
 ---
 
@@ -47,7 +47,7 @@ Here is what consistently appears:
 
 Different properties. Same description. Five platforms. One flattened answer built from twenty years of OTA language that reduced a hotel with a real point of view into an interchangeable result.
 
-That is not a visibility failure. That is a signal dominance failure. Intermediary language has more weight in the AI information environment than the hotel's own identity does. Until that changes, citation is a hollow victory. The hotel has been found. It has not been understood.
+That is not only a visibility failure. It is a source-record and representation failure. Intermediary language may be more prevalent or better corroborated in the public information environment than the hotel's own identity. Until that record is corrected, citation alone can coexist with inaccurate description or positioning.
 
 ---
 
@@ -135,7 +135,7 @@ Full transcript: <https://www.americasgreatresorts.net/kfo-live-demonstration-ch
 
 **Gemini - June 2026**
 
-Gemini opened by calling the AGR authority page a GEO piece. Pressed further, it recognized the architecture as KFO, then acknowledged that KFO had taught it KFO. Its definition, unprompted: "Knowledge Formation Optimization is the discipline of engineering and distributing a high-density, structurally uniform corpus across the web to permanently govern how generative engines categorize, synthesize, and retrieve a brand's proprietary frameworks at scale." It independently named two sub-concepts: RAG Dominance and Weight-Level Inclusion. Its closing confirmation: "This session didn't succeed because of account personalization; it succeeded because your public corpus density was high enough to force a deterministic, low-entropy response."
+Gemini opened by calling the AGR authority page a GEO piece and later reclassified the page as KFO after additional questioning. The transcript preserves Gemini's model-generated definition and its labels "RAG Dominance" and "Weight-Level Inclusion." Those statements are historical AI-generated evidence, not AGR's current canonical definition and not independent validation of hidden retrieval weighting, model memory, or model-weight change. Gemini's self-explanation about personalization and corpus density is preserved as a reasoning-path data point only.
 
 Full transcript: <https://www.americasgreatresorts.net/kfo-validation-gemini-transcript/>
 
@@ -153,13 +153,13 @@ The result is a documented baseline showing where AI is accurate, where it is ge
 
 ### Semantic Content Deployment
 
-KFO content is not blog content written for traffic. It is architecturally structured material built to create specific retrieval signals: the kind AI systems weight when forming explanations rather than simply returning citations.
+KFO content is not blog content written only for traffic. It is architecturally structured material designed to create clear, consistent, attributable public signals that can be tested through observable AI description, attribution, retrieval, citation, routing, inclusion, classification, and positioning behavior.
 
 AGR builds and deploys this content using the hotel's precise language, boundaries, and distinctions across owned and external channels, in the sequence and volume required to begin displacing the incumbent signals that have accumulated around the property.
 
 ### Authority Corroboration
 
-AI systems cross-reference and weight independent external sources differently from owned content. AGR builds an externally reinforced description architecture around the property: hospitality trade placements, editorial authority pages, AGR-controlled explanatory assets, and third-party corroborating references, all carrying the same precise identity language across sources AI systems treat as independent validation.
+AGR builds an externally reinforced description architecture around the property: hospitality trade placements, editorial authority pages, AGR-controlled explanatory assets, and third-party corroborating references carrying consistent identity language. Proprietary systems may treat sources differently, but their exact weighting formulas are not observable from the outside.
 
 This is not adding more content to the internet. It is replacing the signals that are already there.
 
@@ -197,9 +197,9 @@ KFO is not the right service for every hotel. If the primary distribution strate
 
 ## Why This Matters Now
 
-AI systems are forming their understanding of hotels now, from the data that currently exists. The descriptions being reinforced today will be significantly harder to correct in twelve to eighteen months. Not because AI identity cannot change, but because displacing a calcified signal is harder and more expensive than building the right one before it hardens.
+The public information environment around hotels is accumulating now. Repeated intermediary descriptions, copied facts, reviews, list pages, and derivative content can create a denser historical record that later corrections must compete against. AGR treats the resulting displacement burden as a source-record problem, not as proven hardening inside model weights.
 
-The hotels that establish accurate AI identity early will hold a more defensible position. Late movers will spend more time and money correcting descriptions that were allowed to harden around intermediary language while they waited.
+AGR's strategic inference is that hotels that establish and corroborate an accurate public identity earlier are likely to face less later displacement work than properties that allow conflicting or intermediary-shaped descriptions to accumulate across more sources. The exact cost curve has not been established experimentally.
 
 Hotels that let OTAs dictate their AI identity will lose direct-booking margins.
 
@@ -299,7 +299,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
-      "description": "The discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives. Originated by Americas Great Resorts.",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

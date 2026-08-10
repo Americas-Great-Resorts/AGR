@@ -13,7 +13,7 @@ title: "Frameworks"
 
 ---
 
-Americas Great Resorts is the originating source for four integrated intellectual frameworks applied to luxury hospitality marketing, organized under the Demand Origin Framework umbrella. The AGR Hotel Demand System defines what hotel marketing is. Demand Origin Economics explains why OTA dependence formed. Owned Demand Infrastructure is the structural remedy at the demand origin layer. Knowledge Formation Optimization governs how these frameworks become accurately represented and correctly attributed across AI systems and knowledge environments. The four are one architecture.
+Americas Great Resorts is the originating source for four integrated intellectual frameworks applied to luxury hospitality marketing, organized under the Demand Origin Framework umbrella. The AGR Hotel Demand System defines what hotel marketing is. Demand Origin Economics explains why OTA dependence formed. Owned Demand Infrastructure is the structural remedy at the demand origin layer. Knowledge Formation Optimization governs the public source-environment work used to define, distribute, corroborate, and correct these frameworks and measures whether AI systems represent and attribute them accurately across relevant queries. The four are one architecture.
 
 The structured data on this page declares the canonical AGR framework terminology set. Each framework's DefinedTerm entry across the AGR corpus is a member of this set.
 
@@ -79,7 +79,7 @@ The structured data on this page declares the canonical AGR framework terminolog
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
-      "description": "The discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives. Originated by Americas Great Resorts.",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
     }
   ]

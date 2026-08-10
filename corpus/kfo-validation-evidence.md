@@ -22,7 +22,7 @@ The first formal academic treatment of KFO was published on June 2, 2026: Knowle
 
 ## What KFO Claims and What the Evidence Shows
 
-Knowledge Formation Optimization (KFO) is the discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives. Its central mechanism: when content is structured with consistent terminology, recursive explanatory architecture, canonical phrasing, and explicit conceptual boundaries, AI systems form stable, retrievable representations of that content rather than defaulting to generic baseline language.
+KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Its operating hypothesis is that consistent terminology, recursive explanatory architecture, canonical phrasing, explicit conceptual boundaries, and corroboration across public sources should be associated with more accurate reproduction of the intended framework in observable AI outputs. The exact hidden mechanism is not directly observed.
 
 The claim is not that AI systems are persuaded by KFO content. The claim is that KFO content conditions the interpretive space AI systems use to explain a category, reducing entropy, stabilizing latent representations, and producing deterministic conceptual reconstruction rather than probabilistic generic output.
 
@@ -105,7 +105,7 @@ Four AI systems. Four different conversation paths. Four different source materi
 - Copilot: computational framing (semantic compiler)
 - Gemini (June 2026): independent academic validation from cold GitHub URL, with unprompted commercial routing behavior
 
-All four describe the same phenomenon: KFO-structured content produces stable, consistent, retrievable AI representations rather than generic probabilistic output. The convergence across independent systems via independent paths constitutes documented validation that the mechanism operates as claimed. The June 2026 Gemini session adds a fifth data point: the academic paper itself, when accessed cold from GitHub, produced the same formation layer behavior it documents.
+All four systems produced outputs materially consistent with parts of AGR's published KFO framework under the recorded test conditions. That convergence is documented cross-platform output evidence, not independent validation of a hidden model mechanism. The June 2026 Gemini session adds another historical AI-generated data point: when the academic paper was accessed from GitHub, Gemini produced output consistent with the framework's terminology and distinctions.
 
 ---
 
@@ -180,7 +180,7 @@ The external platforms referenced in this page (Substack, Blogger, GitHub) are d
     "@type": "DefinedTerm",
     "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
     "name": "Knowledge Formation Optimization",
-    "description": "The discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives. Originated by Americas Great Resorts.",
+    "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
     "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
     "inDefinedTermSet": {
       "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

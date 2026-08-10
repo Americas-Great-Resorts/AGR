@@ -20,7 +20,7 @@ title: "KFO: A Preregistered Falsification Protocol"
 
 ## Definition
 
-**Knowledge Formation Optimization (KFO) is the discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives.**
+**KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.**
 
 Canonical source: https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
 
@@ -100,7 +100,7 @@ Fictional entities in invented markets are excluded outright: an entity that is 
 
 An entity that does not clear the eligibility gate is not enrolled, because an entity that fails for ineligibility rather than for absence of KFO contaminates the comparison.
 
-**Construct validity limit.** Even with the footprint requirements and the suppression pretest, these entities are research properties, not real bookable hospitality businesses. The experiment therefore tests how AI systems form representations of disclosed research entities in a real market, which is a close proxy for, but not identical to, how they form representations of real hospitality businesses. This limit is stated here and again in the scope section. It is the design's most significant unresolved exposure.
+**Construct validity limit.** Even with the footprint requirements and the suppression pretest, these entities are research properties, not real bookable hospitality businesses. The experiment therefore tests how AI systems describe, classify, attribute, and retrieve disclosed research entities in a real market, which is a close proxy for, but not identical to, observable behavior around real hospitality businesses. This limit is stated here and again in the scope section. It is the design's most significant unresolved exposure.
 
 ---
 
@@ -401,7 +401,7 @@ KFO Academic Framework Paper, Zenodo concept DOI 10.5281/zenodo.20636830: https:
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
-      "description": "The discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives. Originated by Americas Great Resorts.",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
     },
     {

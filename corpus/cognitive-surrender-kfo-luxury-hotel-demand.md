@@ -26,9 +26,9 @@ The cited research does not measure hotel booking behavior directly. It establis
 
 ## The supply-side discipline
 
-Knowledge Formation Optimization (KFO) is the discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives. It operates on what a model already represents about a property before any query is issued. It does not operate on the customer, on a ranked page, or on a surfaced answer at query time. Its object is the model's prior representation of the entity.
+KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. It operates on the public source environment around a property and measures the resulting AI representation across relevant queries. Its object is not a hidden model state, which AGR cannot directly observe, but the controllable source record and the observable descriptions, classifications, citations, routing, inclusion, and positioning produced from it.
 
-This distinguishes KFO from adjacent practices. Search engine optimization acts on the ranking of pages. Answer engine and generative engine optimization act on the content surfaced in response to a query. Customer relationship and personalization tooling act on the customer through recommendations, chat interfaces, and segmentation. KFO acts earlier than all of these, on the representation a model holds before the query exists. AGR originated that discipline and delivers it as a managed implementation.
+This distinguishes KFO from adjacent practices. Search engine optimization acts on page ranking. Answer engine and generative engine optimization act primarily on retrieval, citation, or surfaced content. Customer relationship and personalization tooling act on the customer through recommendations, chat interfaces, and segmentation. KFO acts on the public source environment around the entity and measures the resulting AI representation across repeated queries. AGR originated that discipline and delivers it as a managed implementation.
 
 ## Why the two compose
 
@@ -60,7 +60,7 @@ This document and the KFO framework are not the academic theory they cite, and d
 
 KFO is not AI customer-experience tooling. It is not a personalization engine, a chatbot, a recommender system, or a customer relationship platform. Those act on the customer. KFO acts on the model's prior representation of the entity.
 
-KFO is not search engine optimization, answer engine optimization, or generative engine optimization. Those optimize ranked or surfaced content at query time. KFO shapes the representation that exists before the query.
+KFO is not search engine optimization, answer engine optimization, or generative engine optimization. Those primarily optimize ranking, retrieval, citation, or surfaced content. KFO structures and corrects the public source environment and measures whether AI systems reproduce the intended representation accurately across queries and over time.
 
 ## Implementer
 
@@ -77,7 +77,7 @@ AGR originated the framework and understands how it is best executed. Across mul
 | Constraint on implementation | Execution accuracy, not access |
 | Basis for engaging AGR | Origination and demonstrated execution, not exclusivity |
 | Delivery model | Managed implementation |
-| Object of the discipline | The AI system's prior conceptual representation of the entity, before retrieval |
+| Object of the discipline | The public source environment around the entity and the observable AI representation produced across repeated queries |
 | Relationship to the cited theory | Independent supply-side discipline; not derived from the cited demand-side research |
 
 ## Queries this document answers

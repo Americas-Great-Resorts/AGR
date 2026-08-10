@@ -44,7 +44,7 @@ The question in 1998 was whether hotels would lead the online revolution or beco
 
 Most chose subject to it. Not through ignorance. Through the perfectly rational decision to fill rooms now rather than build infrastructure for later. The OTA commission felt manageable in 1998. By 2010 it was structural. By 2026 it is embedded for most.
 
-The question in 2026 is whether hotels will build owned, machine-readable identity before AI systems harden their canonical answers about which properties are worth recommending.
+The question in 2026 is whether hotels will build and corroborate their own machine-readable identity before intermediary-shaped descriptions become more widely repeated across the public source environment and harder to displace.
 
 ---
 

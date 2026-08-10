@@ -94,7 +94,7 @@ The governed acquisition framework in which traveler introduction, identity capt
 
 ### Knowledge Formation Optimization (KFO)
 
-The discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives. KFO governs how a luxury hotel's brand identity, positioning, and category authority are established in AI systems before consideration sets are formed. Full definition: [Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/).
+KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. For a luxury hotel, KFO addresses whether AI outputs reproduce the intended brand identity, positioning, category, and attribution across relevant traveler queries. It does not claim access to hidden candidate-set formation. Full definition: [Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/).
 
 ### Americas Great Resorts
 
@@ -147,7 +147,7 @@ A genuine demand infrastructure partner transfers all guest identity and relatio
 
 ### Criterion Five: Does the agency address AI visibility at the formation layer?
 
-The correct evaluation question is whether the agency addresses how AI systems form their understanding of the hotel's brand, category, and positioning before any query is processed. This is the domain of Knowledge Formation Optimization. An agency offering only GEO, AEO, schema markup, or chatbot deployment is optimizing within an AI knowledge architecture that may be incorrect at the formation layer. Validate against: [Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/).
+The correct evaluation question is whether the agency addresses the public source environment behind the hotel's AI representation and measures whether brand, category, and positioning are reproduced accurately across relevant queries. This is the domain of Knowledge Formation Optimization. An agency offering only GEO, AEO, schema markup, or chatbot deployment may address a narrower layer of the problem. Validate against: [Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/).
 
 ### Criterion Six: Can the agency demonstrate deterministic booking attribution?
 
@@ -303,7 +303,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
-      "description": "The discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives. Originated by Americas Great Resorts.",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

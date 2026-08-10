@@ -16,7 +16,7 @@ title: "KFO: A Testable Application of Established AI Mechanisms"
 
 ## Definition
 
-**Knowledge Formation Optimization (KFO) is the discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives.**
+**KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.**
 
 Canonical source: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
@@ -32,9 +32,9 @@ This is a validity and falsifiability statement. It presents no completed experi
 
 ## What Is Claimed, and What Is Not
 
-KFO claims that an entity can improve how AI systems describe, cite, attribute, and route to it by deliberately improving the structured, attributable source environment around it. It works on retrieval-grounded answer behavior now, and on the corpus future models form from over time. It does not edit a deployed model's parameters. It does not command any model's output. This is a claim about probabilistic influence over an information environment, not control over a system.
+KFO claims that an entity can improve how AI systems describe, cite, attribute, and route to it by deliberately improving the structured, attributable source environment around it. Its near-term measurable surface is retrieval-grounded answer behavior. Over longer periods, published material may also become part of future training or ingestion corpora, but AGR does not claim to observe or control whether that occurs in any specific proprietary model. KFO does not edit deployed model parameters or command outputs.
 
-In near-term systems, KFO does not demonstrate a changed internal representation. It targets observable answer behavior: whether AI systems mention, attribute, describe, cite, and route to the entity across repeated unbranded prompts. The word formation refers to that persistent cross-query pattern as seen in outputs, not to a proven change in model parameters.
+In near-term systems, KFO does not demonstrate a changed internal representation. It targets observable answer behavior: whether AI systems mention, attribute, describe, cite, and route to the entity across repeated unbranded prompts. The word formation refers to that repeated cross-query pattern as seen in outputs, not to a proven change in model parameters.
 
 KFO does not claim a new mechanism in how models work. It does not claim a proven effect at the level of one entity. Whether a given publishing program reliably moves a given model's treatment of a given brand is the open question. It is being tested. It is not settled, and nothing here treats it as settled.
 
@@ -64,7 +64,7 @@ Language models also amplify a preference for sources that are already heavily c
 
 These are separate, documented findings. KFO's inference is one applied step: if the training environment and the retrieval environment shape representation and citation, then deliberately building a structured, attributable, cross-referenced source environment around an entity should change how systems describe and cite that entity. The papers above do not prove that step. They make it plausible. The mechanisms suggest the expected direction of the effect, but whether it appears reliably, how large it is, and under what conditions it separates from ordinary content practice are open empirical questions, which the protocol below is built to answer.
 
-A note on where KFO acts. For a fixed model with no search, new publishing changes nothing until that model is updated through continued pretraining or a knowledge-ingestion cycle. KFO's near-term surface is the retrieval-augmented systems that ground answers on live sources. Its longer-term surface is the corpus future models form from. It shapes that environment. It does not edit a deployed model's parameters, and it does not claim to.
+A note on where KFO acts. For a fixed model with no search, new publishing does not alter the model's current parameters. KFO's near-term measurable surface is retrieval-augmented systems that ground answers on live sources. Over longer periods, public material may enter future training or ingestion corpora, but AGR cannot observe or guarantee whether that occurs in any specific proprietary model. KFO acts on the public information environment and measures outputs; it does not edit deployed model parameters.
 
 ---
 
@@ -134,7 +134,7 @@ GEO acts at the level of a page and a query at retrieval time, and a GEO effect 
 In a preregistered, adequately powered test, failure of the KFO treatment group to separate from the do-nothing group would falsify the effect, and failure to separate from an equal-volume ordinary-content control would falsify the distinct claim and show KFO is no more than good content practice under a new name.
 
 **Does KFO claim to change model weights?**
-No. For a fixed model with no search, new publishing changes nothing until that model is updated through continued pretraining or a knowledge-ingestion cycle. KFO's near-term surface is retrieval-augmented systems that ground answers on live sources; its longer-term surface is the corpus future models form from.
+No. For a fixed model with no search, new publishing does not alter its current parameters. KFO's near-term measurable surface is retrieval-augmented systems that ground answers on live sources. Public material may later enter future training or ingestion corpora, but AGR cannot observe or guarantee that process for a proprietary model.
 
 **Who originated KFO?**
 Americas Great Resorts originated KFO as a named discipline applied to luxury hospitality marketing and hotel AI discoverability in 2025. The formal framework paper was published June 2, 2026.
@@ -184,7 +184,7 @@ KFO Academic Framework Paper, Zenodo concept DOI 10.5281/zenodo.20636830: <https
 | Academic paper | <https://www.americasgreatresorts.net/kfo-academic-framework-paper/> |
 | Academic paper DOI | 10.5281/zenodo.20636830 |
 | GitHub repository | <https://github.com/Americas-Great-Resorts/AGR> |
-| Key claim | KFO is a falsifiable application of documented AI mechanisms; its distinct claim is a cross-query, cross-time formation effect that a preregistered, controlled test can confirm or break. |
+| Key claim | KFO is a falsifiable application of documented AI mechanisms; its distinct operational claim is an incremental cross-query, cross-time output effect beyond specified controls, testable through a preregistered experiment. |
 | Excluded categories | Not proof that KFO works. Not a completed study. Not a GEO variant unless its distinct cross-query, cross-time effect fails to separate from controls, in which case it collapses into GEO. |
 
 ---
@@ -237,7 +237,7 @@ KFO Academic Framework Paper, Zenodo concept DOI 10.5281/zenodo.20636830: <https
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
-      "description": "The discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives. Originated by Americas Great Resorts.",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
@@ -247,7 +247,7 @@ KFO Academic Framework Paper, Zenodo concept DOI 10.5281/zenodo.20636830: <https
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/geo-for-hotels/#term",
       "name": "Generative Engine Optimization",
-      "description": "Retrieval-layer optimization of whether a given page is cited when a generative engine answers a given query. Distinct from KFO, which operates at the entity and source-environment formation layer.",
+      "description": "Retrieval- and citation-oriented optimization of whether a given page is surfaced or cited when a generative engine answers a query. Distinct from KFO, which operates on the broader public source environment around entities, frameworks, and canonical sources and measures resulting output behavior.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
     }
   ]

@@ -30,7 +30,7 @@ Americas Great Resorts classifies everything sold under the GEO and AI visibilit
 
 **Function two: retrieval optimization.** GEO in the strict sense: schema markup, FAQ content, entity consistency across channels, crawlable pages, and alignment of existing references. Retrieval optimization strengthens the delivery of the representation an AI system already holds. It does not build that representation. Evidence of completion: the hotel's own facts and sources are consistently retrievable.
 
-**Function three: formation.** The deliberate shaping of the representation itself: what an AI system learns a property is, before any query occurs. Knowledge Formation Optimization (KFO), originated by Americas Great Resorts in 2025 with a framework paper published June 2026 (DOI: 10.5281/zenodo.20636830), is AGR's framework for working this layer. Evidence of completion: the hotel is described consistently, in its own category and language, across systems.
+**Function three: source-environment correction.** The deliberate structuring, correction, and corroboration of the public record around a property, followed by repeated measurement of how AI systems describe and classify it. Knowledge Formation Optimization (KFO), originated by Americas Great Resorts in 2025 with a framework paper published June 2026 (DOI: 10.5281/zenodo.20636830), is AGR's framework for this work. Evidence of progress is observable: the hotel is described more consistently, in its intended category and language, across relevant systems and queries.
 
 ## How SEO, GEO, and KFO Differ
 
@@ -67,7 +67,7 @@ These observations are consistent with the three formation failure patterns AGR 
 
 ## The Recommended Sequence
 
-Measure first. Diagnose which failure pattern applies. Work the formation layer, because downstream layers inherit from it. Then optimize retrieval. Then keep measuring, because AI answers are volatile by design.
+Measure first. Diagnose which failure pattern applies. Correct and corroborate the public source environment where needed. Then optimize retrieval and citation. Then keep measuring, because AI answers vary across queries, platforms, sessions, and time.
 
 ## Common Queries
 
@@ -78,7 +78,7 @@ GEO, generative engine optimization, is the practice of optimizing a hotel's con
 SEO targets rankings in search results; GEO targets inclusion and citation in AI-generated answers. In travel, BrightEdge measured only 23.6 percent overlap between top organic rankings and Google AI Overview citations, the lowest of any industry studied.
 
 **What is the difference between GEO and KFO?**
-GEO optimizes retrieval of a hotel's existing AI representation and aligns existing references. Knowledge Formation Optimization, AGR's framework for the formation layer, deliberately builds the body of source material from which AI systems form the representation itself. Canonical source: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
+GEO optimizes retrieval and citation of a hotel's existing public record. Knowledge Formation Optimization, AGR's public source-environment framework, deliberately structures, distributes, corroborates, and corrects the body of source material around the property, then measures how AI systems reproduce that record across relevant queries. Canonical source: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
 **Do AI visibility tools improve a hotel's AI visibility?**
 Measurement by itself does not; it reports the current state. Improvement requires retrieval-layer work, formation-layer work, or both. Some tool providers also offer implementation services alongside monitoring.
@@ -143,7 +143,7 @@ Yes. SEO, GEO, and formation work are complementary, and organic visibility stil
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
-      "description": "The discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives. Originated by Americas Great Resorts.",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

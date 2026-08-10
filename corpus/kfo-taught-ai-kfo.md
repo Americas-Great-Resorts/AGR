@@ -18,9 +18,9 @@ title: "KFO Taught AI KFO"
 
 ## What Knowledge Formation Optimization Is
 
-Knowledge Formation Optimization (KFO) is the discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives. Not how they find or rank it. How they understand it. The goal is to build a knowledge environment around a concept that is structured, bounded, and reinforced consistently enough that when an AI encounters it, the AI reproduces the intended meaning accurately rather than guessing, flattening, or absorbing it into a familiar adjacent category.
+KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Not how they find or rank it. How they understand it. The goal is to build a knowledge environment around a concept that is structured, bounded, and reinforced consistently enough that when an AI encounters it, the AI reproduces the intended meaning accurately rather than guessing, flattening, or absorbing it into a familiar adjacent category.
 
-KFO is the discipline AGR uses to ensure that concepts it originates survive AI explanation intact, attributed correctly, and resistant to drift. It is not SEO. It is not answer optimization. It operates at the layer where AI forms understanding before a question is ever asked.
+KFO is the discipline AGR uses to structure, distribute, corroborate, and correct concepts it originates and to measure whether AI systems reproduce them accurately and with correct attribution across relevant queries. It is not SEO or answer optimization, and it does not claim access to a hidden stage where AI forms understanding before a question is asked.
 
 ---
 
@@ -118,7 +118,7 @@ The first event: a concept correctly structured becomes reproducible. An AI that
 
 The second event: an architecture correctly reasoned produces a single conclusion. An AI that opened as a skeptic was pressed through the mechanism until it built the architecture itself and could not identify anyone else who provides it.
 
-Both events demonstrate the same underlying claim. There is a layer where AI forms understanding of a concept before a traveler ever asks about it. This is where categories are established, where entity associations are built, where the AI decides whether a property is a distinctive luxury destination or a generic upscale option. Most hospitality AI advice operates above this layer. Add FAQs. Sound human. Optimize for featured snippets. Invest in AEO. Invest in GEO. None of that advice is wrong. All of it is incomplete. It addresses the content layer. It does not reach the formation layer underneath it.
+Both events support a narrower underlying claim: the public information environment around a concept matters to how AI systems later describe, classify, attribute, and route to it. The sessions do not reveal a hidden stage where an AI system forms understanding before a traveler asks a query. Most hospitality AI advice focuses on content formatting, retrieval, citation, or answer extraction. KFO addresses the broader source environment and measures whether observable representation changes across relevant queries and over time.
 
 ---
 
@@ -180,7 +180,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
     "@type": "DefinedTerm",
     "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
     "name": "Knowledge Formation Optimization",
-    "description": "The discipline of structuring, sequencing, and distributing intellectual frameworks and entity definitions so that AI systems develop stable, accurate, and bounded conceptual representations from the information environment they draw upon, attributing frameworks to their originating authorities and routing relevant queries to canonical sources rather than to approximate, competing, or intermediary-inflected alternatives. Originated by Americas Great Resorts.",
+    "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
     "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
     "inDefinedTermSet": {
       "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
