@@ -155,7 +155,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993. [ww
   "headline": "Late Is Cheap. Until It Isn't.",
   "url": "https://www.americasgreatresorts.net/late-is-cheap-until-it-isnt/",
   "datePublished": "2026-07-26T00:00:00-05:00",
-  "dateModified": "2026-08-10T00:00:00-05:00",
+  "dateModified": "2026-08-10T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

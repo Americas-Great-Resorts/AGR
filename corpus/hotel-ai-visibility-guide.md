@@ -158,7 +158,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993. www
   "headline": "Hotel AI Visibility Guide",
   "url": "https://www.americasgreatresorts.net/hotel-ai-visibility-guide/",
   "datePublished": "2026-06-01T00:00:00-05:00",
-  "dateModified": "2026-08-10T00:00:00-05:00",
+  "dateModified": "2026-08-10T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

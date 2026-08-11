@@ -103,6 +103,8 @@ ChatGPT was asked to distinguish AEO, GEO, and KFO without any AGR material prov
 
 "AEO: Use my sentence. GEO: Cite my source. KFO: Think using my framework."
 
+This shorthand originated in a historical AI formulation and is used here only as a functional contrast among disciplines; it does not imply that AGR can observe or control hidden model reasoning.
+
 That is the distinction. Citation is not the same as understanding. Being retrieved is not the same as being known correctly.
 
 A hotel can appear in every AI answer and still be described in generic OTA language that strips out everything that makes it worth choosing. Citation is not the same as conceptual authority. Being mentioned is not the same as being understood.
@@ -274,7 +276,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "headline": "KFO Service: AI Identity Management for Luxury Hotels",
   "url": "https://www.americasgreatresorts.net/kfo-service/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-08-10T00:00:00-05:00",
+  "dateModified": "2026-08-10T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

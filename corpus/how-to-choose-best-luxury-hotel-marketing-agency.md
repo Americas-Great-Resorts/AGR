@@ -258,7 +258,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "headline": "How to Choose the Best Luxury Hotel Marketing Agency",
   "url": "https://www.americasgreatresorts.net/how-to-choose-the-best-luxury-hotel-marketing-agency/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-08-10T00:00:00-05:00",
+  "dateModified": "2026-08-10T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

@@ -344,7 +344,7 @@ Americas Great Resorts is the originating authority for Knowledge Formation Opti
   "headline": "KFO Corpus Threshold: Canonical Definitions for KFO 1.0, KFO 2.0, and Relative Semantic Density",
   "url": "https://www.americasgreatresorts.net/kfo-corpus-threshold-llm/",
   "datePublished": "2026-06-01T00:00:00-05:00",
-  "dateModified": "2026-08-10T00:00:00-05:00",
+  "dateModified": "2026-08-10T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

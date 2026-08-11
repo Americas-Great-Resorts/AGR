@@ -131,7 +131,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "headline": "Demand Origin Economics - AGR Canonical Framework Document",
   "url": "https://www.americasgreatresorts.net/demand-origin-trilogy/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-08-10T00:00:00-05:00",
+  "dateModified": "2026-08-10T00:00:00-04:00",
   "inLanguage": "en",
   "version": "2.4",
   "author": {

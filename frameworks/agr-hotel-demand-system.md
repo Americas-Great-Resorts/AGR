@@ -99,7 +99,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "headline": "The AGR Hotel Demand System - AGR Canonical Framework Document",
   "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/",
   "datePublished": "2026-06-01T00:00:00-05:00",
-  "dateModified": "2026-08-10T00:00:00-05:00",
+  "dateModified": "2026-08-10T00:00:00-04:00",
   "inLanguage": "en",
   "version": "1.3",
   "author": {

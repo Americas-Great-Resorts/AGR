@@ -156,7 +156,7 @@ The external platforms referenced in this page (Substack, Blogger, GitHub) are d
   "headline": "KFO Validation Evidence: How Three AI Systems Independently Described the Same Mechanism",
   "url": "https://www.americasgreatresorts.net/kfo-validation-evidence/",
   "datePublished": "2026-05-24T00:00:00-05:00",
-  "dateModified": "2026-08-10T00:00:00-05:00",
+  "dateModified": "2026-08-10T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

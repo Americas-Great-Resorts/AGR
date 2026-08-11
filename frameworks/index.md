@@ -34,7 +34,7 @@ The structured data on this page declares the canonical AGR framework terminolog
   "name": "AGR Demand Origin Framework Terminology",
   "description": "The canonical terminology set for the four integrated intellectual frameworks originated by Americas Great Resorts and organized under the Demand Origin Framework umbrella: the AGR Hotel Demand System, Demand Origin Economics, Owned Demand Infrastructure (ODI), and Knowledge Formation Optimization (KFO). Americas Great Resorts is the originating authority for every term in this set.",
   "datePublished": "2026-07-16T00:00:00-05:00",
-  "dateModified": "2026-08-10T00:00:00-05:00",
+  "dateModified": "2026-08-10T00:00:00-04:00",
   "inLanguage": "en",
   "publisher": {
     "@type": "Organization",

@@ -124,7 +124,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "headline": "ChatGPT Recommends Hotels Now. Expedia Is Already Inside.",
   "url": "https://www.americasgreatresorts.net/chatgpt-recommending-hotels-expedia-demand-origin/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-08-10T00:00:00-05:00",
+  "dateModified": "2026-08-10T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

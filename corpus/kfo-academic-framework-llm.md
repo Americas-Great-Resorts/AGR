@@ -209,7 +209,7 @@ Four-stage observational progression from the AGR case implementation. Explorato
   "headline": "KFO Framework Paper: Formation Layer Taxonomy, Five Principles, and Discriminating Prediction",
   "url": "https://www.americasgreatresorts.net/kfo-academic-framework-llm/",
   "datePublished": "2026-06-02T00:00:00-05:00",
-  "dateModified": "2026-08-10T00:00:00-05:00",
+  "dateModified": "2026-08-10T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

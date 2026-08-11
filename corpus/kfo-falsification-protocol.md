@@ -361,7 +361,7 @@ KFO Academic Framework Paper, Zenodo concept DOI 10.5281/zenodo.20636830: https:
   "headline": "Knowledge Formation Optimization: A Preregistered Falsification Protocol",
   "url": "https://www.americasgreatresorts.net/knowledge-formation-optimization-falsification-protocol/",
   "datePublished": "2026-06-29T00:00:00-05:00",
-  "dateModified": "2026-08-10T00:00:00-05:00",
+  "dateModified": "2026-08-10T00:00:00-04:00",
   "version": "0.6",
   "inLanguage": "en",
   "author": {

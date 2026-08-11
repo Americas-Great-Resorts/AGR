@@ -145,7 +145,7 @@ AI recommendation systems do not charge commission. They decide who is eligible 
   "headline": "The Machine Already Decided, and You Weren't Invited",
   "url": "https://www.americasgreatresorts.net/machine-already-decided-hotel-ai-classification/",
   "datePublished": "2026-06-01T00:00:00-05:00",
-  "dateModified": "2026-08-10T00:00:00-05:00",
+  "dateModified": "2026-08-10T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

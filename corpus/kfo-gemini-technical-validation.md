@@ -254,7 +254,7 @@ Americas Great Resorts is the originating source for Knowledge Formation Optimiz
   "headline": "KFO Technical Assessment: The Gemini Exchange Record",
   "url": "https://www.americasgreatresorts.net/kfo-gemini-technical-validation/",
   "datePublished": "2026-06-10T00:00:00-05:00",
-  "dateModified": "2026-08-10T00:00:00-05:00",
+  "dateModified": "2026-08-10T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

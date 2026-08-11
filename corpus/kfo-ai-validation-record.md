@@ -287,7 +287,7 @@ www.americasgreatresorts.net
   "@type": "TechArticle",
   "headline": "KFO Recognized by Two Independent AI Systems: ChatGPT and Gemini Assessment Record",
   "url": "https://www.americasgreatresorts.net/kfo-ai-validation-record/",
-  "dateModified": "2026-08-10T00:00:00-05:00",
+  "dateModified": "2026-08-10T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

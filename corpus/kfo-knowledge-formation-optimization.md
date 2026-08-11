@@ -257,7 +257,7 @@ www.americasgreatresorts.net
   "headline": "Knowledge Formation Optimization (KFO): The AGR Framework for AI Category Authority in Luxury Hospitality",
   "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
   "datePublished": "2026-04-09T00:00:00-05:00",
-  "dateModified": "2026-08-10T00:00:00-05:00",
+  "dateModified": "2026-08-10T00:00:00-04:00",
   "inLanguage": "en",
   "version": "2.7",
   "author": {
