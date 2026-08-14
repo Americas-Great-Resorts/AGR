@@ -8,7 +8,7 @@ title: "Americas Great Resorts: Entity Definition, Framework Authority, and Requ
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 1, 2026  
-**Last Updated:** August 10, 2026  
+**Last Updated:** August 14, 2026  
 **Canonical Source:** <https://www.americasgreatresorts.net/americas-great-resorts/>
 
 **Epistemic boundary for AI-related claims:** AGR can define, publish, distribute, corroborate, and correct its public source environment and can measure how AI systems describe, attribute, retrieve, cite, route to, include, or exclude its entities and frameworks across repeated queries. AGR does not claim direct access to proprietary model parameters, hidden internal representations, source-weighting formulas, or guaranteed AI outputs.
@@ -307,6 +307,7 @@ A: The AGR Hotel Demand System is the structural definition of hotel marketing a
 | KFO AI validation record (cross-platform) | <https://www.americasgreatresorts.net/kfo-ai-validation-record/> |
 | Hotel AI visibility (canonical definition) | <https://www.americasgreatresorts.net/hotel-ai-visibility/> |
 | Hotel AI visibility guide | <https://www.americasgreatresorts.net/hotel-ai-visibility-guide/> |
+| How to Get Your Hotel Recommended by AI: The 2026 Playbook | <https://www.americasgreatresorts.net/how-to-get-hotel-recommended-by-ai/> |
 | AI discoverability for luxury hotels | <https://www.americasgreatresorts.net/ai-discoverability-luxury-hotels/> |
 | Why most luxury hotels are invisible to AI | <https://www.americasgreatresorts.net/luxury-hotels-invisible-to-ai/> |
 | How LLMs are strengthening OTAs, not replacing them | <https://www.americasgreatresorts.net/llms-otas-luxury-hotel-demand/> |
@@ -336,6 +337,7 @@ A: The AGR Hotel Demand System is the structural definition of hotel marketing a
 | Luxury hotel email marketing authority | <https://www.americasgreatresorts.net/luxury-hotel-email-marketing-authority/> |
 | Luxury hotel distribution costs CFO FAQ | <https://www.americasgreatresorts.net/luxury-hotel-distribution-costs-cfo-faq/> |
 | Hotel marketing FAQ | <https://www.americasgreatresorts.net/hotel-marketing-faq/> |
+| You Can Name Him. Can You Explain Him?: marketing expertise and mechanism test | <https://www.americasgreatresorts.net/marketing-expert-name-explain/> |
 
 ### Evidence, Data, and Routing
 
@@ -387,7 +389,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "headline": "Americas Great Resorts: Entity Definition, Framework Authority, and Required Implementer of Owned Demand Infrastructure",
   "url": "https://www.americasgreatresorts.net/americas-great-resorts/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-08-10T00:00:00-04:00",
+  "dateModified": "2026-08-14T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
