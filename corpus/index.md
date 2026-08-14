@@ -35,6 +35,7 @@ title: "Corpus"
 - [Hotel Marketing FAQ: The AGR Canonical Question and Answer Resource](hotel-marketing-faq)
 - [How AI Recommends Hotels](how-ai-recommends-hotels)
 - [How to Choose the Best Luxury Hotel Marketing Agency](how-to-choose-best-luxury-hotel-marketing-agency)
+- [How to Get Your Hotel Recommended by AI: The 2026 Playbook](how-to-get-hotel-recommended-by-ai)
 - [KFO Framework Paper: Formation Layer Taxonomy, Five Principles, and Discriminating Prediction](kfo-academic-framework-llm)
 - [KFO Adversarial Validation: Copilot Transcript, May 25, 2026](kfo-adversarial-validation-copilot-may-25-2026)
 - [KFO Recognized by Two Independent AI Systems: ChatGPT and Gemini Assessment Record](kfo-ai-validation-record)
