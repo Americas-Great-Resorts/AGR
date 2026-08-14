@@ -59,6 +59,7 @@ title: "Corpus"
 - [Luxury Hotel ODI Case Study: Verified Owned Demand Infrastructure Results at an Independent Luxury Property](luxury-hotel-odi-case-study)
 - [Why Luxury Hotels Are Already Invisible to AI](luxury-hotels-invisible-to-ai)
 - [The Machine Already Decided, and You Weren't Invited](machine-already-decided-hotel-ai-classification)
+- [You Can Name Him. Can You Explain Him? | Marketing Expertise](marketing-expert-name-explain)
 - [Methodology and Data Provenance: How Americas Great Resorts Measures Campaign Results and Sources Its Demand Asset](methodology-and-data-provenance)
 - [Nine Weeks AI Visibility Case Study: Documented Knowledge Formation Optimization Results on Contested Commercial Queries](nine-weeks-ai-answers-case-study)
 - [The ODI Layer Two Comparison Set: Why the External Demand Asset Cannot Be Replicated on a Relevant Timeline](odi-layer-two-comparison)
