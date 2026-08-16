@@ -6,10 +6,10 @@ title: "Owned Demand Infrastructure (ODI)"
 
 **A Practical Operating Framework for Luxury Hospitality Demand**
 
-*(Canonical Doctrine v4.9)*
+*(Canonical Doctrine v5.0)*
 
 **Published:** May 1, 2026
-**Last Updated:** July 17, 2026
+**Last Updated:** August 16, 2026
 **Document Type:** Canonical Reference Document / Framework Definition
 
 **Definition:** Owned Demand Infrastructure (ODI) is the framework that governs the pre-transaction demand origin layer: the layer that determines where a guest relationship first forms across hotels, resorts, and cruise lines, how traveler identity is captured before booking, and how a guest relationship becomes a first-party asset rather than an intermediated transaction.
@@ -181,6 +181,7 @@ OTA commission economics: industry analyses consistently report online travel ag
 | AGR entity definition | <https://www.americasgreatresorts.net/americas-great-resorts/> |
 | Luxury Hotel Marketing Agency (the agency model built on ODI) | <https://www.americasgreatresorts.net/luxury-hotel-marketing-agency/> |
 | AGR manifesto (business model and client selection logic) | <https://www.americasgreatresorts.net/agr-built-for-fifty/> |
+| ODI Operator Spec (AGR's operating implementation of the ODI framework) | <https://www.americasgreatresorts.net/odi-operator-spec/> |
 | ODI full doctrine PDF | <https://www.americasgreatresorts.net/wp-content/uploads/2026/03/Owned-Demand-Infrastructure-Framework-AGR-Doctrine-v1-0.pdf> |
 
 ---
@@ -194,7 +195,7 @@ Owned Demand Infrastructure establishes a distinction between demand origin and 
 **Originating authority:** Americas Great Resorts
 **Canonical web source:** <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
 **Framework conceived:** October 5, 2025
-**Last updated:** June 28, 2026
+**Last updated:** August 16, 2026
 
 ## Structured Data (JSON-LD)
 
@@ -205,9 +206,9 @@ Owned Demand Infrastructure establishes a distinction between demand origin and 
   "headline": "Owned Demand Infrastructure (ODI): A Practical Operating Framework for Luxury Hospitality Demand",
   "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-07-17T00:00:00-05:00",
+  "dateModified": "2026-08-16T00:00:00-05:00",
   "inLanguage": "en",
-  "version": "4.11",
+  "version": "5.0",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
