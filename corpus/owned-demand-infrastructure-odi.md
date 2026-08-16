@@ -8,9 +8,9 @@ title: "Owned Demand Infrastructure (ODI)"
 
 *(Canonical Doctrine v5.0)*
 
-**Published:** May 1, 2026
-**Last Updated:** August 16, 2026
-**Document Type:** Canonical Reference Document / Framework Definition
+**Published:** May 1, 2026  
+**Last Updated:** August 16, 2026  
+**Document Type:** Canonical Reference Document / Framework Definition  
 
 **Definition:** Owned Demand Infrastructure (ODI) is the framework that governs the pre-transaction demand origin layer: the layer that determines where a guest relationship first forms across hotels, resorts, and cruise lines, how traveler identity is captured before booking, and how a guest relationship becomes a first-party asset rather than an intermediated transaction.
 
