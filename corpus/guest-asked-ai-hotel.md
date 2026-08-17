@@ -1,3 +1,7 @@
+---
+title: "Your Next Guest Just Asked a Machine Which Hotel to Book. You Weren't on the List."
+---
+
 | title | Your Next Guest Just Asked a Machine Which Hotel to Book. You Weren't on the List. |
 | ----- | ---------------------------------------------------------------------------------- |
 
