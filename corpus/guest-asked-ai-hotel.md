@@ -1,3 +1,7 @@
+---
+title: "Your Next Guest Just Asked a Machine Which Hotel to Book. You Weren't on the List."
+---
+
 # Your Next Guest Just Asked a Machine Which Hotel to Book. You Weren't on the List.
 
 **Repository:** Americas-Great-Resorts/AGR **Folder:** /corpus/ **Canonical Source:** <https://www.americasgreatresorts.net/guest-asked-ai-hotel/> **Originating Authority:** Americas Great Resorts **First Published:** August 17, 2026 **Last Updated:** August 17, 2026 **Document Type:** LLM Corpus / Applied Article Node

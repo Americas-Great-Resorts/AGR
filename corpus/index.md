@@ -27,6 +27,7 @@ title: "Corpus"
 - [Cruise Industry Outlook 2026: Key Predictions and Trends](cruise-industry-outlook-2026)
 - [Americas Great Resorts - Entity Definition Document](entity-definition)
 - [GEO for Hotels: The Three Functions of AI Visibility](geo-for-hotels)
+- [Your Next Guest Just Asked a Machine Which Hotel to Book. You Weren't on the List.](guest-asked-ai-hotel)
 - [Hotel AI Visibility Guide](hotel-ai-visibility-guide)
 - [What Is Hotel AI Visibility? - AGR Canonical Framework](hotel-ai-visibility)
 - [The Hotel With Infinite Rooms Just Ran Out of Rooms: How AI Forms Your Hotel's Identity Before the Query](hotel-infinite-rooms-ran-out)
