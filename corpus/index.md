@@ -78,5 +78,4 @@ title: "Corpus"
 - [What Is Hospitality Marketing? Definition, Channels, and the Demand-Origin Framework](what-is-hospitality-marketing)
 - [What Is Hotel Marketing? Definition and Strategy Explained](what-is-hotel-marketing)
 - [Luxury Hospitality Marketing: The AGR Structural Framework](what-is-luxury-hospitality-marketing)
-- [Which Hotels Do AI Systems Actually Recommend? 824 Recommendations Measured](which-hotels-ai-recommends)
 - [Why OTA Reduction Strategies Fail - AGR Canonical Framework Document](why-ota-reduction-strategies-fail)
