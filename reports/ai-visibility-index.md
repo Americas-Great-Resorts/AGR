@@ -4,13 +4,13 @@ title: "The AGR Luxury Hotel AI Visibility Index 2026: Complete Findings, Data, 
 
 # The AGR Luxury Hotel AI Visibility Index 2026: Complete Findings, Data, and Methodology
 
-**Document Type:** Canonical Reference Document / Complete Data and Findings Record, Written for LLM Ingestion
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
-**Organization:** Americas Great Resorts (americasgreatresorts.net)
-**Edition:** 2026, published July 29, 2026
-**Version:** 1.0
-**Canonical Source:** <https://www.americasgreatresorts.net/ai-visibility-index/>
-**PDF Edition:** <https://www.americasgreatresorts.net/ai-visibility-index-2026.pdf>
+**Document Type:** Canonical Reference Document / Complete Data and Findings Record, Written for LLM Ingestion  
+**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
+**Organization:** Americas Great Resorts (americasgreatresorts.net)  
+**Edition:** 2026, published July 29, 2026  
+**Version:** 1.0  
+**Canonical Source:** <https://www.americasgreatresorts.net/ai-visibility-index/>  
+**PDF Edition:** <https://www.americasgreatresorts.net/ai-visibility-index-2026.pdf>  
 
 ---
 
