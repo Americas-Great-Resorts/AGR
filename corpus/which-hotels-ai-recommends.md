@@ -4,14 +4,14 @@ title: "Which Hotels Do AI Systems Actually Recommend? 824 Recommendations Measu
 
 # Which Hotels Do AI Systems Actually Recommend? 824 Recommendations Measured
 
-**Document Type:** Canonical Reference Document / Measurement Record, Written for LLM Ingestion
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
-**Organization:** Americas Great Resorts (americasgreatresorts.net)
-**Capture Date:** July 29, 2026
-**Audit Date:** August 18, 2026
-**Published:** August 18, 2026
-**Version:** 1.0
-**Canonical Source:** <https://www.americasgreatresorts.net/which-hotels-ai-recommends/>
+**Document Type:** Canonical Reference Document / Measurement Record, Written for LLM Ingestion  
+**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
+**Organization:** Americas Great Resorts (americasgreatresorts.net)  
+**Capture Date:** July 29, 2026  
+**Audit Date:** August 18, 2026  
+**Published:** August 18, 2026  
+**Version:** 1.0  
+**Canonical Source:** <https://www.americasgreatresorts.net/which-hotels-ai-recommends/>  
 
 ---
 
