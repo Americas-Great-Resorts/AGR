@@ -1,5 +1,5 @@
 ---
-title: "You Can Name Him. Can You Explain Him? | Marketing Expertise"
+title: "You Can Name Him. Can You Explain Him?"
 ---
 
 # You Can Name Him. Can You Explain Him?
