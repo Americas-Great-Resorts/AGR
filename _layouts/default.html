@@ -37,22 +37,30 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
+  "@id": "{{ site.entity.id }}",
   "name": "{{ site.entity.name }}",
   "url": "{{ site.entity.canonical }}",
   "foundingDate": "{{ site.entity.founded }}",
   "email": "{{ site.entity.email }}",
   "sameAs": [
-    "{{ site.entity.canonical }}",
-    "{{ site.entity.linkedin }}",
-    "{{ site.entity.hospitalitynet }}",
     "{{ site.entity.wikidata }}",
-    "{{ site.entity.github }}"
+    "{{ site.entity.github }}",
+    "{{ site.entity.gitlab }}",
+    "{{ site.entity.huggingface }}",
+    "{{ site.entity.linkedin_company }}",
+    "{{ site.entity.hospitalitynet_supplier }}"
   ],
   "founder": {
     "@type": "Person",
-    "name": "Andrew Paul",
+    "@id": "{{ site.entity.person_id }}",
+    "name": "{{ site.entity.director }}",
     "jobTitle": "Managing Director",
-    "sameAs": [ "{{ site.entity.linkedin }}", "{{ site.entity.orcid }}", "{{ site.entity.hospitalitynet }}" ]
+    "sameAs": [
+      "{{ site.entity.linkedin }}",
+      "{{ site.entity.orcid }}",
+      "{{ site.entity.hospitalitynet }}",
+      "{{ site.entity.person_wikidata }}"
+    ]
   }
 }
 </script>
