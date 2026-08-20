@@ -82,7 +82,7 @@ jobs:
                 t="$(awk -F'"' '/^title:/{print $2; exit}' "$f")"
                 [ -z "$t" ] && t="$(grep -m1 '^# ' "$f" | sed 's/^# //' || true)"
                 [ -z "$t" ] && t="$base"
-                echo "- [${t}](${base})"
+                echo "- [${t//|/\|}](${base})"
               done <<< "$mds"
             } > "$d/index.md"
             echo "generated index: $d/index.md"
