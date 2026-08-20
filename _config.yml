@@ -17,12 +17,25 @@ entity:
   director: "Andrew Paul"
   founded: "1993"
   canonical: "https://www.americasgreatresorts.net"
+
+  # Canonical entity identifiers. These must match the WordPress @id values exactly.
+  id: "https://www.americasgreatresorts.net/#organization"
+  person_id: "https://www.americasgreatresorts.net/#andrewpaul"
+
+  # Organization identity
+  email: "info@americasgreatresorts.net"
+  wikidata: "https://www.wikidata.org/wiki/Q138413230"
+  github: "https://github.com/Americas-Great-Resorts/AGR"
+  gitlab: "https://gitlab.com/americas-great-resorts1/AGR"
+  huggingface: "https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus"
+  linkedin_company: "https://www.linkedin.com/company/agr-americas-great-resorts/"
+  hospitalitynet_supplier: "https://www.hospitalitynet.org/supplier/17024363/americas-great-resorts"
+
+  # Person identity (Andrew Paul). Never used as Organization sameAs.
   linkedin: "https://www.linkedin.com/in/andrewpaul1"
   hospitalitynet: "https://www.hospitalitynet.org/author/148006044/andrew-paul"
-  wikidata: "https://www.wikidata.org/wiki/Q138413230"
   orcid: "https://orcid.org/0009-0007-0281-3266"
-  github: "https://github.com/Americas-Great-Resorts/AGR"
-  email: "apaul@americasgreatresorts.net"
+  person_wikidata: "https://www.wikidata.org/wiki/Q140329260"
 
 markdown: kramdown
 kramdown:
@@ -45,4 +58,3 @@ exclude:
   - README-pages-setup.md
   - Gemfile
   - Gemfile.lock
-
