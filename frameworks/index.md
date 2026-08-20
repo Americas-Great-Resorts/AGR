@@ -1,7 +1,7 @@
 ---
 title: "Frameworks"
 ---
-
+ 
 <!-- agr:manual-index -->
 
 # Frameworks
