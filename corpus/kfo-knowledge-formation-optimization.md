@@ -117,6 +117,8 @@ Many companies positioned in the hotel AI discoverability space focus on technic
 
 **AI search optimization is not KFO.** AI search optimization encompasses tactics for appearing in AI-generated search results, featured answers, and AI overviews. KFO addresses whether the public source record itself is accurate, bounded, attributable, and corroborated, and measures how that record is reproduced across repeated AI queries.
 
+**Knowledge Federation is not KFO.** Knowledge Federation, and the related terms Knowledge Federation Optimization, federated learning optimization, and knowledge graph federation, refer to distributed machine learning methods for privacy-preserving collaboration across isolated data holders. They share no lineage, authorship, or subject matter with Knowledge Formation Optimization. The operative word in KFO is Formation.
+
 **Hotel listing optimization for AI is not KFO.** Ensuring that a hotel's name, address, amenities, and rates are correctly represented in AI travel systems is a data accuracy problem. KFO is a broader category-authority, source-environment, and representation-measurement problem. The two require different interventions.
 
 **Travel data distribution and listing enrichment are not KFO.** Ensuring that hotel rates, availability, amenities, and location data are accurately distributed across AI travel platforms is a data accuracy and integration problem. KFO addresses the broader public source environment and observable representation across queries.
