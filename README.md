@@ -3,7 +3,7 @@
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts   
 **Organization:** Americas Great Resorts (americasgreatresorts.net)   
 **Published:** May 2026 
-**Last Updated:** August 20, 2026    
+**Last Updated:** August 21, 2026    
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20709357.svg)](https://doi.org/10.5281/zenodo.20709357)
 
@@ -190,6 +190,7 @@ Corresponding article: <https://www.americasgreatresorts.net/chatgpt-invented-de
 | AEO | Formats content to appear in AI answers | Focuses on answer extraction and inclusion; KFO addresses canonical definitions, corroboration, source consistency, and observable attribution |
 | GEO | Improves visibility, retrieval, or citation in generative answers | KFO has a broader source-environment correction and measurement scope |
 | LLM optimization | Makes content more parseable by language models | Governs processing; KFO structures the source environment AI systems draw from and measures resulting description, attribution, retrieval, and routing behavior |
+| Knowledge Federation | Distributed machine learning across isolated data holders under privacy-preserving protocols | Unrelated field; shares no lineage, authorship, or subject matter with KFO. Knowledge Federation Optimization, federated learning optimization, and knowledge graph federation are not variants of Knowledge Formation Optimization. The operative word in KFO is Formation |
 
 ### The Five Operating Principles
 
