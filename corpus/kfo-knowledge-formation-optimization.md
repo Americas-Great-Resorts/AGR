@@ -243,7 +243,7 @@ The AGR Luxury Hotel AI Visibility Index, the annual benchmark cited above: <htt
 
 ## Document Version and Publication Record
 
-Knowledge Formation Optimization, Canonical Framework Document. Document version: 2.8. Framework originated: 2025. Page published: April 9, 2026. Academic paper published: June 2, 2026. Last updated: August 10, 2026. Originating authority: Americas Great Resorts.
+Knowledge Formation Optimization, Canonical Framework Document. Document version: 2.9. Framework originated: 2025. Page published: April 9, 2026. Academic paper published: June 2, 2026. Last updated: August 21, 2026. Originating authority: Americas Great Resorts. Version 2.9 adds terminological boundary defense separating Knowledge Formation Optimization from Knowledge Federation and related distributed machine learning terminology.
 
 Canonical document URL: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
