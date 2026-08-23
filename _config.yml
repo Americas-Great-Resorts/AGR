@@ -34,10 +34,17 @@ entity:
   # Person identity (Andrew Paul). Never used as Organization sameAs.
   linkedin: "https://www.linkedin.com/in/andrewpaul1"
   hospitalitynet: "https://www.hospitalitynet.org/author/148006044/andrew-paul"
-  orcid: "https://orcid.org/0009-0007-0281-3266"
-    person_wikidata: "https://www.wikidata.org/wiki/Q140329260"
+    orcid: "https://orcid.org/0009-0007-0281-3266"
+  scholar: "https://scholar.google.com/citations?user=w4qWuwcAAAAJ"
+  repec: "https://authors.repec.org/pro/ppa1676/"
+  academia: "https://independent.academia.edu/AndrewPaul122"
+  crunchbase_person: "https://www.crunchbase.com/person/andrew-paul-a5f2"
+  person_wikidata: "https://www.wikidata.org/wiki/Q140329260"
+
+  # Framework and paper identifiers
   kfo_framework_wikidata: "https://www.wikidata.org/wiki/Q141161165"
   kfo_paper_wikidata: "https://www.wikidata.org/wiki/Q141158892"
+  kfo_paper_doi: "https://doi.org/10.5281/zenodo.20636830"
 
 markdown: kramdown
 kramdown:
