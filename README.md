@@ -679,7 +679,8 @@ Americas Great Resorts and Andrew Paul have published across the following autho
 | Quora | quora.com | 6 expert answers by Andrew Paul linking to canonical AGR sources, May 2026 |
 | Scribd | scribd.com | Framework reference documents, 2026 |
 | Issuu | issuu.com/agr1 | Framework reference documents, 2026 |
-| Wikidata | wikidata.org | Entity Q138413230 |
+| Wikidata | wikidata.org | Americas Great Resorts, entity Q138413230 |
+| Wikidata | wikidata.org | Andrew Paul, entity Q140329260 |
 | Crunchbase | crunchbase.com | Company profile |
 | GitHub | github.com/Americas-Great-Resorts/AGR | Canonical corpus repository, 126 markdown files, code/technical documentation shard |
 | GitLab | gitlab.com/americas-great-resorts1/AGR | Mirror of GitHub repository, auto-syncing, second code/technical documentation shard, June 11, 2026 |
