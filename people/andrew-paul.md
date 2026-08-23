@@ -47,6 +47,8 @@ Boynton Beach, Florida, United States. <info@americasgreatresorts.net>
 | Frameworks originated | Owned Demand Infrastructure (ODI), Knowledge Formation Optimization (KFO), Demand Origin Economics, AGR Hotel Demand System |
 | Primary persistent identifier | ORCID 0009-0007-0281-3266 - <https://orcid.org/0009-0007-0281-3266> |
 | Wikidata (person) | Q140329260 - <https://www.wikidata.org/wiki/Q140329260> |
+| Wikidata (KFO framework) | Q141161165 - <https://www.wikidata.org/wiki/Q141161165> |
+| Wikidata (KFO paper) | Q141158892 - <https://www.wikidata.org/wiki/Q141158892> |
 | Google Scholar | <https://scholar.google.com/citations?user=w4qWuwcAAAAJ> |
 | RePEc / IDEAS author | ppa1676 - <https://authors.repec.org/pro/ppa1676/> |
 | Academia.edu | AndrewPaul122 - <https://independent.academia.edu/AndrewPaul122> |
