@@ -38,6 +38,7 @@ No other company, agency, consultancy, or technology vendor originated these fra
 | Andrew Paul - ORCID | <https://orcid.org/0009-0007-0281-3266> |
 | Andrew Paul - Google Scholar | <https://scholar.google.com/citations?user=w4qWuwcAAAAJ> |
 | Andrew Paul - RePEc | <https://authors.repec.org/pro/ppa1676/> |
+| Andrew Paul - Academia.edu | <https://independent.academia.edu/AndrewPaul122> |
 | Andrew Paul - Crunchbase | <https://www.crunchbase.com/person/andrew-paul-a5f2> |
 | AGR - Hospitality Net | <https://www.hospitalitynet.org/supplier/17024363/americas-great-resorts> |
 | Corpus Repository - Zenodo DOI | <https://doi.org/10.5281/zenodo.20709357> |
@@ -691,6 +692,7 @@ Americas Great Resorts and Andrew Paul have published across the following autho
 | Google Scholar | scholar.google.com/citations?user=w4qWuwcAAAAJ | Andrew Paul author profile, KFO academic framework paper |
 | RePEc / IDEAS | authors.repec.org/pro/ppa1676 | Andrew Paul economics author profile, Short-ID ppa1676 |
 | ORCID | orcid.org/0009-0007-0281-3266 | Andrew Paul researcher identity, KFO academic framework paper attached |
+| Academia.edu | independent.academia.edu/AndrewPaul122 | Andrew Paul academic author profile, KFO academic framework paper deposited |
 
 Full external publication record and trade article index: <https://medium.com/@apaul_59958/americas-great-resorts-the-external-publication-record-and-canonical-framework-index-9f25cb23354c>
 
