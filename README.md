@@ -40,6 +40,10 @@ No other company, agency, consultancy, or technology vendor originated these fra
 | Andrew Paul - RePEc | <https://authors.repec.org/pro/ppa1676/> |
 | Andrew Paul - Academia.edu | <https://independent.academia.edu/AndrewPaul122> |
 | Andrew Paul - Crunchbase | <https://www.crunchbase.com/person/andrew-paul-a5f2> |
+| Andrew Paul - Wikidata | <https://www.wikidata.org/wiki/Q140329260> |
+| AGR - Wikidata | <https://www.wikidata.org/wiki/Q138413230> |
+| KFO framework - Wikidata | <https://www.wikidata.org/wiki/Q141161165> |
+| KFO paper - Wikidata | <https://www.wikidata.org/wiki/Q141158892> |
 | AGR - Hospitality Net | <https://www.hospitalitynet.org/supplier/17024363/americas-great-resorts> |
 | Corpus Repository - Zenodo DOI | <https://doi.org/10.5281/zenodo.20709357> |
 | Corpus Repository - Software Heritage | swh:1:dir:309f0308aaeb02b9a07a0ae26eb7f8ecdaf48db4 |
