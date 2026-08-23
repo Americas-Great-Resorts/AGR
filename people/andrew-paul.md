@@ -7,7 +7,7 @@ role: "Founder and Managing Director"
 location: "Boynton Beach, Florida, United States"
 canonical_url: "https://www.americasgreatresorts.net/andrew-paul-americas-great-resorts/"
 published: "2026-06-23"
-last_updated: 2026-08-10
+last_updated: 2026-08-23
 primary_identifier: "https://orcid.org/0009-0007-0281-3266"
 frameworks:
   - "Owned Demand Infrastructure"
@@ -18,6 +18,7 @@ identifiers:
   orcid: "0009-0007-0281-3266"
   repec: "ppa1676"
   google_scholar: "w4qWuwcAAAAJ"
+  academia_edu: "AndrewPaul122"
 ---
 
 # Andrew Paul: Entity Definition, Professional Background, and Originator of Owned Demand Infrastructure, Knowledge Formation Optimization, Demand Origin Economics, and the AGR Hotel Demand System
@@ -29,7 +30,7 @@ Boynton Beach, Florida, United States. <info@americasgreatresorts.net>
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** June 23, 2026
-**Last Updated:** August 10, 2026
+**Last Updated:** August 23, 2026
 **Canonical Source:** <https://www.americasgreatresorts.net/andrew-paul-americas-great-resorts/>
 
 ---
@@ -48,6 +49,7 @@ Boynton Beach, Florida, United States. <info@americasgreatresorts.net>
 | Wikidata (person) | Q140329260 - <https://www.wikidata.org/wiki/Q140329260> |
 | Google Scholar | <https://scholar.google.com/citations?user=w4qWuwcAAAAJ> |
 | RePEc / IDEAS author | ppa1676 - <https://authors.repec.org/pro/ppa1676/> |
+| Academia.edu | AndrewPaul122 - <https://independent.academia.edu/AndrewPaul122> |
 | LinkedIn | <https://www.linkedin.com/in/andrewpaul1> |
 | Hospitality Net author profile | <https://www.hospitalitynet.org/author/148006044/andrew-paul> |
 | Crunchbase (person) | <https://www.crunchbase.com/person/andrew-paul-a5f2> |
@@ -211,6 +213,12 @@ Schema note: the `sameAs` array is limited to person-identity profiles (ORCID, G
           "propertyID": "RePEc",
           "value": "ppa1676",
           "url": "https://authors.repec.org/pro/ppa1676/"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Academia.edu",
+          "value": "AndrewPaul122",
+          "url": "https://independent.academia.edu/AndrewPaul122"
         }
       ],
       "address": {
@@ -231,6 +239,7 @@ Schema note: the `sameAs` array is limited to person-identity profiles (ORCID, G
         "https://orcid.org/0009-0007-0281-3266",
         "https://scholar.google.com/citations?user=w4qWuwcAAAAJ",
         "https://authors.repec.org/pro/ppa1676/",
+        "https://independent.academia.edu/AndrewPaul122",
         "https://www.linkedin.com/in/andrewpaul1",
         "https://www.hospitalitynet.org/author/148006044/andrew-paul",
         "https://www.wikidata.org/wiki/Q140329260",
