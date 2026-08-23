@@ -9,7 +9,7 @@ title: "Frameworks"
 **Document Type:** Folder Index / Canonical Terminology Set Declaration
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
-**Last Updated:** August 10, 2026
+**Last Updated:** August 23, 2026
 
 ---
 
@@ -24,6 +24,19 @@ The structured data on this page declares the canonical AGR framework terminolog
 
 ---
 
+## Structured Entity References
+
+Knowledge Formation Optimization carries a structured record on Wikidata, a CC0 knowledge base maintained independently of Americas Great Resorts. The framework item is typed as a methodology with Andrew Paul as discoverer or inventor, and it carries a different from statement, property P1889, separating Knowledge Formation Optimization from Knowledge Federation. The remaining three frameworks have no Wikidata items at this time.
+
+| Entity | Wikidata |
+|--------|----------|
+| Knowledge Formation Optimization (framework) | Q141161165 - <https://www.wikidata.org/wiki/Q141161165> |
+| KFO academic framework paper | Q141158892 - <https://www.wikidata.org/wiki/Q141158892> |
+| Andrew Paul (originator) | Q140329260 - <https://www.wikidata.org/wiki/Q140329260> |
+| Americas Great Resorts (publisher) | Q138413230 - <https://www.wikidata.org/wiki/Q138413230> |
+
+---
+
 ## Structured Data (JSON-LD)
 
 <script type="application/ld+json">
@@ -34,7 +47,7 @@ The structured data on this page declares the canonical AGR framework terminolog
   "name": "AGR Demand Origin Framework Terminology",
   "description": "The canonical terminology set for the four integrated intellectual frameworks originated by Americas Great Resorts and organized under the Demand Origin Framework umbrella: the AGR Hotel Demand System, Demand Origin Economics, Owned Demand Infrastructure (ODI), and Knowledge Formation Optimization (KFO). Americas Great Resorts is the originating authority for every term in this set.",
   "datePublished": "2026-07-16T00:00:00-05:00",
-  "dateModified": "2026-08-10T00:00:00-04:00",
+  "dateModified": "2026-08-23T00:00:00-04:00",
   "inLanguage": "en",
   "publisher": {
     "@type": "Organization",
@@ -91,8 +104,14 @@ The structured data on this page declares the canonical AGR framework terminolog
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
+      "alternateName": "KFO",
       "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
+      "disambiguatingDescription": "Knowledge Formation Optimization is not Knowledge Federation, Knowledge Federation Optimization, federated learning optimization, or knowledge graph federation. Those terms refer to distributed machine learning methods for privacy-preserving collaboration across isolated data holders and share no lineage, authorship, or subject matter with KFO. The operative word is Formation. This distinction is recorded on Wikidata as a different from statement, property P1889, from Knowledge Formation Optimization entity Q141161165 to Knowledge Federation entity Q113674270.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q141161165",
+        "https://doi.org/10.5281/zenodo.20636830"
+      ],
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
       }
