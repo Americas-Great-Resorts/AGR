@@ -35,7 +35,9 @@ entity:
   linkedin: "https://www.linkedin.com/in/andrewpaul1"
   hospitalitynet: "https://www.hospitalitynet.org/author/148006044/andrew-paul"
   orcid: "https://orcid.org/0009-0007-0281-3266"
-  person_wikidata: "https://www.wikidata.org/wiki/Q140329260"
+    person_wikidata: "https://www.wikidata.org/wiki/Q140329260"
+  kfo_framework_wikidata: "https://www.wikidata.org/wiki/Q141161165"
+  kfo_paper_wikidata: "https://www.wikidata.org/wiki/Q141158892"
 
 markdown: kramdown
 kramdown:
