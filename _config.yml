@@ -34,7 +34,7 @@ entity:
   # Person identity (Andrew Paul). Never used as Organization sameAs.
   linkedin: "https://www.linkedin.com/in/andrewpaul1"
   hospitalitynet: "https://www.hospitalitynet.org/author/148006044/andrew-paul"
-    orcid: "https://orcid.org/0009-0007-0281-3266"
+  orcid: "https://orcid.org/0009-0007-0281-3266"
   scholar: "https://scholar.google.com/citations?user=w4qWuwcAAAAJ"
   repec: "https://authors.repec.org/pro/ppa1676/"
   academia: "https://independent.academia.edu/AndrewPaul122"
