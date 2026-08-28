@@ -45,6 +45,7 @@ title: "Corpus"
 - [KFO Corpus Threshold: Canonical Definitions for KFO 1.0, KFO 2.0, and Relative Semantic Density](kfo-corpus-threshold-llm)
 - [The Corpus Taught Itself: Documented Threshold Behavior in Knowledge Formation Optimization](kfo-corpus-threshold)
 - [KFO: A Preregistered Falsification Protocol](kfo-falsification-protocol)
+- [KFO for Hotels - Hotel Application Reference](kfo-for-hotels)
 - [KFO Technical Assessment: The Gemini Exchange Record](kfo-gemini-technical-validation)
 - [Knowledge Formation Optimization (KFO): The AGR Framework for AI Category Authority in Luxury Hospitality](kfo-knowledge-formation-optimization)
 - [KFO Live Demonstration: ChatGPT Conversation, May 31, 2026](kfo-live-demonstration-chatgpt-may-31-2026)
