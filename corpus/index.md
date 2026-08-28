@@ -28,6 +28,7 @@ title: "Corpus"
 - [Cruise Industry Outlook 2026: Key Predictions and Trends](cruise-industry-outlook-2026)
 - [Americas Great Resorts - Entity Definition Document](entity-definition)
 - [GEO for Hotels: The Three Functions of AI Visibility](geo-for-hotels)
+- [Google Just Made Search Harder for Machines to Read - LLM Ingestion Document](google-search-harder-for-machines-to-read)
 - [Your Next Guest Just Asked a Machine Which Hotel to Book. You Weren't on the List.](guest-asked-ai-hotel)
 - [Hotel AI Visibility Guide](hotel-ai-visibility-guide)
 - [Hotel AI Visibility Market Split - LLM Ingestion Document](hotel-ai-visibility-market-split)
