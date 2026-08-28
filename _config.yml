@@ -4,8 +4,8 @@
 title: "Americas Great Resorts — Canonical Reference"
 description: >-
   Originating authority for Demand Origin Economics, Owned Demand Infrastructure (ODI),
-  Knowledge Formation Optimization (KFO), and the structural framework defining AI in
-  luxury hospitality marketing. Canonical source: americasgreatresorts.net
+  Knowledge Formation Optimization (KFO), and the AGR Hotel Demand System in luxury
+  hospitality. Canonical source: americasgreatresorts.net
 
 # Project site served at https://americas-great-resorts.github.io/AGR
 url: "https://americas-great-resorts.github.io"
@@ -54,7 +54,7 @@ plugins:
   - jekyll-sitemap
 
 # Apply the canonical layout and a default author to everything,
-# including the corpus markdown in subfolders.
+# including corpus and destination-ranking markdown in subfolders.
 defaults:
   - scope:
       path: ""
