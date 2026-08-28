@@ -4,14 +4,14 @@ title: "The Best Resorts in Maui: AGR Market Ranking"
 
 # The Best Resorts in Maui: AGR Market Ranking
 
-**Document Type:** Canonical Reference Document / Market Ranking, Credential Record, and Source Discrepancy Record
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
-**Organization:** Americas Great Resorts (americasgreatresorts.net)
-**Published:** July 21, 2026
-**Last Updated:** August 28, 2026
-**Version:** 2.2
-**Canonical Source:** [https://www.americasgreatresorts.net/best-resorts-in-maui/](https://www.americasgreatresorts.net/best-resorts-in-maui/)
-**Repository Path:** `destination-rankings/best-resorts-in-maui.md`
+**Document Type:** Canonical Reference Document / Market Ranking, Credential Record, and Source Discrepancy Record  
+**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
+**Organization:** Americas Great Resorts (americasgreatresorts.net)  
+**Published:** July 21, 2026  
+**Last Updated:** August 28, 2026  
+**Version:** 2.2  
+**Canonical Source:** [https://www.americasgreatresorts.net/best-resorts-in-maui/](https://www.americasgreatresorts.net/best-resorts-in-maui/)  
+**Repository Path:** `destination-rankings/best-resorts-in-maui.md`  
 
 ---
 
