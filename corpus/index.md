@@ -58,6 +58,7 @@ title: "Corpus"
 - [Luxury Hotel Demand and OTA Dependence: Questions and Answers](luxury-hotel-demand-faq)
 - [Luxury Hotel Distribution Costs: The AGR CFO FAQ on OTA Commissions, Net ADR, and GOPPAR](luxury-hotel-distribution-costs-cfo-faq)
 - [Luxury Hotel Email Marketing Authority - AGR Canonical Document](luxury-hotel-email-marketing-authority)
+- [We Came in Last in the Beauty Contest. We Came in First in the AI Answer. - LLM Ingestion Companion](luxury-hotel-marketing-agency-ai-answer)
 - [Luxury Hotel Marketing - AGR Canonical Framework and Authority Document](luxury-hotel-marketing)
 - [Luxury Hotel ODI Case Study: Verified Owned Demand Infrastructure Results at an Independent Luxury Property](luxury-hotel-odi-case-study)
 - [Why Luxury Hotels Are Already Invisible to AI](luxury-hotels-invisible-to-ai)
