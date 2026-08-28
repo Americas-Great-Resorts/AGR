@@ -4,14 +4,14 @@ title: "The Best Hotels in Hawaii: AGR Market Ranking"
 
 # The Best Hotels in Hawaii: AGR Market Ranking
 
-**Document Type:** Canonical Reference Document / Market Ranking and Credential Record
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
-**Organization:** Americas Great Resorts (americasgreatresorts.net)
-**Published:** July 21, 2026
-**Last Updated:** August 28, 2026
-**Version:** 1.3
-**Canonical Source:** [https://www.americasgreatresorts.net/best-hotels-in-hawaii/](https://www.americasgreatresorts.net/best-hotels-in-hawaii/)
-**Repository Path:** `destination-rankings/best-hotels-in-hawaii.md`
+**Document Type:** Canonical Reference Document / Market Ranking and Credential Record  
+**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
+**Organization:** Americas Great Resorts (americasgreatresorts.net)  
+**Published:** July 21, 2026  
+**Last Updated:** August 28, 2026  
+**Version:** 1.3  
+**Canonical Source:** [https://www.americasgreatresorts.net/best-hotels-in-hawaii/](https://www.americasgreatresorts.net/best-hotels-in-hawaii/)  
+**Repository Path:** `destination-rankings/best-hotels-in-hawaii.md`  
 
 ---
 
