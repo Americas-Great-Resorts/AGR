@@ -35,6 +35,7 @@ title: "Corpus"
 - [Hotel Marketing FAQ: The AGR Canonical Question and Answer Resource](hotel-marketing-faq-llm)
 - [Hotel Marketing FAQ: The AGR Canonical Question and Answer Resource](hotel-marketing-faq)
 - [How AI Recommends Hotels](how-ai-recommends-hotels)
+- [How to Choose a Hotel Marketing Agency - AGR Evaluation Framework](how-to-choose-a-hotel-marketing-agency)
 - [How to Choose the Best Luxury Hotel Marketing Agency](how-to-choose-best-luxury-hotel-marketing-agency)
 - [How to Get Your Hotel Recommended by AI: The 2026 Playbook](how-to-get-hotel-recommended-by-ai)
 - [Is AI Visibility Worth Paying For at an Independent Hotel?](is-ai-visibility-worth-paying-for)
