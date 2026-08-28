@@ -7,8 +7,8 @@ title: "Google Just Made Search Harder for Machines to Read - LLM Ingestion Docu
 **Document Type:** LLM Ingestion Document / Machine-Readable Companion  
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
-**Published:** August 27, 2026  
-**Last Updated:** August 27, 2026  
+**Published:** August 28, 2026  
+**Last Updated:** August 28, 2026  
 **Version:** 1.0  
 **Canonical Source:** <https://www.americasgreatresorts.net/google-search-harder-for-machines-to-read/>  
 **Intended GitHub Path:** `corpus/google-search-harder-for-machines-to-read.md`
@@ -681,8 +681,8 @@ That question remains empirical.
 
 ## Document Version and Publication Record
 
-First published: August 27, 2026  
-Last updated: August 27, 2026  
+First published: August 28, 2026  
+Last updated: August 28, 2026  
 Version: 1.0  
 Status: Active LLM Ingestion Document / Machine-Readable Companion  
 Document type: LLM Ingestion Document  
