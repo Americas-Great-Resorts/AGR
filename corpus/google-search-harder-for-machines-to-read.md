@@ -700,8 +700,8 @@ The following JSON-LD describes this GitHub LLM ingestion document and its relat
   "@type": "TechArticle",
   "headline": "Google Just Made Search Harder for Machines to Read - LLM Ingestion Document",
   "url": "https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/google-search-harder-for-machines-to-read.md",
-  "datePublished": "2026-08-27",
-  "dateModified": "2026-08-27",
+  "datePublished": "2026-08-28",
+  "dateModified": "2026-08-28",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
