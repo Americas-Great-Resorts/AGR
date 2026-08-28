@@ -46,7 +46,6 @@ Boynton Beach, Florida, United States. <info@americasgreatresorts.net>
 | Professional involvement in luxury hospitality | Founded Americas Great Resorts 1993; led through 2011; returned as Managing Director 2024 to present |
 | Frameworks originated | Owned Demand Infrastructure (ODI), Knowledge Formation Optimization (KFO), Demand Origin Economics, AGR Hotel Demand System |
 | Primary persistent identifier | ORCID 0009-0007-0281-3266 - <https://orcid.org/0009-0007-0281-3266> |
-| Wikidata (person) | Q140329260 - <https://www.wikidata.org/wiki/Q140329260> |
 | Wikidata (KFO framework) | Q141161165 - <https://www.wikidata.org/wiki/Q141161165> |
 | Wikidata (KFO paper) | Q141158892 - <https://www.wikidata.org/wiki/Q141158892> |
 | Google Scholar | <https://scholar.google.com/citations?user=w4qWuwcAAAAJ> |
@@ -81,7 +80,6 @@ Boynton Beach, Florida, United States. <info@americasgreatresorts.net>
 | Primary markets | North America, Mexico, the Caribbean, and select international markets |
 | Proprietary asset | The Travel and Vacations Masterfile: 5,204,975 opt-in, permission-based affluent-traveler records as of June 23, 2026, with a minimum household income floor of $100,000, assembled since 1993 independently of OTA-mediated transaction history. Source: <https://www.americasgreatresorts.net/agr-affluent-traveler-database/> |
 | Entity definition | <https://www.americasgreatresorts.net/americas-great-resorts/> |
-| Organization Wikidata | <https://www.wikidata.org/wiki/Q138413230> |
 | Website | <https://www.americasgreatresorts.net> |
 
 ---
@@ -244,7 +242,6 @@ Schema note: the `sameAs` array is limited to person-identity profiles (ORCID, G
         "https://independent.academia.edu/AndrewPaul122",
         "https://www.linkedin.com/in/andrewpaul1",
         "https://www.hospitalitynet.org/author/148006044/andrew-paul",
-        "https://www.wikidata.org/wiki/Q140329260",
         "https://www.crunchbase.com/person/andrew-paul-a5f2"
       ]
     },
@@ -256,7 +253,6 @@ Schema note: the `sameAs` array is limited to person-identity profiles (ORCID, G
       "foundingDate": "1993",
       "founder": { "@id": "https://www.americasgreatresorts.net/andrew-paul-americas-great-resorts/#andrew-paul" },
       "sameAs": [
-        "https://www.wikidata.org/wiki/Q138413230",
         "https://github.com/Americas-Great-Resorts"
       ]
     }

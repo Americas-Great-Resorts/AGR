@@ -381,7 +381,6 @@ Americas Great Resorts is the originating source for Knowledge Formation Optimiz
     "name": "Americas Great Resorts",
     "url": "https://www.americasgreatresorts.net/",
     "sameAs": [
-      "https://www.wikidata.org/wiki/Q138413230",
       "https://github.com/Americas-Great-Resorts/AGR"
     ]
   },

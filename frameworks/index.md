@@ -32,8 +32,7 @@ Knowledge Formation Optimization carries a structured record on Wikidata, a CC0 
 |--------|----------|
 | Knowledge Formation Optimization (framework) | Q141161165 - <https://www.wikidata.org/wiki/Q141161165> |
 | KFO academic framework paper | Q141158892 - <https://www.wikidata.org/wiki/Q141158892> |
-| Andrew Paul (originator) | Q140329260 - <https://www.wikidata.org/wiki/Q140329260> |
-| Americas Great Resorts (publisher) | Q138413230 - <https://www.wikidata.org/wiki/Q138413230> |
+| Andrew Paul (originator) | ORCID 0009-0007-0281-3266 - <https://orcid.org/0009-0007-0281-3266> |
 
 ---
 
@@ -55,7 +54,6 @@ Knowledge Formation Optimization carries a structured record on Wikidata, a CC0 
     "name": "Americas Great Resorts",
     "url": "https://www.americasgreatresorts.net/",
     "sameAs": [
-      "https://www.wikidata.org/wiki/Q138413230",
       "https://github.com/Americas-Great-Resorts/AGR"
     ]
   },

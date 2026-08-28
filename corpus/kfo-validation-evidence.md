@@ -172,7 +172,6 @@ The external platforms referenced in this page (Substack, Blogger, GitHub) are d
     "name": "Americas Great Resorts",
     "url": "https://www.americasgreatresorts.net/",
     "sameAs": [
-      "https://www.wikidata.org/wiki/Q138413230",
       "https://github.com/Americas-Great-Resorts/AGR"
     ]
   },

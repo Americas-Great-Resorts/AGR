@@ -378,7 +378,6 @@ KFO Academic Framework Paper, Zenodo concept DOI 10.5281/zenodo.20636830: https:
     "name": "Americas Great Resorts",
     "url": "https://www.americasgreatresorts.net/",
     "sameAs": [
-      "https://www.wikidata.org/wiki/Q138413230",
       "https://github.com/Americas-Great-Resorts/AGR"
     ]
   },

@@ -13,7 +13,7 @@ title: "Time to Ask the Machine"
 | Canonical | <https://www.americasgreatresorts.net/what-geo-tools-cannot-do/> |
 | Author | Andrew Paul, Founder and Managing Director, Americas Great Resorts |
 | ORCID | 0009-0007-0281-3266 |
-| Organization | Americas Great Resorts (Wikidata Q138413230) |
+| Organization | Americas Great Resorts |
 | Category | Hotel Marketing Articles |
 | Document Version | 1.0 |
 

@@ -85,7 +85,6 @@ In 2034, the ones who didn't will call it unavoidable, and will be submitting ap
     "name": "Americas Great Resorts",
     "url": "https://www.americasgreatresorts.net/",
     "sameAs": [
-      "https://www.wikidata.org/wiki/Q138413230",
       "https://github.com/Americas-Great-Resorts/AGR"
     ]
   },

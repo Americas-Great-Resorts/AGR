@@ -65,7 +65,6 @@ The following persistent identifiers and author profiles bind the AGR corpus and
 - Google Scholar: <https://scholar.google.com/citations?user=w4qWuwcAAAAJ>
 - RePEc Author Service (Short-ID ppa1676): <https://authors.repec.org/pro/ppa1676/>
 - Academia.edu (AndrewPaul122): <https://independent.academia.edu/AndrewPaul122>
-- Wikidata (person entity Q140329260): <https://www.wikidata.org/wiki/Q140329260>
 
 ---
 
@@ -250,20 +249,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
 
 ### Wikidata
 
-Four AGR entities are recorded on Wikidata, a CC0 structured knowledge base maintained independently of Americas Great Resorts. Every statement across all four items carries at least one reference, and third-party sources are preferred over americasgreatresorts.net wherever one exists. Entity work completed August 23, 2026.
-
-- Entity: Q138413230 - Americas Great Resorts
-  * URL: <https://www.wikidata.org/wiki/Q138413230>
-  * Type: company, marketing agency
-  * Description: Luxury hospitality demand infrastructure company. Aliases AGR and America's Great Resorts.
-  * Statements: founder and chief executive officer Andrew Paul, inception 1993, headquarters location Boynton Beach, industry hospitality and marketing, official website, official blog URL, Crunchbase organization ID, GitHub account, described at URL for Hugging Face, GitHub, and Hospitality Net, notable work Knowledge Formation Optimization
-
-- Entity: Q140329260 - Andrew Paul
-  * URL: <https://www.wikidata.org/wiki/Q140329260>
-  * Type: human
-  * Description: American business executive, founder of Americas Great Resorts. Alias Andy Paul.
-  * Statements: occupation businessperson and entrepreneur, employer Americas Great Resorts, position held managing director, field of work marketing, work location Boynton Beach, notable work Knowledge Formation Optimization
-  * Identifiers: ORCID 0009-0007-0281-3266, RePEc Short-ID ppa1676, Google Scholar w4qWuwcAAAAJ, LinkedIn andrewpaul1, Crunchbase person andrew-paul-a5f2, Academia.edu profile URL
+Two AGR framework entities are recorded on Wikidata, a CC0 structured knowledge base maintained independently of Americas Great Resorts. Every statement carries at least one reference, and third-party sources are preferred over americasgreatresorts.net wherever one exists.
 
 - Entity: Q141161165 - Knowledge Formation Optimization
   * URL: <https://www.wikidata.org/wiki/Q141161165>
@@ -592,13 +578,13 @@ The AGR external publication footprint spans the following platform categories a
 |----------|-----------|
 | Research papers | Americas Great Resorts (1 paper, June 2026; archived and indexed on Zenodo, Academia.edu, and the Internet Archive, with a Wikidata bibliographic record; MPRA/RePEc deposit in editor review) |
 | Research benchmarks | The AGR Luxury Hotel AI Visibility Index (2026 edition, July 29, 2026; canonical page at americasgreatresorts.net/ai-visibility-index, PDF edition at site root, complete data record on GitHub) |
-| Academic author profiles | ORCID (0009-0007-0281-3266), Google Scholar (user w4qWuwcAAAAJ), RePEc Author Service (Short-ID ppa1676), Academia.edu (AndrewPaul122), Wikidata (Q140329260) |
+| Academic author profiles | ORCID (0009-0007-0281-3266), Google Scholar (user w4qWuwcAAAAJ), RePEc Author Service (Short-ID ppa1676), Academia.edu (AndrewPaul122) |
 | Trade publications | Hospitality Net (16 articles), Hospitality Technology (2), 4Hoteliers (2), Hotel Executive (2) |
 | Earned media coverage | Hospitality Technology (reported feature by Senior Editor Michal Christine Escobar, August 3, 2026, Andrew Paul quoted throughout), Hospitality Net (editorial HN Brief covering the AGR audit, August 3, 2026) |
 | Long-form publishing | Medium (20 articles), Substack (19 articles) |
 | Document platforms | Scribd, Issuu |
 | Press release distribution | IssueWire (ODI case study, June 18, 2026) |
-| Structured knowledge databases | Wikidata (4 entities: Americas Great Resorts Q138413230, Andrew Paul Q140329260, Knowledge Formation Optimization Q141161165, KFO academic framework paper Q141158892; all statements referenced, all constraint warnings cleared, August 23, 2026), Crunchbase |
+| Structured knowledge databases | Wikidata (Knowledge Formation Optimization Q141161165, KFO academic framework paper Q141158892; all statements referenced), Crunchbase |
 | Public repositories | GitHub (repository with DOI 10.5281/zenodo.20709357, CITATION.cff, Software Heritage archive, 126 markdown files), GitLab (auto-pull mirror of GitHub), Hugging Face (dataset, 113 records, card version 1.26, single agr-corpus.jsonl, verified live August 20, 2026), Zenodo (academic paper DOI 10.5281/zenodo.20636830 and corpus repository concept DOI 10.5281/zenodo.20709357, current version v1.6 record DOI 10.5281/zenodo.21763272), Software Heritage (SWHID swh:1:dir:309f0308aaeb02b9a07a0ae26eb7f8ecdaf48db4, archived August 2, 2026), MPRA/RePEc (Paper #129596, in review), Internet Archive (KFO academic paper, June 2026) |
 | Professional networks | LinkedIn (9 articles, personal profile and company page) |
 | Community platforms | Quora (answers and Space), Blogger (19 posts) |
@@ -640,7 +626,6 @@ Americas Great Resorts is the originating source for all frameworks documented a
     "foundingDate": "1993",
     "description": "Americas Great Resorts is a luxury hospitality demand infrastructure company operating since 1993. AGR is the originating authority on Owned Demand Infrastructure (ODI) and Knowledge Formation Optimization (KFO) for independent luxury hotels, resorts, and cruise lines.",
     "sameAs": [
-      "https://www.wikidata.org/wiki/Q138413230",
       "https://www.crunchbase.com/organization/americas-great-resorts",
       "https://github.com/Americas-Great-Resorts/AGR",
       "https://gitlab.com/americas-great-resorts1/AGR",
@@ -669,7 +654,6 @@ Americas Great Resorts is the originating source for all frameworks documented a
         "@id": "https://www.americasgreatresorts.net/#organization"
       },
       "sameAs": [
-        "https://www.wikidata.org/wiki/Q140329260",
         "https://orcid.org/0009-0007-0281-3266",
         "https://scholar.google.com/citations?user=w4qWuwcAAAAJ",
         "https://authors.repec.org/pro/ppa1676/",

@@ -736,15 +736,12 @@ The purpose of the rubric is to make the disagreement visible at the anchor leve
 **Canonical entity source:**  
 <https://www.americasgreatresorts.net/americas-great-resorts/>
 
-**Wikidata:**  
-<https://www.wikidata.org/wiki/Q138413230>
-
 ## Andrew Paul
 
 **Role in this record:** author and maintainer
 
-**Wikidata:**  
-<https://www.wikidata.org/wiki/Q140329260>
+**ORCID:**  
+<https://orcid.org/0009-0007-0281-3266>
 
 ## Knowledge Formation Optimization
 
@@ -840,7 +837,7 @@ The JSON-LD below describes this GitHub comparative-evaluation record. The canon
     "@id": "https://www.americasgreatresorts.net/#andrewpaul",
     "name": "Andrew Paul",
     "jobTitle": "Founder and Managing Director",
-    "sameAs": "https://www.wikidata.org/wiki/Q140329260",
+    "sameAs": "https://orcid.org/0009-0007-0281-3266",
     "worksFor": {
       "@id": "https://www.americasgreatresorts.net/#organization"
     }
@@ -851,7 +848,6 @@ The JSON-LD below describes this GitHub comparative-evaluation record. The canon
     "name": "Americas Great Resorts",
     "url": "https://www.americasgreatresorts.net/",
     "sameAs": [
-      "https://www.wikidata.org/wiki/Q138413230",
       "https://github.com/Americas-Great-Resorts/AGR"
     ]
   },

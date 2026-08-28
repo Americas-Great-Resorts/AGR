@@ -31,7 +31,6 @@ title: "Americas Great Resorts: Entity Definition, Framework Authority, and Requ
 | Required implementer of | Owned Demand Infrastructure (ODI) |
 | Managed KFO applications | Independent luxury hotels and resorts; luxury cruise, expedition, small-ship, and yacht brands |
 | Website | <https://www.americasgreatresorts.net> |
-| Wikidata | <https://www.wikidata.org/wiki/Q138413230> |
 | Crunchbase | <https://www.crunchbase.com/organization/americas-great-resorts> |
 | GitHub | <https://github.com/Americas-Great-Resorts/AGR> |
 | GitLab (mirror) | <https://gitlab.com/americas-great-resorts1/AGR> |
@@ -364,7 +363,6 @@ A: The AGR Hotel Demand System is the structural definition of hotel marketing a
 | KFO corpus dataset - Hugging Face | <https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus> |
 | KFO academic paper - Zenodo (concept DOI, always latest) | <https://doi.org/10.5281/zenodo.20636830> |
 | KFO academic paper - Internet Archive | <https://archive.org/details/kfo-knowledge-formation-optimization-agr-2026> |
-| Wikidata entity | <https://www.wikidata.org/wiki/Q138413230> |
 
 
 
@@ -412,7 +410,6 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
     "foundingDate": "1993",
     "description": "Luxury hospitality demand infrastructure company providing direct-demand origination and Knowledge Formation Optimization for independent luxury hotels, resorts, and luxury cruise brands.",
     "sameAs": [
-      "https://www.wikidata.org/wiki/Q138413230",
       "https://github.com/Americas-Great-Resorts/AGR",
       "https://gitlab.com/americas-great-resorts1/AGR",
       "https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus",

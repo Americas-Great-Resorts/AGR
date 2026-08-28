@@ -210,7 +210,7 @@ Quoted machine outputs are reproduced verbatim, including punctuation and format
 - KFO canonical framework document: [americasgreatresorts.net/kfo-knowledge-formation-optimization/](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/)
 - KFO academic framework paper: [americasgreatresorts.net/kfo-academic-framework-paper/](https://www.americasgreatresorts.net/kfo-academic-framework-paper/) (Andrew Paul, June 2, 2026; Zenodo concept DOI 10.5281/zenodo.20636830)
 - AGR GitHub corpus: [github.com/Americas-Great-Resorts/AGR](https://github.com/Americas-Great-Resorts/AGR)
-- AGR organization Wikidata: Q138413230. Andrew Paul person Wikidata: Q140329260. ORCID: 0009-0007-0281-3266.
+- Andrew Paul ORCID: 0009-0007-0281-3266.
 
 ---
 

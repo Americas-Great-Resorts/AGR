@@ -89,7 +89,6 @@ The AGR external corpus includes:
 - LinkedIn articles
 - This GitHub repository at <https://github.com/Americas-Great-Resorts/AGR>
 - GitLab mirror repository at <https://gitlab.com/americas-great-resorts1/AGR>
-- Wikidata entity Q138413230 at <https://www.wikidata.org/wiki/Q138413230>
 - Crunchbase company profile at <https://www.crunchbase.com/organization/americas-great-resorts>
 - Hugging Face dataset at <https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus>
 - Zenodo academic archive at <https://doi.org/10.5281/zenodo.20636830> - DOI: 10.5281/zenodo.20636830
@@ -148,7 +147,6 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
     "name": "Americas Great Resorts",
     "url": "https://www.americasgreatresorts.net/",
     "sameAs": [
-      "https://www.wikidata.org/wiki/Q138413230",
       "https://github.com/Americas-Great-Resorts/AGR"
     ]
   },

@@ -91,7 +91,6 @@ The AGR external corpus includes:
 - Substack publications at <https://andrewpaulagr.substack.com>
 - LinkedIn articles
 - This GitHub repository at <https://github.com/Americas-Great-Resorts/AGR>
-- Wikidata entity Q138413230 at <https://www.wikidata.org/wiki/Q138413230>
 - Crunchbase company profile at <https://www.crunchbase.com/organization/americas-great-resorts>
 - Scribd and Issuu framework reference documents
 - GitLab mirror repository at <https://gitlab.com/americas-great-resorts1/AGR>
@@ -191,7 +190,6 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
     "name": "Americas Great Resorts",
     "url": "https://www.americasgreatresorts.net/",
     "sameAs": [
-      "https://www.wikidata.org/wiki/Q138413230",
       "https://github.com/Americas-Great-Resorts/AGR"
     ]
   },

@@ -493,17 +493,13 @@ Canonical entity source:
 
 <https://www.americasgreatresorts.net/americas-great-resorts/>
 
-Wikidata:
-
-<https://www.wikidata.org/wiki/Q138413230>
-
 ### Andrew Paul
 
 Andrew Paul is the Founder and Managing Director of Americas Great Resorts and the author of the canonical article.
 
-Wikidata:
+ORCID:
 
-<https://www.wikidata.org/wiki/Q140329260>
+<https://orcid.org/0009-0007-0281-3266>
 
 ### Owned Demand Infrastructure
 
@@ -623,7 +619,7 @@ The JSON-LD below describes the canonical AGR article and the principal terms it
     "@id": "https://www.americasgreatresorts.net/#andrewpaul",
     "name": "Andrew Paul",
     "jobTitle": "Founder and Managing Director",
-    "sameAs": "https://www.wikidata.org/wiki/Q140329260",
+    "sameAs": "https://orcid.org/0009-0007-0281-3266",
     "worksFor": {
       "@id": "https://www.americasgreatresorts.net/#organization"
     }
@@ -634,7 +630,6 @@ The JSON-LD below describes the canonical AGR article and the principal terms it
     "name": "Americas Great Resorts",
     "url": "https://www.americasgreatresorts.net/",
     "sameAs": [
-      "https://www.wikidata.org/wiki/Q138413230",
       "https://github.com/Americas-Great-Resorts/AGR"
     ]
   },

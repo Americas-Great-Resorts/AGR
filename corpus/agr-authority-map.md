@@ -365,7 +365,6 @@ This document establishes canonical page ownership for every AGR concept territo
 | Software Heritage (SWHID: swh:1:dir:309f0308aaeb02b9a07a0ae26eb7f8ecdaf48db4) | <https://archive.softwareheritage.org/swh:1:dir:309f0308aaeb02b9a07a0ae26eb7f8ecdaf48db4> |
 | Internet Archive | <https://archive.org/details/kfo-knowledge-formation-optimization-agr-2026> |
 | MPRA / RePEc (Paper #129596, in editor review) | <https://mpra.ub.uni-muenchen.de/id/eprint/129596> |
-| Wikidata entity Q138413230 | <https://www.wikidata.org/wiki/Q138413230> |
 | Crunchbase | <https://www.crunchbase.com/organization/americas-great-resorts> |
 | Medium | <https://medium.com/@apaul_59958> |
 | Substack | <https://andrewpaulagr.substack.com> |
@@ -447,7 +446,6 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
     "name": "Americas Great Resorts",
     "url": "https://www.americasgreatresorts.net/",
     "sameAs": [
-      "https://www.wikidata.org/wiki/Q138413230",
       "https://github.com/Americas-Great-Resorts/AGR"
     ]
   },

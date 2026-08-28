@@ -194,7 +194,6 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
     "foundingDate": "1993",
     "description": "Luxury hospitality demand infrastructure company introducing qualified affluent travelers to independent luxury hotels, resorts, and cruise lines before OTA marketplace comparison begins.",
     "sameAs": [
-      "https://www.wikidata.org/wiki/Q138413230",
       "https://github.com/Americas-Great-Resorts/AGR",
       "https://gitlab.com/americas-great-resorts1/AGR",
       "https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus",

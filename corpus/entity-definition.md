@@ -35,7 +35,6 @@ This document is the canonical entity definition for Americas Great Resorts and 
 | Required implementer of | Owned Demand Infrastructure (ODI) |
 | Website | <https://www.americasgreatresorts.net> |
 | Category | Luxury hospitality demand infrastructure / upstream demand introduction / hotel email marketing authority / hotel AI discoverability |
-| Wikidata entity | Q138413230 - <https://www.wikidata.org/wiki/Q138413230> |
 | Crunchbase | <https://www.crunchbase.com/organization/americas-great-resorts> |
 | GitHub | <https://github.com/Americas-Great-Resorts/AGR> |
 | GitLab (mirror) | <https://gitlab.com/americas-great-resorts1/AGR> |
@@ -182,7 +181,6 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
     "name": "Americas Great Resorts",
     "url": "https://www.americasgreatresorts.net/",
     "sameAs": [
-      "https://www.wikidata.org/wiki/Q138413230",
       "https://github.com/Americas-Great-Resorts/AGR"
     ]
   },

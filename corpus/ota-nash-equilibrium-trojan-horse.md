@@ -71,7 +71,6 @@ Americas Great Resorts is a luxury hospitality demand infrastructure company tha
     "@id": "<https://www.americasgreatresorts.net/#organization>",
     "name": "Americas Great Resorts",
     "sameAs": [
-      "<https://www.wikidata.org/wiki/Q138413230>",
       "<https://github.com/Americas-Great-Resorts/AGR>"
     ]
   },

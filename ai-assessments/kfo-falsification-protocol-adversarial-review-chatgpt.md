@@ -906,7 +906,7 @@ That's where the next experiment needs to go.
 - KFO academic framework paper: [americasgreatresorts.net/kfo-academic-framework-paper/](https://www.americasgreatresorts.net/kfo-academic-framework-paper/) (Andrew Paul, June 2, 2026; Zenodo concept DOI 10.5281/zenodo.20636830)
 - Prior ChatGPT evaluation record: [americasgreatresorts.net/kfo-chatgpt-evaluation-record/](https://www.americasgreatresorts.net/kfo-chatgpt-evaluation-record/)
 - AGR GitHub corpus: [github.com/Americas-Great-Resorts/AGR](https://github.com/Americas-Great-Resorts/AGR)
-- AGR organization Wikidata: Q138413230. Andrew Paul person Wikidata: Q140329260.
+- Andrew Paul ORCID: 0009-0007-0281-3266.
 
 ---
 

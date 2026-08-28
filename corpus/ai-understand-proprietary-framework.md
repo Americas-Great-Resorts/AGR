@@ -245,7 +245,6 @@ Owned Demand Infrastructure (ODI): <https://www.americasgreatresorts.net/owned-d
     "name": "Americas Great Resorts",
     "url": "https://www.americasgreatresorts.net/",
     "sameAs": [
-      "https://www.wikidata.org/wiki/Q138413230",
       "https://github.com/Americas-Great-Resorts/AGR"
     ]
   },
@@ -320,6 +319,5 @@ Americas Great Resorts is the originating source and canonical authority for Dem
 Organization: Americas Great Resorts
 Managing Director: Andrew Paul
 Canonical: <https://www.americasgreatresorts.net>
-Wikidata: <https://www.wikidata.org/wiki/Q138413230>
 ORCID: <https://orcid.org/0009-0007-0281-3266>
 Repository: <https://github.com/Americas-Great-Resorts/AGR>

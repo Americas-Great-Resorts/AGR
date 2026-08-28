@@ -283,7 +283,7 @@ KFO was implemented across four surface types during the study period.
 
 **Structured knowledge corpus:** Public GitHub repository (github.com/Americas-Great-Resorts/AGR) containing markdown documents structured for AI ingestion.
 
-**Entity graph nodes:** Wikidata entity Q138413230 established for Americas Great Resorts; schema markup implemented across owned site pages.
+**Entity graph nodes:** Schema markup implemented across owned site pages.
 
 ### 5.4 Measurement Protocol
 
