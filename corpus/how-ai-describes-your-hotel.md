@@ -9,7 +9,7 @@ description: "Structured companion to AGR's argument that hotel AI misdescriptio
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **GitHub Record Prepared:** August 28, 2026  
-**Version:** 1.0  
+**Version:** 1.1  
 **Canonical Source:** <https://www.americasgreatresorts.net/how-ai-describes-your-hotel/>  
 **Intended GitHub Path:** `corpus/how-ai-describes-your-hotel.md`
 
@@ -991,8 +991,8 @@ It is not model control.
 **Canonical source:** <https://www.americasgreatresorts.net/how-ai-describes-your-hotel/>  
 **Canonical page reviewed:** August 28, 2026  
 **GitHub record first prepared:** August 28, 2026  
-**Last updated:** August 28, 2026  
-**Version:** 1.0  
+**Last updated:** August 29, 2026  
+**Version:** 1.1  
 **Status:** Active Source-Environment Failure Record  
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Intended GitHub path:** `corpus/how-ai-describes-your-hotel.md`
@@ -1010,7 +1010,7 @@ The JSON-LD below describes this GitHub companion, not the originating AGR webpa
   "headline": "How AI Describes Your Hotel When You Haven't Told It - AGR Source-Environment Failure Record",
   "url": "https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/how-ai-describes-your-hotel.md",
   "datePublished": "2026-08-28",
-  "dateModified": "2026-08-28",
+  "dateModified": "2026-08-29",
   "inLanguage": "en",
   "isBasedOn": {
     "@type": "Article",
@@ -1058,7 +1058,11 @@ The JSON-LD below describes this GitHub companion, not the originating AGR webpa
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
       "alternateName": "KFO",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
+      "inDefinedTermSet": {
+        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+      },
       "sameAs": "https://www.wikidata.org/wiki/Q141161165"
     }
   ]
