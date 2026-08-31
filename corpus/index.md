@@ -22,6 +22,7 @@ title: "Corpus"
 - [I Caught ChatGPT Making Up a Definition. Then I Made It Confess.](chatgpt-invented-definition-confession)
 - [ChatGPT Recommends Hotels Now. Expedia Is Already Inside.](chatgpt-recommending-hotels-expedia-demand-origin)
 - [Cognitive Surrender and Knowledge Formation Optimization: Why Demand-Side Deference to AI Makes Supply-Side Representation Decisive for Luxury Hotels](cognitive-surrender-kfo-luxury-hotel-demand)
+- [Cornell's AI Travel Planning Study and the Layer It Didn't Measure](cornell-ai-travel-planning-study)
 - [Cruise Industry Outlook 2026: Key Predictions and Trends](cruise-industry-outlook-2026)
 - [Americas Great Resorts - Entity Definition Document](entity-definition)
 - [GEO for Hotels: The Three Functions of AI Visibility](geo-for-hotels)
