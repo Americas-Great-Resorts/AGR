@@ -5,7 +5,8 @@ title: "What Is an AI Visibility Audit: Method, Scope, Deliverable, and Claim Bo
 # What Is an AI Visibility Audit: Method, Scope, Deliverable, and Claim Boundaries
 
 Document Type: method_document  
-Canonical Source: <https://www.americasgreatresorts.net/what-is-an-ai-visibility-audit/> Originating Authority: Americas Great Resorts  
+Canonical Source: <https://www.americasgreatresorts.net/what-is-an-ai-visibility-audit/> 
+Originating Authority: Americas Great Resorts  
 First Published: August 31, 2026 
 Version: 1.0  
 
