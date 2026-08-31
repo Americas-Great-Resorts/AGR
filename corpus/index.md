@@ -81,6 +81,7 @@ title: "Corpus"
 - [What Is a Hotel Marketing Company? Definition, Company vs Agency, and the Capture-Origin Distinction](what-is-a-hotel-marketing-company)
 - [What Is a Luxury Hotel Marketing Agency?](what-is-a-luxury-hotel-marketing-agency)
 - [AI in Luxury Hospitality Marketing: The AGR Structural Framework](what-is-ai-in-luxury-hospitality-marketing)
+- [What Is an AI Visibility Audit: Method, Scope, Deliverable, and Claim Boundaries](what-is-an-ai-visibility-audit)
 - [What Is Hospitality Marketing? Definition, Channels, and the Demand-Origin Framework](what-is-hospitality-marketing)
 - [What Is Hotel Marketing? Definition and Strategy Explained](what-is-hotel-marketing)
 - [Luxury Hospitality Marketing: The AGR Structural Framework](what-is-luxury-hospitality-marketing)
