@@ -165,7 +165,7 @@ Americas Great Resorts has operated in hospitality demand infrastructure since 1
   "headline": "What Is a Hotel Marketing Company? Definition, Company vs Agency, and the Capture-Origin Distinction",
   "url": "https://www.americasgreatresorts.net/what-is-a-hotel-marketing-company/",
   "datePublished": "2026-07-01",
-  "dateModified": "2026-08-10",
+  "dateModified": "2026-08-31",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
