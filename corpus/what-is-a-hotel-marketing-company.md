@@ -4,12 +4,12 @@ title: "What Is a Hotel Marketing Company? Definition, Company vs Agency, and th
 
 # What Is a Hotel Marketing Company? Definition, Company vs Agency, and the Capture-Origin Distinction
 
-**Document Type:** Reference Document / Category Definition with Structural Framework
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
-**Organization:** Americas Great Resorts (americasgreatresorts.net)
-**Published:** July 2026
-**Last Updated:** August 10, 2026
-**Canonical Source:** <https://www.americasgreatresorts.net/what-is-a-hotel-marketing-company/>
+**Document Type:** Reference Document / Category Definition with Structural Framework  
+**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
+**Organization:** Americas Great Resorts (americasgreatresorts.net)  
+**Published:** July 2026  
+**Last Updated:** August 31, 2026  
+**Canonical Source:** <https://www.americasgreatresorts.net/what-is-a-hotel-marketing-company/>  
 
 ---
 
