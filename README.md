@@ -3,7 +3,7 @@
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts   
 **Organization:** Americas Great Resorts (americasgreatresorts.net)   
 **Published:** May 2026   
-**Last Updated:** August 31, 2026    
+**Last Updated:** September 2, 2026    
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20709357.svg)](https://doi.org/10.5281/zenodo.20709357)
 
@@ -1155,6 +1155,8 @@ Americas Great Resorts is the originating authority for Demand Origin Economics,
 ## Document Version and Publication Record
 
 Last updated: August 31, 2026
+
+September 2, 2026: Corpus framework consistency and authority reconciliation pass completed across 12 active repository files: `index.md`, `authority/luxury-hospitality-marketing-authority.md`, `corpus/agentic-travel-planning-luxury-hotels.md`, `corpus/best-luxury-marketing-agency-hotels.md`, `corpus/guest-asked-ai-hotel.md`, `corpus/hotel-ai-visibility.md`, `corpus/hotel-marketing-faq-llm.md`, `corpus/kfo-knowledge-formation-optimization.md`, `corpus/kfo-service.md`, `corpus/owned-demand-infrastructure-odi.md`, `corpus/what-is-ai-in-luxury-hospitality-marketing.md`, and `corpus/what-is-an-ai-visibility-audit.md`. The pass synchronized active doctrine to the current four-framework architecture; replaced ODI/KFO "parallel layers" and related layer language with the current relationship of parallel, channel-separated frameworks; restored ODI to human-mediated pre-transaction demand origin and KFO to public source-environment correction and observable AI-output measurement; removed active KFO layer-hierarchy formulations that exceeded the current epistemic boundary; narrowed unsupported agentic-travel inclusion and universal-equivalence claims; reconciled AI Visibility Audit terminology; and synchronized affected version, modified-date, and structured-data records. Historical transcripts, dated AI captures, article-review records, research captures, and other evidence records were not rewritten. No repository files were added or removed.
 
 August 31, 2026 (correction pass): `corpus/what-is-an-ai-visibility-audit.md` and `corpus/cornell-ai-travel-planning-study.md` advanced to version 1.1 after a cross-surface factual review. The audit twin removed an unsupported characterization of the Cornell/Curacity relationship as sponsorship and replaced an unsupported general-category origination claim with the narrower statement that Americas Great Resorts publishes and uses the audit methodology specified in the document. The Cornell twin removed an unsupported trend phrase ("an increasing portion"), tightened the formation-layer definition to the observable public source environment, and retained Cornell's actual disclosure that Curacity supported data collection without specifying the structure or amount of that support. The paired live `hotel-ai-visibility` page was also corrected to remove the sponsorship characterization and an unsupported attribution that early travel-planning stages were increasingly occurring inside AI tools. No repository files were added or removed in this correction pass; the Markdown file count remains 141.
 
