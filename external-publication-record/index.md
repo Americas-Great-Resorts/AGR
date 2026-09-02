@@ -32,6 +32,8 @@ ODI and KFO are parallel AGR frameworks separated by channel. ODI governs human-
 - Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval
   * Author: Andrew Paul, Founder and Managing Director, Americas Great Resorts
   * Published: June 2, 2026
+  * Current version: v3.0
+  * Last revised: July 17, 2026
   * Canonical URL: <https://www.americasgreatresorts.net/kfo-academic-framework-paper/>
   * GitHub: <https://github.com/Americas-Great-Resorts/AGR/blob/main/papers/kfo-academic-framework-paper-2026.md>
   * LLM reference document: <https://www.americasgreatresorts.net/kfo-academic-framework-llm/>
