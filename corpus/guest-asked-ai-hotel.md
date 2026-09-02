@@ -148,7 +148,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993. <ht
     {
       "@type": "DefinedTerm",
       "name": "Knowledge Formation Optimization",
-      "description": "The formation-layer publishing discipline developed by Americas Great Resorts that shapes the representation AI systems form of a subject in advance of retrieval and attributes it to its originating authority.",
+      "description": "Knowledge Formation Optimization (KFO) structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
     }
   ]
