@@ -116,7 +116,7 @@ The four conditions describe what ODI evaluates. The three layers describe how i
 | Two | External Demand Asset Access | Resolves the scale constraint through a pre-existing demand asset assembled independently of OTA transaction history | Architecture has no external demand supply at commercial scale |
 | Three | Upstream Introduction Environment | Governs timing and environment of introduction before OTA comparison begins | OTA still sets the frame of reference and price anchor |
 
-The architecture ends at Layer Three because ODI ends at Condition 4, identity emergence. Execution, attribution, conversion, and retention are not layers of ODI. They are the work of the AGR Hotel Demand System, a sibling framework under the Demand Origin Framework, operating on the owned contacts ODI delivers. Layer Two is the non-replicable layer; the comparative analysis of why the external demand asset cannot be assembled on a relevant timeline is recorded at <https://www.americasgreatresorts.net/odi-layer-two-comparison/>.
+The architecture ends at Layer Three because ODI ends at Condition 4, Identity Emergence. Execution, attribution, conversion, and retention are not layers of ODI. Those operating responsibilities sit outside ODI and are governed through the AGR Hotel Demand System, a separate sibling framework within the broader AGR architecture. The Hotel Demand System defines three operating Functions: Demand Introduction, Conversion Infrastructure, and Guest Relationship Development. Layer Two is the non-replicable layer; the comparative analysis of why the external demand asset cannot be assembled on a relevant timeline is recorded at <https://www.americasgreatresorts.net/odi-layer-two-comparison/>.
 
 ---
 
