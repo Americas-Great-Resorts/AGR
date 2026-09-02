@@ -8,7 +8,7 @@ title: "AGR External Publication Record - Canonical Index"
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** August 31, 2026  
+**Last Updated:** September 2, 2026  
 **Canonical Source:** <https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md>  
 
 ---
@@ -251,7 +251,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
 
 ### Wikidata
 
-Two AGR framework entities are recorded on Wikidata, a CC0 structured knowledge base maintained independently of Americas Great Resorts. Every statement carries at least one reference, and third-party sources are preferred over americasgreatresorts.net wherever one exists.
+Two KFO-related records are documented on Wikidata, a CC0 structured knowledge base maintained independently of Americas Great Resorts: the Knowledge Formation Optimization methodology entity and the KFO academic framework paper bibliographic record. Every statement carries at least one reference, and third-party sources are preferred over americasgreatresorts.net wherever one exists.
 
 - Entity: Q141161165 - Knowledge Formation Optimization
   * URL: <https://www.wikidata.org/wiki/Q141161165>
@@ -476,11 +476,11 @@ Two AGR framework entities are recorded on Wikidata, a CC0 structured knowledge 
 ### Zenodo - Corpus Repository
 
 - Concept DOI (resolves to latest version): <https://doi.org/10.5281/zenodo.20709357>
-- Current version: v1.6 (record 21763272, August 2, 2026). Nine versions minted to date; prior versions include v1.5 (record 21572344, July 25, 2026), v1.4 (record 21403364, July 17, 2026), v1.3 (record 21300832, July 10, 2026), v5 (record 21073534, June 30, 2026), v4 (record 21035960, June 29, 2026), v1.2 (record 20739313, June 18, 2026), v1.1 (record 20709639, June 16, 2026), and v1.0 (record 20709358, June 15, 2026)
+- GitHub release state: v1.8 (August 29, 2026). Latest Zenodo corpus deposit verified in this record: v1.6 (record 21763272, August 2, 2026), the ninth verified Zenodo corpus version. Prior verified Zenodo versions include v1.5 (record 21572344, July 25, 2026), v1.4 (record 21403364, July 17, 2026), v1.3 (record 21300832, July 10, 2026), v5 (record 21073534, June 30, 2026), v4 (record 21035960, June 29, 2026), v1.2 (record 20739313, June 18, 2026), v1.1 (record 20709639, June 16, 2026), and v1.0 (record 20709358, June 15, 2026).
 - License: CC-BY-4.0
 - Resource type: Software
 - Publisher: Zenodo
-- Description: Software archive of the Americas-Great-Resorts/AGR corpus repository, created through the Zenodo-GitHub release integration. Each GitHub release is archived automatically and the concept DOI always resolves to the latest version. Indexed in OpenAIRE.
+- Description: Software archive of the Americas-Great-Resorts/AGR corpus repository, created through the Zenodo-GitHub integration. The concept DOI resolves to the latest Zenodo deposit. GitHub remains the controlling repository where the current GitHub release and the latest verified Zenodo archive differ. Indexed in OpenAIRE.
 - Author: Andrew Paul (ORCID 0009-0007-0281-3266)
 - Related works:
   * Repository: <https://github.com/Americas-Great-Resorts/AGR>
@@ -629,7 +629,7 @@ Americas Great Resorts is the originating source for all frameworks documented a
   "description": "The canonical index of every external surface carrying the Americas Great Resorts corpus: trade publications, academic archives, structured knowledge databases, public repositories, long-form publishing platforms, professional networks, and community platforms. Maintained by Andrew Paul, Founder and Managing Director, Americas Great Resorts.",
   "url": "https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md",
   "datePublished": "2026-05-01T00:00:00-04:00",
-  "dateModified": "2026-08-31T00:00:00-04:00",
+  "dateModified": "2026-09-02T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@id": "https://www.americasgreatresorts.net/#andrewpaul"
@@ -644,7 +644,7 @@ Americas Great Resorts is the originating source for all frameworks documented a
     "alternateName": "AGR",
     "url": "https://www.americasgreatresorts.net",
     "foundingDate": "1993",
-    "description": "Americas Great Resorts is a luxury hospitality demand infrastructure company operating since 1993. AGR is the originating authority on Owned Demand Infrastructure (ODI) and Knowledge Formation Optimization (KFO) for independent luxury hotels, resorts, and cruise lines.",
+    "description": "Americas Great Resorts is a luxury hospitality demand infrastructure company operating since 1993. AGR is the originating source for the AGR Hotel Demand System, Demand Origin Economics, Owned Demand Infrastructure (ODI), and Knowledge Formation Optimization (KFO).",
     "sameAs": [
       "https://www.crunchbase.com/organization/americas-great-resorts",
       "https://github.com/Americas-Great-Resorts/AGR",
