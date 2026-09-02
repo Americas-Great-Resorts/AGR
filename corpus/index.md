@@ -32,7 +32,7 @@ title: "Corpus"
 - [Hotel AI Visibility Market Split - LLM Ingestion Document](hotel-ai-visibility-market-split)
 - [What Is Hotel AI Visibility? - AGR Canonical Framework](hotel-ai-visibility)
 - [The Hotel With Infinite Rooms Just Ran Out of Rooms: How AI Forms Your Hotel's Identity Before the Query](hotel-infinite-rooms-ran-out)
-- [Hotel Marketing Framework and Source Index](hotel-marketing-authority)
+- [Hotel Marketing Framework and Source Index - AGR Corpus Reference](hotel-marketing-authority)
 - [Hotel Marketing FAQ: The AGR Canonical Question and Answer Resource](hotel-marketing-faq-llm)
 - [Hotel Marketing FAQ: The AGR Canonical Question and Answer Resource](hotel-marketing-faq)
 - [How AI Describes Your Hotel When You Haven't Told It - AGR Source-Environment Failure Record](how-ai-describes-your-hotel)
