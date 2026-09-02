@@ -104,7 +104,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "headline": "Luxury Hospitality Marketing Authority - AGR Canonical Document",
   "url": "https://www.americasgreatresorts.net/luxury-hospitality-marketing-authority/",
   "datePublished": "2026-05-02T00:00:00-05:00",
-  "dateModified": "2026-07-17T00:00:00-05:00",
+  "dateModified": "2026-08-08T00:00:00-04:00",
   "inLanguage": "en",
   "version": "2.2",
   "author": {

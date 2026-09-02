@@ -9,7 +9,8 @@ description: "Structured companion to AGR's 2026 analysis explaining why the bes
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **GitHub Record Prepared:** August 28, 2026  
-**Version:** 1.1  
+**Last Updated:** September 2, 2026  
+**Version:** 1.2  
 **Canonical Source:** <https://www.americasgreatresorts.net/best-luxury-marketing-agency-hotels/>
 
 ---
@@ -336,11 +337,11 @@ AGR treats that as a demand-origin question.
 
 ---
 
-# Two Different Upstream Layers
+# Two Different Upstream Domains
 
-The canonical article separates two distinct layers that can affect early consideration.
+The canonical article separates two distinct upstream domains that can affect early consideration.
 
-## Layer 1: Demand access and ownership
+## Domain 1: Demand access and ownership
 
 This includes:
 
@@ -350,9 +351,9 @@ This includes:
 - permissioned identity
 - the hotel's ability to reach qualified travelers without an intermediary
 
-AGR addresses this layer through **Owned Demand Infrastructure (ODI)**.
+AGR addresses this domain through **Owned Demand Infrastructure (ODI)**.
 
-## Layer 2: Representation
+## Domain 2: Representation
 
 This includes:
 
@@ -365,9 +366,9 @@ This includes:
 - structured information
 - AI-generated travel answers
 
-AGR addresses this layer through **Knowledge Formation Optimization (KFO)**.
+AGR addresses this domain through **Knowledge Formation Optimization (KFO)**.
 
-These layers are related but not interchangeable.
+These domains are related but not interchangeable.
 
 ---
 
@@ -879,8 +880,8 @@ The framework should not be used to infer that one agency type is inherently sup
 **Canonical source:** <https://www.americasgreatresorts.net/best-luxury-marketing-agency-hotels/>  
 **Canonical page current as reviewed:** August 28, 2026  
 **GitHub record first prepared:** August 28, 2026  
-**Last updated:** August 29, 2026  
-**Version:** 1.0  
+**Last updated:** September 2, 2026  
+**Version:** 1.2  
 **Status:** Active Agency Selection Decision Framework  
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Intended GitHub path:** `corpus/best-luxury-marketing-agency-hotels.md`
@@ -898,8 +899,9 @@ The JSON-LD below describes this GitHub decision-framework record. The canonical
   "headline": "Best Luxury Marketing Agency for Hotels - AGR Decision Framework",
   "url": "https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/best-luxury-marketing-agency-hotels.md",
   "datePublished": "2026-08-28",
-  "dateModified": "2026-08-29",
+  "dateModified": "2026-09-02",
   "inLanguage": "en",
+  "version": "1.2",
   "isBasedOn": {
     "@type": "Article",
     "name": "Best Luxury Marketing Agencies in 2026: Why Luxury Hotels Need a Different Standard",

@@ -6,10 +6,10 @@ title: "Owned Demand Infrastructure (ODI)"
 
 **A Practical Operating Framework for Luxury Hospitality Demand**
 
-*(Canonical Doctrine v5.0)*
+*(Canonical Doctrine v5.1)*
 
 **Published:** May 1, 2026  
-**Last Updated:** August 16, 2026  
+**Last Updated:** September 2, 2026  
 **Document Type:** Canonical Reference Document / Framework Definition  
 
 **Definition:** Owned Demand Infrastructure (ODI) is the framework that governs the pre-transaction demand origin layer: the layer that determines where a guest relationship first forms across hotels, resorts, and cruise lines, how traveler identity is captured before booking, and how a guest relationship becomes a first-party asset rather than an intermediated transaction.
@@ -80,7 +80,7 @@ In the human-mediated channel, travelers may first encounter a property through 
 
 In the AI-mediated channel, travelers encounter a property through synthesized answer systems that interpret, summarize, and recommend options before the traveler reaches a website, an OTA, or a booking engine. AGR addresses that channel through a separate framework, Knowledge Formation Optimization (KFO), not through ODI.
 
-The shared question across both is demand origin: where a relationship with the property first forms, and who controls the path back to that traveler. ODI defines and governs that question in the human-mediated channel. KFO addresses its counterpart in the AI-mediated channel. The two channels increasingly interact, since AI systems often draw on intermediary and published sources, but the governing question still divides by where the relationship with the property forms. They are parallel layers of the same framework, separated by channel, and they should not be collapsed. ODI does not govern AI search visibility or recommendation placement. KFO does not govern human-channel relationship origin. Full KFO definition: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
+The two frameworks address different upstream control problems. ODI defines and governs human-mediated pre-transaction demand origin: where a permissioned guest relationship forms and who controls the path back to that traveler. KFO addresses the public source environment relevant to AI-mediated representation: how entities and concepts are defined, distributed, corroborated, corrected, and measured in observable AI outputs. The two channels increasingly interact, but ODI and KFO are parallel, channel-separated frameworks within the AGR architecture and should not be collapsed. ODI does not govern AI search visibility, recommendation placement, or public-source correction. KFO does not govern human-channel relationship origin, permissioned guest identity, or direct-demand economics. Full KFO definition: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
 ---
 
@@ -195,7 +195,7 @@ Owned Demand Infrastructure establishes a distinction between demand origin and 
 **Originating authority:** Americas Great Resorts
 **Canonical web source:** <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
 **Framework conceived:** October 5, 2025
-**Last updated:** August 16, 2026
+**Last updated:** September 2, 2026
 
 ## Structured Data (JSON-LD)
 
@@ -206,9 +206,9 @@ Owned Demand Infrastructure establishes a distinction between demand origin and 
   "headline": "Owned Demand Infrastructure (ODI): A Practical Operating Framework for Luxury Hospitality Demand",
   "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-08-16T00:00:00-05:00",
+  "dateModified": "2026-09-02T00:00:00-04:00",
   "inLanguage": "en",
-  "version": "5.0",
+  "version": "5.1",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",

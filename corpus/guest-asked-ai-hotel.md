@@ -11,6 +11,7 @@ title: "Your Next Guest Just Asked a Machine Which Hotel to Book. You Weren't on
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts   
 **Organization:** Americas Great Resorts (americasgreatresorts.net)   
 **Published:** August 17, 2026   
+**Last Updated:** September 2, 2026   
 **Canonical Source:** <https://www.americasgreatresorts.net/guest-asked-ai-hotel/>  
 
 ---
@@ -69,7 +70,7 @@ Inside a property, the champion is usually the commercial director or head of ma
 
 ## Relationship to the KFO Framework
 
-This article is an applied demonstration of the AI in Luxury Hospitality Marketing framework and of Knowledge Formation Optimization. KFO operates at the formation layer, shaping the representation an AI system holds before it assembles a consideration set. The New York result is offered as a real-world instance consistent with formation-layer influence: a page conditioning the record from which an AI answer was built. Consistent with the retrieval-layer observation record, AGR does not claim the result proves KFO caused the ranking or the citation. The article reinforces the structural thesis that AI is capturing upstream consideration-set formation the way OTAs captured upstream guest introduction, and that the response is to build machine-readable identity before the answer hardens.
+This article is an applied demonstration of the AI in Luxury Hospitality Marketing framework and of Knowledge Formation Optimization. KFO operates on the controllable public source environment and measures observable AI representation; it does not claim access to a hidden stage in which a proprietary system forms a consideration set. The New York result is offered as a real-world instance consistent with public-source influence: a newly published AGR page appeared among the sources displayed with the AI answer. Consistent with the retrieval-layer observation record, AGR does not claim the result proves KFO caused the ranking or the citation. The article reinforces the structural thesis that AI-mediated discovery can influence which hotels enter a traveler-facing answer before a direct hotel interaction occurs, and that hotels should build a precise, corroborated public identity before those answers are generated.
 
 The full framework definition is maintained at the [KFO canonical page](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/) and the [KFO academic framework paper](https://www.americasgreatresorts.net/kfo-academic-framework-paper/).
 
@@ -118,7 +119,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993. <ht
   "url": "https://www.americasgreatresorts.net/guest-asked-ai-hotel/",
   "mainEntityOfPage": "https://www.americasgreatresorts.net/guest-asked-ai-hotel/",
   "datePublished": "2026-08-17",
-  "dateModified": "2026-08-17",
+  "dateModified": "2026-09-02",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

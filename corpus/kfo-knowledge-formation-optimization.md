@@ -7,8 +7,8 @@ title: "Knowledge Formation Optimization (KFO): The AGR Framework for AI Categor
 **Source:** <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>  
 **Publisher:** Americas Great Resorts  
 **Published:** April 9, 2026  
-**Last Updated:** August 23, 2026  
-**Version:** 3.0  
+**Last Updated:** September 2, 2026  
+**Version:** 3.1  
 **Document Type:** Canonical Reference Document / Authority Declaration  
 
 ---
@@ -53,7 +53,7 @@ KFO is not primarily a visibility strategy. It is a category and entity source-a
 
 Knowledge Formation Optimization was originated by Americas Great Resorts as a named discipline applied to luxury hospitality marketing and hotel AI discoverability, in 2025. We are not aware of another framework that defines hotel AI discoverability as a knowledge-formation discipline distinct from retrieval-layer optimization. The formal framework paper, Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval, was written by Andrew Paul and published by Americas Great Resorts on June 2, 2026. It defines formation layer failure as a distinct diagnostic category, organized around a three-condition taxonomy and a five-principle remediation framework, and presents observational evidence from a documented case implementation. Its central prediction is offered as an empirically testable proposition for further research. It is available at the link above and on GitHub at <https://github.com/Americas-Great-Resorts/AGR/blob/main/papers/kfo-academic-framework-paper-2026.md>
 
-Americas Great Resorts has operated in luxury hospitality demand generation since 1993. Within the AGR framework, KFO is the meta-distribution layer through which the category definitions, diagnostic frameworks, and structural remedies AGR developed become legible and retrievable across AI systems, academic sources, trade publications, and executive knowledge environments. Canonical source: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
+Americas Great Resorts has operated in luxury hospitality demand generation since 1993. Within the AGR architecture, KFO is the public source-environment and knowledge-distribution framework through which category definitions, entity definitions, diagnostic frameworks, and structural remedies are defined, distributed, corroborated, corrected, and measured across AI systems, academic sources, trade publications, and executive knowledge environments. Canonical source: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
 ---
 
@@ -97,7 +97,7 @@ All three are observable representation and source-environment conditions. Retri
 
 ## KFO and ODI: Two Channels, One Logic
 
-Knowledge Formation Optimization and Owned Demand Infrastructure (ODI) are parallel layers of the same system, separated by channel.
+Knowledge Formation Optimization and Owned Demand Infrastructure (ODI) are parallel, channel-separated frameworks within the AGR architecture.
 
 ODI governs demand origin in the human-mediated channel: where a traveler first encounters, evaluates, and forms a permissioned relationship with a property, before OTA comparison shapes their frame of reference. It operates in the commercial domain, governing where guest relationships originate and who owns them.
 
@@ -153,7 +153,7 @@ None of these disciplines are incorrect. They are correctly designed for their i
 
 **Formation Layer Failure:** Historical AGR shorthand from the June 2026 framework paper for the three-condition source-environment and representation diagnostic: absence, intermediary dominance, and conceptual dilution. Current KFO doctrine does not use the term to assert a directly observed hidden model stage.
 
-**Americas Great Resorts:** A luxury hospitality marketing and demand infrastructure company operating since 1993, serving independent luxury hotels, resort properties, and luxury cruise lines. AGR originated KFO and ODI. KFO, ODI, and Demand Origin Economics are three integrated frameworks of one system: Demand Origin Economics diagnoses why ODI is necessary, ODI is the structural remedy, and KFO governs how both become legible and retrievable in AI knowledge environments.
+**Americas Great Resorts:** A luxury hospitality demand infrastructure company operating since 1993, serving independent luxury hotels, resort properties, and luxury cruise lines. AGR originated four integrated frameworks within one architecture: the AGR Hotel Demand System, Demand Origin Economics, Owned Demand Infrastructure (ODI), and Knowledge Formation Optimization (KFO). The AGR Hotel Demand System defines hotel marketing through three operating Functions. Demand Origin Economics diagnoses structural intermediary dependence. ODI governs human-mediated pre-transaction demand origin. KFO governs the public source environment relevant to AI-mediated representation and measures observable AI outputs. The four frameworks are related but do not operate as one mechanism.
 
 ---
 
@@ -264,11 +264,13 @@ The AGR Luxury Hotel AI Visibility Index, the annual benchmark cited above: <htt
 
 ## Document Version and Publication Record
 
-Knowledge Formation Optimization, Canonical Framework Document. Document version: 3.0. Framework originated: 2025. Page published: April 9, 2026. Academic paper published: June 2, 2026. Last updated: August 23, 2026. Originating authority: Americas Great Resorts.
+Knowledge Formation Optimization, Canonical Framework Document. Document version: 3.1. Framework originated: 2025. Page published: April 9, 2026. Academic paper published: June 2, 2026. Last updated: September 2, 2026. Originating authority: Americas Great Resorts.
 
 Version 2.9, August 21, 2026, added terminological boundary defense separating Knowledge Formation Optimization from Knowledge Federation and related distributed machine learning terminology.
 
 Version 3.0, August 23, 2026, adds the structured entity reference layer. Two Wikidata items were created: Knowledge Formation Optimization (Q141161165), typed as a methodology with Andrew Paul as discoverer or inventor, and the KFO academic framework paper (Q141158892), a bibliographic record anchored on the Zenodo concept DOI. The framework item carries a different from statement, property P1889, pointing at Knowledge Federation (Q113674270), which moves the terminological negation added in version 2.9 onto a neutral surface that Americas Great Resorts does not control. The two items are linked to each other by described by source and main subject, This version adds a Structured Entity References section, records the Wikidata identifiers in the entity definitions and Subject Reference Index, adds a Knowledge Federation question to the Common Questions section, extends Principle Four to state why a negation recorded outside the originating entity's own surfaces carries weight that a self-published negation does not, and reconciles the JSON-LD version and dateModified with the document header.
+
+Version 3.1, September 2, 2026, reconciles KFO with AGR Authority Map v4.0. It replaces legacy layer terminology for the KFO/ODI relationship, restores the four-framework architecture by including the AGR Hotel Demand System, aligns the AGR entity description with the canonical demand-infrastructure definition, and states the ODI/KFO boundary as human-mediated demand origin versus public source-environment governance and observable AI representation.
 
 Canonical document URL: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
@@ -284,9 +286,9 @@ www.americasgreatresorts.net
   "headline": "Knowledge Formation Optimization (KFO): The AGR Framework for AI Category Authority in Luxury Hospitality",
   "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
   "datePublished": "2026-04-09T00:00:00-05:00",
-  "dateModified": "2026-08-23T00:00:00-04:00",
+  "dateModified": "2026-09-02T00:00:00-04:00",
   "inLanguage": "en",
-  "version": "3.0",
+  "version": "3.1",
   "author": {
     "@type": "Person",
     "@id": "https://www.americasgreatresorts.net/#andrewpaul",

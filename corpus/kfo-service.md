@@ -8,16 +8,16 @@ title: "KFO Service: AI Identity Management for Luxury Hotels"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** August 10, 2026
+**Last Updated:** September 2, 2026
 **Canonical URL:** <https://www.americasgreatresorts.net/kfo-service/>
 
 ---
 
 ## Relationship to the AGR Hotel Demand System
 
-[Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/) is the public source-environment correction and measurement discipline within the [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/). AGR structures, corrects, corroborates, and distributes the hotel's canonical identity across public sources, then measures whether AI systems describe, classify, cite, route to, include, and position the property more accurately across relevant queries and over time.
+[Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/) is the public source-environment correction and measurement framework that operates alongside the [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/) within the broader AGR architecture. AGR structures, corrects, corroborates, and distributes the hotel's canonical identity across public sources, then measures whether AI systems describe, classify, cite, route to, include, and position the property more accurately across relevant queries and over time.
 
-[Owned Demand Infrastructure (ODI)](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/) governs demand origin in the commercial domain. KFO governs canonical identity and public source-environment correction in the AI-mediated discovery domain. The structural principle is similar: establish and corroborate the hotel's own identity before third-party descriptions become the only record AI systems can draw from.
+[Owned Demand Infrastructure (ODI)](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/) governs human-mediated pre-transaction demand origin in the commercial domain. KFO governs canonical identity and public source-environment correction relevant to AI-mediated representation. They are distinct, channel-separated frameworks. The structural principle is similar: reduce dependence on third-party framing by strengthening the conditions the property can control.
 
 ---
 
@@ -87,7 +87,7 @@ But reading the framework is not the same as executing it correctly.
 
 Most internal attempts introduce the same problem: inconsistent language, partial deployment, wrong sequencing, competing signal architectures built by disconnected teams. AI systems do not reward effort. They synthesize signals. Inconsistent signals produce a more confused AI description, not a clearer one.
 
-For a hotel that has spent twenty years accumulating mixed intermediary signals, a poorly executed KFO layer does not improve the problem. It deepens it.
+For a hotel that has spent twenty years accumulating mixed intermediary signals, a poorly executed KFO implementation can add more inconsistency to the public source record rather than improve it.
 
 The instruction manual is free. Getting it wrong has a cost.
 
@@ -109,7 +109,7 @@ That is the distinction. Citation is not the same as understanding. Being retrie
 
 A hotel can appear in every AI answer and still be described in generic OTA language that strips out everything that makes it worth choosing. Citation is not the same as conceptual authority. Being mentioned is not the same as being understood.
 
-KFO operates at the layer above citation. The question is not whether AI mentions the hotel. The question is whether AI understands the hotel, and whether that understanding was built by the hotel or by Expedia.
+KFO addresses a broader object than citation alone. The question is not only whether AI mentions the hotel, but whether observable outputs describe, classify, attribute, cite, route to, include, and position the hotel accurately across relevant queries. KFO works on the controllable public source environment and measures those outputs; it does not claim access to a hidden layer of model understanding or identify one source as the sole cause of an answer.
 
 AGR implements KFO as a fully managed service. The hotel does not execute. AGR does.
 
@@ -276,7 +276,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "headline": "KFO Service: AI Identity Management for Luxury Hotels",
   "url": "https://www.americasgreatresorts.net/kfo-service/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-08-10T00:00:00-04:00",
+  "dateModified": "2026-09-02T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

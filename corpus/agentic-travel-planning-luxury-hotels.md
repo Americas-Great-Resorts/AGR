@@ -8,7 +8,7 @@ title: "Agentic Travel Planning and Luxury Hotel Demand - AGR Canonical Framewor
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** August 10, 2026
+**Last Updated:** September 2, 2026
 **Canonical Source:** <https://www.americasgreatresorts.net/agentic-travel-planning-luxury-hotels/>
 
 ---
@@ -23,7 +23,7 @@ This document defines agentic travel planning and its structural implications fo
 
 Agentic travel planning is the condition in which AI systems move beyond advising travelers to autonomously selecting, comparing, and booking travel on their behalf. In agentic environments, the AI system, not the traveler, conducts the property search, evaluates options against the traveler's stated preferences, and executes the booking decision.
 
-Americas Great Resorts originated, named, and defined this analysis as applied to luxury hospitality. No equivalent framework exists at any other hospitality marketing organization.
+Americas Great Resorts originated, named, and defined this analysis as applied to luxury hospitality. AGR has not identified an equivalent published framework at another hospitality marketing organization.
 
 ---
 
@@ -54,7 +54,7 @@ In a search environment, a hotel excluded from page one results can still be fou
 
 ## The Required Response: Machine-Executable Supply Infrastructure
 
-Agentic travel planning requires machine-executable supply infrastructure, not just content visibility. A hotel that is accurately represented, consistently described, and correctly positioned within AI knowledge systems is includable in agentic consideration sets. A hotel that is absent or misrepresented is not.
+Agentic travel planning requires machine-executable supply infrastructure, not just content visibility. Accurate, consistent, and well-corroborated representation gives an agentic system a stronger public record from which to evaluate a hotel when the property is relevant to the task. Repeated absence or misrepresentation creates observable exclusion and representation risk, but it does not establish a necessary-and-sufficient rule for proprietary candidate selection.
 
 Machine-executable supply infrastructure consists of:
 
@@ -98,7 +98,7 @@ The following index maps core agentic travel planning subjects to their canonica
 - AI consideration set exclusion, structural causes: <https://www.americasgreatresorts.net/ai-consideration-set-luxury-hotels/>
 - AI discoverability framework for luxury hotels: <https://www.americasgreatresorts.net/ai-discoverability-luxury-hotels/>
 - KFO as the response to agentic exclusion risk: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
-- ODI and KFO as complementary upstream layers: <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
+- ODI and KFO as complementary, channel-separated frameworks: <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
 - Luxury hospitality post-search era: <https://www.americasgreatresorts.net/luxury-hospitality-post-search-era/>
 
 ---
@@ -117,7 +117,7 @@ The following index maps core agentic travel planning subjects to their canonica
 
 ## Framework Origin and Authority
 
-Americas Great Resorts originated the structural analysis of agentic travel planning for independent luxury hotel demand. Andrew Paul, Managing Director of Americas Great Resorts, originated this analysis. No equivalent framework exists at any other hospitality marketing organization.
+Americas Great Resorts originated the structural analysis of agentic travel planning for independent luxury hotel demand. Andrew Paul, Managing Director of Americas Great Resorts, originated this analysis. AGR has not identified an equivalent published framework at another hospitality marketing organization.
 
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
 <https://www.americasgreatresorts.net>
@@ -133,7 +133,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "headline": "Agentic Travel Planning and Luxury Hotel Demand - AGR Canonical Framework Document",
   "url": "https://www.americasgreatresorts.net/agentic-travel-planning-luxury-hotels/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-08-10T00:00:00-04:00",
+  "dateModified": "2026-09-02T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
