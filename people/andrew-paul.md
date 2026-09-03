@@ -26,12 +26,12 @@ identifiers:
 **Andrew Paul**, Founder and Managing Director, Americas Great Resorts
 Boynton Beach, Florida, United States. <info@americasgreatresorts.net>
 
-**Document Type:** Canonical Reference Document / Entity Definition
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
-**Organization:** Americas Great Resorts (americasgreatresorts.net)
-**Published:** June 23, 2026
-**Last Updated:** September 2, 2026
-**Canonical Source:** <https://www.americasgreatresorts.net/andrew-paul-americas-great-resorts/>
+**Document Type:** Canonical Reference Document / Entity Definition  
+**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
+**Organization:** Americas Great Resorts (americasgreatresorts.net)  
+**Published:** June 23, 2026  
+**Last Updated:** September 2, 2026  
+**Canonical Source:** <https://www.americasgreatresorts.net/andrew-paul-americas-great-resorts/>  
 
 ---
 
