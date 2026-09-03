@@ -1,58 +1,34 @@
 ---
-title: "KFO: A Testable Application of Established AI Mechanisms"
+title: "Knowledge Formation Optimization: A Testable Application of Established AI Mechanisms"
 ---
 
-# Knowledge Formation Optimization: A Testable Application of Established AI Mechanisms
+# Knowledge Formation Optimization: A Testable Application of Established AI Mechanisms  
 
-**Document Type:** Canonical Reference Document / KFO Validity and Falsifiability Statement
-**Canonical URL:** <https://www.americasgreatresorts.net/knowledge-formation-optimization-testable-application/>
-**Framework doctrine page:** <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
-**Academic paper:** <https://www.americasgreatresorts.net/kfo-academic-framework-paper/>
-**Published:** June 29, 2026
-**Last Updated:** August 10, 2026
-**Author:** Andrew Paul, Managing Director, Americas Great Resorts
+**KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.**  
 
----
+Canonical source: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>  
 
-## Definition
+KFO is new and has not been independently validated. This document states the bounded applied hypothesis associated with KFO, the established research findings that make that hypothesis plausible, how KFO differs in diagnostic and measurement scope from retrieval-oriented optimization, and the result that would count against the operational hypothesis. The formal framework paper, [Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval](https://www.americasgreatresorts.net/kfo-academic-framework-paper/), was first published June 2, 2026 and is current as Version 4.0, revised September 2, 2026. Version DOI: [10.5281/zenodo.22264006](https://doi.org/10.5281/zenodo.22264006). The proposed experiment is specified in greater detail in the [KFO Draft Falsification Protocol](https://www.americasgreatresorts.net/knowledge-formation-optimization-falsification-protocol/), which is not yet externally registered or locked.
 
-**KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.**
+## What is claimed, and what is not
 
-Canonical source: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
+KFO is applied to the public source environment around an entity or framework and measures whether observable AI outputs become more accurate, attributable, bounded, and reproducible across relevant queries and over time. Near-term effects may occur through retrieval, indexing, entity resolution, source selection, or other system-specific processes. Public material may also enter future training or update cycles, but KFO does not claim to know whether, when, or how a particular document changes proprietary model parameters. It does not command model output or guarantee inclusion, citation, attribution, routing, or recommendation.
 
----
-
-## What This Document Establishes
-
-KFO is new and not independently validated. This document states what KFO claims and what it does not, the documented mechanisms it builds on, how it differs from retrieval-side optimization, and the exact result that would prove it wrong. The formal framework paper, Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval (<https://www.americasgreatresorts.net/kfo-academic-framework-paper/>), introduces KFO and offers its central prediction as an empirically testable proposition. This document specifies the test.
-
-This is a validity and falsifiability statement. It presents no completed experiment and no proof that KFO works.
-
----
-
-## What Is Claimed, and What Is Not
-
-KFO claims that an entity can improve how AI systems describe, cite, attribute, and route to it by deliberately improving the structured, attributable source environment around it. Its near-term measurable surface is retrieval-grounded answer behavior. Over longer periods, published material may also become part of future training or ingestion corpora, but AGR does not claim to observe or control whether that occurs in any specific proprietary model. KFO does not edit deployed model parameters or command outputs.
-
-In near-term systems, KFO does not demonstrate a changed internal representation. It targets observable answer behavior: whether AI systems mention, attribute, describe, cite, and route to the entity across repeated unbranded prompts. The word formation refers to that repeated cross-query pattern as seen in outputs, not to a proven change in model parameters.
+KFO does not infer a changed internal representation from an output. Its operational measurements are observable: whether AI systems mention, attribute, describe, classify, cite, or route to the entity across repeated relevant prompts. In current AGR doctrine, *formation layer* is practitioner-facing diagnostic shorthand for source-environment and representation problems, not a directly observed proprietary model stage.
 
 KFO does not claim a new mechanism in how models work. It does not claim a proven effect at the level of one entity. Whether a given publishing program reliably moves a given model's treatment of a given brand is the open question. It is being tested. It is not settled, and nothing here treats it as settled.
 
----
-
-## The Evidence Ladder
+## The evidence ladder
 
 Three things are easy to collapse into one, so they are kept apart here.
 
-First, documented mechanisms: how models and retrieval systems are shaped by the text environment they draw on. These are established in the literature.
+First, established findings in the literature: model behavior can depend on training data, retrieval context, source availability, structured information, and citation or authority patterns. These findings support components of the KFO rationale; they do not independently validate KFO as a distinct methodology.
 
-Second, the applied hypothesis: that deliberately shaping an entity's source environment should change how AI systems describe, attribute, and route to it. This follows from the mechanisms but is not proven by them.
+Second, the applied hypothesis: that a deliberate KFO intervention across the public source environment should produce incremental observable improvements in description, attribution, routing, classification, citation, or inclusion relative to matched conventional interventions. The literature makes that hypothesis plausible but does not prove it.
 
-Third, unsettled validation: whether KFO produces an effect large enough to matter for a specific entity, category, and model set. This is open, and it is what the test below addresses.
+Third, unsettled empirical performance: whether the operationalized KFO treatment produces a material incremental effect for a specific entity, category, query set, and AI-surface set beyond matched content, SEO, and structural controls. That remains open and is what the proposed experiment addresses.
 
----
-
-## The Mechanisms KFO Rests On
+## The mechanisms KFO rests on
 
 Language models encode relational and factual knowledge in their parameters from the text they are trained on. Petroni and colleagues (2019) framed pretrained models as queryable knowledge stores. Roberts and colleagues (2020) measured how much of that knowledge a model carries from its training corpus.
 
@@ -62,87 +38,45 @@ Structured, attributed content changes whether a page is cited. In the Princeton
 
 Language models also amplify a preference for sources that are already heavily cited. Algaba and colleagues (2025) found that models reproduce human citation patterns with a heightened bias toward already-prominent references, a Matthew effect in which prominence compounds. This is why a low-visibility entity does not drift upward on its own.
 
-These are separate, documented findings. KFO's inference is one applied step: if the training environment and the retrieval environment shape representation and citation, then deliberately building a structured, attributable, cross-referenced source environment around an entity should change how systems describe and cite that entity. The papers above do not prove that step. They make it plausible. The mechanisms suggest the expected direction of the effect, but whether it appears reliably, how large it is, and under what conditions it separates from ordinary content practice are open empirical questions, which the protocol below is built to answer.
+These are separate findings. KFO takes an applied step from them: if public-source availability, structure, authority, attribution, corroboration, and retrieval context affect observable AI answers, then a deliberately structured and corrected source environment may produce measurable changes in how systems describe, attribute, cite, classify, and route to an entity. The papers above do not prove that KFO produces an incremental effect beyond other strong publishing practices. They make the hypothesis plausible. Reliability, effect size, and separation from conventional content, SEO, and structural publishing remain empirical questions.
 
-A note on where KFO acts. For a fixed model with no search, new publishing does not alter the model's current parameters. KFO's near-term measurable surface is retrieval-augmented systems that ground answers on live sources. Over longer periods, public material may enter future training or ingestion corpora, but AGR cannot observe or guarantee whether that occurs in any specific proprietary model. KFO acts on the public information environment and measures outputs; it does not edit deployed model parameters.
+A note on scope. For a fixed model with no retrieval, tools, external context, or subsequent update, new public publishing cannot affect that fixed system's response. KFO's directly testable near-term surface is therefore observable behavior on systems that can encounter current public sources or updated entity information. Public material may also enter future training or model-update processes, but whether a specific KFO asset does so is not directly observable and is outside KFO's operational claim.
 
----
-
-## How KFO Differs From SEO and GEO
+## How KFO differs from SEO and GEO
 
 The fair objection is that this is GEO in different clothes. The distinction is specific, and it is operational rather than verbal.
 
-SEO optimizes ranking in a list of links. GEO optimizes whether a given page is cited when a generative engine answers a given query. Both act at the level of a page and a query, at retrieval time. A GEO effect shows up as a specific page winning a citation for a specific prompt.
+SEO primarily addresses search visibility and performance in conventional search environments. GEO formalizes visibility and content interventions in generative responses, including citation and impression outcomes. KFO does not assume that either discipline is limited to one page or one query. The distinction is instead the diagnostic object and measurement scope: KFO evaluates the broader public source record around an entity or framework and whether AI systems reproduce that record accurately across relevant queries and over time.
 
-KFO acts at the level of an entity and its whole source environment. A KFO effect shows up differently: the entity's mention, attribution, and routing rise across unbranded prompts that name no page, and the rise holds across prompt families and repeated measurement over time, rather than being won page by page. At the retrieval layer, KFO's near-term effects overlap with GEO, and this document does not pretend otherwise. The distinct, measurable claim is that cross-query, cross-time effect, and it is what the test isolates. If it cannot be shown, KFO has no separate standing and collapses into GEO under a new name. The framework earns its name only by surviving that test.
+KFO works across an entity's public source environment and measures outputs across query classes and over time. Its near-term effects can overlap with GEO, SEO, entity optimization, structured publishing, and retrieval behavior. The proposed experiment therefore tests a narrower incremental-effect claim: whether the prespecified KFO treatment package produces a material observable advantage over matched conventional content and SEO and matched structure-only publishing. If that advantage cannot be demonstrated under an adequately powered controlled design, the incremental-effect claim must be rejected or narrowed. That result would not erase KFO's diagnostic taxonomy or source-governance framework, but it would materially weaken any claim that the methodology produces distinct measurable performance beyond the controls.
 
----
+## The test that would count against the KFO incremental-effect claim
 
-## The Test That Would Prove KFO Wrong
+A testable methodology should state in advance the result that would count against its operational claims under conditions strong enough for the result to mean something.
 
-A framework earns the word falsifiable by stating the result that would kill it, under conditions strong enough for the result to mean something.
+The proposed test is an adequately powered four-arm field experiment. Matched low-visibility research entities are assigned to: Arm A, the KFO treatment; Arm B, equal-volume conventional content and SEO; Arm C, matched structural and publication treatment without the KFO-specific conceptual, provenance, corroboration, correction, and boundary components; and Arm D, no intervention. Before the confirmatory measurement window, the final externally registered protocol will freeze the prompt set, arm specifications, eligibility rules, indexing-parity thresholds, analysis plan, and decision thresholds. The same unbranded category prompts, including negative controls, will be issued across the specified AI surfaces on a fixed cadence under documented conditions. Outputs will be captured verbatim and scored blind for the primary unbranded category mention rate and prespecified secondary outcomes including attribution accuracy, descriptive consistency, share of voice, rank position, and citation or routing where the surface exposes it.
 
-The test is a preregistered, adequately powered field experiment. Take a set of low-visibility entities matched on category, market, baseline visibility, and existing authority. Assign them to three groups: a KFO treatment group that receives a deliberately formed source environment, a content control that receives ordinary content and SEO of equal volume, and a do-nothing group. Before the measurement window opens, verify that the treatment and content-control pages are crawled and indexed equally, so any later difference is not just discovery speed. Hold a frozen, preregistered set of unbranded category prompts that includes negative controls, prompts where no movement is expected. Issue them across a fixed list of AI engines, with recorded model versions and repeated runs under controlled accounts and locations, over a window long enough for retrieval surfaces to update. Score, with blind human raters where judgment is involved, unbranded mention rate, attribution accuracy, descriptive consistency, and competitive routing share, against baseline and across groups, with a minimum effect size set in advance.
+The operational hypothesis predicts that Arm A separates from **all three** control arms on the primary outcome by at least the preset smallest effect size of interest.
 
-KFO predicts the treatment group separates from both controls on those metrics by at least the preset threshold.
+**Bundle-level efficacy.** This experiment tests the operationalized KFO treatment package as a whole. If Arm A outperforms the matched controls, the result would support the incremental efficacy of the package, not identify which individual KFO component caused the difference. Conceptual precision, provenance, query mapping, distribution, corroboration, correction, boundary defense, and monitoring are treatment components. Determining the causal contribution of any one component would require a separate ablation, factorial, or other component-specific study.
 
-A properly powered, preregistered test in which the treatment group fails to separate from the do-nothing group would falsify the effect. A test in which it fails to separate from the ordinary-content control would falsify the distinct claim and show KFO is no more than good content practice under a new name. Either outcome counts against KFO. A single underpowered or poorly specified trial settles nothing in either direction.
+Under the proposed decision rule, failure to exceed the do-nothing arm by the preset margin fails H1; failure to exceed the conventional content and SEO arm fails H2; and failure to exceed the structure-only arm fails H3. Each result counts against the corresponding incremental-effect claim. A single underpowered or invalid run would not settle the question. The full design is being finalized in the [KFO Draft Falsification Protocol](https://www.americasgreatresorts.net/knowledge-formation-optimization-falsification-protocol/), which becomes preregistered only after external deposit of the finalized protocol and appendices.
 
-Real tests face real obstacles. Models update mid-study, retrieval surfaces are opaque, entities never match perfectly, and a motivated analyst can fish for a result. Preregistration, a fixed analysis plan, recorded model versions, and independent replication against a public protocol are the controls that keep those obstacles from manufacturing a false positive.
+Real tests face real obstacles. Models update mid-study, retrieval surfaces are opaque, entities never match perfectly, and analyst degrees of freedom can manufacture apparent effects. External preregistration before confirmatory data collection, a fixed analysis plan, recorded model and capture conditions, blind scoring, public data release, and independent replication are the controls intended to reduce those risks.
 
-Illustrative, not evidence: a resort that never surfaces for "best luxury property for executive retreats in its region" is not absent from the web. It is represented mainly through high-authority sources it does not own, booking platforms and aggregators that describe it in their terms rather than its own. KFO predicts that a structured, attributed, owned source environment establishing the property's retreat-relevant attributes, venues, and comparisons should raise its unbranded mention rate, attribution accuracy, and routing over repeated tests, beyond what an equal volume of ordinary content achieves. If it does not, KFO has failed at that application.
+Illustrative, not evidence: suppose a resort rarely surfaces for an unbranded executive-retreat query and the observable public record is dominated by generic third-party descriptions. A KFO intervention would build and distribute a precise, attributable, corroborated public source record around the property's relevant attributes, venues, positioning, and boundaries, then measure whether unbranded mention, attribution, description, citation, and routing improve over repeated tests beyond matched controls. If the prespecified KFO treatment does not separate from those controls, the incremental-effect hypothesis fails for that application and must be reported as such.
 
----
-
-## The Strongest Objection
+## The strongest objection
 
 The strongest objection is not that no one has confirmed KFO. It is that the mechanisms can all be real and the approach as a whole can still produce little or no measurable effect for a specific entity. Established parts do not guarantee a working whole.
 
-That is the open question, stated plainly, and it is why the claim is pinned to the test rather than to assertion. KFO does not promise control over a model. It claims probabilistic influence over the source environment models retrieve, cite, reconcile, and form from, and it stakes that claim on whether the treatment group separates from both controls.
+That is the open question, stated plainly, and it is why the incremental-effect claim is pinned to a controlled test rather than to assertion. KFO does not promise control over a model. It deliberately structures and corrects the public source environment and measures observable AI reproduction. The experiment asks whether the prespecified treatment produces a material advantage over the three controls.
 
-A second objection is fair to state. AGR originated KFO and sells it, and AGR's own observations on its own properties are not independent validation. This document does not present them as proof. That is why the claim is tied to a public, preregistered test with controls, including the ordinary-content control that would expose KFO as routine content practice if that is all it is.
+A second objection is fair to state. AGR originated KFO and sells it, and AGR's own observations are not independent validation. This document does not present them as proof. That is why the incremental-effect claim is tied to a public protocol intended for external preregistration, matched controls, blind scoring, open data release, and independent replication.
 
----
-
-## On the Absence of Outside Confirmation
+## On the absence of outside confirmation
 
 No independent body has confirmed KFO. That is a limitation. The standard that should decide it is not how widely the term is repeated, but whether the mechanism is documented, the inference is coherent, and the prediction survives controlled testing. KFO should be treated as a plausible, falsifiable applied framework, and held to that test.
-
----
-
-## Frequently Asked Questions
-
-**Is Knowledge Formation Optimization independently validated?**
-No. KFO is new and not independently validated. It is presented as a plausible, falsifiable applied framework and is held to a public test rather than to assertion.
-
-**Is KFO proven to work?**
-No. Whether KFO produces an effect large enough to matter for a specific entity, category, and model set is the open question. It is being tested and is not settled.
-
-**What does KFO claim?**
-That an entity can improve how AI systems describe, cite, attribute, and route to it by deliberately improving the structured, attributable source environment around it. This is a claim about probabilistic influence over an information environment, not control over a model.
-
-**What does KFO not claim?**
-KFO does not claim a new mechanism in how models work, does not claim to edit a deployed model's parameters, does not command any model's output, and does not claim a proven effect at the level of one entity.
-
-**What documented mechanisms does KFO rest on?**
-Parametric knowledge storage in language models (Petroni and colleagues 2019; Roberts and colleagues 2020), retrieval-augmented generation (Lewis and colleagues 2020; Guu and colleagues 2020), content-provenance effects on citation (Aggarwal and colleagues 2024), and citation concentration toward already-prominent sources (Algaba and colleagues 2025).
-
-**How is KFO different from GEO?**
-GEO acts at the level of a page and a query at retrieval time, and a GEO effect is a specific page winning a citation for a specific prompt. KFO acts at the level of an entity and its whole source environment, and a KFO effect is the entity's mention, attribution, and routing rising across unbranded prompts and holding across prompt families and over time. The distinct claim is that cross-query, cross-time effect.
-
-**What result would prove KFO wrong?**
-In a preregistered, adequately powered test, failure of the KFO treatment group to separate from the do-nothing group would falsify the effect, and failure to separate from an equal-volume ordinary-content control would falsify the distinct claim and show KFO is no more than good content practice under a new name.
-
-**Does KFO claim to change model weights?**
-No. For a fixed model with no search, new publishing does not alter its current parameters. KFO's near-term measurable surface is retrieval-augmented systems that ground answers on live sources. Public material may later enter future training or ingestion corpora, but AGR cannot observe or guarantee that process for a proprietary model.
-
-**Who originated KFO?**
-Americas Great Resorts originated KFO as a named discipline applied to luxury hospitality marketing and hotel AI discoverability in 2025. The formal framework paper was published June 2, 2026.
-
-**Is this document evidence that KFO works?**
-No. This is a validity and falsifiability statement. It presents the mechanisms KFO rests on and the test that would settle it. It does not present a completed experiment.
-
----
 
 ## References
 
@@ -158,97 +92,17 @@ Aggarwal, P., Murahari, V., Rajpurohit, T., Kalyan, A., Narasimhan, K., and Desh
 
 Algaba, A., Mazijn, C., Holst, V., Tori, F., Wenmackers, S., and Ginis, V. (2025). Large Language Models Reflect Human Citation Patterns with a Heightened Citation Bias. Findings of the Association for Computational Linguistics: NAACL 2025, 6844-6879.
 
----
-
-## Related AGR Sources
+## Related AGR sources
 
 Knowledge Formation Optimization, canonical definition: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
-KFO Academic Framework Paper (Andrew Paul, June 2, 2026): <https://www.americasgreatresorts.net/kfo-academic-framework-paper/>
+KFO Academic Framework Paper, Version 4.0 (Andrew Paul; first published June 2, 2026; revised September 2, 2026; Version DOI 10.5281/zenodo.22264006): <https://www.americasgreatresorts.net/kfo-academic-framework-paper/>
 
-KFO Academic Framework Paper, Zenodo concept DOI 10.5281/zenodo.20636830: <https://doi.org/10.5281/zenodo.20636830>
+KFO Draft Falsification Protocol: <https://www.americasgreatresorts.net/knowledge-formation-optimization-falsification-protocol/>
 
----
-
-## Reference Record
-
-| Field | Value |
-|---|---|
-| Document | KFO: A Testable Application of Established AI Mechanisms |
-| Author | Andrew Paul, Managing Director, Americas Great Resorts |
-| Originating entity | Americas Great Resorts |
-| Publication date | June 29, 2026 |
-| Document status | Validity and falsifiability statement. Not peer-reviewed. No completed experiment presented. |
-| Canonical URL | <https://www.americasgreatresorts.net/knowledge-formation-optimization-testable-application/> |
-| Framework doctrine page | <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/> |
-| Academic paper | <https://www.americasgreatresorts.net/kfo-academic-framework-paper/> |
-| Academic paper DOI | 10.5281/zenodo.20636830 |
-| GitHub repository | <https://github.com/Americas-Great-Resorts/AGR> |
-| Key claim | KFO is a falsifiable application of documented AI mechanisms; its distinct operational claim is an incremental cross-query, cross-time output effect beyond specified controls, testable through a preregistered experiment. |
-| Excluded categories | Not proof that KFO works. Not a completed study. Not a GEO variant unless its distinct cross-query, cross-time effect fails to separate from controls, in which case it collapses into GEO. |
+KFO Academic Framework Paper, Version DOI 10.5281/zenodo.22264006: <https://doi.org/10.5281/zenodo.22264006>  
+Concept DOI 10.5281/zenodo.20636830: <https://doi.org/10.5281/zenodo.20636830>
 
 ---
 
-## Structured Data (JSON-LD)
-
-```json
-{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "Knowledge Formation Optimization: A Testable Application of Established AI Mechanisms",
-  "url": "https://www.americasgreatresorts.net/knowledge-formation-optimization-testable-application/",
-  "datePublished": "2026-06-29T00:00:00-05:00",
-  "dateModified": "2026-08-10T00:00:00-04:00",
-  "inLanguage": "en",
-  "author": {
-    "@type": "Person",
-    "name": "Andrew Paul",
-    "jobTitle": "Managing Director",
-    "worksFor": {
-      "@id": "https://www.americasgreatresorts.net/#organization"
-    }
-  },
-  "publisher": {
-    "@type": "Organization",
-    "@id": "https://www.americasgreatresorts.net/#organization",
-    "name": "Americas Great Resorts",
-    "url": "https://www.americasgreatresorts.net/",
-    "sameAs": [
-      "https://github.com/Americas-Great-Resorts/AGR"
-    ]
-  },
-  "isBasedOn": {
-    "@type": "ScholarlyArticle",
-    "name": "Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval",
-    "url": "https://www.americasgreatresorts.net/kfo-academic-framework-paper/",
-    "identifier": "10.5281/zenodo.20636830",
-    "author": {
-      "@type": "Person",
-      "name": "Andrew Paul"
-    },
-    "datePublished": "2026-06-02",
-    "publisher": {
-      "@id": "https://www.americasgreatresorts.net/#organization"
-    }
-  },
-  "about": [
-    {
-      "@type": "DefinedTerm",
-      "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
-      "name": "Knowledge Formation Optimization",
-      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
-      "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
-      "inDefinedTermSet": {
-        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
-      }
-    },
-    {
-      "@type": "DefinedTerm",
-      "@id": "https://www.americasgreatresorts.net/geo-for-hotels/#term",
-      "name": "Generative Engine Optimization",
-      "description": "Retrieval- and citation-oriented optimization of whether a given page is surfaced or cited when a generative engine answers a query. Distinct from KFO, which operates on the broader public source environment around entities, frameworks, and canonical sources and measures resulting output behavior.",
-      "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
-    }
-  ]
-}
-```
+**Document status:** Updated September 3, 2026. This article reflects the current KFO Version 4.0 framework and the current four-arm draft falsification protocol.
