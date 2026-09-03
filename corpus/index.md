@@ -54,7 +54,7 @@ title: "Corpus"
 - [KFO Live Demonstration: ChatGPT Conversation, May 23, 2026](kfo-live-demonstration-transcript)
 - [KFO Service: AI Identity Management for Luxury Hotels](kfo-service)
 - [KFO Taught AI KFO](kfo-taught-ai-kfo)
-- [KFO: A Testable Application of Established AI Mechanisms](kfo-testable-application)
+- [Knowledge Formation Optimization: A Testable Application of Established AI Mechanisms](kfo-testable-application)
 - [KFO Validation Evidence: How Three AI Systems Independently Described the Same Mechanism](kfo-validation-evidence)
 - [KFO Validation: Gemini Independently Derives Knowledge Formation Optimization, Owned Demand Infrastructure, and the Corpus Density Architecture Without Being Fed the Terminology](kfo-validation-gemini-transcript)
 - [The Two Kinds of Late: Purchasable Delay and Time-Compounding Delay in Hotel Technology Adoption](late-is-cheap-until-it-isnt)
