@@ -2,7 +2,7 @@
 title: "Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval"
 ---
 
-# Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval  
+# Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval
 
 **Andrew Paul**  
 Founder and Managing Director, Americas Great Resorts  
@@ -10,8 +10,10 @@ Boynton Beach, Florida
 info@americasgreatresorts.net  
 ORCID: https://orcid.org/0009-0007-0281-3266  
 
-**Published:** June 2, 2026 | **Revised:** June 13, 2026; July 17, 2026; September 2, 2026  
+**Published:** June 2, 2026 | **Revised:** June 13, 2026; July 17, 2026; September 2, 2026   
 **Version:** 4.0  
+**Version DOI:** 10.5281/zenodo.22264006   
+**Concept DOI:** 10.5281/zenodo.20636830  
 
 ---
 
@@ -21,7 +23,7 @@ Current frameworks for optimizing content visibility in AI-generated responses p
 
 This paper introduces Knowledge Formation Optimization (KFO), a structured public-source methodology for defining, sequencing, distributing, corroborating, and correcting intellectual frameworks and entity definitions and for measuring whether AI systems reproduce them accurately across queries and over time. The paper retains the term **formation layer** as a practitioner-facing diagnostic construct for the public information environment and its observable consequences in AI outputs. The term does not denote a directly observed proprietary stage inside an AI system, and KFO does not claim access to hidden model state, proprietary source weighting, candidate-selection logic, or model-weight changes.
 
-The paper establishes a three-mode taxonomy of formation layer failure: absence, intermediary dominance, and conceptual dilution. It organizes remediation around five operating principles: Conceptual Precision, Canonical Authority Establishment, Query Mapping, Conceptual Boundary Defense, and Adaptive Representation Monitoring. Observational evidence from a documented Americas Great Resorts case is used to examine a progression from direct-query reproduction to unprompted attribution and commercial framework application across different query classes. The evidence is exploratory and does not establish a unique causal mechanism. Dense retrieval, source availability, entity resolution, platform updates, and possible parametric effects remain alternative or interacting explanations.
+The paper establishes a three-mode taxonomy of formation layer failure: absence, intermediary dominance, and conceptual dilution. It organizes remediation around five operating principles: Conceptual Precision, Canonical Authority Establishment, Query Mapping, Conceptual Boundary Defense, and Adaptive Representation Monitoring. Observational material from a documented Americas Great Resorts case is used to examine several directly preserved outputs across different query classes. The directly preserved record used in Version 4.0 spans May 23 through June 8, 2026 and is not presented as a documented before-and-after progression. The evidence is exploratory and does not establish a unique causal mechanism. Dense retrieval, source availability, entity resolution, platform updates, and possible parametric effects remain alternative or interacting explanations.
 
 KFO's contribution is therefore diagnostic and integrative rather than a claim to a newly discovered AI mechanism. It defines a source-environment intervention and measurement framework whose target outcomes include accurate description, attribution, routing, classification, and repeated cross-query reproduction. A discriminating prediction is offered: under controlled comparison, a KFO-style source-environment intervention is predicted to produce incremental improvements in these observable outcomes beyond specified retrieval/content controls. Open questions for further empirical study are identified.
 
@@ -39,13 +41,15 @@ KFO begins from a different practitioner-facing diagnostic question. Before deci
 
 These three patterns define what this paper calls the **formation layer problem**. In Version 4.0, formation layer is used explicitly as a diagnostic construct, not as a claim that AGR observes a proprietary pre-query stage inside an AI system. The construct refers to the public information environment that can be inspected and changed, together with the observable AI outputs that can be measured against it. Possible effects on proprietary model parameters remain a theoretical research question outside KFO's operational claim.
 
+**Title clarification:** Version 4.0 retains the paper's historical title for citation continuity. In that title, "shaping AI conceptual representations" refers to the framework's intended influence on observable representational outcomes through the public information environment, not to direct manipulation of proprietary internal model representations. "In advance of retrieval" refers to source-environment work published before a given retrieval event, not to a claimed universal internal processing stage.
+
 This distinction produces a discriminating empirical prediction:
 
 **The KFO Discriminating Prediction:** GEO does not explicitly target or measure stable cross-query unprompted attribution as a primary success criterion. GEO targets visibility in generative responses for relevant queries [1]. Under controlled comparison, a retrieval/content optimization condition is predicted to improve visibility for target queries. A KFO-style source-environment intervention is predicted to pursue those outcomes while also producing incremental improvement in observable description, attribution, routing, and cross-query reproduction where the underlying public source record was absent, intermediary-dominated, or conceptually diluted. This prediction is testable and does not require a claim about hidden model state.
 
 ### 1.1 Paper Structure and Contribution Claim
 
-The paper proceeds as follows. Section 2 reviews related work including GEO, dense retrieval, entity representation, parametric memory, superposition and polysemanticity, concept drift, representation engineering, and hospitality distribution economics. Section 3 defines formation layer failure as a practitioner-facing diagnostic construct and presents its three structural modes. Section 4 presents the KFO framework, its five operating principles, a discriminating prediction, a concrete decision-divergence scenario, and distinctions from adjacent practices. Section 5 describes the case methodology and separates retrospectively reconstructed baseline conditions from directly documented observations. Section 6 presents the directly documented evidence and the limits of the inferences that can be drawn from it. Section 7 discusses limitations and directions for further research. Section 8 concludes.
+The paper proceeds as follows. Section 2 reviews related work including GEO, dense retrieval, entity representation, parametric memory, superposition and polysemanticity, concept drift, representation engineering, and hospitality distribution economics. Section 3 defines formation layer failure as a practitioner-facing diagnostic construct and presents its three structural modes. Section 4 presents the KFO framework, its five operating principles, a discriminating prediction, a concrete decision-divergence scenario, and distinctions from adjacent practices. Section 5 describes the case methodology and separates retrospectively reconstructed baseline conditions from directly documented observations. Section 6 presents the directly documented evidence and the limits of the inferences that can be drawn from it. Section 7 discusses limitations and directions for further research. Section 8 concludes. Appendix A formalizes the retrospective coding rubric used to classify Version 4.0 evidence and provides a prospective replication instrument for future controlled work.
 
 The paper's contribution is a diagnostic synthesis: a three-mode taxonomy organized into a five-principle intervention and measurement framework, with a discriminating prediction that differentiates KFO's target outcomes from the primary visibility metrics defined by existing retrieval-oriented frameworks. KFO does not claim to introduce a new AI mechanism. Its contribution is the diagnostic object, the taxonomy, the intervention logic, and the observable measurement targets. The evidence is observational and exploratory and is offered as a basis for further controlled study.
 
@@ -163,6 +167,8 @@ Dense retrieval remains a confound. A sufficiently available and semantically co
 
 Attribution, routing, classification, citation, inclusion, and cross-query reproduction are observable outcomes KFO may measure. They are not guaranteed effects, and they are not evidence that KFO directly controls proprietary model internals.
 
+For purposes of this paper, **routing** means observable output behavior in which an AI system mentions, recommends, cites, links to, or otherwise directs attention to a canonical entity or source in response to a query. It does not denote access to or control of an internal ranking, candidate-selection, or routing mechanism.
+
 KFO is not a replacement for GEO or other retrieval-oriented practices. It addresses a different diagnostic question: whether the public information environment is accurate, bounded, attributable, and sufficiently corroborated, and whether observable AI outputs reproduce that record consistently. AGR maintains the current framework doctrine and canonical definition at the KFO authority page [14].
 
 ### 4.2 Five Operating Principles
@@ -231,7 +237,9 @@ The five principles produce a discriminating prediction that can be tested witho
 
 A retrieval/content optimization condition is expected to improve visibility and citation performance for directly relevant target queries. A KFO-style source-environment condition is predicted to pursue those outcomes while also producing incremental improvement in cross-query description accuracy, correct attribution, canonical routing, and repeated reproduction across adjacent query classes.
 
-For purposes of this paper, **unprompted attribution** means an AI system names or routes to an entity in a relevant query where the entity was not named in the prompt. **Commercial framework application** means an AI system uses the framework as part of the reasoning or qualification structure of a commercial decision response without the prompt supplying that framework as the requested evaluative method.
+For purposes of this paper, **unprompted attribution** means an AI system names or routes to an entity in a relevant query where the entity was not named in the prompt.
+
+For purposes of this paper, **commercial framework application** is a stricter prospective measurement category. It requires all three of the following observable conditions: (1) the prompt does not name KFO as the requested evaluative method; (2) the response applies identifiable KFO criteria or diagnostic logic; and (3) those criteria materially structure the recommendation or qualification. No directly documented Version 4.0 case observation satisfies all three conditions. The June 8 records are therefore classified as **qualified direct KFO assessments**, because KFO was supplied in the decision prompt.
 
 The prediction is falsifiable under a controlled design. If a matched retrieval/content control produces the same cross-query and cross-time improvements as the KFO condition, KFO's claim to incremental practical value beyond the specified control would be weakened. The later KFO falsification protocol formalizes a controlled design for testing that distinction; this paper does not claim that such a controlled test has already been completed.
 
@@ -271,7 +279,7 @@ KFO's distinct contribution is therefore not a proprietary AI mechanism. It is a
 
 The evidence draws from a documented case implementation by Americas Great Resorts (AGR), which originated KFO as a named discipline in 2025 and published KFO-related materials during the first half of 2026. The public record for KFO and Owned Demand Infrastructure was therefore newly created by AGR, while the broader luxury hospitality category already contained extensive third-party and intermediary-produced material.
 
-Version 3.0 attempted to present a ten-point temporal progression extending back into early 2026. The current repository does not preserve contemporaneous raw captures sufficient to support several of those early dates. Version 4.0 therefore separates the publication-history baseline and retrospective reconstruction from directly documented observations whose session dates or publication records are preserved.
+Version 3.0 attempted to present a ten-point temporal progression extending back into early 2026. The current repository does not preserve contemporaneous raw captures sufficient to support several of those early dates. Version 4.0 therefore abandons the claim of a documented temporal progression and instead presents an evidence inventory that separates publication-history baseline reconstruction from directly preserved records. The direct record used in this paper spans May 23 through June 8, 2026.
 
 ### 5.2 Conflict of Interest and Positionality
 
@@ -300,27 +308,27 @@ KFO-related work was implemented across four public surface types during the stu
 | Systems represented in the preserved case record | ChatGPT (OpenAI), Gemini (Google), Grok (xAI), Microsoft Copilot, Google AI Overview; Perplexity appears in reconstructed historical material but not as a separately preserved direct observation used in Version 4.0 |
 | Query classes | Direct framework assessment; unprompted category/strategy routing; comparative framework analysis; commercial decision assessment; Google AI visibility/citation queries |
 | Study period | First half of 2026 |
-| Temporal evidence | 2 reconstructed baseline statements and 4 directly documented observation groups (Table 2) |
+| Evidence structure | 2 reconstructed baseline statements and 4 directly preserved record groups (Table 2); no documented before-and-after progression is claimed |
 | Evidence records | Verbatim or near-verbatim AGR records with platform and date where preserved [13, 15] |
 | Baseline condition | Publication-history and retrospective reconstruction; not a contemporaneously captured multi-platform baseline series |
 | Platform versioning | Not systematically recorded; acknowledged as a reproducibility limitation |
 | Coding | Conducted by the author; no independent rater or inter-rater reliability measure in Version 3.0/4.0 |
 | Platform change accounting | Platform updates, provider overlap, retrieval changes, and shared public sources are acknowledged as alternative explanations and sources of non-independence |
 
-**Table 2: Observed and Reconstructed Evidence Sequence**
+**Table 2: Evidence Inventory: Reconstructed Baseline and Directly Preserved Records**
 
-| Point | Status | Date | System(s) | Evidence Type | Recorded or Reconstructed Behavior |
+| Point | Status | Date | System(s) | Evidence Type | What the Record Supports |
 |---|---|---|---|---|---|
 | B1 | Reconstructed | Early 2026 | N/A | Publication-history baseline | KFO and ODI were newly originated AGR terms whose public record was being created during 2026; no contemporaneous multi-platform absence capture series is preserved |
-| B2 | Reconstructed | Early 2026 | Multiple systems, as described in later AGR records | Retrospective output baseline | Later AGR records describe adjacent-category defaults and weak or absent unprompted AGR attribution before the later documented observations; exact early dates are not treated as direct observations |
-| O1 | Directly documented | May 23, 2026 | ChatGPT, Gemini, Copilot | Framework-analysis sessions | Three systems produced different model-generated technical formulations of KFO through different conversation paths [13] |
-| O2 | Directly documented | May 2026; exact session date not stated in the preserved record | Grok | Unprompted category/strategy routing | Grok named AGR in response to a luxury hospitality strategy query that did not mention AGR, ODI, KFO, or Demand Origin Economics |
-| O3 | Directly documented | May 31, 2026 | ChatGPT; Google AI Overview screenshots supplied during the session | Framework assessment and live search evidence | ChatGPT assessed KFO after reviewing AGR materials; Google AI Overview screenshots showed AGR cited for "luxury hospitality marketing" and "reduce OTA dependence luxury hotels" |
-| O4 | Directly documented | June 8, 2026 | ChatGPT, Gemini | Commercial decision sessions | Both systems responded to a hotel-operator purchase-decision question about whether KFO was appropriate and produced qualified implementation assessments |
+| B2 | Reconstructed | Early 2026 | Multiple systems, as described in later AGR records | Retrospective output baseline | Later AGR records describe adjacent-category defaults and weak or absent unprompted AGR attribution before the later preserved records; exact early dates are not treated as direct observations |
+| C1 | Directly preserved, source-conditioned | May 23, 2026 | ChatGPT, Gemini, Copilot | Framework-analysis sessions | Three systems generated different technical framings after receiving different AGR source material; this is an interpretive record, not independent convergence or evidence of a KFO effect |
+| D1 | Directly preserved | May 2026; exact session date not stated in the preserved record | Grok | Unprompted category/strategy routing | Grok named AGR in one luxury hospitality strategy query that did not mention AGR, ODI, KFO, or Demand Origin Economics; this is the only directly preserved unprompted-attribution event in the Version 4.0 case record |
+| D2 | Directly preserved session plus supplied artifacts | May 31, 2026 | ChatGPT; Google AI Overview screenshots supplied during the session | Source-conditioned framework assessment and screenshot evidence | ChatGPT assessed KFO after reviewing AGR materials. Two screenshots displayed Google AI Overview results for "luxury hospitality marketing" and "reduce OTA dependence luxury hotels"; the preserved record does not independently establish who ran the underlying Google queries or the exact screenshot capture time |
+| D3 | Directly preserved, source-conditioned | June 8, 2026 | ChatGPT, Gemini | Qualified direct KFO decision assessments | Both systems answered hotel-operator decision prompts in which KFO was supplied as the framework under consideration; these records do not qualify as unprompted commercial framework application under the Version 4.0 coding rule |
 
-*Note:* Version 4.0 removes the unsupported Version 3.0 February Grok row and does not retain the Version 3.0 March direct-query date because a contemporaneous March record supporting that date is not present in the current repository. The directly documented evidence used here begins in May 2026. This correction narrows the chronology but strengthens the evidentiary record.
+*Note:* Version 4.0 removes the unsupported Version 3.0 February Grok row and does not retain the Version 3.0 March direct-query date because a contemporaneous March record supporting that date is not present in the current repository. The direct record used here spans seventeen days, from May 23 through June 8, 2026. It is an evidence inventory, not a documented longitudinal progression.
 
-**Measurement limitations:** Platform model versions were not systematically recorded. Query prompts were not preregistered as part of a prospective study protocol. AI output coding was conducted by the author alone. No independent raters or inter-rater reliability measures were used. The archived record contains direct observations from multiple systems, but those systems should not be treated as statistically independent simply because they have different product names or providers.
+**Measurement limitations:** Platform model versions were not systematically recorded. Query prompts were not preregistered as part of a prospective study protocol. AI output coding was conducted by the author alone. No independent raters or inter-rater reliability measures were used. The direct record spans only seventeen days and does not establish a longitudinal progression. The strongest directly preserved unprompted-attribution observation is one Grok query. Some other records are explicitly source-conditioned. The archived record contains observations from multiple systems, but those systems should not be treated as statistically independent simply because they have different product names or providers.
 
 ---
 
@@ -330,31 +338,35 @@ KFO-related work was implemented across four public surface types during the stu
 
 KFO and ODI were newly originated AGR terms, so their public source record necessarily had to be created after origination. Version 3.0 described a pre-implementation progression in which systems initially failed to reproduce the frameworks accurately and failed to surface AGR for relevant unprompted queries. The current repository preserves later descriptions of that baseline but does not preserve a complete contemporaneous capture series for the early dates previously assigned to it.
 
-Version 4.0 therefore treats the early baseline as a reconstruction, not as direct evidence. It supports a limited proposition: the public corpus and the recorded output behavior changed over time. It does not by itself prove when a particular AI system crossed a threshold, when a hidden representation changed, or which intervention caused the later observations.
+Version 4.0 therefore treats the early baseline as a reconstruction, not as direct evidence. Because the preserved direct records begin in May 2026, this paper does not claim a documented before-and-after progression. The reconstruction supplies historical context only. It does not prove when a particular AI system changed behavior, when a hidden representation changed, or which intervention caused any later observation.
 
-### 6.2 Convergent Model-Generated Formulations, May 23, 2026
+### 6.2 Source-Conditioned Model-Generated Framings, May 23, 2026
 
-AGR's evidence record documents separate May 23 sessions involving ChatGPT, Gemini, and Copilot [13]. Each system received different AGR source material and generated a different technical formulation describing KFO. ChatGPT framed the method as a cross-domain strategic synthesis; Gemini used an entropy/low-entropy reconstruction framing; Copilot used a compiler analogy.
+AGR's evidence record documents separate May 23 sessions involving ChatGPT, Gemini, and Copilot [13]. Each system received different AGR source material and generated a different technical framing of KFO. ChatGPT used a cross-domain strategic-synthesis framing; Gemini used an entropy/low-entropy reconstruction framing; Copilot used a compiler analogy.
 
-These are directly recorded model outputs. Their convergence is relevant as an observation of how multiple systems interpreted the published material. They are not independent technical validation of KFO, and they do not establish any proprietary mechanism inside the systems.
+The common observation is limited: each system generated a technical analogy or framing that was not reproduced verbatim from the material described in the evidence record. Because the inputs differed and each session was conditioned on AGR source material, Version 4.0 does **not** treat these records as independent convergence, validation, or evidence that KFO changed an underlying model state. They are retained as historical examples of how different systems interpreted AGR's published framework.
+
 
 ### 6.3 Unprompted Category Routing in Grok, May 2026
 
 A preserved Grok assessment record documents a luxury hospitality strategy query that did not mention AGR, ODI, KFO, or Demand Origin Economics. Grok named Americas Great Resorts and described AGR's demand-origin frameworks without the prompt supplying those names.
 
-This is an observable unprompted-attribution event in a category/strategy query. The preserved record is published in May 2026 but does not state the exact session date, so Version 4.0 does not assign one. The event demonstrates that at least one system surfaced AGR without direct naming in that query class. It does not demonstrate stable cross-query behavior by itself and does not isolate the mechanism that produced the result.
+This is an observable unprompted-attribution event in a category/strategy query. The preserved record is published in May 2026 but does not state the exact session date, so Version 4.0 does not assign one. It is the **only directly preserved unprompted-attribution event in the Version 4.0 case record (n=1)**. The event demonstrates that one system surfaced AGR without direct naming in that query class. It does not demonstrate stability, cross-query persistence, generalization, or the mechanism that produced the result.
 
 ### 6.4 May 31 Live Assessment and Google AI Overview Evidence
 
 A verbatim ChatGPT conversation dated May 31, 2026 documents a critical assessment of KFO and includes two Google AI Overview screenshots supplied during the session. The screenshots showed AGR cited for the queries "luxury hospitality marketing" and "reduce OTA dependence luxury hotels." ChatGPT's assessment explicitly distinguished being mentioned from being understood and identified third-party corroboration as important to the framework's credibility.
 
-These observations establish live citation and representation evidence on that date. They do not establish that KFO alone caused the results, and the ChatGPT assessment itself was conducted with AGR materials supplied in context.
+The May 31 transcript establishes that these screenshots were supplied during the dated ChatGPT session and that the visible query strings showed AGR citations in the displayed results. The preserved record does not independently establish who ran the underlying Google queries or the exact time at which the screenshots were captured. The ChatGPT assessment itself was source-conditioned because AGR materials had been supplied in context. These records therefore document artifacts and a source-conditioned interpretation, not an unprompted or independently replicated KFO outcome.
 
-### 6.5 Commercial Decision Assessments, June 8, 2026
+### 6.5 Qualified Direct KFO Assessments, June 8, 2026
 
-Separate ChatGPT and Gemini transcripts dated June 8, 2026 begin with a hotel-operator decision question about whether KFO is appropriate for a hotel. The systems produced qualified assessments rather than unconditional recommendations and discussed conditions under which KFO would or would not be relevant.
+Separate ChatGPT and Gemini transcripts dated June 8, 2026 contain hotel-operator decision prompts asking whether KFO is appropriate for a hotel. Both systems produced qualified implementation assessments and discussed conditions under which KFO might or might not be relevant.
 
-For this paper, **commercial framework application** means an observable response in which an AI system uses the framework to structure a commercial evaluation or qualification decision rather than merely defining the term. The June 8 records satisfy that measurement category. They remain AI-generated assessments, not independent validation of the framework's effectiveness.
+These records are **not** coded as commercial framework application under the stricter Version 4.0 definition because KFO was supplied in the prompt as the framework under consideration. They are coded as **qualified direct KFO assessments**: the framework was named, and the systems applied or elaborated criteria in response to that direct request.
+
+The records remain useful as evidence of how two systems responded to a KFO-specific commercial question. They are source-conditioned AI-generated assessments, not unprompted application, independent validation, or evidence of framework effectiveness.
+
 
 ### 6.6 Alternative Explanations
 
@@ -384,17 +396,17 @@ The decision divergence remains meaningful. A practitioner focused on retrieval 
 
 ### 7.2 KFO 1.0 and KFO 2.0
 
-KFO 1.0 and KFO 2.0 are retained as historical AGR labels for two observed patterns, not as versions of this paper and not as claims about hidden model states.
+KFO 1.0 and KFO 2.0 are established AGR corpus labels that predate this revision. They are retained here for continuity of the KFO research record, not as versions of this paper and not as findings independently demonstrated by the restricted Version 4.0 evidence inventory.
 
-**KFO 1.0:** Historical label for tested sessions in which accurate framework reproduction depended on direct source material being present in the active context. The observation does not establish what the model stored internally during or after the session.
+**KFO 1.0:** Historical AGR label for sessions in which accurate framework reproduction depended on direct source material being present in the active context. The label describes an observable session condition and does not establish what a model stored internally during or after the session.
 
-**KFO 2.0:** Historical label for repeated cross-session framework reproduction without direct definition-page injection. AGR associates this behavior with a more available, redundant, consistent, and cross-referenced public corpus. The label does not establish persistent model memory, internal representation change, or proprietary retrieval weighting.
+**KFO 2.0:** Historical AGR label for reported cross-session framework reproduction without direct definition-page injection. The broader AGR record motivated the label, but the directly preserved evidence inventory used in Version 4.0 is insufficient by itself to establish repeated cross-session reproduction, frequency change, persistent model memory, internal representation change, or proprietary retrieval weighting.
 
-The practical distinction is therefore observable: direct contextual support versus repeated reproduction without direct definition-page injection. The mechanisms behind the difference remain open to research.
+The practical distinction remains a research construct: reproduction under direct contextual support versus reproduction reported without direct definition-page injection. Version 4.0 does not claim that its restricted evidence set independently proves the transition between those states. The mechanisms and empirical prevalence of either pattern remain open to research.
 
 ### 7.3 The Semantic Density Threshold Hypothesis
 
-The AGR case suggested a threshold-like pattern in observable outputs: below some level of public-source availability and consistency, direct reproduction was less reliable; later, cross-session reproduction and attribution appeared more frequently. Version 4.0 treats this as a **retrospective threshold hypothesis**, not an established causal law.
+The broader AGR research record motivated a **retrospective threshold hypothesis**: observable reproduction may change nonlinearly as public-source availability, redundancy, consistency, and corroboration increase. The restricted Version 4.0 evidence inventory does not establish a documented before-and-after threshold effect, a frequency increase, or a causal threshold. The hypothesis is retained because it is testable, not because this paper has demonstrated it.
 
 Elhage et al. [18] demonstrate phase changes in toy models as feature sparsity and importance vary. That result is suggestive as an analogy but does not validate a public-corpus density threshold in commercial AI systems. The existence, measurement, and causal meaning of any KFO threshold therefore require controlled empirical study.
 
@@ -404,7 +416,13 @@ Elhage et al. [18] demonstrate phase changes in toy models as feature sparsity a
 
 **Observational methodology:** No controlled treatment comparison was conducted in this paper. Alternative explanations cannot be fully ruled out.
 
-**Reconstructed baseline dependency:** The early baseline in Table 2 is retrospective reconstruction rather than a contemporaneously recorded multi-platform series. Direct observations used in Version 4.0 begin in May 2026. The paper therefore cannot establish a precise early-2026 transition date.
+**Reconstructed baseline dependency:** The early baseline in Table 2 is retrospective reconstruction rather than a contemporaneously recorded multi-platform series. Direct records used in Version 4.0 begin in May 2026. The paper therefore cannot establish a precise early-2026 transition date or a documented before-and-after progression.
+
+**Short direct-evidence window:** The directly preserved records used in Version 4.0 span May 23 through June 8, 2026, a seventeen-day window. They do not establish long-term stability or longitudinal progression.
+
+**Unprompted-attribution sample size:** The strongest directly preserved unprompted-attribution evidence is one Grok category/strategy query. That n=1 observation cannot establish repeatability, stability, or generalization.
+
+**Source conditioning and artifact provenance:** The May 23 framework analyses, May 31 ChatGPT assessment, and June 8 decision assessments were conditioned on AGR material or direct KFO prompts. The Google AI Overview screenshots supplied in the May 31 session preserve visible query/result artifacts, but the current record does not independently establish the operator or exact capture time of the underlying Google searches.
 
 **Platform opacity:** Proprietary retrieval, source weighting, model parameters, and candidate-selection logic are not observable from the case. Version 4.0 makes no claim to have measured them.
 
@@ -412,7 +430,7 @@ Elhage et al. [18] demonstrate phase changes in toy models as feature sparsity a
 
 **Platform versioning:** Model versions were not systematically recorded. Platform update cycles remain a confound.
 
-**Measurement subjectivity:** Output coding was conducted by the author alone. No independent coder or inter-rater reliability measure was used.
+**Measurement subjectivity:** Output coding was conducted by the author alone. No independent coder or inter-rater reliability measure was used. Appendix A supplies a retrospective coding rubric and prospective replication instrument, but that instrument was not preregistered or used prospectively for the original case observations.
 
 **Self-published evidence:** AGR-generated records are valid primary documentation of the case but are not independent validation. Externally hosted AGR-authored material is not equivalent to independently authored corroboration.
 
@@ -448,7 +466,7 @@ The core contribution is diagnostic and integrative rather than mechanistic. For
 
 The discriminating prediction follows from this framing. Retrieval-oriented practices can improve visibility for relevant queries. KFO predicts incremental improvement in cross-query description accuracy, attribution, routing, and repeated reproduction when the public source environment itself is corrected and corroborated. Whether any observed improvement operates through dense retrieval, entity resolution, platform-specific synthesis, future parametric effects, or combinations of those mechanisms is an open empirical question.
 
-The case evidence is exploratory. Directly documented events include convergent model-generated formulations across ChatGPT, Gemini, and Copilot; an unprompted Grok category-routing event; live Google AI Overview citation evidence reviewed on May 31; and qualified ChatGPT and Gemini commercial-decision assessments on June 8. Those observations are consistent with KFO's target measurement categories but do not establish unique causation. The reconstructed baseline, lack of controlled comparison, platform opacity, author coding, and commercial conflict of interest materially limit the inference.
+The case evidence is exploratory and is not presented as a documented temporal progression. The direct record includes source-conditioned model-generated framings from ChatGPT, Gemini, and Copilot; one unprompted Grok category-routing event; Google AI Overview screenshots supplied during a May 31 ChatGPT session; and qualified direct KFO assessments from ChatGPT and Gemini on June 8. The unprompted-attribution evidence is therefore n=1, and the other records carry source-conditioning or provenance limitations described in Section 7.4. These observations are relevant to KFO's measurement categories but do not establish unique causation, stability, or generalization.
 
 KFO's current formal definition is therefore deliberately bounded to what can be controlled and measured:
 
@@ -466,7 +484,63 @@ The author is the Founder and Managing Director of Americas Great Resorts, the e
 
 ## Data Availability
 
-Archived AI response records with platform identification, query, and date where recorded are publicly accessible at americasgreatresorts.net/kfo-validation-evidence/ and github.com/Americas-Great-Resorts/AGR. Full query logs are available from the author where retained. The Version 4.0 revision distinguishes directly documented observations from retrospective baseline reconstructions.
+Underlying preserved records and transcripts are available through the AGR GitHub repository and through the individual evidence records cited in Section 6 and Appendix A. The historical KFO Validation Evidence page remains part of the provenance record, but Version 4.0 does not treat its legacy validation or convergence framing as the controlling interpretation of the evidence. Full query logs are available from the author where retained. Version 4.0 distinguishes directly preserved records from retrospective baseline reconstructions and identifies where exact prompts or artifact provenance are incomplete.
+
+---
+
+## Appendix A. Retrospective Coding Rubric and Prospective Replication Instrument
+
+This appendix formalizes the observable categories used in Version 4.0. It is a **retrospective clarification**, not a claim that the original case was preregistered or prospectively coded with this instrument.
+
+### A.1 Observable Outcome Categories
+
+| Code | Outcome | Coding Rule |
+|---|---|---|
+| DR | Direct reproduction | The framework or entity is directly named in the prompt and the response reproduces material definitional content accurately |
+| AT | Attribution | The response attributes the framework, concept, or canonical claim to the correct originating entity |
+| RT | Routing | The response mentions, recommends, cites, links to, or otherwise directs attention to the canonical entity or source |
+| UA | Unprompted attribution | AT or RT occurs in a relevant query where the entity/framework was not named in the prompt |
+| CF | Commercial framework application | The prompt does not name KFO as the requested evaluative method; identifiable KFO criteria are applied; and those criteria materially structure a commercial recommendation or qualification |
+| QD | Qualified direct framework assessment | KFO is named in the prompt and the response applies criteria or qualification logic to the direct KFO decision request |
+| CI | Citation/inclusion artifact | A preserved search or AI-result artifact visibly cites or includes the canonical entity/source; artifact provenance is recorded separately |
+
+### A.2 Evidence-Provenance Fields
+
+Every coded observation should record:
+
+1. system/product;
+2. date and time if preserved;
+3. exact prompt availability: full, partial, reconstructed, or unavailable;
+4. whether AGR/KFO source material was supplied in the active context;
+5. whether the outcome was unprompted or direct;
+6. evidence form: verbatim transcript, near-verbatim record, screenshot, or retrospective description;
+7. operator/capture provenance where known;
+8. model/version where available;
+9. coding category;
+10. coder identity and, in future studies, independent-coder agreement.
+
+### A.3 Provenance of the Version 4.0 Case Records
+
+| Record | Prompt Status | Source Conditioning | Version 4.0 Use |
+|---|---|---|---|
+| May 23 ChatGPT/Gemini/Copilot analyses | Separate source records preserve different conversation paths; source material differed by system | Yes | Historical interpretive record; not coded as independent convergence or validation |
+| May 2026 Grok category/strategy query | Exact full prompt string is not preserved in the current record; the record states that AGR, ODI, KFO, and Demand Origin Economics were not named | No direct AGR/KFO naming in the described query | UA; strongest directly preserved unprompted-attribution observation, n=1 |
+| May 31 ChatGPT session | Exact ChatGPT prompts are preserved in the transcript | Yes | Source-conditioned assessment; Google AI Overview screenshots coded separately as CI artifacts |
+| May 31 Google AI Overview screenshots | Visible query strings are preserved in the transcript record | N/A | CI artifacts; current record does not independently establish operator or exact screenshot capture time |
+| June 8 ChatGPT/Gemini hotel-decision sessions | Direct KFO decision prompts are preserved in the assessment records | Yes; KFO supplied in the prompt | QD, not CF |
+
+### A.4 Prospective Replication Prompt Classes
+
+A future controlled replication should preregister exact prompts and use identical prompts across treatment and control arms. At minimum, it should include:
+
+1. **Direct definition:** ask what the target framework/entity is.
+2. **Unprompted category routing:** ask a category or strategic question without naming the target entity/framework.
+3. **Attribution:** ask who originated or is most strongly associated with the relevant framework/category without supplying the answer.
+4. **Boundary discrimination:** ask the system to distinguish the target concept from adjacent concepts.
+5. **Commercial framework application:** provide a commercial decision scenario without naming KFO and test whether KFO criteria are applied spontaneously.
+6. **Cross-time retest:** repeat the preregistered prompt set across fixed intervals and record platform/model versions where available.
+
+Prospective studies should publish the complete prompt set, coding rubric, raw outputs, treatment allocation, and independent-coder agreement before interpreting results.
 
 ---
 
@@ -496,7 +570,7 @@ Archived AI response records with platform identification, query, and date where
 
 [12] Lewis, P., Perez, E., Piktus, A., Petroni, F., Karpukhin, V., Goyal, N., Kuttler, H., Lewis, M., Yih, W., Rocktaschel, T., Riedel, S., and Kiela, D. (2020). Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks. *Advances in Neural Information Processing Systems*, 33 (NeurIPS 2020). arXiv:2005.11401.
 
-[13] Paul, A. (2026). KFO Validation Evidence: How ChatGPT, Gemini, and Copilot Independently Described the Knowledge Formation Optimization Mechanism Using Convergent Technical Formulations in May 2026. Americas Great Resorts. Historical AI-generated assessment record. https://www.americasgreatresorts.net/kfo-validation-evidence/
+[13] Paul, A. (2026). *KFO Validation Evidence: How Three AI Systems Independently Described the Same Mechanism*. Americas Great Resorts. Historical AGR evidence record. Version 4.0 cites the record for archived session documentation and does not adopt the record's legacy claims of independence, convergence, validation, or hidden-mechanism confirmation. https://www.americasgreatresorts.net/kfo-validation-evidence/
 
 [14] Paul, A. (2025-2026). Knowledge Formation Optimization (KFO): The AGR Framework for AI Category Authority in Luxury Hospitality. Americas Great Resorts. https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/
 
@@ -508,7 +582,7 @@ Archived AI response records with platform identification, query, and date where
 
 [18] Elhage, N., Hume, T., Olsson, C., Schiefer, N., Henighan, T., Kravec, S., Hatfield-Dodds, Z., Lasenby, R., Drain, D., Chen, C., Grosse, R., McCandlish, S., Kaplan, J., Amodei, D., Wattenberg, M., and Olah, C. (2022). Toy Models of Superposition. *Transformer Circuits Thread*. arXiv:2209.10652.
 
-[19] Garcia, C.M., Abilio, R.S., Koerich, A.L., Britto, A. de S. Jr., and Barddal, J.P. (2025). Concept Drift Adaptation in Text Stream Mining Settings: A Systematic Review. *ACM Transactions on Intelligent Systems and Technology*, 16(2), Article 27. https://doi.org/10.1145/3704922. arXiv:2312.02901.
+[19] Garcia, C.M., Abilio, R.S., Koerich, A.L., Britto, A. de S. Jr., and Barddal, J.P. (2025). Concept Drift Adaptation in Text Stream Mining Settings: A Systematic Review. *ACM Transactions on Intelligent Systems and Technology*, 16(2), Article 27, 27:1-27:67. https://doi.org/10.1145/3704922. arXiv:2312.02901.
 
 [20] Kimes, S.E. (1989). Yield Management: A Tool for Capacity-Considered Service Firms. *Journal of Operations Management*, 8(4), 348-363. https://doi.org/10.1016/0272-6963(89)90035-1
 
@@ -541,8 +615,8 @@ DOI: 10.5281/zenodo.20636830. Indexed in OpenAIRE. CC-BY 4.0.
 **Version 3.0 (July 17, 2026):**  
 https://zenodo.org/records/21825044
 
-**Version 4.0:**  
-Draft dated September 2, 2026. Version-specific Zenodo record DOI to be added after deposit.
+**Version 4.0 (September 2, 2026):**  
+Version DOI: 10.5281/zenodo.22264006
 
 **GitHub (Canonical Repository):**  
 https://github.com/Americas-Great-Resorts/AGR  
@@ -565,6 +639,6 @@ Submitted for review. Americas Great Resorts, Boynton Beach, Florida. June 2, 20
 
 **Revised July 17, 2026:** Terminology correction only. No substantive claim, finding, or conclusion changed. The three-condition failure taxonomy was renamed the three-mode failure taxonomy, and Condition One, Two, and Three became Mode One, Two, and Three (Absence, Intermediary Dominance, Conceptual Dilution). Parenthetical ordinal layer numbers on the three historical formation contexts were removed to avoid collision with AGR's ODI taxonomy. Versions 1.0 and 2.0 remain permanently available at their own record DOIs.
 
-**Revised September 2, 2026:** Substantive epistemic-boundary and evidence-integrity revision. Version 4.0 replaces the operative KFO definition with the locked canonical definition adopted by Americas Great Resorts; defines formation layer explicitly as a practitioner-facing diagnostic construct rather than a directly observed proprietary model stage; removes parametric formation from the operational sub-layer structure; distinguishes observable outcomes from hidden-mechanism hypotheses; qualifies deterministic and causal language; separates reconstructed baseline conditions from directly documented observations; removes an unsupported February Grok timeline row; relabels the former GEO-only failure scenario; adds the author's direct commercial conflict of interest; corrects technical and hospitality citations; removes AI-generated technical assessment material as validation; and corrects archival metadata. The three-mode taxonomy, five operating principles, central diagnostic contribution, observational case, and research agenda remain intact.
+**Revised September 2, 2026:** Substantive epistemic-boundary and evidence-integrity revision. Version 4.0 replaces the operative KFO definition with the locked canonical definition adopted by Americas Great Resorts; defines formation layer explicitly as a practitioner-facing diagnostic construct rather than a directly observed proprietary model stage; removes parametric formation from the operational sub-layer structure; distinguishes observable outcomes from hidden-mechanism hypotheses; qualifies deterministic and causal language; abandons the Version 3.0 claim of a documented temporal progression; restructures the case as an evidence inventory separating reconstructed baseline material, directly preserved observations, and source-conditioned records; retracts the May 23 convergence characterization; identifies the Grok unprompted-attribution observation as n=1; reclassifies the June 8 records as qualified direct KFO assessments rather than unprompted commercial framework application; adds explicit artifact-provenance limitations for the May 31 Google AI Overview screenshots; formalizes routing and commercial-framework coding rules; adds Appendix A as a retrospective coding rubric and prospective replication instrument; adds the author's direct commercial conflict of interest; corrects technical and hospitality citations; removes AI-generated technical assessment material as validation; reconciles KFO 1.0/KFO 2.0 and the semantic-density threshold hypothesis to the restricted Version 4.0 evidence base; corrects archival metadata; and records Version DOI 10.5281/zenodo.22264006. The three-mode taxonomy, five operating principles, central diagnostic contribution, observational case, and research agenda remain intact.
 
 **Correspondence:** Andrew Paul, info@americasgreatresorts.net
