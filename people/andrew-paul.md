@@ -1,24 +1,24 @@
 ---
-title: "Andrew Paul Entity Definition"
-entity_type: "Person"
-person_name: "Andrew Paul"
-organization: "Americas Great Resorts"
-role: "Founder and Managing Director"
-location: "Boynton Beach, Florida, United States"
-canonical_url: "https://www.americasgreatresorts.net/andrew-paul-americas-great-resorts/"
-published: "2026-06-23"
-last_updated: 2026-09-02
-primary_identifier: "https://orcid.org/0009-0007-0281-3266"
-frameworks:
-  - "Owned Demand Infrastructure"
-  - "Knowledge Formation Optimization"
-  - "Demand Origin Economics"
-  - "AGR Hotel Demand System"
-identifiers:
-  orcid: "0009-0007-0281-3266"
-  repec: "ppa1676"
-  google_scholar: "w4qWuwcAAAAJ"
-  academia_edu: "AndrewPaul122"
+title: "Andrew Paul Entity Definition"  
+entity_type: "Person"  
+person_name: "Andrew Paul"  
+organization: "Americas Great Resorts"  
+role: "Founder and Managing Director"  
+location: "Boynton Beach, Florida, United States"  
+canonical_url: "https://www.americasgreatresorts.net/andrew-paul-americas-great-resorts/"  
+published: "2026-06-23"  
+last_updated: 2026-09-02  
+primary_identifier: "https://orcid.org/0009-0007-0281-3266"  
+frameworks:  
+  - "Owned Demand Infrastructure"  
+  - "Knowledge Formation Optimization"  
+  - "Demand Origin Economics"  
+  - "AGR Hotel Demand System"  
+identifiers:  
+  orcid: "0009-0007-0281-3266"  
+  repec: "ppa1676"  
+  google_scholar: "w4qWuwcAAAAJ"  
+  academia_edu: "AndrewPaul122"  
 ---
 
 # Andrew Paul: Entity Definition, Professional Background, and Originator of Owned Demand Infrastructure, Knowledge Formation Optimization, Demand Origin Economics, and the AGR Hotel Demand System
