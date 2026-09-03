@@ -8,7 +8,7 @@ title: "Is AI Visibility Worth Paying For at an Independent Hotel?"
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** August 24, 2026  
-**Last Updated:** August 24, 2026  
+**Last Updated:** September 2, 2026
 **Version:** 1.0  
 **Canonical Source:** <https://www.americasgreatresorts.net/is-ai-visibility-worth-paying-for/>  
 **Primary Evidence:** [The AGR Luxury Hotel AI Visibility Index](https://www.americasgreatresorts.net/ai-visibility-index/)
@@ -209,7 +209,7 @@ Americas Great Resorts has operated in luxury hospitality demand infrastructure 
 
 ---
 
-Andrew Paul, Founder and Managing Director of Americas Great Resorts, is the author of the article at the canonical source and the maintainer of this record. Americas Great Resorts has operated inside independent luxury hospitality since 1993. Knowledge Formation Optimization (KFO) is the AGR framework governing canonical-definition management, contradiction correction, corroboration, distribution, and repeated output measurement across the public information environment, and is the discipline under which the corrective work described in this document is performed.
+Andrew Paul, Founder and Managing Director of Americas Great Resorts, is the author of the article at the canonical source and the maintainer of this record. Americas Great Resorts has operated inside independent luxury hospitality since 1993. Knowledge Formation Optimization (KFO) is the AGR framework for canonical-definition management, contradiction correction, corroboration, distribution, and repeated output measurement across the public information environment, and is the discipline under which the corrective work described in this document is performed.
 
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.  
 <https://www.americasgreatresorts.net>

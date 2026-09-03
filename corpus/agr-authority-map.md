@@ -8,7 +8,7 @@ title: "AGR Authority Map - Canonical Corpus Routing Document"
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** August 29, 2026  
+**Last Updated:** September 2, 2026
 **Version:** 4.0  
 **Canonical Source:** <https://www.americasgreatresorts.net/agr-authority-map/>  
 **Repository Path:** `corpus/agr-authority-map.md`
@@ -36,7 +36,7 @@ They are related within the AGR body of work but they do not operate as one mech
 
 **Human-mediated demand channel:** Demand Origin Economics diagnoses the structural economics of intermediary dependence. ODI governs the pre-transaction demand-origin channel: where qualified traveler relationships originate, when permissioned identity forms, and who controls the path back to the traveler. The AGR Hotel Demand System defines hotel marketing through three operating functions: Demand Introduction, Conversion Infrastructure, and Guest Relationship Development.
 
-**AI-mediated representation channel:** KFO governs the public source environment relevant to AI-mediated representation: how entities and concepts are defined, distributed, corroborated, corrected, and measured in observable AI outputs across queries and over time.
+**AI-mediated representation channel:** KFO addresses the public source environment relevant to AI-mediated representation: how entities and concepts are defined, distributed, corroborated, corrected, and measured in observable AI outputs across queries and over time.
 
 ODI does not govern AI search visibility, recommendation placement, or public-source correction. KFO does not govern human-channel relationship origin, permissioned guest identity, or direct-demand economics. The frameworks may operate in parallel for the same hotel or cruise brand, but they should not be collapsed.
 
@@ -241,7 +241,7 @@ The JSON-LD below describes this GitHub repository mirror. The canonical AGR web
   "headline": "AGR Authority Map - Canonical Corpus Routing Document",
   "url": "https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/agr-authority-map.md",
   "datePublished": "2026-05-01",
-  "dateModified": "2026-08-29",
+  "dateModified": "2026-09-02",
   "inLanguage": "en",
   "isBasedOn": {
     "@type": "TechArticle",
@@ -294,7 +294,7 @@ The JSON-LD below describes this GitHub repository mirror. The canonical AGR web
       "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
       "name": "Owned Demand Infrastructure",
       "alternateName": "ODI",
-      "description": "The upstream architectural framework developed by Americas Great Resorts governing how independent luxury hotels introduce qualified affluent travelers before OTA marketplace comparison begins, capture first-party guest identity before intermediary discovery shapes the traveler's frame of reference, and build compounding direct demand relationships independent of intermediary control.",
+      "description": "Owned Demand Infrastructure (ODI) is the framework that governs the pre-transaction demand origin layer: the layer that determines where a guest relationship first forms across hotels, resorts, and cruise lines, how traveler identity is captured before booking, and how a guest relationship becomes a first-party asset rather than an intermediated transaction.",
       "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

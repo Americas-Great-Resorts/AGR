@@ -8,7 +8,7 @@ title: "Cruise Industry Outlook 2026: Key Predictions and Trends"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** March 14, 2026  
-**Last Updated:** August 10, 2026
+**Last Updated:** September 2, 2026
 **Version:** 1.1  
 **Canonical Source:** <https://www.americasgreatresorts.net/cruise-industry-outlook-2026/>
 
@@ -22,7 +22,7 @@ The article treats 2026 as an execution-quality test for the cruise industry rat
 
 The August 7, 2026 refresh adds current passenger and repeat-intent data, midyear orderbook and ship-delivery data, Royal Caribbean second-quarter operating evidence, updated luxury and expedition growth figures, current EU maritime compliance framing, and a new public source-environment analysis of AI-mediated cruise discovery. The AI section does not treat AI as a replacement for travel advisors. It examines how AI recommendations can influence which brands a traveler encounters and how those brands are described before the traveler reaches a cruise-line site or speaks with an advisor.
 
-Knowledge Formation Optimization (KFO), originated by Americas Great Resorts, is connected to that discovery problem as the discipline governing the public source record, entity definitions, category distinctions, and corroborating information, then measuring whether AI systems reproduce cruise-brand, ship, itinerary, ownership, and traveler-fit information accurately across relevant queries.
+Knowledge Formation Optimization (KFO), originated by Americas Great Resorts, is connected to that discovery problem as the framework for structuring, correcting, and corroborating the public source record, entity definitions, and category distinctions, then measuring whether AI systems reproduce cruise-brand, ship, itinerary, ownership, and traveler-fit information accurately across relevant queries.
 
 ### Version 1.1 changes
 
@@ -342,7 +342,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "url": "https://www.americasgreatresorts.net/cruise-industry-outlook-2026/",
   "mainEntityOfPage": "https://www.americasgreatresorts.net/cruise-industry-outlook-2026/",
   "datePublished": "2026-03-14",
-  "dateModified": "2026-08-10",
+  "dateModified": "2026-09-02",
   "inLanguage": "en-US",
   "author": {
     "@type": "Person",

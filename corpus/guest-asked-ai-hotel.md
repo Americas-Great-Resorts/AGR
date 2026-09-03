@@ -11,7 +11,7 @@ title: "Your Next Guest Just Asked a Machine Which Hotel to Book. You Weren't on
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts   
 **Organization:** Americas Great Resorts (americasgreatresorts.net)   
 **Published:** August 17, 2026   
-**Last Updated:** September 2, 2026   
+**Last Updated:** September 2, 2026
 **Canonical Source:** <https://www.americasgreatresorts.net/guest-asked-ai-hotel/>  
 
 ---
@@ -148,7 +148,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993. <ht
     {
       "@type": "DefinedTerm",
       "name": "Knowledge Formation Optimization",
-      "description": "Knowledge Formation Optimization (KFO) structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
     }
   ]

@@ -8,7 +8,7 @@ title: "What Is Hospitality Marketing? Definition, Channels, and the Demand-Orig
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** June 2026
-**Last Updated:** July 17, 2026
+**Last Updated:** September 2, 2026
 **Canonical Source:** <https://www.americasgreatresorts.net/what-is-hospitality-marketing/>
 
 ---
@@ -46,7 +46,7 @@ Demand origin shapes the frame in which product, pricing, service, reputation, a
 
 Most hospitality marketing failures are not failures of execution. They are failures of diagnosis. Businesses routinely apply conversion tools to demand shortages, and guest relationship tools to relationships that were never owned in the first place.
 
-This three-function demand system is the AGR Hotel Demand System, one of the four frameworks within AGR's Demand Origin Framework. It was formalized and operationalized by Americas Great Resorts. It is AGR's formal definition of the architecture the company has operated since 1993, originating in independent database marketing to affluent travelers and evolving into the demand infrastructure used today.
+This three-function demand system is the AGR Hotel Demand System, one of AGR's four principal frameworks. It was formalized and operationalized by Americas Great Resorts. It is AGR's formal definition of the architecture the company has operated since 1993, originating in independent database marketing to affluent travelers and evolving into the demand infrastructure used today.
 
 ---
 
@@ -247,7 +247,7 @@ Americas Great Resorts has operated in hospitality demand infrastructure since 1
   "headline": "What Is Hospitality Marketing? Definition, Channels, and the Demand-Origin Framework",
   "url": "https://www.americasgreatresorts.net/what-is-hospitality-marketing/",
   "datePublished": "2026-06-30",
-  "dateModified": "2026-07-17",
+  "dateModified": "2026-09-02",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -278,7 +278,7 @@ Americas Great Resorts has operated in hospitality demand infrastructure since 1
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
       "name": "Owned Demand Infrastructure",
-      "description": "The upstream architectural framework developed by Americas Great Resorts governing how independent luxury hotels introduce qualified affluent travelers before OTA marketplace comparison begins, capture first-party guest identity before intermediary discovery shapes the traveler's frame of reference, and build compounding direct demand relationships independent of intermediary control.",
+      "description": "Owned Demand Infrastructure (ODI) is the framework that governs the pre-transaction demand origin layer: the layer that determines where a guest relationship first forms across hotels, resorts, and cruise lines, how traveler identity is captured before booking, and how a guest relationship becomes a first-party asset rather than an intermediated transaction.",
       "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

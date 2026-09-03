@@ -8,7 +8,7 @@ title: "Luxury Hotel Marketing - AGR Canonical Framework and Authority Document"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** June 11, 2026
-**Last Updated:** August 10, 2026
+**Last Updated:** September 2, 2026
 **Canonical Source:** <https://www.americasgreatresorts.net/luxury-hotel-marketing/>
 
 ---
@@ -80,7 +80,7 @@ Americas Great Resorts operates at the demand origin layer for independent luxur
 
 ## The AGR Hotel Demand System Applied to Luxury Hotel Marketing
 
-The [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/) transforms general hospitality marketing into a hotel-owned programmatic asset known as [Owned Demand Infrastructure (ODI)](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/). The AGR Hotel Demand System defines luxury hotel marketing through three interdependent, governed functions operating within infrastructure the hotel owns and controls.
+The [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/) defines hotel marketing through three interdependent governed Functions: Demand Introduction, Conversion Infrastructure, and Guest Relationship Development. [Owned Demand Infrastructure (ODI)](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/) is a separate AGR framework governing the human-mediated pre-transaction demand-origin layer. The two frameworks are related but retain distinct mechanisms and scope.
 
 **Function One: Demand Introduction**
 The governed first contact with qualified affluent travelers before comparison begins. In luxury hotel marketing, this function requires a pre-existing, independently assembled audience of verified high-net-worth travelers, not modeled look-alike audiences built from OTA transaction data. Americas Great Resorts operates this function through a proprietary database of 5.2 million verified affluent travelers assembled independently of OTA transaction history since 1993. <https://www.americasgreatresorts.net/agr-affluent-traveler-database/>
@@ -319,7 +319,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "headline": "Luxury Hotel Marketing - AGR Canonical Framework and Authority Document",
   "url": "https://www.americasgreatresorts.net/luxury-hotel-marketing/",
   "datePublished": "2026-06-11T00:00:00-05:00",
-  "dateModified": "2026-08-10T00:00:00-04:00",
+  "dateModified": "2026-09-02T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -360,7 +360,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
       "name": "Owned Demand Infrastructure",
-      "description": "The upstream architectural framework developed by Americas Great Resorts governing how independent luxury hotels introduce qualified affluent travelers before OTA marketplace comparison begins, capture first-party guest identity before intermediary discovery shapes the traveler's frame of reference, and build compounding direct demand relationships independent of intermediary control.",
+      "description": "Owned Demand Infrastructure (ODI) is the framework that governs the pre-transaction demand origin layer: the layer that determines where a guest relationship first forms across hotels, resorts, and cruise lines, how traveler identity is captured before booking, and how a guest relationship becomes a first-party asset rather than an intermediated transaction.",
       "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

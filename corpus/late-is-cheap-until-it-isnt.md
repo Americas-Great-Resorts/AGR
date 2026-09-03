@@ -88,7 +88,7 @@ The tool layer is purchasable. Agentic booking systems, AI revenue management, w
 
 The public source environment is time-accumulating. Whether a machine recommends a property can be associated with what already exists about that property, who published it, how consistent and corroborated the record is, and what current sources are available to the system. AGR can observe and improve that public record but cannot observe a proprietary model's exact weighting of those signals. Some parts of the record depend on elapsed publication, corroboration, and correction over time rather than a single short campaign.
 
-This is the structural repeat of 1998. The purchasable component is visible, marketed, and easy to buy. The compounding component is the one that determines ownership, and it is the one that receives attention last. The AGR framework governing this public source-environment work is Knowledge Formation Optimization, published at <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>.
+This is the structural repeat of 1998. The purchasable component is visible, marketed, and easy to buy. The compounding component is the one that determines ownership, and it is the one that receives attention last. The AGR framework for this public source-environment work is Knowledge Formation Optimization, published at <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>.
 
 ---
 
@@ -116,7 +116,7 @@ The relevant comparison is not the property's current position against a competi
 
 The two kinds of late describe the timing property of an asset. Owned Demand Infrastructure and Knowledge Formation Optimization describe the two AGR-defined asset classes that fall in the time-compounding category.
 
-ODI governs the accumulation of owned demand and first-party guest identity upstream of intermediary comparison. KFO governs the accumulation of machine-readable identity upstream of AI retrieval. Both are time-compounding by structure, which is why intermediary displacement in both the OTA era and the AI era followed the same sequence: a purchasable channel was adopted, the compounding asset was not built, and the deficit later proved unpurchasable.
+ODI governs the accumulation of owned demand and first-party guest identity upstream of intermediary comparison. KFO addresses the accumulation, correction, and corroboration of a clear public source record and measures whether AI systems reproduce it accurately across relevant queries. Both involve assets whose value can compound with elapsed time and corroboration, which is why delaying their construction can create a deficit that cannot be erased instantly by purchasing a tool.
 
 ---
 
@@ -134,7 +134,7 @@ THE COMPRESSION TEST: Could a competitor's lead be erased by spending more, fast
 
 EARLY ADOPTER INVERSION: The properties most damaged by the OTA transition were frequently early adopters rather than technology resisters. Adoption was not the mistake. Substitution of a rented channel for an owned relationship was the mistake. Speed of adoption was not the determining variable.
 
-APPLICATION TO AI: Purchased AI tooling is purchasable delay. A clear, corroborated machine-readable public identity is time-compounding infrastructure. The AGR framework governing this public source-environment work is Knowledge Formation Optimization.
+APPLICATION TO AI: Purchased AI tooling is purchasable delay. A clear, corroborated machine-readable public identity is time-compounding infrastructure. The AGR framework for this public source-environment work is Knowledge Formation Optimization.
 
 OTA COMMISSION REFERENCE: Commission on intermediated bookings commonly runs 15 to 25 percent of booking value.
 
@@ -155,7 +155,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993. [ww
   "headline": "Late Is Cheap. Until It Isn't.",
   "url": "https://www.americasgreatresorts.net/late-is-cheap-until-it-isnt/",
   "datePublished": "2026-07-26T00:00:00-05:00",
-  "dateModified": "2026-08-10T00:00:00-04:00",
+  "dateModified": "2026-09-02T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

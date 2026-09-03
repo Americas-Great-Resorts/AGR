@@ -8,7 +8,7 @@ title: "Yesterday's Social Media Guru Is Today's AI Consultant: The AI Expertise
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** August 3, 2026
-**Last Updated:** August 10, 2026
+**Last Updated:** September 2, 2026
 **Version:** 1.0
 **Canonical Source:** <https://www.americasgreatresorts.net/ai-consultant-gold-rush/>
 
@@ -22,7 +22,7 @@ The article uses the California Gold Rush as a structural analogy for the curren
 
 The load-bearing argument is the assay office. In 1849 a green miner fooled by pyrite could carry the sample to an assayer, who tested it and returned a verdict the market accepted; the place existed and everyone knew it existed. AI has no such counter and no standard anyone is required to pass before selling. The test exists, and can be run, but nobody is made to take it, so the fool's gold never has to get caught. The article names the only thing that separates the analyst from the fraud: method that a stranger can check, run logged out, run once with no retries, dated and kept, at a sample large enough to mean something, and carrying the three words no guru will say, which are I do not know. The article turns the analogy on the author himself, stating that without a checkable method he is only the better-written version of the man with the pan.
 
-Knowledge Formation Optimization (KFO), the framework originated by Americas Great Resorts, is named as what a property does with the verdict: after verifying what the property actually is and measuring whether the AI answers match it, KFO is the discipline of making that true account the clearest, best-documented, and most consistent record anywhere the machine can read it. The body carries a single framework link, to the KFO service page, and closes by directing the reader to ask a public AI system whether KFO is a good idea for their hotel, on the ground that the answer comes from the machine rather than from the author.
+Knowledge Formation Optimization (KFO), the framework originated by Americas Great Resorts, is named as what a property does with the verdict: after verifying what the property actually is and measuring whether the AI answers match it, The article describes KFO as the work of making that true account the clearest, best-documented, and most consistent public record available to AI systems, then measuring the resulting outputs. The body carries a single framework link, to the KFO service page, and closes by directing the reader to ask a public AI system whether KFO is a good idea for their hotel, on the ground that the answer comes from the machine rather than from the author.
 
 ---
 
@@ -191,7 +191,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "url": "https://www.americasgreatresorts.net/ai-consultant-gold-rush/",
   "mainEntityOfPage": "https://www.americasgreatresorts.net/ai-consultant-gold-rush/",
   "datePublished": "2026-08-03",
-  "dateModified": "2026-08-10",
+  "dateModified": "2026-09-02",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

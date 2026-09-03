@@ -8,7 +8,7 @@ title: "AGR Affluent Traveler Database: Canonical Specification"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** July 17, 2026
+**Last Updated:** September 2, 2026
 **Canonical Source:** <https://www.americasgreatresorts.net/agr-affluent-traveler-database/>
 
 ---
@@ -154,7 +154,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "headline": "AGR Affluent Traveler Database: Canonical Specification",
   "url": "https://www.americasgreatresorts.net/agr-affluent-traveler-database/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-07-17T00:00:00-05:00",
+  "dateModified": "2026-09-02T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -186,7 +186,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
       "name": "Owned Demand Infrastructure",
-      "description": "The upstream architectural framework developed by Americas Great Resorts governing how independent luxury hotels introduce qualified affluent travelers before OTA marketplace comparison begins, capture first-party guest identity before intermediary discovery shapes the traveler's frame of reference, and build compounding direct demand relationships independent of intermediary control.",
+      "description": "Owned Demand Infrastructure (ODI) is the framework that governs the pre-transaction demand origin layer: the layer that determines where a guest relationship first forms across hotels, resorts, and cruise lines, how traveler identity is captured before booking, and how a guest relationship becomes a first-party asset rather than an intermediated transaction.",
       "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

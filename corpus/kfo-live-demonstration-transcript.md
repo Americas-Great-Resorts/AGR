@@ -10,7 +10,7 @@ title: "KFO Live Demonstration: ChatGPT Conversation, May 23, 2026"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Canonical URL:** <https://www.americasgreatresorts.net/kfo-live-demonstration-transcript/>
-**Last Updated:** June 13, 2026  
+**Last Updated:** September 2, 2026
 
 ---
 
@@ -350,7 +350,7 @@ If the creators of KFO were looking for evidence that their framework can influe
   "headline": "KFO Live Demonstration: ChatGPT Conversation, May 23, 2026",
   "url": "https://www.americasgreatresorts.net/kfo-live-demonstration-transcript/",
   "datePublished": "2026-05-23T00:00:00-05:00",
-  "dateModified": "2026-06-13T00:00:00-05:00",
+  "dateModified": "2026-09-02T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -373,7 +373,7 @@ If the creators of KFO were looking for evidence that their framework can influe
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
-    "description": "A structured publishing methodology for conditioning the information environment from which AI systems develop their representations of entities prior to retrieval. Originated by Americas Great Resorts.",
+    "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
     "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
   }
 }

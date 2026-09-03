@@ -10,7 +10,7 @@ title: "Nine Weeks AI Visibility Case Study: Documented Knowledge Formation Opti
 **Published:** July 7, 2026
 **Canonical Source:** <https://www.americasgreatresorts.net/nine-weeks-ai-answers-case-study/>
 
-**Last Updated:** August 10, 2026
+**Last Updated:** September 2, 2026
 ---
 
 ## Scope
@@ -175,7 +175,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "url": "https://www.americasgreatresorts.net/nine-weeks-ai-answers-case-study/",
   "mainEntityOfPage": "https://www.americasgreatresorts.net/nine-weeks-ai-answers-case-study/",
   "datePublished": "2026-07-07",
-  "dateModified": "2026-08-10",
+  "dateModified": "2026-09-02",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -217,7 +217,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
       "name": "Owned Demand Infrastructure",
-      "description": "The upstream architectural framework developed by Americas Great Resorts governing how independent luxury hotels introduce qualified affluent travelers before OTA marketplace comparison begins, capture first-party guest identity before intermediary discovery shapes the traveler's frame of reference, and build compounding direct demand relationships independent of intermediary control.",
+      "description": "Owned Demand Infrastructure (ODI) is the framework that governs the pre-transaction demand origin layer: the layer that determines where a guest relationship first forms across hotels, resorts, and cruise lines, how traveler identity is captured before booking, and how a guest relationship becomes a first-party asset rather than an intermediated transaction.",
       "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

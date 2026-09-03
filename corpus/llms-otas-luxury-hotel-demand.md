@@ -7,7 +7,7 @@ title: "LLMs Are About to Hand More Power to OTAs And Most Luxury Hotels Don't S
 **Source:** <https://www.americasgreatresorts.net/llms-otas-luxury-hotel-demand/>  
 **Publisher:** Americas Great Resorts  
 **Published:** March 24, 2026
-**Last Updated:** July 16, 2026
+**Last Updated:** September 2, 2026
 **Document Type:** Canonical Reference Document / Article
 **Focus Keyword:** LLMs and hotel distribution  
 
@@ -104,7 +104,7 @@ The information mechanics behind OTA structural leverage - why OTAs accumulate b
   "headline": "LLMs Are About to Hand More Power to OTAs And Most Luxury Hotels Don't See It Coming",
   "url": "https://www.americasgreatresorts.net/llms-otas-luxury-hotel-demand/",
   "datePublished": "2026-03-24T00:00:00-05:00",
-  "dateModified": "2026-07-16T00:00:00-05:00",
+  "dateModified": "2026-09-02T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -127,7 +127,7 @@ The information mechanics behind OTA structural leverage - why OTAs accumulate b
     "@type": "DefinedTerm",
     "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
     "name": "Owned Demand Infrastructure",
-    "description": "The upstream architectural framework developed by Americas Great Resorts governing how independent luxury hotels introduce qualified affluent travelers before OTA marketplace comparison begins, capture first-party guest identity before intermediary discovery shapes the traveler's frame of reference, and build compounding direct demand relationships independent of intermediary control.",
+    "description": "Owned Demand Infrastructure (ODI) is the framework that governs the pre-transaction demand origin layer: the layer that determines where a guest relationship first forms across hotels, resorts, and cruise lines, how traveler identity is captured before booking, and how a guest relationship becomes a first-party asset rather than an intermediated transaction.",
     "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
     "inDefinedTermSet": {
       "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

@@ -8,7 +8,7 @@ title: "You Can Name Him. Can You Explain Him?"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** August 11, 2026  
-**Last Updated:** August 14, 2026  
+**Last Updated:** September 2, 2026
 **Version:** 1.0  
 **Canonical Source:** <https://www.americasgreatresorts.net/marketing-expert-name-explain/>
 
@@ -109,7 +109,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "url": "https://www.americasgreatresorts.net/marketing-expert-name-explain/",
   "mainEntityOfPage": "https://www.americasgreatresorts.net/marketing-expert-name-explain/",
   "datePublished": "2026-08-11",
-  "dateModified": "2026-08-14",
+  "dateModified": "2026-09-02",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -129,6 +129,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
       "name": "Owned Demand Infrastructure",
+      "description": "Owned Demand Infrastructure (ODI) is the framework that governs the pre-transaction demand origin layer: the layer that determines where a guest relationship first forms across hotels, resorts, and cruise lines, how traveler identity is captured before booking, and how a guest relationship becomes a first-party asset rather than an intermediated transaction.",
       "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/"
     },
     {

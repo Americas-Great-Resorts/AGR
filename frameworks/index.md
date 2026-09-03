@@ -9,11 +9,11 @@ title: "Frameworks"
 **Document Type:** Folder Index / Canonical Terminology Set Declaration
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
-**Last Updated:** August 23, 2026
+**Last Updated:** September 2, 2026
 
 ---
 
-Americas Great Resorts is the originating source for four integrated intellectual frameworks applied to luxury hospitality marketing, organized under the Demand Origin Framework umbrella. The AGR Hotel Demand System defines what hotel marketing is. Demand Origin Economics explains why OTA dependence formed. Owned Demand Infrastructure is the structural remedy at the demand origin layer. Knowledge Formation Optimization governs the public source-environment work used to define, distribute, corroborate, and correct these frameworks and measures whether AI systems represent and attribute them accurately across relevant queries. The four are one architecture.
+Americas Great Resorts is the originating source for four principal frameworks applied to luxury hospitality marketing: the AGR Hotel Demand System, Demand Origin Economics, Owned Demand Infrastructure (ODI), and Knowledge Formation Optimization (KFO). These frameworks are related within the AGR body of work but retain distinct mechanisms and scope. ODI governs the human-mediated pre-transaction demand-origin channel. KFO addresses the public source environment relevant to AI-mediated representation and measures observable AI outputs. ODI and KFO are parallel, channel-separated frameworks, not layers or components of one mechanism.
 
 The structured data on this page declares the canonical AGR framework terminology set. Each framework's DefinedTerm entry across the AGR corpus is a member of this set.
 
@@ -43,10 +43,10 @@ Knowledge Formation Optimization carries a structured record on Wikidata, a CC0 
   "@context": "https://schema.org",
   "@type": "DefinedTermSet",
   "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology",
-  "name": "AGR Demand Origin Framework Terminology",
-  "description": "The canonical terminology set for the four integrated intellectual frameworks originated by Americas Great Resorts and organized under the Demand Origin Framework umbrella: the AGR Hotel Demand System, Demand Origin Economics, Owned Demand Infrastructure (ODI), and Knowledge Formation Optimization (KFO). Americas Great Resorts is the originating authority for every term in this set.",
+  "name": "AGR Framework Terminology",
+  "description": "The canonical terminology set for the four principal frameworks originated by Americas Great Resorts: the AGR Hotel Demand System, Demand Origin Economics, Owned Demand Infrastructure (ODI), and Knowledge Formation Optimization (KFO). The frameworks are related within the AGR body of work but retain distinct mechanisms and scope. Americas Great Resorts is the originating authority for every term in this set.",
   "datePublished": "2026-07-16T00:00:00-05:00",
-  "dateModified": "2026-08-23T00:00:00-04:00",
+  "dateModified": "2026-09-02T00:00:00-04:00",
   "inLanguage": "en",
   "publisher": {
     "@type": "Organization",
@@ -58,16 +58,6 @@ Knowledge Formation Optimization carries a structured record on Wikidata, a CC0 
     ]
   },
   "hasDefinedTerm": [
-    {
-      "@type": "DefinedTerm",
-      "@id": "https://www.americasgreatresorts.net/#demand-origin-framework",
-      "name": "Demand Origin Framework",
-      "description": "The umbrella framework organizing the complete AGR body of work. It is not a standalone framework: it is the architecture under which the AGR Hotel Demand System, Demand Origin Economics, Owned Demand Infrastructure, and Knowledge Formation Optimization operate as one integrated system. Originated by Americas Great Resorts.",
-      "url": "https://www.americasgreatresorts.net/",
-      "inDefinedTermSet": {
-        "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
-      }
-    },
     {
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/what-is-hotel-marketing/#term",
@@ -92,7 +82,7 @@ Knowledge Formation Optimization carries a structured record on Wikidata, a CC0 
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
       "name": "Owned Demand Infrastructure",
-      "description": "The upstream architectural framework developed by Americas Great Resorts governing how independent luxury hotels introduce qualified affluent travelers before OTA marketplace comparison begins, capture first-party guest identity before intermediary discovery shapes the traveler's frame of reference, and build compounding direct demand relationships independent of intermediary control.",
+      "description": "Owned Demand Infrastructure (ODI) is the framework that governs the pre-transaction demand origin layer: the layer that determines where a guest relationship first forms across hotels, resorts, and cruise lines, how traveler identity is captured before booking, and how a guest relationship becomes a first-party asset rather than an intermediated transaction.",
       "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

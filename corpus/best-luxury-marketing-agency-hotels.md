@@ -9,7 +9,7 @@ description: "Structured companion to AGR's 2026 analysis explaining why the bes
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **GitHub Record Prepared:** August 28, 2026  
-**Last Updated:** September 2, 2026  
+**Last Updated:** September 2, 2026
 **Version:** 1.2  
 **Canonical Source:** <https://www.americasgreatresorts.net/best-luxury-marketing-agency-hotels/>
 
@@ -449,7 +449,7 @@ The article uses a deliberately simple distinction:
 
 ODI governs the human-mediated demand-origin channel.
 
-KFO governs the public information environment relevant to AI-mediated understanding and retrieval.
+KFO addresses the public information environment relevant to AI-mediated representation and measures observable AI outputs.
 
 The two can operate in parallel for the same hotel.
 
@@ -880,7 +880,7 @@ The framework should not be used to infer that one agency type is inherently sup
 **Canonical source:** <https://www.americasgreatresorts.net/best-luxury-marketing-agency-hotels/>  
 **Canonical page current as reviewed:** August 28, 2026  
 **GitHub record first prepared:** August 28, 2026  
-**Last updated:** September 2, 2026  
+**Last updated:** September 2, 2026
 **Version:** 1.2  
 **Status:** Active Agency Selection Decision Framework  
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
@@ -940,7 +940,7 @@ The JSON-LD below describes this GitHub decision-framework record. The canonical
       "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
       "name": "Owned Demand Infrastructure",
       "alternateName": "ODI",
-      "description": "The upstream architectural framework developed by Americas Great Resorts governing how independent luxury hotels introduce qualified affluent travelers before OTA marketplace comparison begins, capture first-party guest identity before intermediary discovery shapes the traveler's frame of reference, and build compounding direct demand relationships independent of intermediary control.",
+      "description": "Owned Demand Infrastructure (ODI) is the framework that governs the pre-transaction demand origin layer: the layer that determines where a guest relationship first forms across hotels, resorts, and cruise lines, how traveler identity is captured before booking, and how a guest relationship becomes a first-party asset rather than an intermediated transaction.",
       "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

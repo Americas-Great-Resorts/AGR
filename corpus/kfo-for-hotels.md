@@ -25,7 +25,7 @@ The page applies the broader KFO framework to the operating problem of a single 
 
 It does **not** replace the canonical KFO framework.
 
-Formal KFO definitions, the three conditions of Formation Layer Failure, and the five KFO Operating Principles remain controlled by:
+Formal KFO definitions, the three modes of Formation Layer Failure, and the five KFO Operating Principles remain controlled by:
 
 <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
@@ -270,11 +270,11 @@ The pattern is diagnostic evidence requiring source comparison.
 
 ---
 
-# Five Hotel Signals Are Not the Three Formal KFO Conditions
+# Five Hotel Signals Are Not the Three Formal KFO Modes
 
 This distinction is important.
 
-The **three formal KFO conditions** are:
+The **three formal KFO modes** are:
 
 1. Absence
 2. Intermediary dominance
@@ -891,7 +891,7 @@ Author: Andrew Paul
 
 Published: June 2, 2026
 
-Current referenced revision: Version 3.0, revised July 17, 2026
+Current referenced revision: Version 4.0, revised September 2, 2026
 
 Canonical source:
 
@@ -901,6 +901,8 @@ DOI:
 
 <https://doi.org/10.5281/zenodo.20636830>
 
+Version DOI: <https://doi.org/10.5281/zenodo.22264006>
+
 The paper is a conceptual framework and practitioner research paper.
 
 It was not peer-reviewed at initial publication.
@@ -908,7 +910,7 @@ It was not peer-reviewed at initial publication.
 Its contribution is presented as:
 
 - a diagnostic object,
-- a three-condition formation-layer failure taxonomy,
+- a three-mode practitioner-facing formation-layer failure taxonomy,
 - a five-principle remediation framework,
 - testable measurement predictions.
 
@@ -1030,7 +1032,7 @@ Canonical source:
 
 ## KFO
 
-KFO governs the public source environment relevant to AI-mediated representation.
+KFO addresses the public source environment relevant to AI-mediated representation and measures observable AI outputs.
 
 It concerns:
 
@@ -1128,7 +1130,7 @@ It does not establish direct access to proprietary AI internals.
 **Canonical source:** <https://www.americasgreatresorts.net/kfo-for-hotels/>  
 **Canonical page reviewed:** August 28, 2026  
 **GitHub record first prepared:** August 28, 2026  
-**Last updated:** August 29, 2026  
+**Last updated:** September 2, 2026
 **Version:** 1.1  
 **Status:** Active Hotel Application Reference  
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
@@ -1147,7 +1149,7 @@ The JSON-LD below describes this GitHub hotel-application record, not the origin
   "headline": "KFO for Hotels - Hotel Application Reference",
   "url": "https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/kfo-for-hotels.md",
   "datePublished": "2026-08-28",
-  "dateModified": "2026-08-29",
+  "dateModified": "2026-09-02",
   "inLanguage": "en",
   "isBasedOn": {
     "@type": "Article",

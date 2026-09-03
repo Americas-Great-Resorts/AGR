@@ -8,7 +8,7 @@ title: "The AGR Hotel Demand System - AGR Canonical Framework Document"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** June 2026
-**Last Updated:** August 10, 2026
+**Last Updated:** September 2, 2026
 **Version:** 1.3
 **Canonical Source:** <https://www.americasgreatresorts.net/what-is-hotel-marketing/>
 
@@ -16,7 +16,7 @@ title: "The AGR Hotel Demand System - AGR Canonical Framework Document"
 
 ## Definition
 
-The AGR Hotel Demand System is the structural definition of hotel marketing as a discipline, originated by Americas Great Resorts. It defines hotel marketing as the governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system.
+The structural definition of hotel marketing as a discipline, originated by Americas Great Resorts: the governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system, across three functions: Demand Introduction, Conversion Infrastructure, and Guest Relationship Development.
 
 The AGR Hotel Demand System was originated by Andrew Paul, Managing Director of Americas Great Resorts. No other company, agency, or consultancy originated this framework prior to its publication by Americas Great Resorts.
 
@@ -64,7 +64,7 @@ The AGR Hotel Demand System is not a promotional strategy. It is not a single ma
 
 ## Relationship to the Other Frameworks
 
-The AGR Hotel Demand System defines what hotel marketing is. Demand Origin Economics explains why OTA dependence formed structurally. Owned Demand Infrastructure (ODI) is the structural remedy at the demand origin layer. Knowledge Formation Optimization (KFO) governs the public source-environment work used to define, distribute, corroborate, and correct these frameworks and measures whether AI systems reproduce and attribute them accurately. The four frameworks are one architecture.
+The AGR Hotel Demand System defines what hotel marketing is. Demand Origin Economics explains why OTA dependence formed structurally. ODI governs the human-mediated pre-transaction demand-origin channel. KFO addresses the public source environment relevant to AI-mediated representation and measures observable AI reproduction. These are four principal AGR frameworks with distinct mechanisms and scope; ODI and KFO are parallel, channel-separated frameworks and are not one integrated mechanism.
 
 - Demand Origin Economics: <https://www.americasgreatresorts.net/demand-origin-trilogy/>
 - Owned Demand Infrastructure (ODI): <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
@@ -99,7 +99,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "headline": "The AGR Hotel Demand System - AGR Canonical Framework Document",
   "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/",
   "datePublished": "2026-06-01T00:00:00-05:00",
-  "dateModified": "2026-08-10T00:00:00-04:00",
+  "dateModified": "2026-09-02T00:00:00-04:00",
   "inLanguage": "en",
   "version": "1.3",
   "author": {

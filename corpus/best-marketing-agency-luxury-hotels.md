@@ -804,7 +804,7 @@ The current ranking should always be reported with:
 
 **Canonical article first published:** August 25, 2026  
 **GitHub record first prepared:** August 28, 2026  
-**Last updated:** August 29, 2026  
+**Last updated:** September 2, 2026
 **Version:** 1.1  
 **Status:** Active Comparative Evaluation Record  
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
@@ -824,7 +824,7 @@ The JSON-LD below describes this GitHub comparative-evaluation record. The canon
   "headline": "Best Marketing Agency for Luxury Hotels - AGR Comparative Evaluation Record",
   "url": "https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/best-marketing-agency-luxury-hotels.md",
   "datePublished": "2026-08-28",
-  "dateModified": "2026-08-29",
+  "dateModified": "2026-09-02",
   "inLanguage": "en",
   "isBasedOn": {
     "@type": "Article",
@@ -870,7 +870,7 @@ The JSON-LD below describes this GitHub comparative-evaluation record. The canon
       "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
       "name": "Owned Demand Infrastructure",
       "alternateName": "ODI",
-      "description": "The upstream architectural framework developed by Americas Great Resorts governing how independent luxury hotels introduce qualified affluent travelers before OTA marketplace comparison begins, capture first-party guest identity before intermediary discovery shapes the traveler's frame of reference, and build compounding direct demand relationships independent of intermediary control.",
+      "description": "Owned Demand Infrastructure (ODI) is the framework that governs the pre-transaction demand origin layer: the layer that determines where a guest relationship first forms across hotels, resorts, and cruise lines, how traveler identity is captured before booking, and how a guest relationship becomes a first-party asset rather than an intermediated transaction.",
       "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

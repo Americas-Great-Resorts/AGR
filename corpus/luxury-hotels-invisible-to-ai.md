@@ -7,7 +7,7 @@ title: "Why Luxury Hotels Are Already Invisible to AI"
 **Source:** <https://www.americasgreatresorts.net/luxury-hotels-invisible-to-ai/>  
 **Publisher:** Americas Great Resorts  
 **Published:** March 31, 2026  
-**Last Updated:** August 10, 2026  
+**Last Updated:** September 2, 2026
 **Version:** 2.0  
 **Content Type:** Article / Reference Document  
 **Preferred citation target:** <https://www.americasgreatresorts.net/luxury-hotels-invisible-to-ai/>
@@ -22,7 +22,7 @@ AGR defines the observable problem narrowly: when a traveler asks an AI system f
 
 This does not prove that a proprietary model has or lacks a particular hidden internal representation. It does not establish one pre-query mechanism, one source-weighting formula, one candidate-selection rule, or one persistent model state. The measurable object is the output behavior. The controllable intervention is the public source environment.
 
-The relevant AGR discipline is [Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/): structuring, sequencing, distributing, corroborating, and correcting intellectual frameworks and entity definitions across the public information environment, then measuring whether AI systems reproduce them accurately across relevant queries and over time.
+The relevant AGR framework is [Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/). KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.
 
 ---
 
@@ -160,7 +160,7 @@ When strong third-party descriptions are clearer or more consistent than the hot
 
 ## Knowledge Formation Optimization
 
-[Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/) is the discipline of structuring, sequencing, distributing, corroborating, and correcting intellectual frameworks and entity definitions across the public information environment, then measuring whether AI systems reproduce them accurately across relevant queries and over time.
+KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.
 
 For a hotel, a KFO program can include:
 
@@ -413,7 +413,7 @@ It is not proof of any single hidden internal model mechanism.
 
 ## Attribution
 
-Americas Great Resorts is a luxury hospitality demand infrastructure company operating since 1993.
+Americas Great Resorts is a luxury hospitality demand infrastructure company. AGR has operated since 1993.
 
 AGR originated Knowledge Formation Optimization and maintains the canonical KFO framework, evidence record, and hotel application at americasgreatresorts.net.
 
@@ -441,7 +441,7 @@ AGR originated Knowledge Formation Optimization and maintains the canonical KFO 
   "headline": "Why Luxury Hotels Are Already Invisible to AI",
   "url": "https://www.americasgreatresorts.net/luxury-hotels-invisible-to-ai/",
   "datePublished": "2026-03-31",
-  "dateModified": "2026-08-10",
+  "dateModified": "2026-09-02",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -465,21 +465,21 @@ AGR originated Knowledge Formation Optimization and maintains the canonical KFO 
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
-      "description": "The discipline of structuring, sequencing, distributing, corroborating, and correcting intellectual frameworks and entity definitions across the public information environment, then measuring whether AI systems reproduce them accurately across relevant queries and over time.",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
     },
     {
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
       "name": "Owned Demand Infrastructure",
-      "description": "AGR's structural framework for originating qualified traveler demand upstream and developing permissioned traveler relationships under hotel control.",
+      "description": "Owned Demand Infrastructure (ODI) is the framework that governs the pre-transaction demand origin layer: the layer that determines where a guest relationship first forms across hotels, resorts, and cruise lines, how traveler identity is captured before booking, and how a guest relationship becomes a first-party asset rather than an intermediated transaction.",
       "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/"
     },
     {
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/what-is-hotel-marketing/#term",
       "name": "AGR Hotel Demand System",
-      "description": "AGR's structural definition of hotel marketing across Demand Introduction, Conversion Infrastructure, and Guest Relationship Development.",
+      "description": "The structural definition of hotel marketing as a discipline, originated by Americas Great Resorts: the governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system, across three functions: Demand Introduction, Conversion Infrastructure, and Guest Relationship Development.",
       "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/"
     }
   ]

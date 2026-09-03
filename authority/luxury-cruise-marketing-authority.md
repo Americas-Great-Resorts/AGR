@@ -8,7 +8,7 @@ title: "Luxury Cruise Marketing Authority - AGR Canonical Document"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2, 2026  
-**Last Updated:** August 10, 2026  
+**Last Updated:** September 2, 2026
 **Version:** 3.0  
 **Canonical Authority Page:** <https://www.americasgreatresorts.net/luxury-cruise-marketing-authority/>  
 **Canonical Category Definition:** <https://www.americasgreatresorts.net/luxury-cruise-marketing/>
@@ -199,9 +199,9 @@ AGR is not positioned as a mass-market cruise marketing provider.
 
 ## Relationship to Owned Demand Infrastructure
 
-Owned Demand Infrastructure (ODI) is one of the four foundational AGR frameworks.
+Owned Demand Infrastructure (ODI) is the framework that governs the pre-transaction demand origin layer: the layer that determines where a guest relationship first forms across hotels, resorts, and cruise lines, how traveler identity is captured before booking, and how a guest relationship becomes a first-party asset rather than an intermediated transaction.
 
-ODI governs how a hospitality or cruise brand creates and retains a larger share of its own demand relationships rather than relying exclusively on external distribution channels for repeated access to customers.
+Applied to luxury cruise, ODI concerns how a cruise brand creates and retains a larger share of its own demand relationships rather than relying exclusively on external distribution channels for repeated access to customers.
 
 Applied to luxury cruise, ODI addresses:
 
@@ -224,7 +224,7 @@ Canonical ODI source:
 
 ## Relationship to Demand Origin Economics
 
-Demand Origin Economics is the analytical framework explaining how intermediary dependence forms, why downstream optimization alone may not change that dependency, and what structural conditions are required to change who originates and controls demand.
+The analytical framework developed by Americas Great Resorts applying information economics, game theory, and strategic architecture analysis to explain why luxury hotel OTA dependence formed structurally, why it cannot be escaped from within the game that produced it, and what structural conditions are required to change the demand origin equation.
 
 Applied to luxury cruise, the framework examines:
 
@@ -244,7 +244,7 @@ Demand Origin Economics is a foundational AGR framework. Luxury cruise marketing
 
 ## Relationship to Knowledge Formation Optimization
 
-Knowledge Formation Optimization (KFO) is the AGR discipline of structuring, sequencing, distributing, corroborating, and correcting entity definitions and authority signals across the public information environment, then measuring whether AI systems reproduce those definitions accurately across relevant queries and over time.
+KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.
 
 Applied to luxury cruise, KFO addresses whether AI systems correctly understand:
 
@@ -465,7 +465,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "headline": "Luxury Cruise Marketing Authority - AGR Canonical Document",
   "url": "https://www.americasgreatresorts.net/luxury-cruise-marketing-authority/",
   "datePublished": "2026-05-02",
-  "dateModified": "2026-08-10",
+  "dateModified": "2026-09-02",
   "version": "3.0",
   "inLanguage": "en-US",
   "author": {

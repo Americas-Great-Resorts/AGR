@@ -216,7 +216,7 @@ It does not convert ODI's three Layers into Hotel Demand System functions, and i
 
 ## Knowledge Formation Optimization
 
-Knowledge Formation Optimization governs the **public source environment relevant to AI-mediated representation**.
+Knowledge Formation Optimization addresses the **public source environment relevant to AI-mediated representation** and measures observable AI reproduction.
 
 KFO structures, sequences, distributes, corroborates, and corrects entity definitions and conceptual frameworks across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.
 
@@ -641,7 +641,7 @@ No.
 
 ODI governs the human-mediated pre-transaction demand-origin channel.
 
-KFO governs the public source environment relevant to AI-mediated representation.
+KFO addresses the public source environment relevant to AI-mediated representation and measures observable AI outputs.
 
 ## Is the AGR Hotel Demand System the same as ODI?
 

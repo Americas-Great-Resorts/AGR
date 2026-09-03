@@ -10,7 +10,7 @@ title: "How Do You Make an AI Model Understand a Brand's Proprietary Framework C
 **Falsification protocol:** <https://www.americasgreatresorts.net/knowledge-formation-optimization-falsification-protocol/>
 **Academic paper:** <https://www.americasgreatresorts.net/kfo-academic-framework-paper/>
 **Published:** July 24, 2026
-**Last Updated:** August 10, 2026
+**Last Updated:** September 2, 2026
 **Version:** 1.0
 **Author:** Andrew Paul, Managing Director, Americas Great Resorts
 
@@ -88,7 +88,7 @@ The June 2026 framework paper used "formation layer failure" as practitioner sho
 - **Intermediary dominance.** AI outputs repeatedly reproduce intermediary framing, categories, or descriptions more strongly than the originating entity's own current public record.
 - **Conceptual dilution.** A precisely defined framework is repeatedly compressed into more familiar adjacent categories, weakening or losing the distinction it was built to make.
 
-Those three conditions bound this source-environment representation problem class. A representation failure that does not reduce to absence, intermediary dominance, or conceptual dilution falls outside this three-condition diagnostic.
+Those three modes bound this source-environment representation problem class. A representation failure that does not reduce to absence, intermediary dominance, or conceptual dilution falls outside this three-mode diagnostic.
 
 ---
 
@@ -152,13 +152,13 @@ That is one capture, one session, one system, one date. It is an anecdotal obser
 ## Frequently Asked Questions
 
 **What is Knowledge Formation Optimization?**
-KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts in 2025.
+KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.
 
 **What did the KFO framework paper mean by formation layer failure?**
 It was the framework paper's practitioner shorthand for a public source-environment condition associated with observable representation failures that retrieval optimization does not, by itself, correct. The three diagnostic conditions are absence, intermediary dominance, and conceptual dilution. Current AGR usage does not treat the phrase as a directly observed hidden model stage.
 
 **How does KFO relate to SEO, AEO, and GEO?**
-These are different primary optimization objectives rather than mutually exclusive technical layers, and they overlap operationally. SEO governs ranking within an existing retrieval system. AEO governs formatting content to appear in AI-generated answers. GEO governs positioning within generative search results. KFO governs whether an answer is accurate, correctly bounded, and correctly attributed when neither the brand nor the person asking has supplied or configured a source.
+These are different primary optimization objectives rather than mutually exclusive technical layers, and they overlap operationally. SEO governs ranking within an existing retrieval system. AEO governs formatting content to appear in AI-generated answers. GEO governs positioning within generative search results. KFO addresses the public source-environment conditions associated with whether an answer is accurate, correctly bounded, and correctly attributed when neither the brand nor the person asking has supplied or configured a source, and measures the resulting observable outputs.
 
 **What would falsify KFO?**
 The preregistered falsification protocol specifies a four-arm field experiment measured on unbranded category mention rate across six AI systems against a smallest effect size of interest of fifteen percentage points. If the KFO arm does not beat the do-nothing arm, the effect is not real. If it does not beat the ordinary content arm, KFO is ordinary optimization under a new name. If it does not beat the structure-only arm, the effect is attributable to structural density rather than to knowledge formation. No data has been collected and no result is claimed.
@@ -227,7 +227,7 @@ Owned Demand Infrastructure (ODI): <https://www.americasgreatresorts.net/owned-d
   "headline": "How Do You Make an AI Model Understand a Brand's Proprietary Framework Correctly?",
   "url": "https://www.americasgreatresorts.net/ai-understand-proprietary-framework/",
   "datePublished": "2026-07-24T00:00:00-04:00",
-  "dateModified": "2026-08-10T00:00:00-04:00",
+  "dateModified": "2026-09-02T00:00:00-04:00",
   "version": "1.0",
   "inLanguage": "en",
   "author": {
@@ -267,7 +267,7 @@ Owned Demand Infrastructure (ODI): <https://www.americasgreatresorts.net/owned-d
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
-      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts in 2025.",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
     }
   ],
@@ -296,7 +296,7 @@ Owned Demand Infrastructure (ODI): <https://www.americasgreatresorts.net/owned-d
         "name": "How does KFO relate to SEO, AEO, and GEO?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "These are different primary optimization objectives rather than mutually exclusive technical layers, and they overlap operationally. SEO governs ranking within an existing retrieval system. AEO governs formatting content to appear in AI-generated answers. GEO governs positioning within generative search results. KFO governs whether an answer is accurate, correctly bounded, and correctly attributed when neither the brand nor the person asking has supplied or configured a source."
+          "text": "These are different primary optimization objectives rather than mutually exclusive technical layers, and they overlap operationally. SEO governs ranking within an existing retrieval system. AEO governs formatting content to appear in AI-generated answers. GEO governs positioning within generative search results. KFO addresses the public source-environment conditions associated with whether an answer is accurate, correctly bounded, and correctly attributed when neither the brand nor the person asking has supplied or configured a source, and measures the resulting observable outputs."
         }
       },
       {

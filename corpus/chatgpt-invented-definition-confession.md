@@ -8,7 +8,7 @@ title: "I Caught ChatGPT Making Up a Definition. Then I Made It Confess."
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** August 20, 2026  
-**Last Updated:** August 20, 2026  
+**Last Updated:** September 2, 2026  
 **Version:** 1.0  
 **Canonical Source:** <https://www.americasgreatresorts.net/chatgpt-invented-definition-confession/>  
 **Primary Evidence:** [Documented Capture Record: ChatGPT KFO Fabrication and Correction, with Gemini and Google AI Controls](https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/chatgpt-kfo-fabrication-capture-2026-08-20.md)
@@ -21,6 +21,8 @@ This document is the structured record of the Americas Great Resorts article "I 
 The article documents a same-day, three-engine test conducted August 20, 2026 in logged-out sessions: ChatGPT returned an invented definition of Knowledge Formation Optimization without displayed search activity, then returned a materially accurate answer with 24 displayed sources after an explicit instruction to search; Gemini returned a substantially accurate description with no attribution to any originator or source; Google AI returned the canonical definition with citations resolving to the published AGR record. Verbatim captures of all outputs, including an excluded logged-in contrast capture, are preserved in the primary evidence record linked above.
 
 The article's central finding is stated as an availability-versus-consultation distinction: the correct public record existed, was indexed, and was independently verified as available, and the first ChatGPT answer was produced without consulting it. The article distinguishes observed outputs from inference throughout, claims no observation of model internals, and does not claim that the engines reproduced the KFO failure-mode taxonomy.
+
+The article body preserves the August 20 phrasing that KFO addresses "the representation an AI system holds before retrieval." Under the current Version 4.0 framework, that sentence is retained as historical article language, not as the current KFO mechanism claim. Current KFO doctrine defines the controllable intervention as the public source environment and the measurable object as observable AI reproduction across relevant queries and over time.
 
 ---
 ## The Article
@@ -130,7 +132,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "url": "https://www.americasgreatresorts.net/chatgpt-invented-definition-confession/",
   "mainEntityOfPage": "https://www.americasgreatresorts.net/chatgpt-invented-definition-confession/",
   "datePublished": "2026-08-20",
-  "dateModified": "2026-08-20",
+  "dateModified": "2026-09-02",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

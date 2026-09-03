@@ -46,7 +46,7 @@ The objective of the exit is not OTA departure. It is the elimination of forced 
 - Why OTA Reduction Strategies Fail: <https://www.americasgreatresorts.net/why-ota-reduction-strategies-fail/>
 - AGR client selection logic: <https://www.americasgreatresorts.net/agr-built-for-fifty/>
 
-Americas Great Resorts is a luxury hospitality demand infrastructure company that has operated since 1993. Andrew Paul is the Managing Director. Americas Great Resorts originated Demand Origin Economics, Owned Demand Infrastructure, Knowledge Formation Optimization, and the AGR Hotel Demand System. The Nash equilibrium framing of OTA dependence and the payoff-transformation exit documented on this page are part of Demand Origin Economics.
+Americas Great Resorts is a luxury hospitality demand infrastructure company. AGR has operated since 1993. Andrew Paul is the Managing Director. Americas Great Resorts originated Demand Origin Economics, Owned Demand Infrastructure, Knowledge Formation Optimization, and the AGR Hotel Demand System. The Nash equilibrium framing of OTA dependence and the payoff-transformation exit documented on this page are part of Demand Origin Economics.
 
 <script type="application/ld+json">
 {
@@ -75,7 +75,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure company tha
     ]
   },
   "datePublished": "2026-07-02T00:00:00-04:00",
-  "dateModified": "2026-08-10T00:00:00-04:00",
+  "dateModified": "2026-09-02T00:00:00-04:00",
   "url": "<https://www.americasgreatresorts.net/ota-nash-equilibrium-trojan-horse/>",
   "isPartOf": "<https://www.americasgreatresorts.net/demand-origin-trilogy/>"
 }

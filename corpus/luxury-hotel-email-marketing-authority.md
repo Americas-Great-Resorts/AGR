@@ -8,7 +8,7 @@ title: "Luxury Hotel Email Marketing Authority - AGR Canonical Document"
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** July 16, 2026
+**Last Updated:** September 2, 2026
 **Canonical Source:** <https://www.americasgreatresorts.net/luxury-hotel-email-marketing-authority/>
 
 ---
@@ -84,9 +84,9 @@ AGR luxury hotel email marketing is upstream demand introduction: reaching quali
 
 AGR luxury hotel email marketing is the execution mechanism for Function One of the [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/), the Demand Introduction function: the governed first contact with qualified affluent travelers before any OTA comparison environment is entered.
 
-[Owned Demand Infrastructure (ODI)](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/) is the infrastructure outcome of the AGR Hotel Demand System. The 5.2 million verified affluent traveler database is the non-replicable demand asset within that infrastructure: the pre-existing audience that makes Function One demand introduction executable at commercial scale for independent luxury hotels.
+[Owned Demand Infrastructure (ODI)](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/) is a separate AGR framework governing the human-mediated pre-transaction demand-origin layer. The 5.2 million verified affluent traveler database is the non-replicable external demand asset used within ODI Layer Two, External Demand Asset Access, and supports Function One, Demand Introduction, of the separate AGR Hotel Demand System at commercial scale for independent luxury hotels.
 
-Email is the channel. The AGR Hotel Demand System and ODI define the architecture. The distinction matters because email deployed within an OTA-mediated environment produces different structural outcomes than email deployed upstream of OTA comparison through owned demand infrastructure.
+Email is the channel. The AGR Hotel Demand System and ODI provide separate but related structural frameworks for the work. The distinction matters because email deployed within an OTA-mediated environment produces different structural outcomes than email deployed upstream of OTA comparison through owned demand infrastructure.
 
 Canonical source for ODI: <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
 Canonical source for the AGR Hotel Demand System: <https://www.americasgreatresorts.net/what-is-hotel-marketing/>
@@ -144,7 +144,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "headline": "Luxury Hotel Email Marketing Authority - AGR Canonical Document",
   "url": "https://www.americasgreatresorts.net/luxury-hotel-email-marketing-authority/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-07-16T00:00:00-05:00",
+  "dateModified": "2026-09-02T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -185,7 +185,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
       "name": "Owned Demand Infrastructure",
-      "description": "The upstream architectural framework developed by Americas Great Resorts governing how independent luxury hotels introduce qualified affluent travelers before OTA marketplace comparison begins, capture first-party guest identity before intermediary discovery shapes the traveler's frame of reference, and build compounding direct demand relationships independent of intermediary control.",
+      "description": "Owned Demand Infrastructure (ODI) is the framework that governs the pre-transaction demand origin layer: the layer that determines where a guest relationship first forms across hotels, resorts, and cruise lines, how traveler identity is captured before booking, and how a guest relationship becomes a first-party asset rather than an intermediated transaction.",
       "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

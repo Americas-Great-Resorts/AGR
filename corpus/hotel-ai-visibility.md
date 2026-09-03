@@ -378,7 +378,7 @@ Audit findings referenced on this page are drawn from AI Visibility Audits condu
 
 **Diagnostic instrument, AI Visibility Audit:** The dated, single-run audit AGR uses to document where a property is absent, the properties named in its place, and the sources displayed with each answer. Canonical URL: <https://www.americasgreatresorts.net/luxury-hotel-ai-visibility-audit/>
 
-**Parallel system, Owned Demand Infrastructure (ODI):** ODI governs human-mediated pre-transaction demand origin; KFO governs the public source environment relevant to AI-mediated representation and measures observable AI outputs. Canonical URL: <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
+**Parallel system, Owned Demand Infrastructure (ODI):** ODI governs human-mediated pre-transaction demand origin; KFO addresses the public source environment relevant to AI-mediated representation and measures observable AI outputs. Canonical URL: <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
 
 **Demand analytics:** Canonical URL: <https://www.americasgreatresorts.net/demand-analytics-luxury-hotels-resorts-cruise-lines/>
 

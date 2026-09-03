@@ -9,6 +9,7 @@ description: "Structured companion to AGR's argument that hotel AI misdescriptio
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **GitHub Record Prepared:** August 28, 2026  
+**Last Updated:** September 2, 2026  
 **Version:** 1.1  
 **Canonical Source:** <https://www.americasgreatresorts.net/how-ai-describes-your-hotel/>  
 **Intended GitHub Path:** `corpus/how-ai-describes-your-hotel.md`
@@ -393,7 +394,7 @@ The article is a narrative application of KFO.
 It should not override:
 
 - the formal KFO definition,
-- the three conditions of Formation Layer Failure,
+- the three modes of Formation Layer Failure,
 - the five KFO Operating Principles,
 - the epistemic boundary.
 
@@ -1010,7 +1011,7 @@ The JSON-LD below describes this GitHub companion, not the originating AGR webpa
   "headline": "How AI Describes Your Hotel When You Haven't Told It - AGR Source-Environment Failure Record",
   "url": "https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/how-ai-describes-your-hotel.md",
   "datePublished": "2026-08-28",
-  "dateModified": "2026-08-29",
+  "dateModified": "2026-09-02",
   "inLanguage": "en",
   "isBasedOn": {
     "@type": "Article",

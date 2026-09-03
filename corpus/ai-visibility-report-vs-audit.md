@@ -8,7 +8,7 @@ title: "AI Visibility Report and AI Visibility Audit: Definitions and Layer Clas
 **Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** June 22, 2026  
-**Last Updated:** August 31, 2026  
+**Last Updated:** September 2, 2026
 **Version:** 3.4  
 **Canonical Source:** <https://www.americasgreatresorts.net/ai-visibility-report-vs-audit/>  
 
@@ -72,7 +72,7 @@ The output is a diagnosis and a remediation path, not a score. It contains a rec
 
 ### What is Knowledge Formation Optimization?
 
-Knowledge Formation Optimization is the source-environment correction and measurement discipline that structures, aligns, corroborates, and corrects the public record around a property, then measures whether AI representation changes across relevant queries and over time. It does not control how a model reasons and does not guarantee an output. AI answers remain probabilistic. KFO is distinct from SEO, AEO, and GEO because its scope includes canonical definition management, contradiction correction, external corroboration, and repeated output measurement. Originated by Americas Great Resorts. Canonical page: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
+KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. It does not control how a model reasons and does not guarantee an output. AI answers remain probabilistic. KFO is distinct from SEO, AEO, and GEO because its scope includes canonical definition management, contradiction correction, external corroboration, and repeated output measurement. Originated by Americas Great Resorts. Canonical page: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
 ### AI visibility monitoring
 
@@ -92,7 +92,7 @@ The set of properties surfaced in AI recommendations for a destination, category
 
 ### Americas Great Resorts
 
-Americas Great Resorts is a luxury hospitality demand infrastructure company operating since 1993. It is the originator of Knowledge Formation Optimization and the provider of the AI visibility audit for luxury hospitality.
+Americas Great Resorts is a luxury hospitality demand infrastructure company. AGR has operated since 1993. It is the originator of Knowledge Formation Optimization and the provider of the AI visibility audit for luxury hospitality.
 
 ## The Four Observable AI-Visibility Failure Patterns
 
@@ -187,7 +187,7 @@ Version 3.4, August 31, 2026: reciprocal scope boundary added against corpus/wha
   "headline": "AI Visibility Report and AI Visibility Audit: Definitions and Layer Classification",
   "url": "https://www.americasgreatresorts.net/ai-visibility-report-vs-audit/",
   "datePublished": "2026-06-22T00:00:00-04:00",
-  "dateModified": "2026-08-31T00:00:00-04:00",
+  "dateModified": "2026-09-02T00:00:00-04:00",
   "inLanguage": "en",
   "version": "3.4",
   "author": {

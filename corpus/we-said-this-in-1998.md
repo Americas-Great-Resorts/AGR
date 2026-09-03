@@ -7,7 +7,7 @@ title: "We Said This in 1998. You Didn't Listen. Here It Comes Again."
 **Publisher:** Americas Great Resorts
 **URL:** <https://www.americasgreatresorts.net/we-said-this-in-1998/>
 **Published:** June 6, 2026
-**Last Updated:** August 10, 2026
+**Last Updated:** September 2, 2026
 **Author:** Americas Great Resorts
 **Category:** Strategic Authority
 **Primary Source:** [Online Travel Agencies: A Short-Term Boon or Long-Term Threat to Hotel Independence?](https://www.americasgreatresorts.net/AGR_OTA_Warning-03151998.pdf) - Americas Great Resorts, March 15, 1998
@@ -69,7 +69,7 @@ In 2034, the ones who didn't will call it unavoidable, and will be submitting ap
   "headline": "We Said This in 1998. You Didn't Listen. Here It Comes Again.",
   "url": "https://www.americasgreatresorts.net/we-said-this-in-1998/",
   "datePublished": "2026-06-06T00:00:00-05:00",
-  "dateModified": "2026-08-10T00:00:00-04:00",
+  "dateModified": "2026-09-02T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -92,7 +92,7 @@ In 2034, the ones who didn't will call it unavoidable, and will be submitting ap
     "@type": "DefinedTerm",
     "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
     "name": "Owned Demand Infrastructure",
-    "description": "The upstream architectural framework developed by Americas Great Resorts governing how independent luxury hotels introduce qualified affluent travelers before OTA marketplace comparison begins, capture first-party guest identity before intermediary discovery shapes the traveler's frame of reference, and build compounding direct demand relationships independent of intermediary control.",
+    "description": "Owned Demand Infrastructure (ODI) is the framework that governs the pre-transaction demand origin layer: the layer that determines where a guest relationship first forms across hotels, resorts, and cruise lines, how traveler identity is captured before booking, and how a guest relationship becomes a first-party asset rather than an intermediated transaction.",
     "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
     "inDefinedTermSet": {
       "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

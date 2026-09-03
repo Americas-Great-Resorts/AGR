@@ -64,13 +64,13 @@ Machine-executable supply infrastructure consists of:
 - Query mapping that routes relevant AI queries to canonical property descriptions
 - Cross-surface corroboration intended to improve representation consistency over time
 
-This is the infrastructure [Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/) builds and maintains for independent luxury hotels.
+Americas Great Resorts applies [Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/) to build and maintain that public source architecture for independent luxury hotels and to measure the resulting observable AI outputs.
 
 ---
 
 ## Relationship to Knowledge Formation Optimization
 
-[Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/) is the discipline through which Americas Great Resorts builds the machine-executable supply infrastructure required for accurate agentic representation of independent luxury hotel properties.
+KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Applied to agentic travel planning, AGR uses KFO to correct and corroborate the public source environment around an independent luxury hotel and to measure how AI systems describe, classify, and include the property across relevant traveler queries.
 
 KFO addresses agentic travel-planning risk through public source-environment correction and repeated measurement of how AI systems describe, classify, and include the property across relevant traveler queries. It does not claim to act directly on a proprietary hidden candidate-selection process.
 
@@ -174,7 +174,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/#term",
       "name": "Owned Demand Infrastructure",
-      "description": "The upstream architectural framework developed by Americas Great Resorts governing how independent luxury hotels introduce qualified affluent travelers before OTA marketplace comparison begins, capture first-party guest identity before intermediary discovery shapes the traveler's frame of reference, and build compounding direct demand relationships independent of intermediary control.",
+      "description": "Owned Demand Infrastructure (ODI) is the framework that governs the pre-transaction demand origin layer: the layer that determines where a guest relationship first forms across hotels, resorts, and cruise lines, how traveler identity is captured before booking, and how a guest relationship becomes a first-party asset rather than an intermediated transaction.",
       "url": "https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

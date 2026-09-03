@@ -148,7 +148,7 @@ The underlying capture dataset of 824 ranked recommendations is available from A
 
 This record sits alongside The AGR Luxury Hotel AI Visibility Index rather than inside it. The Index measures how tightly AI hotel recommendations concentrate. This record measures whether that concentration corresponds to the site-level technical attributes commonly named as the cause of a property's absence, and reports that in this dataset it did not.
 
-Knowledge Formation Optimization is the AGR discipline that structures, sequences, distributes, corroborates, and corrects the public source environment from which AI systems form their understanding of an entity, and measures whether those systems reproduce it accurately across queries and over time. This record does not test KFO and makes no claim that KFO explains the pattern it documents. It records that the explanation the industry most commonly offers, blocked crawlers and missing structured data, is not supported by the properties AI systems actually named on the dates AGR measured.
+KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. This record does not test KFO and makes no claim that KFO explains the pattern it documents. It records that the explanation the industry most commonly offers, blocked crawlers and missing structured data, is not supported by the properties AI systems actually named on the dates AGR measured.
 
 ---
 
@@ -210,7 +210,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
       "url": "https://www.americasgreatresorts.net/which-hotels-ai-recommends/",
       "mainEntityOfPage": "https://www.americasgreatresorts.net/which-hotels-ai-recommends/",
       "datePublished": "2026-08-18",
-      "dateModified": "2026-08-18",
+      "dateModified": "2026-09-02",
       "inLanguage": "en",
       "isAccessibleForFree": true,
       "author": {"@type": "Person", "name": "Andrew Paul", "jobTitle": "Managing Director", "sameAs": "https://orcid.org/0009-0007-0281-3266"},

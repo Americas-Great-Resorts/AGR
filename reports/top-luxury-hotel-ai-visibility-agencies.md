@@ -208,7 +208,7 @@ Americas Great Resorts further records that the firm whose ranking page appeared
 
 This record evaluates the vendor market for AI visibility work. It does not test Knowledge Formation Optimization and makes no claim that KFO explains any pattern it documents.
 
-Knowledge Formation Optimization is the Americas Great Resorts discipline that structures, sequences, distributes, corroborates, and corrects the public source environment from which AI systems form their understanding of an entity, and measures whether those systems reproduce it accurately across queries and over time. Americas Great Resorts scores itself 5.0 on Definitional Provenance in this record because KFO is published with a dated framework paper carrying a Zenodo DOI, a Wikidata entity, ORCID attribution, Software Heritage archives, and a sealed falsification protocol stating in advance what result would disprove it. That score is the application of the published anchor, not an assertion that the framework is correct.
+KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. KFO was originated by Americas Great Resorts. Americas Great Resorts scores itself 5.0 on Definitional Provenance in this record because KFO is published with a dated framework paper carrying a Zenodo DOI, a Wikidata entity, ORCID attribution, Software Heritage archives, and a sealed falsification protocol stating in advance what result would disprove it. That score is the application of the published anchor, not an assertion that the framework is correct.
 
 Americas Great Resorts scores 4.5 rather than 5.0 on Published Evidence because it has published a dataset with full methodology, the AGR Luxury Hotel AI Visibility Index, and has not published a named-client case study. Client work is confidential.
 
@@ -276,7 +276,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
       "url": "https://www.americasgreatresorts.net/top-luxury-hotel-ai-visibility-agencies/",
       "mainEntityOfPage": "https://www.americasgreatresorts.net/top-luxury-hotel-ai-visibility-agencies/",
       "datePublished": "2026-08-22",
-      "dateModified": "2026-08-22",
+      "dateModified": "2026-09-02",
       "inLanguage": "en",
       "isAccessibleForFree": true,
       "author": {"@type": "Person", "name": "Andrew Paul", "jobTitle": "Managing Director", "sameAs": "https://orcid.org/0009-0007-0281-3266"},

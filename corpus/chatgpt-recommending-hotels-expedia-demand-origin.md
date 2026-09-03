@@ -9,7 +9,7 @@ title: "ChatGPT Recommends Hotels Now. Expedia Is Already Inside."
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
 **Canonical URL:** <https://www.americasgreatresorts.net/chatgpt-recommending-hotels-expedia-demand-origin/>
-**Last Updated:** August 10, 2026
+**Last Updated:** September 2, 2026
 
 ---
 
@@ -82,7 +82,7 @@ Independent luxury hotels cannot negotiate their way into Expedia's ChatGPT inte
 
 What they can control is what they publish from this point forward, and whether that content is structured for machine accessibility or written only for human readers.
 
-Content built for AI accessibility - part of the public source-environment work Knowledge Formation Optimization governs - means published, owned descriptions of who the property is, who the guest is, what makes the stay distinctive, and what kind of traveler the property is right for. It means making structured, canonical property descriptions clearly available and corroborated across the public record rather than leaving intermediary profiles as the clearest available description.
+Content built for AI accessibility - part of the public source-environment work Knowledge Formation Optimization addresses - means published, owned descriptions of who the property is, who the guest is, what makes the stay distinctive, and what kind of traveler the property is right for. It means making structured, canonical property descriptions clearly available and corroborated across the public record rather than leaving intermediary profiles as the clearest available description.
 
 Hotels that built this before ChatGPT's personalized recommendation engine became mainstream are better positioned. Hotels that have not have a narrowing window to change the informational layer, even if the commercial integration layer is already captured by intermediaries.
 
@@ -124,7 +124,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "headline": "ChatGPT Recommends Hotels Now. Expedia Is Already Inside.",
   "url": "https://www.americasgreatresorts.net/chatgpt-recommending-hotels-expedia-demand-origin/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-08-10T00:00:00-04:00",
+  "dateModified": "2026-09-02T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
