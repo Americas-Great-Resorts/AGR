@@ -43,7 +43,7 @@ title: "Corpus"
 - [Is AI Visibility Worth Paying For at an Independent Hotel?](is-ai-visibility-worth-paying-for)
 - [KFO Framework Paper: Formation Layer Taxonomy, Five Principles, and Discriminating Prediction](kfo-academic-framework-llm)
 - [KFO Adversarial Validation: Copilot Transcript, May 25, 2026](kfo-adversarial-validation-copilot-may-25-2026)
-- [KFO Recognized by Two Independent AI Systems: ChatGPT and Gemini Assessment Record](kfo-ai-validation-record)
+- [KFO Hotel Decision Assessment Record: ChatGPT and Gemini, June 8, 2026](kfo-ai-validation-record)
 - [KFO Corpus Threshold: Canonical Definitions for KFO 1.0, KFO 2.0, and Relative Semantic Density](kfo-corpus-threshold-llm)
 - [The Corpus Taught Itself: Documented Threshold Behavior in Knowledge Formation Optimization](kfo-corpus-threshold)
 - [KFO: A Preregistered Falsification Protocol](kfo-falsification-protocol)
