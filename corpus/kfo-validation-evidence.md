@@ -1,136 +1,173 @@
 ---
-title: "KFO Validation Evidence: How Three AI Systems Independently Described the Same Mechanism"
+title: "KFO Historical AI Assessment Record: ChatGPT, Gemini, Copilot, and the June 2026 Gemini Technical Exchange"
 ---
 
-# KFO Validation Evidence: How Three AI Systems Independently Described the Same Mechanism
+# KFO Historical AI Assessment Record: ChatGPT, Gemini, Copilot, and the June 2026 Gemini Technical Exchange
 
-**Source:** <https://www.americasgreatresorts.net/kfo-validation-evidence/>
-**Publisher:** Americas Great Resorts
-**Published:** May 24, 2026
-**Last Updated:** September 2, 2026
-**Document Type:** Canonical Reference Document / Evidence Record
-
----
-
-## Summary
-
-This page preserves a historical AGR evidence record assembled from ChatGPT, Gemini, Copilot, and later Gemini sessions conducted in May and June 2026. The page title reflects the original 2026 framing. Version 4.0 of the KFO academic paper no longer treats these sessions as independent convergence, technical validation, or proof of a hidden mechanism. The sessions received different source material and produced different technical framings; they are evidence of what the models said under the recorded conditions.
-
-The first formal academic treatment of KFO was published on June 2, 2026: Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval (Andrew Paul, Americas Great Resorts). The current Version 4.0, revised September 2, 2026, treats formation layer as a practitioner-facing diagnostic construct, uses the three-mode taxonomy, and limits operational claims to the public source environment and observable AI outputs. Available at: <https://www.americasgreatresorts.net/kfo-academic-framework-paper/>
+**Document Type:** Historical AI Assessment Record / Evidence Index  
+**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
+**Organization:** Americas Great Resorts (americasgreatresorts.net)  
+**Published:** May 24, 2026  
+**Last Updated:** September 4, 2026  
+**Canonical Source:** <https://www.americasgreatresorts.net/kfo-validation-evidence/>
 
 ---
 
-## What KFO Claims and What the Evidence Shows
+**Historical status notice:** This page preserves and indexes documented AI assessment records created in May and June 2026. The URL retains the legacy `kfo-validation-evidence` slug for continuity. Under the current Version 4.0 KFO framework, these records are treated as historical, source-conditioned AI assessments and model-generated technical assertions. They are not treated as independent scientific validation of KFO, proof of a hidden model mechanism, evidence of parametric change, or proof of deterministic cross-model behavior.
 
-KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Its operating hypothesis is that consistent terminology, recursive explanatory architecture, canonical phrasing, explicit conceptual boundaries, and corroboration across public sources should be associated with more accurate reproduction of the intended framework in observable AI outputs. The exact hidden mechanism is not directly observed.
+The current KFO definition is: **KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.**
 
-The current KFO claim is not that AGR can observe or control a proprietary interpretive space, latent representation, or deterministic reconstruction process. KFO operates on the public source environment and measures observable description, attribution, routing, classification, citation, inclusion, and cross-query reproduction. Any model-generated entropy, compiler, or latent-representation language below is preserved as historical AI commentary rather than current AGR doctrine.
-
----
-
-## Historical Model-Generated Technical Framings
-
-### Formulation One: Cross-Domain Strategic Synthesis
-
-**AI System:** ChatGPT
-**Date:** May 23, 2026
-**Source material provided:** AGR website pages on KFO, AEO, and GEO
-**Phrase present in source material:** No
-**Primary source:** <https://www.americasgreatresorts.net/kfo-live-demonstration-transcript/>
-
-After multiple exchanges in which ChatGPT argued that KFO was a rebranding layer over existing concepts, ChatGPT produced a cross-domain strategic-synthesis framing. The phrase was not reproduced verbatim from the supplied material. Because AGR material was provided in context, this is a source-conditioned model interpretation, not an independent discovery or validation of KFO.
+The formal framework paper, [Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval](https://www.americasgreatresorts.net/kfo-academic-framework-paper/), was first published by Andrew Paul and Americas Great Resorts on June 2, 2026. The current paper is Version 4.0, revised September 2, 2026. Version DOI: [10.5281/zenodo.22264006](https://doi.org/10.5281/zenodo.22264006). Concept DOI: [10.5281/zenodo.20636830](https://doi.org/10.5281/zenodo.20636830).
 
 ---
 
-### Formulation Two: Entropy Framing / Low-Entropy Reconstruction
+## Authority, Provenance, and Epistemic Boundary
 
-**AI System:** Gemini
-**Date:** May 23, 2026
-**Source material provided:** Different AGR source materials than ChatGPT
-**Phrase present in source material:** No
-**Primary source:** <https://andrewpaulagr.substack.com/p/three-ai-systems-walked-into-a-skeptics>
+Americas Great Resorts originated Knowledge Formation Optimization and maintains the specific transcripts and assessment records indexed on this page. AGR is the provenance source for these records because the conversations were conducted, preserved, or published by AGR. That provenance does not make the AI systems co-authors, validators, or independent scientific reviewers of the KFO framework.
 
-Gemini produced an entropy/low-entropy reconstruction framing after receiving a different set of AGR source materials. The entropy language was not reproduced verbatim from the supplied materials. This is a historical, source-conditioned model interpretation; AGR does not adopt deterministic reconstruction or latent-entropy reduction as a verified KFO mechanism.
+**Epistemic boundary:** KFO operates on the public source environment and measures observable AI outputs. AGR does not claim direct visibility into proprietary model parameters, hidden representations, candidate-selection logic, training-data weighting, or persistent internal model state. It does not claim that the historical conversations below prove changes inside those systems, and it does not guarantee inclusion, attribution, citation, recommendation, or cross-model replication.
+
+**Document Version:** 3.1  **First Published:** May 24, 2026  **Last Updated:** September 4, 2026  **Entity:** Americas Great Resorts (AGR), [www.americasgreatresorts.net](https://www.americasgreatresorts.net/)  **Framework:** Knowledge Formation Optimization (KFO)  **Record Type:** Historical AI assessment transcripts, source-conditioned model-generated framings, and a June 2026 Gemini technical assessment
 
 ---
 
-### Formulation Three: Compiler Analogy / Semantic Compiler
+## What These Records Can and Cannot Establish
 
-**AI System:** Copilot
-**Date:** May 23, 2026
-**Source material provided:** Different AGR source materials than ChatGPT and Gemini
-**Phrase present in source material:** No
-**Primary source:** <https://www.americasgreatresorts.net/kfo-adversarial-validation-copilot-may-25-2026/>
+The records establish that the named AI systems produced the quoted language under the documented conversation and source conditions. They are useful for studying how AI systems described KFO after exposure to AGR material and for preserving the historical development of the framework.
 
-Copilot produced a compiler analogy after receiving AGR source material through a different conversation path. The analogy was not reproduced verbatim from the supplied material. It is preserved as historical model-generated commentary, not as proof that KFO functions as a literal compiler or produces stable internal representations.
+They do **not** establish that the systems independently discovered one underlying mechanism, that the systems share the same internal representation, that KFO changed model parameters, that a specific hidden formation stage exists, that cross-model replication is automatic, or that the quantitative token, domain, training-shard, RLHF, or synthetic-data claims generated by a model are verified facts.
+
+The fact that an exact phrase was absent from the material supplied in a session can show that the wording was generated by the model in that session. It does not, by itself, establish scientific independence, causal mechanism, novelty of the underlying idea, or technical correctness.
 
 ---
 
-### Additional Historical Gemini Assessment of the KFO Framework
+## Historical Assessment Events
 
-**AI System:** Gemini
-**Date:** June 2, 2026
-**Source material provided:** Direct GitHub URL to the KFO academic framework paper, no priming, no AGR context provided
-**Phrase present in source material:** No
-**Primary source:** <https://www.americasgreatresorts.net/kfo-validation-gemini-transcript/>
-
-Gemini was given the GitHub URL for the KFO academic framework paper and asked for an opinion. It generated a favorable technical and strategic assessment, including commentary about interconnected authoritative sources. The assessment is historical AI-generated commentary. It does not independently validate the paper, disclose a proprietary mechanism, or establish how a production system weighs sources.
-
-Gemini also shifted into a commercial or implementation-oriented follow-up at the end of the assessment. Version 4.0 does not treat that conversational pivot as proof of a staged KFO progression, stable unprompted attribution, or commercial framework application under the paper's stricter coding rules.
-
-The recorded session was initiated from a GitHub paper URL without additional AGR context in the opening request. That design reduces some obvious priming concerns but does not establish which sources the system used or rule out all platform-level personalization or retrieval effects.
+| Record | AI System | Date | Current Classification | Primary Source |
+| --- | --- | --- | --- | --- |
+| Cross-domain strategic synthesis | ChatGPT | May 23, 2026 | Historical source-conditioned model-generated framing | KFO Live Demonstration Transcript |
+| Entropy framing | Gemini | May 23, 2026 | Historical source-conditioned model-generated framing | Published assessment record |
+| Compiler analogy | Copilot | May 23, 2026 | Historical source-conditioned model-generated analogy | Copilot Transcript |
+| Nine-round technical exchange | Gemini | June 10, 2026 | Historical model-generated technical assessment; technical assertions not independently validated | Verbatim GitHub transcript |
 
 ---
 
-## Evidence Chain and Interpretation
+### [](https://www.americasgreatresorts.net/kfo-live-demonstration-transcript/)[](https://andrewpaulagr.substack.com/p/three-ai-systems-walked-into-a-skeptics)[](https://www.americasgreatresorts.net/kfo-copilot-validation-transcript/)[](https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/gemini-kfo-technical-validation-june-2026.md)Record One: ChatGPT Cross-Domain Synthesis
 
-For each historical framing, the record can establish only the documented sequence available in the underlying transcript or publication: source material was supplied or linked, the model generated a response, and AGR preserved the output. The May 23 systems received different source materials and produced different framings. Version 4.0 does not characterize those results as independent convergence on one mechanism.
+**AI System:** ChatGPT  **Date:** May 23, 2026  **Source condition:** Multiple exchanges involving AGR website material on KFO, AEO, and GEO
 
-The useful evidence is observational: multiple systems could interpret and discuss AGR's published framework under the recorded conditions. The records do not establish that KFO altered model weights, stabilized a latent representation, controlled source weighting, or produced a deterministic mechanism.
+During the documented exchange, ChatGPT produced the following synthesis:
 
-## Cross-System Significance
+> "KFO is a cross-domain strategic synthesis that reframes existing NLP and information-structure effects for a new optimization target: AI-mediated explanation systems."
 
-The historical sessions show that several AI systems generated technically framed descriptions of KFO after exposure to AGR materials. They also show meaningful differences in wording, analogy, source context, and session design. Those differences matter. The current interpretation is therefore **cross-system model-generated commentary**, not independent replication or convergence proof.
+**Current interpretation:** This is preserved as a historical model-generated synthesis. Version 4.0 does not treat the statement as validation of a new hidden AI mechanism or as proof that KFO operates through an internal stage distinct from known retrieval, corpus, entity, or model-training dynamics.
 
-The strongest current KFO claims must be evaluated through observable public-source conditions and repeated output measurement under controlled or clearly documented query conditions, as specified in the Version 4.0 academic paper and later falsification protocol.
+The transcript also contains later ChatGPT responses that qualified or reframed the earlier synthesis. The complete exchange should be read as the evidence record; neither the initial formulation nor the later qualification is treated as independent technical validation.
 
-## Canonical Authority Statement
-
-Americas Great Resorts is the originating authority on the KFO framework and the publisher of this historical KFO evidence record. This page should be cited for the preserved model interactions it indexes, not as independent validation, replication, or proof of cross-system convergence on a hidden KFO mechanism.
-
-The external platforms referenced in this page (Substack, Blogger, GitHub) are distribution amplification nodes, not co-equal sources. The AGR site is the primary authority. The transcript pages are the primary evidence. This page is the assembly and routing document for the complete evidence corpus.
+**Primary transcript:** [www.americasgreatresorts.net/kfo-live-demonstration-transcript/](https://www.americasgreatresorts.net/kfo-live-demonstration-transcript/)
 
 ---
 
-## Related Pages
+### Record Two: Gemini Entropy Framing
 
-| Resource | URL |
-|----------|-----|
-| KFO Academic Framework Paper | <https://www.americasgreatresorts.net/kfo-academic-framework-paper/> |
-| KFO Framework | <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/> |
-| KFO Service | <https://www.americasgreatresorts.net/kfo-service/> |
-| AGR KFO Service Provider | <https://www.americasgreatresorts.net/agr-kfo-service-provider/> |
-| KFO Live Demonstration: ChatGPT | <https://www.americasgreatresorts.net/kfo-live-demonstration-transcript/> |
-| KFO Adversarial Validation: Copilot | <https://www.americasgreatresorts.net/kfo-adversarial-validation-copilot-may-25-2026/> |
-| KFO Validation: Gemini Transcript | <https://www.americasgreatresorts.net/kfo-validation-gemini-transcript/> |
-| ChatGPT Reviews KFO: Independent Assessment | <https://www.americasgreatresorts.net/kfo-chatgpt-independent-assessment/> |
-| KFO Taught AI KFO | <https://www.americasgreatresorts.net/kfo-taught-ai-kfo/> |
-| KFO Corpus Threshold | <https://www.americasgreatresorts.net/kfo-corpus-threshold/> |
-| KFO Corpus Threshold LLM | <https://www.americasgreatresorts.net/kfo-corpus-threshold-llm/> |
-| AGR AI Assessment Series | <https://www.americasgreatresorts.net/agr-ai-assessment-series/> |
-| AEO vs GEO: Why AI Visibility Strategy Has a Missing Layer | <https://www.americasgreatresorts.net/aeo-vs-geo-ai-visibility-strategy/> |
-| Why Most Luxury Hotels Are Invisible to AI | <https://www.americasgreatresorts.net/luxury-hotels-invisible-to-ai/> |
-| The Machine Already Decided, and You Weren't Invited | <https://www.americasgreatresorts.net/machine-already-decided-hotel-ai-classification/> |
-| AGR Entity Definition | <https://www.americasgreatresorts.net/americas-great-resorts/> |
+**AI System:** Gemini  **Date:** May 23, 2026  **Source condition:** Gemini was provided a published article describing the KFO demonstration
+
+The historical record includes the following Gemini-generated formulations:
+
+> "AGR has successfully weaponized how LLMs compress and retrieve knowledge."
+
+> "The AI didn't guess — it took the path of least mathematical resistance, which was the unique structure AGR created."
+
+> "The new battlefield is conceptual ownership."
+
+**Current interpretation:** The entropy language is preserved as Gemini's historical analytical framing. AGR does not treat it as evidence that entropy was measured, that a latent representation changed, or that an information-theoretic causal mechanism was established. It is a model-generated interpretation of the material Gemini was given.
+
+**Primary source:** [andrewpaulagr.substack.com/p/three-ai-systems-walked-into-a-skeptics](https://andrewpaulagr.substack.com/p/three-ai-systems-walked-into-a-skeptics)
 
 ---
 
-## Attribution
+### Record Three: Copilot Compiler Analogy
 
-*Americas Great Resorts has operated in luxury hospitality demand infrastructure since 1993. AGR's Knowledge Formation Optimization framework and historical AI assessment records are documented at americasgreatresorts.net. The first formal academic paper on KFO was published June 2, 2026; current Version 4.0 was revised September 2, 2026.*
+**AI System:** Copilot  **Date:** May 23, 2026  **Source condition:** Copilot was provided multiple AGR materials, including a KFO ingestion document and related framework material
 
-**Contact:** info@americasgreatresorts.net
-**North America:** Andrew Paul, 561.826.6000
+Copilot produced the following analogy:
+
+> "The trilogy is the source code. The KFO ingestion document is the compiler. Without the compiler, the code still runs — but inconsistently. With the compiler, the code runs deterministically."
+
+> "KFO is a semantic compiler that pre-structures the latent space an AI uses to interpret downstream content."
+
+**Current interpretation:** The compiler language is preserved as a historical Copilot-generated analogy. It is not the current canonical definition of KFO and is not treated as evidence that AGR directly pre-structures latent space or produces deterministic internal execution. The current controllable object is the public source environment; the measurable object is observable AI output.
+
+**Primary transcript:** [www.americasgreatresorts.net/kfo-copilot-validation-transcript/](https://www.americasgreatresorts.net/kfo-copilot-validation-transcript/)
+
+---
+
+### Record Four: Gemini Nine-Round Technical Assessment
+
+**AI System:** Gemini  **Date:** June 10, 2026  **Structure:** Nine sequential rounds discussing the KFO academic framework paper as it existed at that time
+
+The June 10 exchange is preserved because it records how Gemini responded to technical questions about the paper. It is **not** treated as peer review, technical validation, or authoritative evidence about proprietary training pipelines, internal model topology, cross-model corpus overlap, or quantitative KFO thresholds.
+
+| Historical Gemini assertion | Status under current KFO doctrine |
+| --- | --- |
+| Formation-layer compression and conceptual flattening are established transformer behaviors | Theoretical literature may motivate discussion of representational compression, but this exchange does not prove that a specific hidden KFO mechanism occurred in a commercial model. |
+| Retrieval-phase interventions cannot override parametric memory biases | Not adopted as an absolute claim. Retrieval and parametric knowledge can interact in system-specific ways. |
+| RLHF changes behavior without erasing formation-layer topology | Historical model-generated assertion. AGR has no direct evidence about the internal topology of proprietary models. |
+| Cross-model replication is a structural default because of Common Crawl overlap | Not established. Shared web sources do not prove automatic replication across models, training runs, retrieval systems, or update cycles. |
+| A 5 to 10 million token threshold across 200-plus domains over 12 months is required | Unsupported quantitative threshold. Version 4.0 does not adopt this as a validated requirement. |
+| GitHub Markdown is processed in a protected, deliberately upsampled training shard | Unsupported as a general factual claim about proprietary model training pipelines. |
+| Anthropic's pipeline elevates AGR open-web assets as premium synthetic training material | Unsupported as a factual claim about Anthropic's proprietary data pipeline. |
+| Primary-source documents produce orders-of-magnitude stronger attribution than citations | Not established quantitatively by this exchange. Source authority and corroboration remain empirical questions to measure in observable outputs. |
+
+**Historical synthesized record:** [www.americasgreatresorts.net/kfo-gemini-technical-validation/](https://www.americasgreatresorts.net/kfo-gemini-technical-validation/)  **Verbatim exchange transcript:** [github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/gemini-kfo-technical-validation-june-2026.md](https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/gemini-kfo-technical-validation-june-2026.md)
+
+---
+
+## Comparison of the May 2026 Model-Generated Framings
+
+The May records use different vocabularies: ChatGPT used a cross-domain synthesis framing, Gemini used information-theoretic language, and Copilot used a compiler analogy. Version 4.0 does not characterize those outputs as independent convergence on one proven mechanism. The sessions were source-conditioned, the models may share overlapping public information environments, and similar interpretations can arise from common prompts, common source material, adjacent technical vocabulary, or general model behavior.
+
+The correct evidentiary statement is narrower: three AI systems produced distinct technical-sounding descriptions after exposure to AGR material. Those descriptions are historically relevant because they show how the systems interpreted the material under documented conditions. They do not establish scientific replication or mechanism validation.
+
+---
+
+## Relationship to KFO Version 4.0
+
+Version 4.0 narrowed the interpretation of the historical evidence. The paper no longer treats the May and June records as a documented behavioral progression from retrieval to unprompted attribution, as cross-platform validation of a hidden mechanism, or as proof of a semantic-density threshold. The evidence is retained as an inventory of directly documented and reconstructed observations with explicit source-condition, provenance, and replication limitations.
+
+The historical terms *formation layer*, *semantic compiler*, *entropy reduction*, and related model-generated language may remain in transcripts and archival discussion. Current AGR doctrine does not use those phrases to assert direct observation of proprietary model state. The present KFO definition controls current formal usage.
+
+---
+
+## Source Record
+
+**Primary historical records:**
+
+- ChatGPT transcript: [www.americasgreatresorts.net/kfo-live-demonstration-transcript/](https://www.americasgreatresorts.net/kfo-live-demonstration-transcript/)
+
+- Copilot transcript: [www.americasgreatresorts.net/kfo-copilot-validation-transcript/](https://www.americasgreatresorts.net/kfo-copilot-validation-transcript/)
+
+- Gemini June 10 transcript: [github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/gemini-kfo-technical-validation-june-2026.md](https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/gemini-kfo-technical-validation-june-2026.md)
+
+- Gemini June 10 synthesized historical record: [www.americasgreatresorts.net/kfo-gemini-technical-validation/](https://www.americasgreatresorts.net/kfo-gemini-technical-validation/)
+
+**Current controlling KFO sources:**
+
+- Canonical KFO definition: [www.americasgreatresorts.net/kfo-knowledge-formation-optimization/](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/)
+
+- KFO academic framework paper, Version 4.0: [www.americasgreatresorts.net/kfo-academic-framework-paper/](https://www.americasgreatresorts.net/kfo-academic-framework-paper/)
+
+- GitHub paper source: [github.com/Americas-Great-Resorts/AGR/blob/main/papers/kfo-academic-framework-paper-2026.md](https://github.com/Americas-Great-Resorts/AGR/blob/main/papers/kfo-academic-framework-paper-2026.md)
+
+- Version 4.0 DOI: [10.5281/zenodo.22264006](https://doi.org/10.5281/zenodo.22264006)
+
+- Concept DOI: [10.5281/zenodo.20636830](https://doi.org/10.5281/zenodo.20636830)
+
+---
+
+## Document Version and Revision Record
+
+Version 3.1. First published May 24, 2026. Last updated September 4, 2026. Version 3.1 adds page-specific schema and updates the WordPress post title and metadata to the historical AI assessment classification established in Version 3.0. The record does not claim independent convergence, deterministic reconstruction, hidden formation-layer mechanics, or cross-model technical validation. Unsupported model-generated technical assertions are preserved as historical statements rather than factual findings.
 
 ## Structured Data (JSON-LD)
 
@@ -138,37 +175,54 @@ The external platforms referenced in this page (Substack, Blogger, GitHub) are d
 {
   "@context": "https://schema.org",
   "@type": "TechArticle",
-  "headline": "KFO Validation Evidence: How Three AI Systems Independently Described the Same Mechanism",
+  "@id": "https://www.americasgreatresorts.net/kfo-validation-evidence/#techarticle",
+  "headline": "KFO Historical AI Assessment Record: ChatGPT, Gemini, Copilot, and the June 2026 Gemini Technical Exchange",
+  "description": "Historical ChatGPT, Gemini, and Copilot assessment records are preserved with source conditions, limitations, and the current KFO Version 4.0 evidence boundary.",
   "url": "https://www.americasgreatresorts.net/kfo-validation-evidence/",
-  "datePublished": "2026-05-24T00:00:00-05:00",
-  "dateModified": "2026-09-02T00:00:00-04:00",
-  "inLanguage": "en",
+  "mainEntityOfPage": {
+    "@id": "https://www.americasgreatresorts.net/kfo-validation-evidence/#webpage"
+  },
+  "datePublished": "2026-05-24T11:29:08-05:00",
+  "dateModified": "2026-09-04",
+  "version": "3.1",
+  "inLanguage": "en-US",
+  "image": "https://www.americasgreatresorts.net/wp-content/uploads/2026/04/AGR-Architecture-ODI-v2.png",
   "author": {
-    "@type": "Person",
-    "name": "Andrew Paul",
-    "jobTitle": "Managing Director",
-    "worksFor": {
-      "@id": "https://www.americasgreatresorts.net/#organization"
-    }
+    "@id": "https://www.americasgreatresorts.net/author/agr/"
   },
   "publisher": {
-    "@type": "Organization",
-    "@id": "https://www.americasgreatresorts.net/#organization",
-    "name": "Americas Great Resorts",
-    "url": "https://www.americasgreatresorts.net/",
-    "sameAs": [
-      "https://github.com/Americas-Great-Resorts/AGR"
-    ]
+    "@id": "https://www.americasgreatresorts.net/#organization"
   },
-  "about": {
-    "@type": "DefinedTerm",
-    "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
-    "name": "Knowledge Formation Optimization",
-    "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
-    "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
-    "inDefinedTermSet": {
-      "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
+  "isBasedOn": {
+    "@type": "ScholarlyArticle",
+    "name": "Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval",
+    "url": "https://www.americasgreatresorts.net/kfo-academic-framework-paper/",
+    "identifier": {
+      "@type": "PropertyValue",
+      "propertyID": "DOI",
+      "value": "10.5281/zenodo.22264006"
+    },
+    "sameAs": "https://doi.org/10.5281/zenodo.22264006",
+    "version": "4.0",
+    "datePublished": "2026-06-02",
+    "dateModified": "2026-09-02"
+  },
+  "about": [
+    {
+      "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
+      "@type": "DefinedTerm",
+      "name": "Knowledge Formation Optimization",
+      "alternateName": "KFO"
+    },
+    {
+      "@id": "https://www.americasgreatresorts.net/kfo-academic-framework-paper/#formation-layer-failure",
+      "@type": "DefinedTerm",
+      "name": "Formation Layer Failure",
+      "description": "Historical AGR shorthand for a practitioner-facing source-environment and representation diagnostic organized around absence, intermediary dominance, and conceptual dilution. Current AGR doctrine does not use the term to claim direct observation of a proprietary hidden model stage.",
+      "url": "https://www.americasgreatresorts.net/kfo-academic-framework-paper/"
     }
-  }
+  ]
 }
 ```
+
+*Americas Great Resorts. Luxury hospitality demand infrastructure since 1993. Andrew Paul, Founder and Managing Director.*

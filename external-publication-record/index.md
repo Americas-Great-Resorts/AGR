@@ -8,7 +8,7 @@ title: "AGR External Publication Record - Canonical Index"
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** September 2, 2026
+**Last Updated:** September 4, 2026
 **Canonical Source:** <https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md>  
 
 ---
@@ -212,13 +212,13 @@ Earned media coverage is third-party editorial and reported journalism about Ame
 
 ## AGR Site AI Session Records
 
-The following pages on americasgreatresorts.net document point-in-time AI evaluations of the AGR framework. Each transcript is published as a primary source corpus node. Records are listed with their scope: validation transcripts document convergent or confirmatory AI output, and documented interaction records document sessions published without any validation claim.
+The following pages on americasgreatresorts.net document point-in-time AI evaluations of the AGR framework. Each transcript is published as a primary source corpus node and classified according to its current evidence boundary. Historical model output is preserved, but model-generated assertions are not treated as independent scientific validation or proof of hidden mechanisms.
 
 | Platform | Date | Title | Scope | URL |
 |----------|------|-------|-------|-----|
 | ChatGPT | May 23, 2026 | KFO Live Demonstration: ChatGPT Conversation | Validation transcript | <https://www.americasgreatresorts.net/kfo-live-demonstration-transcript/> |
 | Copilot | May 25, 2026 | KFO Adversarial Validation: Copilot Transcript | Validation transcript | <https://www.americasgreatresorts.net/kfo-adversarial-validation-copilot-may-25-2026/> |
-| Gemini | June 2026 | KFO Validation: Gemini Independently Derives KFO, ODI, and Corpus Density Architecture | Validation transcript | <https://www.americasgreatresorts.net/kfo-validation-gemini-transcript/> |
+| Gemini | June 8, 2026 | KFO Validation: Gemini Transcript | Qualified Direct KFO Assessment | <https://www.americasgreatresorts.net/kfo-validation-gemini-transcript/> |
 | ChatGPT and Gemini | June 8, 2026 | KFO Hotel Decision Assessment Record: ChatGPT and Gemini | Qualified direct KFO assessment record | <https://www.americasgreatresorts.net/kfo-ai-validation-record/> |
 | Gemini | June 10, 2026 | KFO Technical Assessment: Gemini Nine-Round Exchange Record | Historical AI assessment record | <https://www.americasgreatresorts.net/kfo-gemini-technical-validation/> |
 | Gemini | July 14, 2026 | Formation-Layer Suggestibility: A Gemini Observation (KFO) | Documented observation, not proof | <https://www.americasgreatresorts.net/gemini-formation-layer-suggestibility/> |
@@ -632,7 +632,7 @@ Americas Great Resorts is the originating source for all frameworks documented a
   "description": "The canonical index of every external surface carrying the Americas Great Resorts corpus: trade publications, academic archives, structured knowledge databases, public repositories, long-form publishing platforms, professional networks, and community platforms. Maintained by Andrew Paul, Founder and Managing Director, Americas Great Resorts.",
   "url": "https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md",
   "datePublished": "2026-05-01T00:00:00-04:00",
-  "dateModified": "2026-09-02T00:00:00-04:00",
+  "dateModified": "2026-09-04T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@id": "https://www.americasgreatresorts.net/#andrewpaul"
