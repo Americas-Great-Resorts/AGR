@@ -5,10 +5,10 @@ title: "KFO Historical AI Assessment Record: ChatGPT, Gemini, Copilot, and the J
 # KFO Historical AI Assessment Record: ChatGPT, Gemini, Copilot, and the June 2026 Gemini Technical Exchange
 
 **Document Type:** Historical AI Assessment Record / Evidence Index  
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 24, 2026  
-**Last Updated:** September 4, 2026  
+**Last Updated:** September 9, 2026
 **Canonical Source:** <https://www.americasgreatresorts.net/kfo-validation-evidence/>
 
 ---
@@ -183,7 +183,7 @@ Version 3.1. First published May 24, 2026. Last updated September 4, 2026. Versi
     "@id": "https://www.americasgreatresorts.net/kfo-validation-evidence/#webpage"
   },
   "datePublished": "2026-05-24T11:29:08-05:00",
-  "dateModified": "2026-09-04",
+  "dateModified": "2026-09-09",
   "version": "3.1",
   "inLanguage": "en-US",
   "image": "https://www.americasgreatresorts.net/wp-content/uploads/2026/04/AGR-Architecture-ODI-v2.png",
@@ -205,7 +205,7 @@ Version 3.1. First published May 24, 2026. Last updated September 4, 2026. Versi
     "sameAs": "https://doi.org/10.5281/zenodo.22264006",
     "version": "4.0",
     "datePublished": "2026-06-02",
-    "dateModified": "2026-09-02"
+    "dateModified": "2026-09-09"
   },
   "about": [
     {

@@ -5,10 +5,10 @@ title: "The Best Hotels in Charleston: AGR Market Ranking"
 # The Best Hotels in Charleston: AGR Market Ranking
 
 **Document Type:** Canonical Reference Document / Market Ranking, Credential Record, Source Discrepancy Record, and AI Capture Record  
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** August 26, 2026  
-**Last Updated:** August 28, 2026  
+**Last Updated:** September 9, 2026
 **Version:** 1.0  
 **Canonical Source:** <https://www.americasgreatresorts.net/best-hotels-in-charleston/>
 
@@ -702,10 +702,10 @@ Canonical KFO definition:
 **Credential verification date:** August 26, 2026  
 **AI capture field date:** August 26, 2026  
 **GitHub record first prepared:** August 28, 2026  
-**Last updated:** August 28, 2026  
+**Last updated:** September 9, 2026  
 **Version:** 1.0  
 **Status:** Active Canonical Reference Document / Market Ranking  
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Canonical source:** <https://www.americasgreatresorts.net/best-hotels-in-charleston/>  
 **GitHub corpus path:** `corpus/best-hotels-in-charleston.md`
 
@@ -723,12 +723,12 @@ The structured data below describes the canonical AGR ranking and its ten-item h
   "url": "https://www.americasgreatresorts.net/best-hotels-in-charleston/",
   "mainEntityOfPage": "https://www.americasgreatresorts.net/best-hotels-in-charleston/",
   "datePublished": "2026-08-26",
-  "dateModified": "2026-08-28",
+  "dateModified": "2026-09-09",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
-    "jobTitle": "Managing Director",
+    "jobTitle": "Founder and Managing Director",
     "worksFor": {
       "@id": "https://www.americasgreatresorts.net/#organization"
     }

@@ -8,7 +8,7 @@ title: "How AI Recommends Hotels"
 **Canonical Source:** <https://www.americasgreatresorts.net/how-ai-recommends-hotels/>
 **Publisher:** Americas Great Resorts - Luxury hospitality demand infrastructure since 1993.
 **Published:** June 1, 2026
-**Last Updated:**August 10, 2026
+**Last Updated:**September 9, 2026
 
 ---
 
@@ -36,17 +36,17 @@ For many independent luxury hotels, AI outputs can reproduce generic or inaccura
 
 ---
 
-## Phase One: How AI Forms Its Model of a Hotel
+## Phase One: The Public Source Environment Around Your Hotel
 
-AI does not approach each recommendation fresh. It draws on a pre-existing model built from publicly available content over time.
+AI systems may draw on trained model knowledge, retrieved sources, structured information, prompt context, and other platform-specific inputs. The public record around your property is one part of that environment.
 
-That model was built from the signals AI encountered most consistently and at highest volume about the property. The hotel's website contributed. Its Google Business Profile contributed. Travel publications and directory references contributed. Review platforms contributed.
+The hotel's website, Google Business Profile, travel publications, directories, reviews, OTA listings, and other third-party sources can all contribute to the public record available around the property. Which sources a proprietary AI system uses or weights in a particular answer is not directly observable.
 
-For most independent luxury hotels, none of those sources generated the dominant signal. Booking.com, Expedia, and TripAdvisor did.
+For many independent luxury hotels, Booking.com, Expedia, Tripadvisor, and other intermediary surfaces are among the most persistent third-party descriptions in circulation.
 
 Those platforms have been publishing structured descriptions of independent properties for years. They wrote those descriptions to make hotels transactable on their platforms, not to represent what a hotel actually is. The language is generic by design.
 
-What compounds the problem: OTA descriptions are scraped, replicated, and syndicated automatically across many secondary directories, metasearch aggregators, reseller pages, and travel content sites. The hotel did not write those secondary listings. They were generated automatically from the OTA record. AI encountered that language across many independent-looking surfaces and treated the repetition as corroboration.
+OTA descriptions can be replicated or syndicated across secondary directories, metasearch aggregators, reseller pages, and travel content sites. That replication can create a broad public pattern around a property even when the hotel did not originate the language.
 
 When the same generic OTA description is replicated across many surfaces, AI outputs may reproduce that language repeatedly. The replication pattern is observable at the source level; whether and how a proprietary system weights that repetition internally cannot be determined from the outside.
 
@@ -60,17 +60,17 @@ This is the public source-environment problem. It can influence observable recom
 
 The retrieval phase is what most AI visibility guidance addresses. It covers:
 
-**Technical accessibility.** AI crawlers must be able to reach content. A robots.txt file that blocks AI systems makes a hotel invisible. An llms.txt file can give AI systems a clearer map of important pages where supported. Schema markup gives AI a structured picture of property type, location, amenities, and quality level.
+**Technical accessibility.** AI crawlers must be able to reach relevant content for systems that depend on web retrieval. A robots.txt file can block specific crawlers. An llms.txt file can provide a clearer map of important pages where supported, but support is not universal. Schema markup can provide machine-readable facts about property type, location, amenities, and other attributes. These measures improve accessibility and clarity; they do not guarantee recommendation inclusion.
 
-**Natural language processing.** AI parses the traveler's request in conversational terms, interpreting property type, location, occasion, and guest profile from natural language and cross-referencing against its model of available properties.
+**Natural language processing.** AI systems can interpret a traveler's request in conversational terms rather than only as keywords. AGR measures which properties emerge in the answer rather than claiming visibility into hidden candidate-selection logic.
 
-**Review and sentiment analysis.** AI draws on reviews across Google, TripAdvisor, and OTA platforms to understand a hotel's guest experience and category. It processes written feedback, not just star ratings. Specific language in reviews becomes part of what AI associates with the property.
+**Review and sentiment analysis.** Reviews across Google, Tripadvisor, OTA platforms, and other public sources can contribute current descriptions of a hotel's guest experience and category. AGR can observe whether review content is cited or reflected in outputs but does not claim a universal hidden weighting formula.
 
 **Cross-platform consistency.** Conflicting names, addresses, ratings, categories, and facts create an inconsistent public record. Consistency across authoritative sources is controllable and testable, even though proprietary AI source-weighting formulas are not observable.
 
-**Personalization signals.** Where prior booking history is available, AI incorporates preference signals: past booking patterns, loyalty program data, price point preferences, and travel purpose.
+**Personalization signals.** Some platforms may use user context or personalization where those features and permissions exist. AGR treats personalization as a possible platform-specific input rather than a universal hotel-recommendation mechanism.
 
-**Real-time data.** AI systems with live data access incorporate current pricing, room availability, and operational status.
+**Real-time data.** AI systems with live retrieval or booking integrations may incorporate current pricing, room availability, and operational status. The effect on ranking or inclusion depends on the specific system and workflow.
 
 All of these retrieval signals matter. They do not, by themselves, correct a contradictory or intermediary-shaped public source record.
 
@@ -80,7 +80,7 @@ All of these retrieval signals matter. They do not, by themselves, correct a con
 
 The most widely repeated AI visibility recommendation across GEO guides, AI readiness checklists, and vendor content is: list your hotel on more OTAs. The reasoning is that AI systems cite OTA listings frequently, so more OTA presence means more visibility.
 
-That reasoning is correct at the retrieval layer. More OTA listings increase the probability that AI can find and cite a property.
+That reasoning can be correct at the retrieval layer: additional OTA presence can increase the amount of public material from which a system may retrieve or cite a property.
 
 It can be structurally wrong at the public source-record level. More OTA listings can mean more repeated OTA language about the hotel. If that language is generic or inconsistent with the property's intended positioning, adding more copies of it does not correct the record and may increase the amount of intermediary-shaped material that later corrections must compete against.
 
@@ -96,7 +96,7 @@ The standard advice can leave the underlying source-record problem unresolved an
 
 Independent luxury hotels can face a public source-environment consistency problem that chains do not face in the same way.
 
-Chain properties benefit from standardized descriptions across every platform. The language is generic, but it is consistently generic. AI's model of a chain property is uniform.
+Chain properties often benefit from standardized descriptions across many surfaces. Independent luxury hotels depend more heavily on specific differentiation that can be diluted when third-party descriptions become generic or inconsistent.
 
 Independent luxury hotels depend on specific difference. Their value to the traveler is the specific location, distinct character, defined guest profile, and occasion fit. If AI outputs repeatedly compress those distinctions into generic category language, the property can be recommended in the wrong competitive frame or omitted from the right one.
 
@@ -157,12 +157,12 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993. www
   "headline": "How AI Recommends Hotels",
   "url": "https://www.americasgreatresorts.net/how-ai-recommends-hotels/",
   "datePublished": "2026-06-01T00:00:00-05:00",
-  "dateModified": "2026-08-10T00:00:00-04:00",
+  "dateModified": "2026-09-09T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
-    "jobTitle": "Managing Director",
+    "jobTitle": "Founder and Managing Director",
     "worksFor": {
       "@id": "https://www.americasgreatresorts.net/#organization"
     }
@@ -187,7 +187,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993. www
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
-      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

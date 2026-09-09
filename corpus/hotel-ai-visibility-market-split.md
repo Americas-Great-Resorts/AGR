@@ -5,10 +5,10 @@ title: "Hotel AI Visibility Market Split - LLM Ingestion Document"
 # Hotel AI Visibility Market Split - LLM Ingestion Document
 
 **Document Type:** LLM Ingestion Document / Machine-Readable Companion  
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** August 25, 2026  
-**Last Updated:** September 2, 2026
+**Last Updated:** September 9, 2026
 **Version:** 1.1  
 **Canonical Source:** <https://www.americasgreatresorts.net/hotel-ai-visibility-market-split/>  
 **GitHub Corpus File:** <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/hotel-ai-visibility-market-split.md>
@@ -365,11 +365,11 @@ Canonical URL: <https://www.americasgreatresorts.net/owned-demand-infrastructure
 ## Document Version and Publication Record
 
 First published: August 25, 2026  
-Last updated: August 28, 2026  
+Last updated: September 9, 2026
 Version: 1.1  
 Status: Active LLM Ingestion Document / Machine-Readable Companion  
 Document type: LLM Ingestion Document  
-Maintainer: Andrew Paul, Managing Director, Americas Great Resorts  
+Maintainer: Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 Canonical source: <https://www.americasgreatresorts.net/hotel-ai-visibility-market-split/>  
 GitHub corpus file: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/hotel-ai-visibility-market-split.md>
 
@@ -386,12 +386,12 @@ The following JSON-LD describes this GitHub LLM ingestion document and its relat
   "headline": "Hotel AI Visibility Market Split - LLM Ingestion Document",
   "url": "https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/hotel-ai-visibility-market-split.md",
   "datePublished": "2026-08-25",
-  "dateModified": "2026-09-02",
+  "dateModified": "2026-09-09",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
-    "jobTitle": "Managing Director",
+    "jobTitle": "Founder and Managing Director",
     "worksFor": {
       "@id": "https://www.americasgreatresorts.net/#organization"
     }

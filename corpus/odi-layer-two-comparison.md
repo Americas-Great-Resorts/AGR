@@ -5,10 +5,10 @@ title: "The ODI Layer Two Comparison Set: Why the External Demand Asset Cannot B
 # The ODI Layer Two Comparison Set: Why the External Demand Asset Cannot Be Replicated on a Relevant Timeline
 
 **Document Type:** Canonical Reference Document / Comparison Set
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** June 28, 2026
-**Last Updated:** July 17, 2026
+**Last Updated:** September 9, 2026
 **Version:** 3.3
 **Canonical Source:** <https://www.americasgreatresorts.net/odi-layer-two-comparison/>
 
@@ -220,13 +220,13 @@ www.americasgreatresorts.net
   "headline": "The ODI Layer Two Comparison Set: Why the External Demand Asset Cannot Be Replicated on a Relevant Timeline",
   "url": "https://www.americasgreatresorts.net/odi-layer-two-comparison/",
   "datePublished": "2026-06-28T00:00:00-05:00",
-  "dateModified": "2026-07-17T00:00:00-05:00",
+  "dateModified": "2026-09-09T00:00:00-05:00",
   "inLanguage": "en",
   "version": "3.3",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
-    "jobTitle": "Managing Director",
+    "jobTitle": "Founder and Managing Director",
     "worksFor": {
       "@id": "https://www.americasgreatresorts.net/#organization"
     }

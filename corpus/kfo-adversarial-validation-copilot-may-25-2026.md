@@ -7,9 +7,9 @@ title: "KFO Adversarial Validation: Copilot Transcript, May 25, 2026"
 **Document Type:** AI Validation Transcript / External Corpus Node  
 **Platform:** Copilot  
 **Date:** May 25, 2026  
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Canonical URL:** <https://www.americasgreatresorts.net/kfo-copilot-validation-transcript/>
-**Last Updated:** August 10, 2026
+**Last Updated:** September 9, 2026
 
 ---
 
@@ -299,12 +299,12 @@ That's the mechanism. Not because it came from me. But because it names the mech
   "headline": "KFO Adversarial Validation: Copilot Transcript, May 25, 2026",
   "url": "https://www.americasgreatresorts.net/kfo-copilot-validation-transcript/",
   "datePublished": "2026-05-25T00:00:00-05:00",
-  "dateModified": "2026-08-10T00:00:00-04:00",
+  "dateModified": "2026-09-09T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
-    "jobTitle": "Managing Director",
+    "jobTitle": "Founder and Managing Director",
     "worksFor": {
       "@id": "https://www.americasgreatresorts.net/#organization"
     }
@@ -322,7 +322,7 @@ That's the mechanism. Not because it came from me. But because it names the mech
     "@type": "DefinedTerm",
     "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
     "name": "Knowledge Formation Optimization",
-    "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
+    "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.",
     "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
     "inDefinedTermSet": {
       "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

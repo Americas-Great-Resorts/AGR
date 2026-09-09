@@ -8,7 +8,7 @@ title: "I Caught ChatGPT Making Up a Definition. Then I Made It Confess."
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** August 20, 2026  
-**Last Updated:** September 2, 2026  
+**Last Updated:** September 9, 2026
 **Version:** 1.0  
 **Canonical Source:** <https://www.americasgreatresorts.net/chatgpt-invented-definition-confession/>  
 **Primary Evidence:** [Documented Capture Record: ChatGPT KFO Fabrication and Correction, with Gemini and Google AI Controls](https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/chatgpt-kfo-fabrication-capture-2026-08-20.md)
@@ -51,7 +51,7 @@ I replied with one sentence telling it to stop guessing and look it up.
 
 The response opened with a sentence you should read twice: "You're right. My first answer was wrong."
 
-Then it searched. Twenty-four sources came back, and the answer changed completely. It identified Americas Great Resorts as the originator of the framework. It dated the framework paper to June 2026. It stated the core distinction correctly: SEO optimizes retrieval and ranking, while KFO addresses the representation an AI system holds before retrieval ever runs. It distinguished KFO from a separate academic concept called knowledge formation in hotel CRM research, a distinction most humans in this industry would miss.
+Then it searched. Twenty-four sources came back, and the answer changed completely. It identified Americas Great Resorts as the originator of the framework, dated the framework paper to June 2026, and distinguished KFO from SEO. The corrected answer used then-current formation language. That historical output is preserved as such; current KFO doctrine addresses the public source environment and observable reproduction without asserting a directly observed pre-retrieval representation stage.
 
 Same machine. Same subject. Thirty seconds apart. The first answer was fiction. The second was accurate down to the publication date.
 
@@ -91,7 +91,7 @@ I got to type "look it up." Your guest never will.
 
 When a traveler asks an AI engine about your property, or your market, or the category you compete in, they cannot tell a retrieved fact from a fluent guess. Both arrive in the same confident voice, the same clean formatting, the same two seconds. They will not demand a correction. They will read the answer, accept it, and book accordingly.
 
-[Our AI Visibility Index](https://www.americasgreatresorts.net/ai-visibility-index/) documented the market-scale version of this: engines recommending a Miami hotel demolished three months before the capture, serving one shortlist regardless of whether the traveler asked for romance, wellness, or business, sourcing entire city recommendations from two Tripadvisor pages. Those failures and today's are the same failure. The answer is assembled from whatever the machine holds or happens to reach for, and nothing visible in the final answer warns the traveler that the system never established whether it is true.
+Those failures and today's capture share an observable feature: the final answer can be wrong, stale, generic, or unattributed, and the traveler cannot see the full provenance or proprietary process that produced it. Training data, retrieval, provider-side indexes, prompt context, and other mechanisms may contribute, but the capture does not reveal which mechanism controlled a particular answer.
 
 ## The Uncomfortable Part
 
@@ -99,7 +99,7 @@ I will tell you what ChatGPT's corrected answer said next, because I publish the
 
 After getting the definition right, it added a caveat. It said it would not present KFO as an established, universally accepted discipline, because the sources it found identify Americas Great Resorts as the originator, and the formal treatment is recent.
 
-The machine was right. Nearly every source in that panel was mine. My site, my repository, my dataset, my paper. A machine that has learned to distrust entities describing themselves looked at a wall of self-description and said so. That is not a flaw in the machine. That is the machine applying exactly the standard I tell hotel owners it applies to them: what you say about yourself is a claim, and what independent sources say about you is a record.
+The corrected answer treated the concentration of first-party sources as a credibility limitation and did not present KFO as universally established. That output does not prove a general internal rule for distrusting self-description. The narrower source-governance lesson is that first-party claims and independent corroboration are different kinds of public evidence.
 
 The fix for that is not more pages on my own domain. It is corroboration on domains I do not control. The same fix I prescribe. The prescription does not change because the patient is the doctor.
 
@@ -107,7 +107,7 @@ The fix for that is not more pages on my own domain. It is corroboration on doma
 
 Run the test on your own property. Fresh session, logged out, no account. Ask the category questions your unacquired guest asks, then ask about whatever concept or claim your marketing depends on. Ask all three engines, because they fail differently, and save the captures with dates.
 
-If the machines formed an accurate record of you, you will hear it. If they formed nothing, or formed a record from stale listicles and other people's descriptions, you will hear something fluent, confident, and wrong, and you will be the only person in the exchange who can tell the difference.
+If the outputs reproduce an accurate record of you, you will hear it. If they return nothing useful or rely on stale, generic, or third-party descriptions, you may hear something fluent and wrong. The output shows the representation failure; it does not expose the hidden mechanism that caused it.
 
 The machine confessed to me because I knew the answer and refused the fake one. Your guests do not know the answer. That is why they asked. The record the machine reads about your property will be authored, corroborated, and maintained, or it will be improvised on demand by a system that has demonstrated, in writing, that it will answer either way.
 
@@ -132,12 +132,12 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "url": "https://www.americasgreatresorts.net/chatgpt-invented-definition-confession/",
   "mainEntityOfPage": "https://www.americasgreatresorts.net/chatgpt-invented-definition-confession/",
   "datePublished": "2026-08-20",
-  "dateModified": "2026-09-02",
+  "dateModified": "2026-09-09",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
-    "jobTitle": "Managing Director",
+    "jobTitle": "Founder and Managing Director",
     "sameAs": "https://orcid.org/0009-0007-0281-3266",
     "worksFor": { "@id": "https://www.americasgreatresorts.net/#organization" }
   },
@@ -152,7 +152,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
-      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "inDefinedTermSet": { "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology" }
     },

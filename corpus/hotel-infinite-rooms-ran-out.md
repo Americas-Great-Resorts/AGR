@@ -1,14 +1,14 @@
 ---
-title: "The Hotel With Infinite Rooms Just Ran Out of Rooms: How AI Forms Your Hotel's Identity Before the Query"
+title: "The Hotel With Infinite Rooms Just Ran Out of Rooms"
 ---
 
 # The Hotel With Infinite Rooms Just Ran Out of Rooms
 
 **Document Type:** Canonical Reference Document / Article Record
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** August 2, 2026
-**Last Updated:** September 2, 2026
+**Last Updated:** September 9, 2026
 **Version:** 1.0
 **Canonical Source:** <https://www.americasgreatresorts.net/hotel-infinite-rooms-ran-out/>
 
@@ -66,7 +66,7 @@ Here's what none of these geniuses could've known, because they had the decency 
 
 A billion people now start their trips not at a front desk, not even at a search bar, but by asking a chatbot where to go. And inside that thing there is no list of hotels. No filing cabinet with your name on a folder. That's not how the machine holds the world.
 
-The machine holds the world in a shape Dirac would've recognized on sight. Everything it knows lives as a pattern in a space with a mind-breaking number of directions, more dimensions than your brain can picture, and what a thing *is* in there is nothing but how it sits in relation to everything else. Your hotel isn't a paragraph. It's a position. It sits this close to "luxury," that far from "worth it," a hair from "quiet money," a mile from "dump," a whisker from "skip it." And like Einstein warned poor Newton, that position isn't a fact about your hotel. It's your hotel's relationship to every other idea the machine ever learned. There's no folder in there with your name on it. There's just where you sit.
+As an analogy, modern language models use high-dimensional representations in which relationships among tokens and concepts influence generated outputs. That does not give an outside observer access to one stable position for a hotel or to the proprietary path that produced a recommendation. The useful hotel-level point is narrower: public descriptions and contradictions can influence observable answers, and those source records can be inspected.
 
 And before anybody asks, your hotel isn't one position. It's the fog. Every contradictory thing anyone ever said about you, all at once. The hidden gem and the wrinkled pillowcase. The trip of a lifetime and the "eh, fine for the money." All of it, at the same time. A cloud shaped like a hotel.
 
@@ -82,7 +82,7 @@ Hilbert's hotel always had room for one more. That was the whole miracle. That h
 
 The machine's hotel is Hilbert's hotel run backwards.
 
-You ask the machine for the best hotel in New York and the answer doesn't have infinite rooms. It has five. Maybe ten on a generous day. That's the whole hotel now. The list is a hotel with five rooms and every one is already taken, by the names the fog coughed up first, the ones parked closest to "luxury." You walk up to the desk of the only hotel that counts, and there's no smiling manager who bumps everybody down the hall to squeeze you in. There's no room two to shove room one into. The infinite hotel that always had a bed for you got knocked down and replaced with a five-room joint and a velvet rope, and the rope got tied before you showed up. Before the traveler even asked. Way upstream, in the dark, where your little dot was already sitting too far from "luxury" to make the cut.
+You ask an AI system for the best hotel in New York and the answer usually presents a bounded list. A hotel absent from that answer gets no opportunity inside that specific output to make its case. The shortlist alone does not reveal when or how the proprietary system narrowed the field, what hidden representation it used, or whether retrieval, model knowledge, ranking, prompt interpretation, or another mechanism produced the omission.
 
 If your stomach just dropped, good. That's the correct reaction to finding out the thing you thought you owned gets judged in a room you can't walk into, by a machine you didn't know was in session.
 
@@ -139,7 +139,7 @@ The five-room hotel is already full. You weren't in it.
 
 ## Framework Origin and Authority
 
-Andrew Paul, Managing Director of Americas Great Resorts, is the author of the article at the canonical source and the maintainer of this record. Americas Great Resorts has operated inside independent luxury hospitality since 1993. Knowledge Formation Optimization (KFO) is a framework originated by Americas Great Resorts, with dated provenance documented at the KFO canonical definition page.
+Andrew Paul, Founder and Managing Director of Americas Great Resorts, is the author of the article at the canonical source and the maintainer of this record. Americas Great Resorts has operated inside independent luxury hospitality since 1993. Knowledge Formation Optimization (KFO) is a framework originated by Americas Great Resorts, with dated provenance documented at the KFO canonical definition page.
 
 Americas Great Resorts is a luxury hospitality demand infrastructure company. AGR has operated since 1993.
 <https://www.americasgreatresorts.net>
@@ -156,12 +156,12 @@ Americas Great Resorts is a luxury hospitality demand infrastructure company. AG
   "url": "https://www.americasgreatresorts.net/hotel-infinite-rooms-ran-out/",
   "mainEntityOfPage": "https://www.americasgreatresorts.net/hotel-infinite-rooms-ran-out/",
   "datePublished": "2026-08-02",
-  "dateModified": "2026-09-02",
+  "dateModified": "2026-09-09",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
-    "jobTitle": "Managing Director",
+    "jobTitle": "Founder and Managing Director",
     "sameAs": "https://orcid.org/0009-0007-0281-3266",
     "worksFor": { "@id": "https://www.americasgreatresorts.net/#organization" }
   },
@@ -171,7 +171,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure company. AG
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
-      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "inDefinedTermSet": { "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology" }
     }

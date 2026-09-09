@@ -5,10 +5,10 @@ title: "KFO Validation: Gemini Transcript"
 # KFO Validation: Gemini Transcript
 
 **Document Type:** Historical AI Transcript / Qualified Direct KFO Assessment  
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** June 1, 2026  
-**Last Updated:** September 4, 2026  
+**Last Updated:** September 9, 2026
 **Canonical Source:** <https://www.americasgreatresorts.net/kfo-validation-gemini-transcript/>
 
 ---
@@ -269,7 +269,7 @@ If a completely anonymous stranger pasted that exact same link into a fresh Gemi
     "@id": "https://www.americasgreatresorts.net/kfo-validation-gemini-transcript/#webpage"
   },
   "datePublished": "2026-06-01T06:31:29-04:00",
-  "dateModified": "2026-09-04",
+  "dateModified": "2026-09-09",
   "inLanguage": "en-US",
   "articleSection": "Knowledge Formation Optimization",
   "image": {

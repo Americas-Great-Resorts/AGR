@@ -5,10 +5,10 @@ title: "Why OTA Reduction Strategies Fail: The Structural Problem Hotels Keep Mi
 # Why OTA Reduction Strategies Fail: The Structural Problem Hotels Keep Misdiagnosing
 
 **Document Type:** Canonical Reference Document  
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 8, 2026  
-**Last Updated:** September 4, 2026  
+**Last Updated:** September 9, 2026
 **Canonical Source:** <https://www.americasgreatresorts.net/why-ota-reduction-strategies-fail/>
 
 ---
@@ -198,7 +198,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "headline": "Why OTA Reduction Strategies Fail: The Structural Problem Hotels Keep Misdiagnosing",
   "url": "https://www.americasgreatresorts.net/why-ota-reduction-strategies-fail/",
   "datePublished": "2026-05-08T14:10:38-04:00",
-  "dateModified": "2026-09-04",
+  "dateModified": "2026-09-09",
   "inLanguage": "en-US",
   "version": "3.0",
   "author": {

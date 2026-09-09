@@ -11,7 +11,7 @@ title: "Is KFO a Good Idea for My Hotel? — Gemini Assessment"
 
 **Session Date:** June 8, 2026  
 **AI System:** Google Gemini  
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (www.americasgreatresorts.net)  
 **Also published at:** www.americasgreatresorts.net [human-readable article -- see AGR site]  
 **Companion transcript:** [ChatGPT session -- kfo-hotel-decision-chatgpt.md]

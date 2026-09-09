@@ -5,7 +5,7 @@ title: "Gemini Technical Validation of the KFO Academic Framework: Verbatim Exch
 # Gemini Technical Validation of the KFO Academic Framework: Verbatim Exchange Transcript
 
 **Document Type:** AI Assessment Record — Verbatim Exchange Transcript
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Conducted:** June 10, 2026
 **Platform:** Gemini (gemini.google.com)

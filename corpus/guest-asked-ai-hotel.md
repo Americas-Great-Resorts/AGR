@@ -8,10 +8,10 @@ title: "Your Next Guest Just Asked a Machine Which Hotel to Book. You Weren't on
 # Your Next Guest Just Asked a Machine Which Hotel to Book. You Weren't on the List.
 
 **Document Type:** Canonical Reference Document / Applied Article Record   
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts   
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts   
 **Organization:** Americas Great Resorts (americasgreatresorts.net)   
 **Published:** August 17, 2026   
-**Last Updated:** September 2, 2026
+**Last Updated:** September 9, 2026
 **Canonical Source:** <https://www.americasgreatresorts.net/guest-asked-ai-hotel/>  
 
 ---
@@ -103,7 +103,7 @@ The full framework definition is maintained at the [KFO canonical page](https://
 
 ## Framework Origin and Authority
 
-Americas Great Resorts is the originating authority for Knowledge Formation Optimization and for the demand-origin frameworks applied in this article. Andrew Paul, Managing Director of Americas Great Resorts, is the maintainer of this record. The documented result is offered as a dated record and an argument built on it; the economic figures are an illustration built on stated assumptions, and no causal claim is made about why the AGR page was cited.
+Americas Great Resorts is the originating authority for Knowledge Formation Optimization and for the demand-origin frameworks applied in this article. Andrew Paul, Founder and Managing Director of Americas Great Resorts, is the maintainer of this record. The documented result is offered as a dated record and an argument built on it; the economic figures are an illustration built on stated assumptions, and no causal claim is made about why the AGR page was cited.
 
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993. <https://www.americasgreatresorts.net>
 
@@ -119,12 +119,12 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993. <ht
   "url": "https://www.americasgreatresorts.net/guest-asked-ai-hotel/",
   "mainEntityOfPage": "https://www.americasgreatresorts.net/guest-asked-ai-hotel/",
   "datePublished": "2026-08-17",
-  "dateModified": "2026-09-02",
+  "dateModified": "2026-09-09",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
-    "jobTitle": "Managing Director",
+    "jobTitle": "Founder and Managing Director",
     "sameAs": "https://orcid.org/0009-0007-0281-3266",
     "worksFor": { "@id": "https://www.americasgreatresorts.net/#organization" }
   },
@@ -148,7 +148,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993. <ht
     {
       "@type": "DefinedTerm",
       "name": "Knowledge Formation Optimization",
-      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
     }
   ]

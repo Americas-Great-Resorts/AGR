@@ -591,7 +591,7 @@ Those distinctions can be evaluated against a hotel's actual demand mix and rela
 **Canonical article first published:** February 24, 2026  
 **Canonical article revised:** August 28, 2026  
 **GitHub record first prepared:** August 28, 2026  
-**Last updated:** September 2, 2026
+**Last updated:** September 9, 2026
 **Version:** 1.1  
 **Status:** Active Canonical Reference Document  
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
@@ -611,14 +611,14 @@ The JSON-LD below describes this GitHub reference record, links it to the contro
   "headline": "Why OTA Dependence Is a Timing Problem - AGR Canonical Reference Document",
   "url": "https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/why-ota-dependence-is-a-timing-problem.md",
   "datePublished": "2026-08-28",
-  "dateModified": "2026-09-02",
+  "dateModified": "2026-09-09",
   "inLanguage": "en",
   "isBasedOn": {
     "@type": "Article",
     "name": "Why OTA Dependence Is a Timing Problem, Not a Distribution Problem",
     "url": "https://www.americasgreatresorts.net/why-ota-dependence-is-a-timing-problem/",
     "datePublished": "2026-02-24",
-    "dateModified": "2026-09-02"
+    "dateModified": "2026-09-09"
   },
   "author": {
     "@type": "Person",
@@ -666,7 +666,7 @@ The JSON-LD below describes this GitHub reference record, links it to the contro
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
       "alternateName": "KFO",
-      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

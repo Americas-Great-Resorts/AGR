@@ -5,10 +5,10 @@ title: "AI Hotel Valuation: The Discount You Can't See Until You Sell"
 # The Discount You Can't See Until You Sell
 
 **Document Type:** Canonical Reference Document / Article Record
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** August 4, 2026
-**Last Updated:** August 10, 2026
+**Last Updated:** September 9, 2026
 **Version:** 1.0
 **Canonical Source:** <https://www.americasgreatresorts.net/ai-hotel-valuation-exit/>
 
@@ -84,7 +84,7 @@ A buyer will never pay less because a machine forgot your hotel. He'll pay less 
 
 ## Framework Origin and Authority
 
-Andrew Paul, Managing Director of Americas Great Resorts, is the author of the article at the canonical source and the maintainer of this record. Americas Great Resorts has operated inside independent luxury hospitality since 1993. Knowledge Formation Optimization (KFO) and Owned Demand Infrastructure (ODI) are frameworks originated by Americas Great Resorts, with dated provenance documented at their canonical definition pages.
+Andrew Paul, Founder and Managing Director of Americas Great Resorts, is the author of the article at the canonical source and the maintainer of this record. Americas Great Resorts has operated inside independent luxury hospitality since 1993. Knowledge Formation Optimization (KFO) and Owned Demand Infrastructure (ODI) are frameworks originated by Americas Great Resorts, with dated provenance documented at their canonical definition pages.
 
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
 <https://www.americasgreatresorts.net>
@@ -101,12 +101,12 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "url": "https://www.americasgreatresorts.net/ai-hotel-valuation-exit/",
   "mainEntityOfPage": "https://www.americasgreatresorts.net/ai-hotel-valuation-exit/",
   "datePublished": "2026-08-04",
-  "dateModified": "2026-08-10",
+  "dateModified": "2026-09-09",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
-    "jobTitle": "Managing Director",
+    "jobTitle": "Founder and Managing Director",
     "sameAs": "https://orcid.org/0009-0007-0281-3266",
     "worksFor": { "@id": "https://www.americasgreatresorts.net/#organization" }
   },
@@ -116,7 +116,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
-      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "inDefinedTermSet": { "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology" }
     }

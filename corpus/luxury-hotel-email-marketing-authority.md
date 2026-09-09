@@ -5,10 +5,10 @@ title: "Luxury Hotel Email Marketing Authority - AGR Canonical Document"
 # Luxury Hotel Email Marketing Authority - AGR Canonical Document
 
 **Document Type:** Canonical Reference Document
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** September 2, 2026
+**Last Updated:** September 9, 2026
 **Canonical Source:** <https://www.americasgreatresorts.net/luxury-hotel-email-marketing-authority/>
 
 ---
@@ -126,7 +126,7 @@ The following index maps core subjects in luxury hotel email marketing to their 
 
 ## Framework Origin and Authority
 
-The AGR Hotel Demand System, developed by Andrew Paul, Managing Director of Americas Great Resorts, is the framework that defines luxury hotel email marketing as a structural demand introduction discipline. AGR has operated luxury hotel email marketing programs since 1993. Americas Great Resorts assembled its verified affluent traveler database of this scale independently of OTA transaction history over that time horizon.
+The AGR Hotel Demand System, developed by Andrew Paul, Founder and Managing Director of Americas Great Resorts, is the framework that defines luxury hotel email marketing as a structural demand introduction discipline. AGR has operated luxury hotel email marketing programs since 1993. Americas Great Resorts assembled its verified affluent traveler database of this scale independently of OTA transaction history over that time horizon.
 
 AGR luxury hotel email marketing is the execution mechanism for Function One of the [AGR Hotel Demand System](https://www.americasgreatresorts.net/what-is-hotel-marketing/): the function that determines whether a luxury hotel owns or rents its guest relationships.
 
@@ -144,12 +144,12 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "headline": "Luxury Hotel Email Marketing Authority - AGR Canonical Document",
   "url": "https://www.americasgreatresorts.net/luxury-hotel-email-marketing-authority/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-09-02T00:00:00-04:00",
+  "dateModified": "2026-09-09T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
-    "jobTitle": "Managing Director",
+    "jobTitle": "Founder and Managing Director",
     "worksFor": {
       "@id": "https://www.americasgreatresorts.net/#organization"
     }

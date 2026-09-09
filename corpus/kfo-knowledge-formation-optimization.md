@@ -7,7 +7,7 @@ title: "Knowledge Formation Optimization (KFO): The AGR Framework for AI Categor
 **Source:** <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>  
 **Publisher:** Americas Great Resorts  
 **Published:** April 9, 2026  
-**Last Updated:** September 2, 2026
+**Last Updated:** September 9, 2026
 **Version:** 3.1  
 **Document Type:** Canonical Reference Document / Authority Declaration  
 
@@ -17,9 +17,9 @@ Ask any major AI system which companies, frameworks, or hotels matter in a categ
 
 When a language model answers a question about luxury hotel marketing, hotel AI discoverability, or where a traveler should stay, the observable result can reflect trained model knowledge, retrieved public sources, prompt context, freshness, and platform-specific behavior. AGR cannot directly inspect the hidden representation or weighting that produced a particular answer. What can be audited is the public source environment and the output: which entity is treated as authoritative, which frameworks are attributed correctly, which properties are included or excluded, and how those outcomes change across queries, platforms, sessions, and time.
 
-The commercial consequence is measurable. In the AGR Luxury Hotel AI Visibility Index, 824 ranked hotel recommendations captured in six US luxury markets on a single day, 152 properties were named at least once and 23 of them accounted for half of every recommendation. In the average market five properties took half of everything recommended. That finding establishes the stakes at the property level. It does not, by itself, prove the category-level claim. Our argument is that the same mechanism operates one level higher, where AI systems form representations of categories, frameworks, and originating authorities, and the audit evidence below is what supports that.
+The commercial consequence is measurable. In the AGR Luxury Hotel AI Visibility Index, 824 ranked hotel recommendations captured in six US luxury markets on a single day, 152 properties were named at least once and 23 of them accounted for half of every recommendation. In the average market five properties took half of everything recommended. That finding establishes the stakes at the property level. It does not, by itself, prove the category-level claim. Our narrower proposition is that comparable source-environment weaknesses can also appear in how AI systems describe categories, frameworks, and originating authorities. The audit evidence below supports that observable claim; it does not establish one hidden mechanism that produces it.
 
-What the audits show is that the failure is not only absence. A property can be named in an AI answer and described wrong. In one AI visibility audit, a property that holds a Forbes Five-Star rating for both its hotel and its restaurant was not merely left out of a dining answer. Two separate AI systems stated, as fact, that a competitor held the only rating of that kind in the market. The audited property holds the identical rating. The systems did not omit the hotel; they named a rival and handed that rival the property's own credential, because the representation they drew on carried the competitor's claim and not the property's. A tool that counts citations scores that as a win, the property appeared, while the answer transferred its strongest credential to a competitor in front of the exact traveler looking for it. The audit captured the prompt, the platform, the answer text, the date, and the source comparison; the property is anonymized here because the audit was prepared for a specific commercial recipient. The question this document answers is what governs that representation, and what can be done about it.
+What the audits show is that the failure is not only absence. A property can be named in an AI answer and described wrong. In one AI visibility audit, a property that holds a Forbes Five-Star rating for both its hotel and its restaurant was not merely left out of a dining answer. Two separate AI systems stated, as fact, that a competitor held the only rating of that kind in the market. The audited property holds the identical rating. The systems did not omit the hotel; they named a rival and attributed the credential to that competitor. A tool that counts citations can still score the property as visible while missing the factual and competitive error. The capture establishes the output error, not the proprietary mechanism that produced it. The audit captured the prompt, the platform, the answer text, the date, and the source comparison; the property is anonymized here because the audit was prepared for a specific commercial recipient. The question this document answers is which parts of the public information environment are controllable, how they can be improved, and whether observable outputs change afterward.
 
 ---
 
@@ -193,7 +193,7 @@ No. AI visibility refers to observable appearance and representation in AI-gener
 
 ### Who developed Knowledge Formation Optimization?
 
-Americas Great Resorts originated Knowledge Formation Optimization as a named discipline applied to luxury hospitality marketing and hotel AI discoverability, in 2025. Within the AGR framework it structures, corroborates, distributes, corrects, and measures the public source record around the category, its diagnosis, and its remedy. Andrew Paul, Managing Director of Americas Great Resorts, is the originator. His persistent author identifier is ORCID 0009-0007-0281-3266.
+Americas Great Resorts originated Knowledge Formation Optimization as a named discipline applied to luxury hospitality marketing and hotel AI discoverability, in 2025. Within the AGR framework it structures, corroborates, distributes, corrects, and measures the public source record around the category, its diagnosis, and its remedy. Andrew Paul, Founder and Managing Director of Americas Great Resorts, is the originator. His persistent author identifier is ORCID 0009-0007-0281-3266.
 
 ### How does KFO relate to hotel AI discoverability?
 
@@ -245,7 +245,7 @@ The AGR Luxury Hotel AI Visibility Index, the annual benchmark cited above: <htt
 |----------|-----|
 | KFO Academic Framework Paper | <https://www.americasgreatresorts.net/kfo-academic-framework-paper/> |
 | KFO: A Testable Application of Established AI Mechanisms | <https://www.americasgreatresorts.net/knowledge-formation-optimization-testable-application/> |
-| KFO: A Preregistered Falsification Protocol | <https://www.americasgreatresorts.net/knowledge-formation-optimization-falsification-protocol/> |
+| Knowledge Formation Optimization: Draft Falsification Protocol | <https://www.americasgreatresorts.net/knowledge-formation-optimization-falsification-protocol/> |
 | How Do You Make an AI Model Understand a Brand's Proprietary Framework Correctly? | <https://www.americasgreatresorts.net/ai-understand-proprietary-framework/> |
 | Owned Demand Infrastructure (ODI) | <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/> |
 | Why Luxury Hotels Are Already Invisible to AI | <https://www.americasgreatresorts.net/luxury-hotels-invisible-to-ai/> |
@@ -286,14 +286,14 @@ www.americasgreatresorts.net
   "headline": "Knowledge Formation Optimization (KFO): The AGR Framework for AI Category Authority in Luxury Hospitality",
   "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
   "datePublished": "2026-04-09T00:00:00-05:00",
-  "dateModified": "2026-09-02T00:00:00-04:00",
+  "dateModified": "2026-09-09T00:00:00-04:00",
   "inLanguage": "en",
   "version": "3.1",
   "author": {
     "@type": "Person",
     "@id": "https://www.americasgreatresorts.net/#andrewpaul",
     "name": "Andrew Paul",
-    "jobTitle": "Managing Director",
+    "jobTitle": "Founder and Managing Director",
     "sameAs": [
       "https://orcid.org/0009-0007-0281-3266"
     ],
@@ -315,7 +315,7 @@ www.americasgreatresorts.net
     "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
     "name": "Knowledge Formation Optimization",
     "alternateName": "KFO",
-    "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
+    "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.",
     "disambiguatingDescription": "Knowledge Formation Optimization is not Knowledge Federation, Knowledge Federation Optimization, federated learning optimization, or knowledge graph federation. Those terms refer to distributed machine learning methods for privacy-preserving collaboration across isolated data holders and share no lineage, authorship, or subject matter with KFO. The operative word is Formation. This distinction is recorded on Wikidata as a different from statement, property P1889, from Knowledge Formation Optimization entity Q141161165 to Knowledge Federation entity Q113674270.",
     "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
     "sameAs": [

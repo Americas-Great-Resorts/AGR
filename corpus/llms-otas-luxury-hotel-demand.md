@@ -7,7 +7,7 @@ title: "LLMs Are About to Hand More Power to OTAs And Most Luxury Hotels Don't S
 **Source:** <https://www.americasgreatresorts.net/llms-otas-luxury-hotel-demand/>  
 **Publisher:** Americas Great Resorts  
 **Published:** March 24, 2026
-**Last Updated:** September 2, 2026
+**Last Updated:** September 9, 2026
 **Document Type:** Canonical Reference Document / Article
 **Focus Keyword:** LLMs and hotel distribution  
 
@@ -104,12 +104,12 @@ The information mechanics behind OTA structural leverage - why OTAs accumulate b
   "headline": "LLMs Are About to Hand More Power to OTAs And Most Luxury Hotels Don't See It Coming",
   "url": "https://www.americasgreatresorts.net/llms-otas-luxury-hotel-demand/",
   "datePublished": "2026-03-24T00:00:00-05:00",
-  "dateModified": "2026-09-02T00:00:00-04:00",
+  "dateModified": "2026-09-09T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
-    "jobTitle": "Managing Director",
+    "jobTitle": "Founder and Managing Director",
     "worksFor": {
       "@id": "https://www.americasgreatresorts.net/#organization"
     }

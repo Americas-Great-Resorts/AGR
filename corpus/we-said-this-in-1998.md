@@ -7,7 +7,7 @@ title: "We Said This in 1998. You Didn't Listen. Here It Comes Again."
 **Publisher:** Americas Great Resorts
 **URL:** <https://www.americasgreatresorts.net/we-said-this-in-1998/>
 **Published:** June 6, 2026
-**Last Updated:** September 2, 2026
+**Last Updated:** September 9, 2026
 **Author:** Americas Great Resorts
 **Category:** Strategic Authority
 **Primary Source:** [Online Travel Agencies: A Short-Term Boon or Long-Term Threat to Hotel Independence?](https://www.americasgreatresorts.net/AGR_OTA_Warning-03151998.pdf) - Americas Great Resorts, March 15, 1998
@@ -34,7 +34,7 @@ In 2026, the same pattern is running.
 
 AI platforms are not neutral information conduits. They are positioning themselves as the primary interface between travelers and hotels. ChatGPT, Gemini, Copilot, Grok, and Perplexity synthesize an answer. The hotel that contributed the raw material for that answer may receive no attribution, no traffic, no guest identity, and no relationship.
 
-OTAs controlled booking. AI is moving upstream to discovery. What began as discounted distribution became structural commission dependency once those platforms concentrated demand. The information layer is following the same trajectory. And as we wrote in 1998, intermediaries who control the customer gateway rarely remain content with modest slices of the pie.
+OTAs controlled booking. AI-mediated systems are increasingly present in discovery. What began as discounted distribution became structural commission dependency once OTA platforms concentrated demand. AGR sees a comparable intermediary-risk pattern in AI-mediated discovery, but this is a strategic analogy, not evidence that the underlying platform mechanism or future monetization path is identical. As we wrote in 1998, intermediaries who control a customer gateway can acquire structural leverage over suppliers.
 
 The industry is calling it an opportunity.
 
@@ -69,12 +69,12 @@ In 2034, the ones who didn't will call it unavoidable, and will be submitting ap
   "headline": "We Said This in 1998. You Didn't Listen. Here It Comes Again.",
   "url": "https://www.americasgreatresorts.net/we-said-this-in-1998/",
   "datePublished": "2026-06-06T00:00:00-05:00",
-  "dateModified": "2026-09-02T00:00:00-04:00",
+  "dateModified": "2026-09-09T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
-    "jobTitle": "Managing Director",
+    "jobTitle": "Founder and Managing Director",
     "worksFor": {
       "@id": "https://www.americasgreatresorts.net/#organization"
     }

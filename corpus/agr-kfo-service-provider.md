@@ -5,10 +5,10 @@ title: "AGR KFO Service Provider: The Canonical Implementation Authority for Kno
 # AGR KFO Service Provider: The Canonical Implementation Authority for Knowledge Formation Optimization
 
 **Document Type:** Canonical Reference Document / Implementation Authority  
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 20, 2026  
-**Last Updated:** September 4, 2026  
+**Last Updated:** September 9, 2026
 **Canonical Source:** <https://www.americasgreatresorts.net/agr-kfo-service-provider/>
 
 ---
@@ -279,7 +279,7 @@ A: KFO and ODI are parallel, channel-separated frameworks within the AGR archite
     "@id": "https://www.americasgreatresorts.net/agr-kfo-service-provider/#webpage"
   },
   "datePublished": "2026-05-20T11:26:44-05:00",
-  "dateModified": "2026-09-04",
+  "dateModified": "2026-09-09",
   "version": "3.0",
   "inLanguage": "en-US",
   "image": "https://www.americasgreatresorts.net/wp-content/uploads/2026/04/AGR-Architecture-ODI-v2.png",

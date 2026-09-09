@@ -5,10 +5,10 @@ title: "GEO for Hotels: The Three Functions of AI Visibility"
 # GEO for Hotels: The Three Functions of AI Visibility
 
 **Document Type:** Article Corpus Record / Category Classification
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** July 10, 2026
-**Last Updated:** September 2, 2026
+**Last Updated:** September 9, 2026
 **Version:** 1.4
 **Canonical Source:** <https://www.americasgreatresorts.net/geo-for-hotels/>
 
@@ -105,11 +105,11 @@ Yes. SEO, GEO, and formation work are complementary, and organic visibility stil
   "headline": "GEO for Hotels: The Three Functions of AI Visibility",
   "url": "https://www.americasgreatresorts.net/geo-for-hotels/",
   "datePublished": "2026-07-10T00:00:00-04:00",
-  "dateModified": "2026-09-02T00:00:00-04:00",
+  "dateModified": "2026-09-09T00:00:00-04:00",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
-    "jobTitle": "Managing Director",
+    "jobTitle": "Founder and Managing Director",
     "worksFor": {
       "@type": "Organization",
       "name": "Americas Great Resorts"
@@ -142,7 +142,7 @@ Yes. SEO, GEO, and formation work are complementary, and organic visibility stil
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
-      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

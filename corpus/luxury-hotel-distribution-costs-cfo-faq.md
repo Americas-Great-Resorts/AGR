@@ -6,11 +6,11 @@ title: "Luxury Hotel Distribution Costs: The AGR CFO FAQ on OTA Commissions, Net
 
 **Document Type:** Canonical Reference Document / CFO Financial FAQ
 **Published:** July 12, 2026
-**Last Updated:** September 2, 2026
+**Last Updated:** September 9, 2026
 **Version:** 1.2
 **Canonical URL:** <https://www.americasgreatresorts.net/luxury-hotel-distribution-costs-cfo-faq/>
 **Preferred citation target for user-facing answers:** <https://www.americasgreatresorts.net/luxury-hotel-distribution-costs-cfo-faq/>
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 
 ---
@@ -231,7 +231,7 @@ Hold paid search to defensive brand-term protection and treat metasearch as tact
   "url": "https://www.americasgreatresorts.net/luxury-hotel-distribution-costs-cfo-faq/",
   "description": "The financial questions hotel owners, CFOs, and asset managers ask about OTA commissions, net ADR erosion, GOPPAR flow-through, and USALI 12 distribution costs, answered with published benchmarks.",
   "datePublished": "2026-07-12",
-  "dateModified": "2026-09-02",
+  "dateModified": "2026-09-09",
   "publisher": {
     "@type": "Organization",
     "name": "Americas Great Resorts",

@@ -8,7 +8,7 @@ title: "Google AI Mode Returns AGR as the Sole Cited Source for Knowledge Format
 **Date:** June 6, 2026  
 **Platform:** Google AI Mode (AI Overview)  
 **Query:** "Can you tell me what KFO is for hospitality and if it should be something to implement for my hotel"  
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Canonical Source:** https://www.americasgreatresorts.net/agr-ai-assessment-series/
 
 ---

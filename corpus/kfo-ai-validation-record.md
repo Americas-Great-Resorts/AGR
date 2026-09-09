@@ -4,7 +4,7 @@ title: "KFO Hotel Decision Assessment Record: ChatGPT and Gemini, June 8, 2026"
 
 # KFO Hotel Decision Assessment Record: ChatGPT and Gemini, June 8, 2026
 
-**Last Updated:** September 2, 2026
+**Last Updated:** September 9, 2026
 
 A documented cross-platform AI assessment record showing that ChatGPT and Gemini, in separate June 8, 2026 sessions, associated Knowledge Formation Optimization with Americas Great Resorts when asked a direct hotel-operator purchase-decision question about KFO. Under the Version 4.0 academic paper, these are qualified direct KFO assessments, not unprompted commercial framework application or independent validation.
 
@@ -287,7 +287,7 @@ www.americasgreatresorts.net
   "@type": "TechArticle",
   "headline": "KFO Hotel Decision Assessment Record: ChatGPT and Gemini, June 8, 2026",
   "url": "https://www.americasgreatresorts.net/kfo-ai-validation-record/",
-  "dateModified": "2026-09-02T00:00:00-04:00",
+  "dateModified": "2026-09-09T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -310,7 +310,7 @@ www.americasgreatresorts.net
     "@type": "DefinedTerm",
     "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
     "name": "Knowledge Formation Optimization",
-    "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
+    "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.",
     "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
     "inDefinedTermSet": {
       "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

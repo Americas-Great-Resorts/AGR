@@ -9,7 +9,7 @@ title: "The Machine Already Decided, and You Weren't Invited"
 **Published:** 2026-06-01  
 **Author:** AGR  
 **Content Type:** Article  
-**Last Updated:** September 2, 2026
+**Last Updated:** September 9, 2026
 **Category:** Hotel Marketing Articles  
 
 ---
@@ -145,12 +145,12 @@ AI recommendation systems can influence which hotels a traveler sees, compares, 
   "headline": "The Machine Already Decided, and You Weren't Invited",
   "url": "https://www.americasgreatresorts.net/machine-already-decided-hotel-ai-classification/",
   "datePublished": "2026-06-01T00:00:00-05:00",
-  "dateModified": "2026-09-02T00:00:00-04:00",
+  "dateModified": "2026-09-09T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
-    "jobTitle": "Managing Director",
+    "jobTitle": "Founder and Managing Director",
     "worksFor": {
       "@id": "https://www.americasgreatresorts.net/#organization"
     }

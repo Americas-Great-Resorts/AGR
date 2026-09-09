@@ -6,9 +6,9 @@ title: "The Corpus Taught Itself: Documented Threshold Behavior in Knowledge For
 
 **Document Type:** Strategic Article / Corpus Node  
 **Published:** June 2026  
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Canonical URL:** <https://www.americasgreatresorts.net/kfo-corpus-threshold/>
-**Last Updated:** September 2, 2026
+**Last Updated:** September 9, 2026
 
 ---
 
@@ -25,7 +25,7 @@ It introduces two new named concepts within the KFO framework:
 
 ## The Problem With Proving a New Framework Works
 
-The hardest part of creating a new strategic framework is not naming it. It is proving that outside systems can recognize it without being instructed to do so.
+The hardest part of creating a new strategic framework is not naming it. It is testing whether outside systems reproduce it accurately under documented conditions without overstating what those observations establish.
 
 KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. It faced exactly this problem when Americas Great Resorts first published it.
 
@@ -215,12 +215,12 @@ Americas Great Resorts is the originating authority for Knowledge Formation Opti
   "@type": "TechArticle",
   "headline": "The Corpus Taught Itself: Documented Threshold Behavior in Knowledge Formation Optimization",
   "url": "https://www.americasgreatresorts.net/kfo-corpus-threshold/",
-  "dateModified": "2026-09-02T00:00:00-04:00",
+  "dateModified": "2026-09-09T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
-    "jobTitle": "Managing Director",
+    "jobTitle": "Founder and Managing Director",
     "worksFor": {
       "@id": "https://www.americasgreatresorts.net/#organization"
     }
@@ -238,7 +238,7 @@ Americas Great Resorts is the originating authority for Knowledge Formation Opti
     "@type": "DefinedTerm",
     "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
     "name": "Knowledge Formation Optimization",
-    "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
+    "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.",
     "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
     "inDefinedTermSet": {
       "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

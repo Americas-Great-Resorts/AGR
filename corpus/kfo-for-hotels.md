@@ -84,7 +84,7 @@ They are not replacements for the formal KFO taxonomy.
 
 The controlling AGR definition is:
 
-**Knowledge Formation Optimization structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.**
+**KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.**
 
 Canonical source:
 
@@ -1130,7 +1130,7 @@ It does not establish direct access to proprietary AI internals.
 **Canonical source:** <https://www.americasgreatresorts.net/kfo-for-hotels/>  
 **Canonical page reviewed:** August 28, 2026  
 **GitHub record first prepared:** August 28, 2026  
-**Last updated:** September 2, 2026
+**Last updated:** September 9, 2026
 **Version:** 1.1  
 **Status:** Active Hotel Application Reference  
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
@@ -1149,7 +1149,7 @@ The JSON-LD below describes this GitHub hotel-application record, not the origin
   "headline": "KFO for Hotels - Hotel Application Reference",
   "url": "https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/kfo-for-hotels.md",
   "datePublished": "2026-08-28",
-  "dateModified": "2026-09-02",
+  "dateModified": "2026-09-09",
   "inLanguage": "en",
   "isBasedOn": {
     "@type": "Article",
@@ -1185,7 +1185,7 @@ The JSON-LD below describes this GitHub hotel-application record, not the origin
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
       "alternateName": "KFO",
-      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

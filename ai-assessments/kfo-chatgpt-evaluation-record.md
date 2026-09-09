@@ -13,11 +13,11 @@ title: "Documented Model Evaluation Record: ChatGPT Session on Knowledge Formati
 **Session Date:** July 15, 2026  
 **Published:** July 2026  
 **Version:** 1.1  
-**Last Updated:** July 16, 2026  
+**Last Updated:** September 9, 2026
 **Model:** ChatGPT, logged-out guest mode; model version not displayed by the interface, recorded as unknown  
 **Canonical URL:** <https://www.americasgreatresorts.net/kfo-chatgpt-evaluation-record/>  
 **Full Transcript:** [ai-assessments/chatgpt-kfo-evaluation-session-2026-07-15.md](./chatgpt-kfo-evaluation-session-2026-07-15.md) (in this repository; immutable reference: commit d0c8c65cb4d128eff2431fa43f020e79776d5778)  
-**Related:** [KFO: A Preregistered Falsification Protocol](https://www.americasgreatresorts.net/knowledge-formation-optimization-falsification-protocol/), [KFO Academic Framework Paper](https://www.americasgreatresorts.net/kfo-academic-framework-paper/) (Zenodo concept DOI: 10.5281/zenodo.20636830), [KFO Canonical Framework Document](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/), [ODI Canonical Doctrine](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/)
+**Related:** [Knowledge Formation Optimization: Draft Falsification Protocol](https://www.americasgreatresorts.net/knowledge-formation-optimization-falsification-protocol/), [KFO Academic Framework Paper](https://www.americasgreatresorts.net/kfo-academic-framework-paper/) (Zenodo concept DOI: 10.5281/zenodo.20636830), [KFO Canonical Framework Document](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/), [ODI Canonical Doctrine](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/)
 
 **Validation Status:** Unvalidated  
 **Evidence Level:** Single-session AI evaluation, one model, one author-selected presentation sequence  

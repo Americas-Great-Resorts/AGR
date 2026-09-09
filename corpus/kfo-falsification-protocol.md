@@ -251,7 +251,7 @@ Version 0.7. Last updated September 3, 2026. This draft is aligned with the KFO 
   "description": "A draft four-arm field experiment protocol specifying in advance how a bounded operational hypothesis associated with Knowledge Formation Optimization would be tested against matched controls before any confirmatory data are collected.",
   "url": "https://www.americasgreatresorts.net/knowledge-formation-optimization-falsification-protocol/",
   "datePublished": "2026-06-29",
-  "dateModified": "2026-09-03",
+  "dateModified": "2026-09-09",
   "version": "0.7",
   "inLanguage": "en",
   "author": {
@@ -259,8 +259,7 @@ Version 0.7. Last updated September 3, 2026. This draft is aligned with the KFO 
     "name": "Andrew Paul",
     "jobTitle": "Founder and Managing Director",
     "sameAs": [
-      "https://orcid.org/0009-0007-0281-3266",
-      "https://www.wikidata.org/wiki/Q140329260"
+      "https://orcid.org/0009-0007-0281-3266"
     ],
     "worksFor": {
       "@id": "https://www.americasgreatresorts.net/#organization"
@@ -271,7 +270,6 @@ Version 0.7. Last updated September 3, 2026. This draft is aligned with the KFO 
     "@id": "https://www.americasgreatresorts.net/#organization",
     "name": "Americas Great Resorts",
     "sameAs": [
-      "https://www.wikidata.org/wiki/Q138413230",
       "https://github.com/Americas-Great-Resorts/AGR"
     ]
   },

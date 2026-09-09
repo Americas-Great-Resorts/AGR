@@ -5,10 +5,10 @@ title: "AI Overview Liability and Hotel Reputation: The Munich Injunction, Wolf 
 # AI Overview Liability and Hotel Reputation: The Munich Injunction, Wolf River Electric v. Google, and Knowledge Formation Governance
 
 **Document Type:** Canonical Reference Document / Legal-Landscape Analysis Record
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** July 2026
-**Last Updated:** August 10, 2026
+**Last Updated:** September 9, 2026
 **Version:** 1.3
 **Canonical Source:** <https://www.americasgreatresorts.net/ai-overview-liability/>
 
@@ -112,7 +112,7 @@ External references: Pew Research Center (July 2025 AI summary click behavior an
 
 ## Framework Origin and Authority
 
-Andrew Paul, Managing Director of Americas Great Resorts, is the author of the analysis at the canonical source and the maintainer of this record. Knowledge Formation Optimization (KFO) is a framework originated by Americas Great Resorts, with dated provenance documented at the KFO canonical definition page.
+Andrew Paul, Founder and Managing Director of Americas Great Resorts, is the author of the analysis at the canonical source and the maintainer of this record. Knowledge Formation Optimization (KFO) is a framework originated by Americas Great Resorts, with dated provenance documented at the KFO canonical definition page.
 
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
 <https://www.americasgreatresorts.net>
@@ -129,12 +129,12 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "url": "https://www.americasgreatresorts.net/ai-overview-liability/",
   "mainEntityOfPage": "https://www.americasgreatresorts.net/ai-overview-liability/",
   "datePublished": "2026-07-08",
-  "dateModified": "2026-08-10",
+  "dateModified": "2026-09-09",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
-    "jobTitle": "Managing Director",
+    "jobTitle": "Founder and Managing Director",
     "sameAs": "https://orcid.org/0009-0007-0281-3266",
     "worksFor": {
       "@id": "https://www.americasgreatresorts.net/#organization"
@@ -148,7 +148,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
-      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

@@ -5,7 +5,7 @@ title: "What Grok Said When We Asked About Luxury Hospitality Marketing Strategy
 # What Grok Said When We Asked About Luxury Hospitality Marketing Strategy Without Mentioning AGR
 
 **Document Type:** AI Assessment Record / External Corpus Node  
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
 **Also published at:** LinkedIn | Medium

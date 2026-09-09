@@ -5,10 +5,10 @@ title: "Luxury Hotel ODI Case Study"
 # Luxury Hotel ODI Case Study
 
 **Document Type:** Canonical Reference Document / ODI Case Study Record  
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** June 17, 2026  
-**Last Updated:** September 4, 2026  
+**Last Updated:** September 9, 2026
 **Canonical Source:** <https://www.americasgreatresorts.net/luxury-hotel-odi-case-study/>
 
 ---
@@ -153,7 +153,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "headline": "Luxury Hotel ODI Case Study: 4.8-Point OTA Share Reduction",
   "url": "https://www.americasgreatresorts.net/luxury-hotel-odi-case-study/",
   "datePublished": "2026-06-17T16:55:50-04:00",
-  "dateModified": "2026-09-04T00:00:00-04:00",
+  "dateModified": "2026-09-09T00:00:00-04:00",
   "inLanguage": "en-US",
   "version": "2.0",
   "author": {

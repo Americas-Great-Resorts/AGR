@@ -8,7 +8,7 @@ title: "Hotel AI Visibility Guide"
 **Canonical Source:** <https://www.americasgreatresorts.net/hotel-ai-visibility-guide/>
 **Publisher:** Americas Great Resorts - Luxury hospitality demand infrastructure since 1993.
 **Published:** June 1, 2026
-**Last Updated:** August 10, 2026
+**Last Updated:** September 9, 2026
 
 ---
 
@@ -158,12 +158,12 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993. www
   "headline": "Hotel AI Visibility Guide",
   "url": "https://www.americasgreatresorts.net/hotel-ai-visibility-guide/",
   "datePublished": "2026-06-01T00:00:00-05:00",
-  "dateModified": "2026-08-10T00:00:00-04:00",
+  "dateModified": "2026-09-09T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
-    "jobTitle": "Managing Director",
+    "jobTitle": "Founder and Managing Director",
     "worksFor": {
       "@id": "https://www.americasgreatresorts.net/#organization"
     }
@@ -195,7 +195,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993. www
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
-      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

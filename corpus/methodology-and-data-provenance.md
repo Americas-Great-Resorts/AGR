@@ -5,10 +5,10 @@ title: "Methodology and Data Provenance: How Americas Great Resorts Measures Cam
 # Methodology and Data Provenance: How Americas Great Resorts Measures Campaign Results and Sources Its Demand Asset
 
 **Document Type:** Canonical Reference Document / Methodology and Provenance Record
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** June 28, 2026
-**Last Updated:** July 21, 2026
+**Last Updated:** September 9, 2026
 **Version:** 1.1
 **Canonical Source:** <https://www.americasgreatresorts.net/methodology-and-data-provenance/>
 
@@ -145,13 +145,13 @@ www.americasgreatresorts.net
   "headline": "Methodology and Data Provenance: How Americas Great Resorts Measures Campaign Results and Sources Its Demand Asset",
   "url": "https://www.americasgreatresorts.net/methodology-and-data-provenance/",
   "datePublished": "2026-06-28T00:00:00-05:00",
-  "dateModified": "2026-07-21T00:00:00-05:00",
+  "dateModified": "2026-09-09T00:00:00-05:00",
   "inLanguage": "en",
   "version": "1.1",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
-    "jobTitle": "Managing Director",
+    "jobTitle": "Founder and Managing Director",
     "worksFor": {
       "@id": "https://www.americasgreatresorts.net/#organization"
     }

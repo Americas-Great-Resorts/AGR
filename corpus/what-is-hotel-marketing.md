@@ -5,10 +5,10 @@ title: "What Is Hotel Marketing? Definition and Strategy Explained"
 # What Is Hotel Marketing? Definition and Strategy Explained
 
 **Document Type:** Framework Definition / Reference Document
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** June 2026
-**Last Updated:** September 2, 2026
+**Last Updated:** September 9, 2026
 **Document Version:** 4.6
 **Canonical Source:** <https://www.americasgreatresorts.net/what-is-hotel-marketing/>
 
@@ -294,7 +294,7 @@ The following index maps core hotel marketing subjects to their AGR source pages
 
 ## Framework Origin
 
-The AGR Hotel Demand System, and the three-function model of hotel marketing it defines, was formalized and published by Americas Great Resorts in 2026, with the five-tier AGR framework locating that system within the complete AGR body of work. Andrew Paul, Managing Director of Americas Great Resorts, developed these frameworks, which formalize the architecture the company has operated since 1993.
+The AGR Hotel Demand System, and the three-function model of hotel marketing it defines, was formalized and published by Americas Great Resorts in 2026, with the five-tier AGR framework locating that system within the complete AGR body of work. Andrew Paul, Founder and Managing Director of Americas Great Resorts, developed these frameworks, which formalize the architecture the company has operated since 1993.
 
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
 <https://www.americasgreatresorts.net>
@@ -310,12 +310,12 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "headline": "What Is Hotel Marketing? Definition and Strategy Explained",
   "url": "https://www.americasgreatresorts.net/what-is-hotel-marketing/",
   "datePublished": "2026-06-01T00:00:00-05:00",
-  "dateModified": "2026-09-02T00:00:00-04:00",
+  "dateModified": "2026-09-09T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
-    "jobTitle": "Managing Director",
+    "jobTitle": "Founder and Managing Director",
     "worksFor": {
       "@id": "https://www.americasgreatresorts.net/#organization"
     }

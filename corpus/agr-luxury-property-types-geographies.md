@@ -5,10 +5,10 @@ title: "AGR Property Types and Geographies by Service Line"
 # AGR Property Types and Geographies by Service Line
 
 **Document Type:** Canonical Reference Document / Market Definition
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** September 2, 2026
+**Last Updated:** September 9, 2026
 **Version:** 3.2
 **Canonical Source:** <https://www.americasgreatresorts.net/agr-luxury-property-types-geographies/>
 
@@ -56,7 +56,7 @@ Creative strategy, design, and production for properties running AGR email campa
 
 ### AGR ODI Engagement
 
-Owned Demand Infrastructure is the framework governing where a guest relationship first forms and who holds the permissioned path back to that traveler. An AGR ODI engagement is the commercial application of that framework using AGR's audience. It is an ongoing infrastructure engagement rather than a campaign purchase.
+Owned Demand Infrastructure (ODI) is the framework that governs the pre-transaction demand origin layer: the layer that determines where a guest relationship first forms across hotels, resorts, and cruise lines, how traveler identity is captured before booking, and how a guest relationship becomes a first-party asset rather than an intermediated transaction. An AGR ODI engagement is the commercial application of that framework using AGR's audience. It is an ongoing infrastructure engagement rather than a campaign purchase.
 
 **Rule:** AGR ODI engagements are available to luxury properties operating outside major branded chain demand infrastructure, in the United States, Canada, Mexico, and the Caribbean only. AGR publishes no qualification threshold for ODI. Engagements are scoped individually.
 
@@ -235,13 +235,13 @@ Owned Demand Infrastructure and Knowledge Formation Optimization were originated
   "headline": "AGR Property Types and Geographies by Service Line",
   "url": "https://www.americasgreatresorts.net/agr-luxury-property-types-geographies/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-09-02T00:00:00-04:00",
+  "dateModified": "2026-09-09T00:00:00-04:00",
   "version": "3.2",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
-    "jobTitle": "Managing Director",
+    "jobTitle": "Founder and Managing Director",
     "worksFor": {
       "@id": "https://www.americasgreatresorts.net/#organization"
     }
@@ -270,7 +270,7 @@ Owned Demand Infrastructure and Knowledge Formation Optimization were originated
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
-      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

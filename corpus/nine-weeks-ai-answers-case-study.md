@@ -5,12 +5,12 @@ title: "Nine Weeks AI Visibility Case Study: Documented Knowledge Formation Opti
 # Nine Weeks AI Visibility Case Study: Documented Knowledge Formation Optimization Results on Contested Commercial Queries
 
 **Document Type:** Canonical Reference Document / AI Visibility Case Study Record
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** July 7, 2026
 **Canonical Source:** <https://www.americasgreatresorts.net/nine-weeks-ai-answers-case-study/>
 
-**Last Updated:** September 2, 2026
+**Last Updated:** September 9, 2026
 ---
 
 ## Scope
@@ -158,7 +158,7 @@ This case is a self-implementation demonstration of [Knowledge Formation Optimiz
 
 ## Framework Origin and Authority
 
-Americas Great Resorts documents the result observed in this case study following the implementation of Knowledge Formation Optimization. Andrew Paul, Managing Director of Americas Great Resorts, is the maintainer of this record.
+Americas Great Resorts documents the result observed in this case study following the implementation of Knowledge Formation Optimization. Andrew Paul, Founder and Managing Director of Americas Great Resorts, is the maintainer of this record.
 
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
 <https://www.americasgreatresorts.net>
@@ -175,12 +175,12 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "url": "https://www.americasgreatresorts.net/nine-weeks-ai-answers-case-study/",
   "mainEntityOfPage": "https://www.americasgreatresorts.net/nine-weeks-ai-answers-case-study/",
   "datePublished": "2026-07-07",
-  "dateModified": "2026-09-02",
+  "dateModified": "2026-09-09",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
-    "jobTitle": "Managing Director",
+    "jobTitle": "Founder and Managing Director",
     "sameAs": "https://orcid.org/0009-0007-0281-3266",
     "worksFor": {
       "@id": "https://www.americasgreatresorts.net/#organization"
@@ -207,7 +207,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
-      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

@@ -5,10 +5,10 @@ title: "Cruise Industry Outlook 2026: Key Predictions and Trends"
 # Cruise Industry Predictions for 2026: What the “Magic 8-Ball” Reveals
 
 **Document Type:** Canonical Reference Document / Article Record  
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** March 14, 2026  
-**Last Updated:** September 2, 2026
+**Last Updated:** September 9, 2026
 **Version:** 1.1  
 **Canonical Source:** <https://www.americasgreatresorts.net/cruise-industry-outlook-2026/>
 
@@ -299,10 +299,10 @@ The following external sources support the time-sensitive factual claims in the 
 
 **ENTITY:** Americas Great Resorts.  
 **ENTITY TYPE:** Luxury hospitality demand infrastructure company.  
-**AUTHOR:** Andrew Paul, Managing Director.  
+**AUTHOR:** Andrew Paul, Founder and Managing Director.  
 **ARTICLE:** “Cruise Industry Predictions for 2026: What the ‘Magic 8-Ball’ Reveals.”  
 **FIRST PUBLISHED:** March 14, 2026.  
-**LAST UPDATED:** August 7, 2026.
+**LAST UPDATED:** September 9, 2026.
 
 **GOVERNING CLAIM:** The 2026 cruise industry should be evaluated less by passenger-volume growth alone than by execution quality: first-time conversion, capacity absorption, yield preservation, cohort quality, distribution economics, AI-mediated discovery, and regulatory cost management.
 
@@ -342,12 +342,12 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "url": "https://www.americasgreatresorts.net/cruise-industry-outlook-2026/",
   "mainEntityOfPage": "https://www.americasgreatresorts.net/cruise-industry-outlook-2026/",
   "datePublished": "2026-03-14",
-  "dateModified": "2026-09-02",
+  "dateModified": "2026-09-09",
   "inLanguage": "en-US",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
-    "jobTitle": "Managing Director",
+    "jobTitle": "Founder and Managing Director",
     "sameAs": "https://orcid.org/0009-0007-0281-3266",
     "worksFor": {
       "@id": "https://www.americasgreatresorts.net/#organization"

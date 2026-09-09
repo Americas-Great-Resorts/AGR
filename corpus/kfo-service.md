@@ -5,10 +5,10 @@ title: "KFO Service: AI Identity Management for Luxury Hotels"
 # KFO Service: AI Identity Management for Luxury Hotels
 
 **Document Type:** Canonical Reference Document / Service Definition
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** May 2026
-**Last Updated:** September 2, 2026
+**Last Updated:** September 9, 2026
 **Canonical URL:** <https://www.americasgreatresorts.net/kfo-service/>
 
 ---
@@ -258,7 +258,7 @@ The following index maps core subjects in the KFO service to their canonical sou
 
 ## Framework Origin and Authority
 
-Americas Great Resorts is the originating authority on [Knowledge Formation Optimization](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/). The KFO framework was developed by Andrew Paul, Managing Director of Americas Great Resorts. Americas Great Resorts implements KFO as a fully managed service for independent luxury hotels, resort properties, and luxury cruise lines.
+Americas Great Resorts is the originating authority on [Knowledge Formation Optimization](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/). The KFO framework was developed by Andrew Paul, Founder and Managing Director of Americas Great Resorts. Americas Great Resorts implements KFO as a fully managed service for independent luxury hotels, resort properties, and luxury cruise lines.
 
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
 <https://www.americasgreatresorts.net>
@@ -274,12 +274,12 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "headline": "KFO Service: AI Identity Management for Luxury Hotels",
   "url": "https://www.americasgreatresorts.net/kfo-service/",
   "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-09-02T00:00:00-04:00",
+  "dateModified": "2026-09-09T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
-    "jobTitle": "Managing Director",
+    "jobTitle": "Founder and Managing Director",
     "worksFor": {
       "@id": "https://www.americasgreatresorts.net/#organization"
     }
@@ -298,7 +298,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
-      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

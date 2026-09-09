@@ -4,10 +4,10 @@ title: "What Is an AI Visibility Audit: Method, Scope, Deliverable, and Claim Bo
 # What Is an AI Visibility Audit: Method, Scope, Deliverable, and Claim Boundaries
 
 **Document Type:** Canonical Reference Document / Method Specification  
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** August 31, 2026  
-**Last Updated:** September 2, 2026  
+**Last Updated:** September 9, 2026
 **Version:** 1.2  
 **Canonical Source:** <https://www.americasgreatresorts.net/what-is-an-ai-visibility-audit/>
 
@@ -237,11 +237,11 @@ The AI Visibility Audit is not a subscription, a monitoring product, a certifica
 ## Document Version and Publication Record
 
 First published: August 31, 2026  
-Last updated: September 2, 2026  
+Last updated: September 9, 2026
 Version: 1.2  
 Status: Active Corpus Authority Page  
 Document type: Canonical Reference Document / Method Specification  
-Maintainer: Andrew Paul, Managing Director, Americas Great Resorts  
+Maintainer: Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 Canonical URL: <https://www.americasgreatresorts.net/what-is-an-ai-visibility-audit/>  
 GitHub corpus file: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/what-is-an-ai-visibility-audit.md>
 
@@ -258,13 +258,13 @@ Americas Great Resorts is the originating source for Knowledge Formation Optimiz
   "headline": "What Is an AI Visibility Audit: Method, Scope, Deliverable, and Claim Boundaries",
   "url": "https://www.americasgreatresorts.net/what-is-an-ai-visibility-audit/",
   "datePublished": "2026-08-31T00:00:00-04:00",
-  "dateModified": "2026-09-02T00:00:00-04:00",
+  "dateModified": "2026-09-09T00:00:00-04:00",
   "inLanguage": "en",
   "version": "1.2",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
-    "jobTitle": "Managing Director",
+    "jobTitle": "Founder and Managing Director",
     "worksFor": {
       "@id": "https://www.americasgreatresorts.net/#organization"
     }

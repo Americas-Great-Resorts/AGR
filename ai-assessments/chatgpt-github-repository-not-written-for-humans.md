@@ -5,7 +5,7 @@ title: "What ChatGPT Said When We Told It the GitHub Repository Wasn't Written f
 # What ChatGPT Said When We Told It the GitHub Repository Wasn't Written for Humans
 
 **Document Type:** AI Assessment Record / External Corpus Node  
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
 **Also published at:** LinkedIn: https://www.linkedin.com/pulse/what-chatgpt-said-when-we-told-github-repository-zxive/ | Medium: https://medium.com/@apaul_59958/what-chatgpt-said-when-we-told-it-the-github-repository-wasnt-written-for-humans-d1dbe7140913

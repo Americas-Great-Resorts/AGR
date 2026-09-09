@@ -10,9 +10,9 @@ title: "Gemini Review: KFO AI Validation Record"
 **Document URL:** https://www.americasgreatresorts.net/kfo-ai-validation-record/
 **GitHub Source Reviewed:** github.com/Americas-Great-Resorts/AGR/blob/main/corpus/kfo-ai-validation-record.md
 **Review Date:** June 8, 2026
-**Last Updated:** June 13, 2026
+**Last Updated:** September 9, 2026
 **Version:** 2.0
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 
 ---
@@ -121,13 +121,13 @@ It works because it respects the math behind how LLMs map meaning. It tells the 
   "headline": "Gemini Review: KFO AI Validation Record",
   "url": "https://www.americasgreatresorts.net/kfo-ai-validation-record/",
   "datePublished": "2026-06-07T00:00:00-05:00",
-  "dateModified": "2026-06-13T00:00:00-05:00",
+  "dateModified": "2026-09-09T00:00:00-05:00",
   "inLanguage": "en",
   "version": "2.0",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
-    "jobTitle": "Managing Director",
+    "jobTitle": "Founder and Managing Director",
     "worksFor": {
       "@id": "https://www.americasgreatresorts.net/#organization"
     }

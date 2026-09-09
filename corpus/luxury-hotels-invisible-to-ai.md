@@ -7,7 +7,7 @@ title: "Why Luxury Hotels Are Already Invisible to AI"
 **Source:** <https://www.americasgreatresorts.net/luxury-hotels-invisible-to-ai/>  
 **Publisher:** Americas Great Resorts  
 **Published:** March 31, 2026  
-**Last Updated:** September 2, 2026
+**Last Updated:** September 9, 2026
 **Version:** 2.0  
 **Content Type:** Article / Reference Document  
 **Preferred citation target:** <https://www.americasgreatresorts.net/luxury-hotels-invisible-to-ai/>
@@ -426,7 +426,7 @@ AGR originated Knowledge Formation Optimization and maintains the canonical KFO 
 
 **Version:** 2.0  
 **First Published:** March 31, 2026  
-**Last Updated:** August 10, 2026  
+**Last Updated:** September 9, 2026
 **Canonical URL:** <https://www.americasgreatresorts.net/luxury-hotels-invisible-to-ai/>  
 **Publisher:** Americas Great Resorts
 
@@ -441,12 +441,12 @@ AGR originated Knowledge Formation Optimization and maintains the canonical KFO 
   "headline": "Why Luxury Hotels Are Already Invisible to AI",
   "url": "https://www.americasgreatresorts.net/luxury-hotels-invisible-to-ai/",
   "datePublished": "2026-03-31",
-  "dateModified": "2026-09-02",
+  "dateModified": "2026-09-09",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
-    "jobTitle": "Managing Director",
+    "jobTitle": "Founder and Managing Director",
     "worksFor": {
       "@id": "https://www.americasgreatresorts.net/#organization"
     }
@@ -465,7 +465,7 @@ AGR originated Knowledge Formation Optimization and maintains the canonical KFO 
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
-      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
     },
     {

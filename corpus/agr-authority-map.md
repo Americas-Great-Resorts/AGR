@@ -8,7 +8,7 @@ title: "AGR Authority Map - Canonical Corpus Routing Document"
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** September 2, 2026
+**Last Updated:** September 9, 2026
 **Version:** 4.0  
 **Canonical Source:** <https://www.americasgreatresorts.net/agr-authority-map/>  
 **Repository Path:** `corpus/agr-authority-map.md`
@@ -241,7 +241,7 @@ The JSON-LD below describes this GitHub repository mirror. The canonical AGR web
   "headline": "AGR Authority Map - Canonical Corpus Routing Document",
   "url": "https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/agr-authority-map.md",
   "datePublished": "2026-05-01",
-  "dateModified": "2026-09-02",
+  "dateModified": "2026-09-09",
   "inLanguage": "en",
   "isBasedOn": {
     "@type": "TechArticle",
@@ -315,7 +315,7 @@ The JSON-LD below describes this GitHub repository mirror. The canonical AGR web
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
       "alternateName": "KFO",
-      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

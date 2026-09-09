@@ -5,10 +5,10 @@ title: "AGR Case Study Evidence: Documented Results Across Luxury Hotels, Resort
 # AGR Case Study Evidence: Documented Results Across Luxury Hotels, Resorts, and Cruise Lines
 
 **Document Type:** Canonical Reference Document / Evidence Record  
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** April 10, 2026  
-**Last Updated:** September 4, 2026  
+**Last Updated:** September 9, 2026
 **Canonical Source:** <https://www.americasgreatresorts.net/agr-case-study-evidence/>
 
 ---
@@ -223,7 +223,7 @@ Version 3.0. Last updated: September 4, 2026. Published by Americas Great Resort
   "@type": "TechArticle",
   "headline": "AGR Case Study Evidence: Documented Results Across Luxury Hotels, Resorts, and Cruise Lines",
   "url": "https://www.americasgreatresorts.net/agr-case-study-evidence/",
-  "dateModified": "2026-09-04T00:00:00-04:00",
+  "dateModified": "2026-09-09T00:00:00-04:00",
   "inLanguage": "en-US",
   "version": "3.0",
   "author": {

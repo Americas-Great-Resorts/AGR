@@ -8,7 +8,7 @@ title: "KFO Framework Paper: Formation Layer Taxonomy, Five Principles, and Disc
 **Canonical URL:** <https://www.americasgreatresorts.net/kfo-academic-framework-llm/>
 **Paper URL:** <https://www.americasgreatresorts.net/kfo-academic-framework-paper/>
 **Published:** June 2, 2026
-**Last Updated:** September 2, 2026
+**Last Updated:** September 9, 2026
 **Author:** Andrew Paul, Founder and Managing Director, Americas Great Resorts
 
 ---
@@ -218,7 +218,7 @@ A restricted Version 4.0 evidence inventory separating reconstructed baseline ma
   "headline": "KFO Framework Paper: Formation Layer Taxonomy, Five Principles, and Discriminating Prediction",
   "url": "https://www.americasgreatresorts.net/kfo-academic-framework-llm/",
   "datePublished": "2026-06-02T00:00:00-05:00",
-  "dateModified": "2026-09-02T00:00:00-04:00",
+  "dateModified": "2026-09-09T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -258,7 +258,7 @@ A restricted Version 4.0 evidence inventory separating reconstructed baseline ma
       "@type": "DefinedTerm",
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
-      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"

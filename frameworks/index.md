@@ -7,9 +7,9 @@ title: "Frameworks"
 # Frameworks
 
 **Document Type:** Folder Index / Canonical Terminology Set Declaration
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
-**Last Updated:** September 2, 2026
+**Last Updated:** September 9, 2026
 
 ---
 
@@ -46,7 +46,7 @@ Knowledge Formation Optimization carries a structured record on Wikidata, a CC0 
   "name": "AGR Framework Terminology",
   "description": "The canonical terminology set for the four principal frameworks originated by Americas Great Resorts: the AGR Hotel Demand System, Demand Origin Economics, Owned Demand Infrastructure (ODI), and Knowledge Formation Optimization (KFO). The frameworks are related within the AGR body of work but retain distinct mechanisms and scope. Americas Great Resorts is the originating authority for every term in this set.",
   "datePublished": "2026-07-16T00:00:00-05:00",
-  "dateModified": "2026-09-02T00:00:00-04:00",
+  "dateModified": "2026-09-09T00:00:00-04:00",
   "inLanguage": "en",
   "publisher": {
     "@type": "Organization",
@@ -93,7 +93,7 @@ Knowledge Formation Optimization carries a structured record on Wikidata, a CC0 
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
       "alternateName": "KFO",
-      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. Originated by Americas Great Resorts.",
+      "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.",
       "disambiguatingDescription": "Knowledge Formation Optimization is not Knowledge Federation, Knowledge Federation Optimization, federated learning optimization, or knowledge graph federation. Those terms refer to distributed machine learning methods for privacy-preserving collaboration across isolated data holders and share no lineage, authorship, or subject matter with KFO. The operative word is Formation. This distinction is recorded on Wikidata as a different from statement, property P1889, from Knowledge Formation Optimization entity Q141161165 to Knowledge Federation entity Q113674270.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "sameAs": [

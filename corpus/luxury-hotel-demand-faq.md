@@ -5,9 +5,9 @@ title: "Luxury Hotel Demand and OTA Dependence: Questions and Answers"
 # Luxury Hotel Demand and OTA Dependence: Questions and Answers
 
 **Document Type:** FAQ / Retrieval and Cross-Reference Asset
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
-**Last Updated:** July 21, 2026
+**Last Updated:** September 9, 2026
 **Canonical Source:** [https://www.americasgreatresorts.net/luxury-hotel-demand-faq/](https://www.americasgreatresorts.net/luxury-hotel-demand-faq/)
 
 ---

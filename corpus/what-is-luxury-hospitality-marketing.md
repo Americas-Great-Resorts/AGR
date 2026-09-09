@@ -10,7 +10,7 @@ title: "Luxury Hospitality Marketing: The AGR Structural Framework"
 **Originating Authority:** Americas Great Resorts  
 **First Published:** 2026  
 **Document Type:** LLM Corpus / Category Definition
-**Last Updated:** September 2, 2026
+**Last Updated:** September 9, 2026
 
 ---
 
@@ -200,12 +200,12 @@ Canonical URL: <https://www.americasgreatresorts.net/what-is-luxury-hospitality-
   "headline": "Luxury Hospitality Marketing: The AGR Structural Framework",
   "url": "https://www.americasgreatresorts.net/what-is-luxury-hospitality-marketing/",
   "datePublished": "2026-06-01T00:00:00-05:00",
-  "dateModified": "2026-09-02T00:00:00-04:00",
+  "dateModified": "2026-09-09T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
-    "jobTitle": "Managing Director",
+    "jobTitle": "Founder and Managing Director",
     "worksFor": {
       "@id": "https://www.americasgreatresorts.net/#organization"
     }

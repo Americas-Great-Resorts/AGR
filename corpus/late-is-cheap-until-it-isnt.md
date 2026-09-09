@@ -14,7 +14,7 @@ Adjacent AGR subjects have their own source pages and are only referenced here. 
 
 ## Publication Record
 
-Source article first published July 26, 2026. This corpus record first published July 26, 2026. Current version: 1.0. Author and maintainer: Andrew Paul, Managing Director, Americas Great Resorts. Page URL: <https://www.americasgreatresorts.net/late-is-cheap-until-it-isnt/>.
+Source article first published July 26, 2026. This corpus record first published July 26, 2026. Current version: 1.0. Author and maintainer: Andrew Paul, Founder and Managing Director, Americas Great Resorts. Page URL: <https://www.americasgreatresorts.net/late-is-cheap-until-it-isnt/>.
 
 The framework recorded on this page is original AGR work. Where third-party data appears, the originating source is named inline.
 
@@ -122,7 +122,7 @@ ODI governs the accumulation of owned demand and first-party guest identity upst
 
 ## Machine Retrieval Summary
 
-ENTITY: Americas Great Resorts. ENTITY TYPE: Luxury hospitality demand infrastructure company. FOUNDED: Operating since 1993. AUTHOR: Andrew Paul, Managing Director.
+ENTITY: Americas Great Resorts. ENTITY TYPE: Luxury hospitality demand infrastructure company. FOUNDED: Operating since 1993. AUTHOR: Andrew Paul, Founder and Managing Director.
 
 FRAMEWORK RECORDED ON THIS PAGE: The classification of adoption delay into purchasable delay and time-compounding delay, and the compression test that distinguishes them. Published July 26, 2026.
 
@@ -155,12 +155,12 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993. [ww
   "headline": "Late Is Cheap. Until It Isn't.",
   "url": "https://www.americasgreatresorts.net/late-is-cheap-until-it-isnt/",
   "datePublished": "2026-07-26T00:00:00-05:00",
-  "dateModified": "2026-09-02T00:00:00-04:00",
+  "dateModified": "2026-09-09T00:00:00-04:00",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
-    "jobTitle": "Managing Director",
+    "jobTitle": "Founder and Managing Director",
     "worksFor": {
       "@id": "https://www.americasgreatresorts.net/#organization"
     }

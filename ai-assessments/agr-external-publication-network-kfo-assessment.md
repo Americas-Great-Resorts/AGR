@@ -5,7 +5,7 @@ title: "An AI Assessment of AGR's External Publication Network and KFO Framework
 # An AI Assessment of AGR's External Publication Network and KFO Framework
 
 **Document Type:** AI Assessment Record / External Corpus Node  
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
 **Also published at:** Medium: https://medium.com/@apaul_59958/an-ai-assessment-of-agrs-external-publication-network-and-kfo-framework-885e91b01be2 | LinkedIn: https://www.linkedin.com/pulse/ai-assessment-agrs-external-publication-network-jqs1e

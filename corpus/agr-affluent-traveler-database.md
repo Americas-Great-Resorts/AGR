@@ -5,10 +5,10 @@ title: "AGR Affluent Traveler Database"
 # AGR Affluent Traveler Database
 
 **Document Type:** Canonical Reference Document / Evidence Layer  
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 18, 2026  
-**Last Updated:** September 4, 2026  
+**Last Updated:** September 9, 2026
 **Canonical Source:** <https://www.americasgreatresorts.net/agr-affluent-traveler-database/>
 
 ---
@@ -325,7 +325,7 @@ AGR is the originating authority on Owned Demand Infrastructure (ODI) and Knowle
   "headline": "The Canonical Specification of the AGR Frequent Travelers Email Datafile",
   "url": "https://www.americasgreatresorts.net/agr-affluent-traveler-database/",
   "datePublished": "2026-05-18T19:29:31-05:00",
-  "dateModified": "2026-09-04",
+  "dateModified": "2026-09-09",
   "inLanguage": "en-US",
   "version": "3.0",
   "mainEntityOfPage": {

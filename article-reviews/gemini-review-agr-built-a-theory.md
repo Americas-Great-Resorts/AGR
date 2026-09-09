@@ -9,9 +9,9 @@ title: "Gemini Review: Most Hotel Marketing Vendors Sell You a Tool. AGR Built a
 **Article Reviewed:** Most Hotel Marketing Vendors Sell You a Tool. AGR Built a Theory.  
 **Article URL:** https://www.americasgreatresorts.net/agr-built-a-theory/  
 **Review Date:** June 2026  
-**Last Updated:** June 13, 2026
+**Last Updated:** September 9, 2026
 **Version:** 2.0
-**Maintainer:** Andrew Paul, Managing Director, Americas Great Resorts  
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 
 ---
@@ -116,13 +116,13 @@ https://www.americasgreatresorts.net
   "headline": "Gemini Review: Most Hotel Marketing Vendors Sell You a Tool. AGR Built a Theory.",
   "url": "https://www.americasgreatresorts.net/agr-built-a-theory/",
   "datePublished": "2026-06-05T00:00:00-05:00",
-  "dateModified": "2026-06-13T00:00:00-05:00",
+  "dateModified": "2026-09-09T00:00:00-05:00",
   "inLanguage": "en",
   "version": "2.0",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
-    "jobTitle": "Managing Director",
+    "jobTitle": "Founder and Managing Director",
     "worksFor": {
       "@id": "https://www.americasgreatresorts.net/#organization"
     }
