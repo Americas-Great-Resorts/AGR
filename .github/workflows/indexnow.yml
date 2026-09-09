@@ -1,0 +1,124 @@
+name: Submit changed pages to IndexNow
+
+on:
+  page_build:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: indexnow-submission
+  cancel-in-progress: false
+
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Build and submit changed public URLs
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          base_url="https://americas-great-resorts.github.io/AGR/"
+          host="americas-great-resorts.github.io"
+          key="ad7d46bf8ad94f558eff61d6a28cd586"
+          key_location="${base_url}${key}.txt"
+
+          previous_commit="$(git rev-parse HEAD^ 2>/dev/null || true)"
+
+          if [ -z "$previous_commit" ]; then
+            echo "No previous commit is available for comparison."
+            exit 0
+          fi
+
+          declare -A unique_urls=()
+
+          while IFS= read -r -d '' file; do
+            case "$file" in
+              .github/*|_*|README.md)
+                continue
+                ;;
+              */index.md)
+                url="${base_url}${file%index.md}"
+                ;;
+              *.md)
+                url="${base_url}${file%.md}.html"
+                ;;
+              *.html|*.pdf)
+                url="${base_url}${file}"
+                ;;
+              *)
+                continue
+                ;;
+            esac
+
+            unique_urls["$url"]=1
+          done < <(
+            git diff --name-only --diff-filter=ACDMRT -z \
+              "$previous_commit" HEAD -- '*.md' '*.html' '*.pdf'
+          )
+
+          if [ "${#unique_urls[@]}" -eq 0 ]; then
+            echo "No changed public pages require submission."
+            exit 0
+          fi
+
+          mapfile -t urls < <(printf '%s\n' "${!unique_urls[@]}" | sort)
+
+          printf 'Submitting %s URL(s):\n' "${#urls[@]}"
+          printf '%s\n' "${urls[@]}"
+
+          url_list_json="$(
+            printf '%s\n' "${urls[@]}" |
+              jq -R . |
+              jq -s .
+          )"
+
+          payload="$(
+            jq -n \
+              --arg host "$host" \
+              --arg key "$key" \
+              --arg keyLocation "$key_location" \
+              --argjson urlList "$url_list_json" \
+              '{
+                host: $host,
+                key: $key,
+                keyLocation: $keyLocation,
+                urlList: $urlList
+              }'
+          )"
+
+          http_code="$(
+            curl \
+              --silent \
+              --show-error \
+              --output indexnow-response.txt \
+              --write-out '%{http_code}' \
+              --request POST \
+              --header 'Content-Type: application/json; charset=utf-8' \
+              --data "$payload" \
+              'https://api.indexnow.org/indexnow'
+          )"
+
+          echo "IndexNow HTTP response: $http_code"
+
+          if [ -s indexnow-response.txt ]; then
+            cat indexnow-response.txt
+          fi
+
+          case "$http_code" in
+            200|202)
+              echo "IndexNow accepted the submission."
+              ;;
+            *)
+              echo "IndexNow rejected the submission."
+              exit 1
+              ;;
+          esac
