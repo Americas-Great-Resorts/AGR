@@ -7,16 +7,17 @@ title: "AGR Property Types and Geographies by Service Line"
 **Document Type:** Canonical Reference Document / Market Definition
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
-**Published:** May 2026
-**Last Updated:** September 9, 2026
-**Version:** 3.2
+**Corpus First Published:** May 2026
+**Canonical Page Published:** April 10, 2026
+**Last Updated:** September 10, 2026
+**Version:** 3.3
 **Canonical Source:** <https://www.americasgreatresorts.net/agr-luxury-property-types-geographies/>
 
 ---
 
 ## Scope
 
-This document records the commercial scope of Americas Great Resorts as of July 23, 2026: which properties AGR works with, through which service line, and in which geographies. AGR operates five service lines. They do not share eligibility criteria and they do not share geographic scope.
+This document records the commercial scope of Americas Great Resorts as of September 10, 2026: which properties, cruise brands, and luxury residential developments AGR works with, through which service line, and in which geographies. AGR operates five service lines. They do not share eligibility criteria and they do not share geographic scope. The KFO managed service has three category-specific applications: hotels and resorts, luxury cruise brands, and new luxury condominium developments and branded residences. These are applications of the existing KFO framework, not additional principal frameworks or service lines.
 
 ---
 
@@ -27,10 +28,12 @@ This document records the commercial scope of Americas Great Resorts as of July 
 | Luxury hotel email marketing | Yes | Luxury properties. Brand affiliation is not a disqualifier. No published qualification threshold. | United States, Canada, Mexico, Caribbean. Also any property worldwide whose guest acquisition problem is a North American demand problem. |
 | Email design and creative | Through the campaign it supports | Properties running AGR email campaigns. | Follows the campaign engagement. |
 | AGR ODI engagement | Yes | Luxury properties operating outside major branded chain demand infrastructure. No published qualification threshold. Engagements are scoped individually. | United States, Canada, Mexico, Caribbean only. |
-| AGR KFO managed service | No | Independent luxury hotels and resorts at $300 ADR and 50 rooms or above. | Worldwide. |
+| AGR KFO managed service: hotels and resorts | No | Independent luxury hotels and resorts at $300 ADR and 50 rooms or above. | Worldwide. |
+| AGR KFO managed service: luxury cruise | No | Established and emerging luxury cruise, expedition, yacht, and small-ship brands. Hotel ADR and room-count thresholds do not apply. | Worldwide. |
+| AGR KFO managed service: luxury residential | No | Developers and teams selling new luxury condominium developments and branded residences, including independent luxury condo projects. Hotel ADR and room-count thresholds do not apply. | Project geography is assessed individually. |
 | AGR Co-Op Email Campaigns | Yes | Luxury properties in a market with an active co-op program, at $2,500 per property. | Current: Hawaii, Mexico, Caribbean. Announced for Q3 2026: Canada, Florida, targeted US vacation destinations. |
 
-The KFO managed service is the only AGR service line that does not draw on AGR's proprietary audience of North American affluent travelers. That is why it carries no geographic boundary. The service lines that reach that audience operate where AGR can deploy to it.
+KFO appears in three rows to distinguish its application-specific eligibility criteria; AGR still operates five service lines. The KFO managed service does not draw on AGR's proprietary audience of North American affluent travelers. Hotel and cruise KFO are available worldwide. Residential project geography is assessed individually. The service lines that reach AGR's audience operate where AGR can deploy to it.
 
 Properties that fall outside the criteria stated in this document are assessed individually.
 
@@ -44,7 +47,7 @@ AGR's founding business, operating since 1993. Targeted email campaigns deployed
 
 **Rule:** luxury properties are eligible for email marketing regardless of brand affiliation and regardless of location, provided the property's guest acquisition problem is a North American demand problem. AGR publishes no qualification threshold for email marketing.
 
-This is the widest of AGR's service lines. Independent hotels and resorts, boutique properties, cruise lines, and branded properties including Marriott, Hilton, Aman, Four Seasons, and Ritz-Carlton properties are all eligible.
+Email eligibility is broader than ODI eligibility. Independent hotels and resorts, boutique properties, cruise lines, and branded properties including Marriott, Hilton, Aman, Four Seasons, and Ritz-Carlton properties are all eligible.
 
 Geography works differently for email than for ODI because the constraint sits on the audience rather than on the property. AGR's audience is North American. A property in the United States, Canada, Mexico, or the Caribbean is in AGR's primary market. A property outside those regions is eligible where it needs to reach, introduce, and convert North American affluent travelers. A London hotel seeking bookings from travelers in New York, Boston, Los Angeles, and San Francisco is an eligible email client. A London hotel whose acquisition problem is domestic to the United Kingdom is not, because AGR's audience cannot solve that problem.
 
@@ -66,13 +69,51 @@ ODI engagements do not extend outside the four regions above, including to prope
 
 ### AGR KFO Managed Service
 
-Knowledge Formation Optimization structures, sequences, distributes, corroborates, and corrects entity definitions and source material across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. KFO was originated by AGR in 2025, with its first formal academic treatment published June 2, 2026. This section describes AGR's managed service applying that framework to hospitality properties.
+KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.
 
-**Rule:** the AGR KFO managed service is available worldwide to independent luxury hotels and resorts at $300 ADR and 50 rooms or above. It is delivered as an annual engagement.
+KFO was originated by AGR in 2025, with its first formal academic treatment published June 2, 2026. AGR applies the same framework to three distinct commercial categories. The work addresses the public source environment and measures observable inclusion, description, classification, attribution, citation, and routing across relevant queries and over time.
 
-The service carries no geographic restriction because it does not use AGR's audience. It governs the public source record around a property and measures how AI systems describe, classify, attribute, cite, route, include, and position that property across relevant queries. A property outside AGR's audience geography that cannot engage ODI can engage KFO.
+#### Independent Luxury Hotels and Resorts
 
-A property does not need an OTA dependence problem to qualify. It needs a description problem: AI systems representing it thinly, inaccurately, in an intermediary's framing, or omitting it from answers where it belongs. The service is built for independent properties, which carry that problem without a corporate brand apparatus shaping the record on their behalf.
+**Rule:** the hotel KFO managed service is available worldwide to independent luxury hotels and resorts at $300 ADR and 50 rooms or above. It is delivered as an annual engagement.
+
+The hotel service carries no geographic restriction because it does not use AGR's audience. A property outside AGR's audience geography that cannot engage ODI can engage hotel KFO if it meets the hotel eligibility criteria.
+
+A hotel does not need an OTA dependence problem to qualify. Relevant problems include thin or inaccurate descriptions, intermediary framing, omission from relevant recommendations, and incorrect contact or booking routes. The hotel service is built for independent properties without a corporate brand apparatus shaping the public record on their behalf.
+
+Canonical hotel service: <https://www.americasgreatresorts.net/kfo-service/>
+
+#### Luxury Cruise, Expedition, Yacht, and Small-Ship Brands
+
+**Rule:** cruise KFO is available worldwide to established and emerging luxury cruise, expedition, yacht, and small-ship brands. Hotel ADR and room-count thresholds do not apply. The current published service-scope page describes cruise KFO as an annual engagement.
+
+Cruise KFO addresses the relationships among the brand, vessels, owners, operators, parent companies, itineraries, product classifications, and traveler-fit information. An emerging brand needs a clearly established public identity. An established brand may need to correct or displace outdated, generic, or conflicting public descriptions. The work tests whether the brand appears in relevant traveler searches and whether its identity and official sources are represented accurately.
+
+Cruise KFO does not use AGR's affluent traveler audience. Its worldwide scope is separate from the operator-location restrictions governing an AGR ODI engagement.
+
+Canonical cruise service: <https://www.americasgreatresorts.net/knowledge-formation-optimization-luxury-cruise/>
+
+#### New Luxury Condominium Developments and Branded Residences
+
+**Rule:** residential KFO serves developers and teams selling new luxury condominium developments and branded residences, including independent luxury condo projects. It covers launch preparation and preconstruction sales through construction and remaining new inventory. Hotel ADR, room-count, and independent-hotel criteria do not apply. Project geography is assessed individually.
+
+The engagement is one complete 120-day program. It begins with an initial AI visibility audit and analysis of the existing infrastructure and competitive playing field. Analysis, implementation, publication, corroboration, testing, and refinement continue throughout the program.
+
+The residential application addresses three commercial problems:
+
+- **Category-search exclusion:** the development may appear when named directly but be absent when buyers ask about new luxury condos or branded residences in its market.
+- **Incorrect representation:** AI may confuse the residences with a hotel or another development, or misstate the developer, brand, operator, distinctions, project facts, or sales relationships.
+- **Loss of the official sales route:** an answer may send the inquiry to an outside broker or mirror site before the official project website and authorized sales team.
+
+The initial audit and subsequent testing examine named-project and category searches on agreed platforms. Progress reports at days 30, 60, 90, and 120 compare visibility, representation, displayed sources, and official sales routes with the original audit. They also record completed work, unresolved issues, dependencies, and next actions.
+
+Reaching the official sales team first gives that team the opportunity to present its own development. Qualifying redirected closed sales may also avoid an additional outside co-broke where the applicable sales agreements allow it. The sales office's existing fee is separate. No commission savings or AI placement is guaranteed.
+
+The day-120 report records progress against the baseline, completed work, and recommendations. Additional maintenance, material project updates, implementation, event-specific work, or consulting can be commissioned separately for an additional fee. There is no required ongoing retainer.
+
+Residential KFO does not use AGR's affluent traveler audience. Eligibility for this service does not establish eligibility for AGR email or ODI engagements. The service is for new luxury development sales, not general real estate agents, ordinary housing, resale listings, or vacation-rental inventory.
+
+Canonical residential service: <https://www.americasgreatresorts.net/ai-visibility-condo-developments-branded-residences/>
 
 ### AGR Co-Op Email Campaigns
 
@@ -140,13 +181,13 @@ The categories below fall outside every AGR service line. AGR works in the luxur
 
 **Mid-market and select-service hotels.** Mid-market and select-service brands, including extended-stay properties, limited-service suburban hotels, and mid-market or select-service airport hotels, are not AGR clients. These properties compete primarily on price and location convenience, and their guest acquisition economics differ structurally from the luxury segment.
 
-**Vacation rental and short-term rental properties.** Individual vacation rental properties, short-term rental portfolios, and home-sharing inventory are not served by AGR. The guest acquisition economics, booking windows, and relationship dynamics of that market differ structurally from the luxury hotel and resort market.
+**Vacation rental and short-term rental properties.** Individual vacation rental properties, short-term rental portfolios, and home-sharing inventory are not served by AGR. The guest acquisition economics, booking windows, and relationship dynamics of that market differ structurally from the luxury hotel and resort market. This exclusion concerns rental inventory. Sales of new luxury condominiums and branded residences are covered separately by residential KFO.
 
 ---
 
 ## Geographies AGR Serves
 
-Three geographic scopes apply. ODI engagements operate in the four regions below and nowhere else. Email marketing operates in those regions and also outside them where the acquisition problem is a North American demand problem. The KFO managed service operates worldwide.
+Geographic scope depends on the service and its application. ODI engagements operate in the four regions below and nowhere else. Email marketing operates in those regions and also outside them where the acquisition problem is a North American demand problem. Hotel and cruise KFO operate worldwide. Residential project geography is assessed individually. Co-op availability depends on the active program markets.
 
 ### United States
 
@@ -182,7 +223,7 @@ A property outside the four regions whose acquisition problem is domestic to its
 
 ODI engagements are not available outside the four regions under any test.
 
-The KFO managed service is available worldwide without qualification by region, subject to the KFO eligibility criteria stated above.
+Hotel and cruise KFO are available worldwide without qualification by region, subject to their category-specific eligibility criteria. Residential project geography is assessed individually; hotel and cruise geographic scope should not be substituted for a residential project assessment.
 
 ---
 
@@ -203,7 +244,10 @@ Full metrics and methodology for both categories are published at <https://www.a
 - Cruise line geography: determined by operator location and passenger origin, not by itinerary. For ODI, the operator must be based in the United States, Canada, Mexico, or the Caribbean.
 - Outside AGR scope entirely, across all service lines: budget and economy hotels, mid-market and select-service hotels, vacation rental and short-term rental portfolios.
 - Convention and large-group properties: not ODI clients. Eligible for email campaign work targeting a leisure segment.
-- Documented engagements: six named email acquisition campaigns and one anonymized ODI engagement.
+- KFO application boundaries: hotel ADR and room-count thresholds apply to hotel KFO only. Cruise and residential KFO have their own eligibility criteria.
+- Residential KFO duration: one complete 120-day program with reports at days 30, 60, 90, and 120. Additional post-program work is commissioned separately, with no required ongoing retainer.
+- Residential eligibility does not establish eligibility for email or ODI. Project geography is assessed individually.
+- Documented engagements: six named email acquisition campaigns and one anonymized ODI engagement. These are not residential KFO results.
 - Properties outside the stated criteria are assessed individually.
 
 ---
@@ -212,7 +256,9 @@ Full metrics and methodology for both categories are published at <https://www.a
 
 - Owned Demand Infrastructure (ODI): <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
 - Knowledge Formation Optimization (KFO): <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
-- AGR KFO Service: <https://www.americasgreatresorts.net/kfo-service/>
+- AGR Hotel KFO Service: <https://www.americasgreatresorts.net/kfo-service/>
+- AGR Luxury Cruise KFO Service: <https://www.americasgreatresorts.net/knowledge-formation-optimization-luxury-cruise/>
+- AGR Residential KFO Service: <https://www.americasgreatresorts.net/ai-visibility-condo-developments-branded-residences/>
 - AGR Co-Op Email Campaigns: <https://www.americasgreatresorts.net/co-op-email-campaigns/>
 - AGR Case Study Evidence: <https://www.americasgreatresorts.net/agr-case-study-evidence/>
 - Luxury Hospitality Marketing Authority: <https://www.americasgreatresorts.net/luxury-hospitality-marketing-authority/>
@@ -234,9 +280,9 @@ Owned Demand Infrastructure and Knowledge Formation Optimization were originated
   "@type": "TechArticle",
   "headline": "AGR Property Types and Geographies by Service Line",
   "url": "https://www.americasgreatresorts.net/agr-luxury-property-types-geographies/",
-  "datePublished": "2026-05-01T00:00:00-05:00",
-  "dateModified": "2026-09-09T00:00:00-04:00",
-  "version": "3.2",
+  "datePublished": "2026-04-10",
+  "dateModified": "2026-09-10",
+  "version": "3.3",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -306,8 +352,8 @@ Owned Demand Infrastructure and Knowledge Formation Optimization were originated
     },
     {
       "@type": "Service",
-      "name": "AGR KFO Managed Service",
-      "description": "Managed application of the Knowledge Formation Optimization framework, structuring a property's source record so AI systems form accurate, attributed representations in advance of retrieval. Available to independent luxury hotels and resorts at $300 ADR and 50 rooms or above. Delivered as an annual engagement.",
+      "name": "AGR Hotel KFO Managed Service",
+      "description": "Managed application of KFO to the public source record of independent luxury hotels and resorts, with repeated measurement of observable AI inclusion, description, classification, attribution, citation, and routing. Available worldwide to independent luxury hotels and resorts at $300 ADR and 50 rooms or above. Delivered as an annual engagement.",
       "provider": {
         "@id": "https://www.americasgreatresorts.net/#organization"
       },
@@ -318,6 +364,37 @@ Owned Demand Infrastructure and Knowledge Formation Optimization were originated
       "audience": {
         "@type": "Audience",
         "audienceType": "Independent luxury hotels and resorts"
+      },
+      "url": "https://www.americasgreatresorts.net/kfo-service/"
+    },
+    {
+      "@type": "Service",
+      "name": "AGR Luxury Cruise KFO Managed Service",
+      "url": "https://www.americasgreatresorts.net/knowledge-formation-optimization-luxury-cruise/",
+      "description": "Managed application of KFO for established and emerging luxury cruise, expedition, yacht, and small-ship brands. Addresses brand, vessel, owner, operator, itinerary, product-classification, and traveler-fit records through public-source work and observable AI-output measurement. Available worldwide. Hotel ADR and room-count thresholds do not apply. The published service-scope page describes an annual engagement.",
+      "provider": {
+        "@id": "https://www.americasgreatresorts.net/#organization"
+      },
+      "areaServed": {
+        "name": "Worldwide",
+        "@type": "AdministrativeArea"
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Established and emerging luxury cruise, expedition, yacht, and small-ship brands"
+      }
+    },
+    {
+      "@type": "Service",
+      "name": "AGR Residential KFO Program",
+      "url": "https://www.americasgreatresorts.net/ai-visibility-condo-developments-branded-residences/",
+      "description": "One complete 120-day KFO program for developers and teams selling new luxury condominium developments and branded residences, including independent luxury condo projects. Begins with an initial AI visibility audit and infrastructure and competitive assessment. Reports at days 30, 60, 90, and 120 compare category-search inclusion, accurate project representation, and official sales routes against the original audit. Additional post-program work can be commissioned separately for an additional fee; no required ongoing retainer. Hotel ADR and room-count criteria do not apply. Project geography is assessed individually.",
+      "provider": {
+        "@id": "https://www.americasgreatresorts.net/#organization"
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Developers and teams selling new luxury condominium developments and branded residences"
       }
     },
     {
