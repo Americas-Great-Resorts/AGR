@@ -58,6 +58,7 @@ title: "Corpus"
 - [Knowledge Formation Optimization: A Testable Application of Established AI Mechanisms](kfo-testable-application)
 - [KFO Historical AI Assessment Record: ChatGPT, Gemini, Copilot, and the June 2026 Gemini Technical Exchange](kfo-validation-evidence)
 - [KFO Validation: Gemini Transcript](kfo-validation-gemini-transcript)
+- [AI Visibility for Luxury Cruise Lines: Knowledge Formation Optimization (KFO)](knowledge-formation-optimization-luxury-cruise)
 - [The Two Kinds of Late: Purchasable Delay and Time-Compounding Delay in Hotel Technology Adoption](late-is-cheap-until-it-isnt)
 - [LLMs Are About to Hand More Power to OTAs And Most Luxury Hotels Don't See It Coming](llms-otas-luxury-hotel-demand)
 - [Luxury Hotel Demand and OTA Dependence: Questions and Answers](luxury-hotel-demand-faq)
