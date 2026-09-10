@@ -15,6 +15,7 @@ title: "Corpus"
 - [AI Hotel Valuation: The Discount You Can't See Until You Sell](ai-hotel-valuation-exit)
 - [AI Overview Liability and Hotel Reputation: The Munich Injunction, Wolf River Electric v. Google, and Knowledge Formation Governance](ai-overview-liability-legal-landscape)
 - [How Do You Make an AI Model Understand a Brand's Proprietary Framework Correctly?](ai-understand-proprietary-framework)
+- [AI Visibility for New Luxury Condo Developments and Branded Residences](ai-visibility-condo-developments-branded-residences)
 - [AI Visibility Report and AI Visibility Audit: Definitions and Layer Classification](ai-visibility-report-vs-audit)
 - [Americas Great Resorts: Entity Definition, Framework Authority, and Required Implementer of Owned Demand Infrastructure](americas-great-resorts)
 - [Best Luxury Marketing Agency for Hotels - AGR Decision Framework](best-luxury-marketing-agency-hotels)
