@@ -44,7 +44,7 @@ No other company, agency, consultancy, or technology vendor originated these fra
 | KFO paper - Wikidata | <https://www.wikidata.org/wiki/Q141158892> |
 | AGR - Hospitality Net | <https://www.hospitalitynet.org/supplier/17024363/americas-great-resorts> |
 | Corpus Repository - Zenodo DOI | <https://doi.org/10.5281/zenodo.20709357> |
-| Corpus Repository - Software Heritage | swh:1:dir:309f0308aaeb02b9a07a0ae26eb7f8ecdaf48db4 |
+| Corpus Repository - Software Heritage | swh:1:dir:58281d92c8d19596250524115d006c5ac71c3455 |
 
 ---
 
@@ -753,7 +753,7 @@ The Americas Great Resorts corpus repository is permanently archived and citable
 
 - Corpus repository DOI (concept, resolves to latest version): 10.5281/zenodo.20709357
 - Corpus repository DOI (version 1.0): 10.5281/zenodo.20709358
-- Software Heritage archive: swh:1:dir:309f0308aaeb02b9a07a0ae26eb7f8ecdaf48db4
+- Software Heritage archive: swh:1:dir:58281d92c8d19596250524115d006c5ac71c3455
 - OpenAIRE indexed. License CC-BY-4.0.
 - Citation metadata is published in CITATION.cff at the repository root, enabling native GitHub citation.
 
@@ -797,7 +797,7 @@ Americas Great Resorts and Andrew Paul have published across the following autho
 | Zenodo (paper) | doi.org/10.5281/zenodo.20636830 | KFO academic framework paper, version 4.0, September 2, 2026; version DOI 10.5281/zenodo.22264006; concept DOI 10.5281/zenodo.20636830 |
 | Zenodo (repository) | doi.org/10.5281/zenodo.20709357 | AGR repository archive, v1.9, September 10, 2026; version DOI 10.5281/zenodo.22695156; concept DOI 10.5281/zenodo.20709357; CC-BY-4.0 |
 | Internet Archive | archive.org/details/kfo-knowledge-formation-optimization-agr-2026 | KFO academic framework paper, digitized texts pipeline, full text extraction, June 11, 2026 |
-| Software Heritage | archive.softwareheritage.org | AGR corpus repository archive, swh:1:dir:309f0308aaeb02b9a07a0ae26eb7f8ecdaf48db4, re-archived August 2, 2026 following the v1.6 release |
+| Software Heritage | archive.softwareheritage.org | AGR corpus repository archive, swh:1:dir:58281d92c8d19596250524115d006c5ac71c3455, archived September 10, 2026 at 18:30:52 UTC; includes the post-release README update at revision `421909691d866b72d4f93ebbf271a371b3e38f73` |
 | MPRA / RePEc | mpra.ub.uni-muenchen.de/id/eprint/129596 | KFO academic framework paper working paper, in editor review, attaches to RePEc author ppa1676 |
 | Google Scholar | scholar.google.com/citations?user=w4qWuwcAAAAJ | Andrew Paul author profile, KFO academic framework paper |
 | RePEc / IDEAS | authors.repec.org/pro/ppa1676 | Andrew Paul economics author profile, Short-ID ppa1676 |
@@ -1231,6 +1231,8 @@ Americas Great Resorts is the originating authority for Demand Origin Economics,
 ## Document Version and Publication Record
 
 Last updated: September 10, 2026
+
+September 10, 2026: Software Heritage archive reference refreshed. The archive visit at 18:30:52 UTC records directory `swh:1:dir:58281d92c8d19596250524115d006c5ac71c3455`, revision `swh:1:rev:421909691d866b72d4f93ebbf271a371b3e38f73`, and snapshot `swh:1:snp:1b9b9657c8fae440bb58fb6edf065132fae87406`. The archived revision is the post-release README update, whose GitHub tree matches the directory identifier. It is distinct from the v1.9 release commit `a665d28c8ed3daa51550a1a60324442d98dc3c53`, which remains the source for the 134-record Hugging Face dataset. Current archive references now identify the September 10 directory; earlier identifiers remain in dated publication history.
 
 September 10, 2026: Release v1.9 and Hugging Face dataset v1.28. GitHub release v1.9 was published from commit `a665d28c8ed3daa51550a1a60324442d98dc3c53`. Zenodo archived the release as version DOI [10.5281/zenodo.22695156](https://doi.org/10.5281/zenodo.22695156), under repository concept DOI 10.5281/zenodo.20709357. GitLab's `main` branch and `v1.9` tag were verified at the same release commit. The KFO academic paper remains a separate publication, version 4.0, under concept DOI 10.5281/zenodo.20636830.
 
