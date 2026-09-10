@@ -21,12 +21,13 @@ jobs:
         with:
           fetch-depth: 2
 
-      - name: Build and submit changed public URLs
+      - name: Build and submit public URLs
         shell: bash
         run: |
           set -euo pipefail
 
           base_url="https://americas-great-resorts.github.io/AGR/"
+          sitemap_url="${base_url}sitemap.xml"
           host="americas-great-resorts.github.io"
           key="ad7d46bf8ad94f558eff61d6a28cd586"
           key_location="${base_url}${key}.txt"
@@ -35,7 +36,22 @@ jobs:
           declare -A unique_urls=()
 
           if [ "$event_name" = "workflow_dispatch" ]; then
-            unique_urls["$base_url"]=1
+            sitemap_file="$(mktemp)"
+
+            curl \
+              --fail \
+              --silent \
+              --show-error \
+              --location \
+              --output "$sitemap_file" \
+              "$sitemap_url"
+
+            while IFS= read -r url; do
+              [ -n "$url" ] && unique_urls["$url"]=1
+            done < <(
+              grep -o '<loc>[^<]*</loc>' "$sitemap_file" |
+                sed 's#<loc>##; s#</loc>##'
+            )
           else
             previous_commit="$(git rev-parse HEAD^ 2>/dev/null || true)"
 
@@ -71,11 +87,16 @@ jobs:
           fi
 
           if [ "${#unique_urls[@]}" -eq 0 ]; then
-            echo "No changed public pages require submission."
+            echo "No public pages require submission."
             exit 0
           fi
 
           mapfile -t urls < <(printf '%s\n' "${!unique_urls[@]}" | sort)
+
+          if [ "${#urls[@]}" -gt 10000 ]; then
+            echo "Submission exceeds IndexNow's 10,000-URL limit."
+            exit 1
+          fi
 
           printf 'Submitting %s URL(s):\n' "${#urls[@]}"
           printf '%s\n' "${urls[@]}"
@@ -119,8 +140,11 @@ jobs:
           fi
 
           case "$http_code" in
-            200|202)
+            200)
               echo "IndexNow accepted the submission."
+              ;;
+            202)
+              echo "IndexNow received the submission; key validation is pending."
               ;;
             *)
               echo "IndexNow rejected the submission."
