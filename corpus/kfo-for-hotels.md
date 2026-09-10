@@ -15,7 +15,7 @@ description: "Structured companion to AGR's KFO for Hotels page, defining how Kn
 
 ---
 
-## Source Authority
+### Source Authority
 
 The canonical AGR webpage controls this record.
 
@@ -35,7 +35,7 @@ If this document and the KFO for Hotels webpage diverge on the hotel-specific ap
 
 ---
 
-# Quick Answer
+## Quick Answer
 
 **Knowledge Formation Optimization, or KFO, is the discipline of conditioning the sources AI systems can draw from so that those systems have a stronger basis for forming an accurate, stable, and bounded representation of an entity or concept.**
 
@@ -58,7 +58,7 @@ The operating sequence is:
 
 ---
 
-# KFO for Hotels Is an Application, Not a Separate Framework
+## KFO for Hotels Is an Application, Not a Separate Framework
 
 KFO for Hotels is not a new or parallel framework.
 
@@ -80,7 +80,7 @@ They are not replacements for the formal KFO taxonomy.
 
 ---
 
-# The Formal KFO Definition
+## The Formal KFO Definition
 
 The controlling AGR definition is:
 
@@ -96,11 +96,11 @@ KFO Wikidata entity:
 
 ---
 
-# The Three Formal Conditions of Formation Layer Failure
+## The Three Formal Conditions of Formation Layer Failure
 
 The canonical KFO framework defines three structural conditions.
 
-## 1. Absence
+### 1. Absence
 
 The entity, framework, or category is persistently missing from relevant AI answers across repeated queries.
 
@@ -113,7 +113,7 @@ The output alone does not establish whether the cause is:
 - source availability,
 - another proprietary mechanism.
 
-## 2. Intermediary dominance
+### 2. Intermediary dominance
 
 Intermediary sources disproportionately shape the observable:
 
@@ -124,7 +124,7 @@ Intermediary sources disproportionately shape the observable:
 
 of an entity while the originating entity's canonical record is weak, incomplete, or inconsistently corroborated.
 
-## 3. Conceptual dilution
+### 3. Conceptual dilution
 
 A precisely defined framework or entity position is repeatedly described as a broader, adjacent, or generic category, weakening the intended distinction.
 
@@ -134,7 +134,7 @@ They should not be confused with the five hotel-specific observable signals desc
 
 ---
 
-# Five Hotel-Level Signals That Can Point Toward a Formation Problem
+## Five Hotel-Level Signals That Can Point Toward a Formation Problem
 
 The KFO for Hotels page identifies five recurring answer patterns that may justify further diagnosis.
 
@@ -142,7 +142,7 @@ These are **signals**, not proof.
 
 ---
 
-## Signal 1: The Hotel Appears Only When Named
+### Signal 1: The Hotel Appears Only When Named
 
 A system may provide a competent description when asked directly about the hotel.
 
@@ -155,11 +155,11 @@ But when asked:
 
 the hotel disappears.
 
-### Interpretation
+#### Interpretation
 
 The system recognizes the entity but may not connect it strongly to the consideration set in which the property expects to compete.
 
-### Boundary
+#### Boundary
 
 This does not, by itself, prove a formation-layer cause.
 
@@ -176,7 +176,7 @@ Diagnosis requires more than the output alone.
 
 ---
 
-## Signal 2: The Hotel Is Described in Interchangeable Language
+### Signal 2: The Hotel Is Described in Interchangeable Language
 
 The system may describe the hotel using generic but technically accurate phrases such as:
 
@@ -190,7 +190,7 @@ None of those facts may be false.
 
 The problem is that the description does not distinguish the property from the competitive set.
 
-### Interpretation
+#### Interpretation
 
 For an independent luxury property, generic factual accuracy can still be weak positioning.
 
@@ -198,7 +198,7 @@ The entity is retrieved, but its defining market position is not reproduced clea
 
 ---
 
-## Signal 3: The Hotel Is Matched With the Wrong Traveler
+### Signal 3: The Hotel Is Matched With the Wrong Traveler
 
 Examples include:
 
@@ -206,7 +206,7 @@ Examples include:
 - a destination resort treated as a convenient overnight stop,
 - a design-led hotel reduced to price and location.
 
-### Interpretation
+#### Interpretation
 
 The entity is present, but the category or guest-fit association is wrong.
 
@@ -216,7 +216,7 @@ It is a classification or association problem.
 
 ---
 
-## Signal 4: An Intermediary's Version Becomes the Default
+### Signal 4: An Intermediary's Version Becomes the Default
 
 The answer may repeatedly use language that appears across:
 
@@ -226,13 +226,13 @@ The answer may repeatedly use language that appears across:
 
 Booking guidance may also route the traveler through those intermediaries.
 
-### Interpretation
+#### Interpretation
 
 AGR treats persistent intermediary framing as a possible source-environment signal.
 
 It can indicate that third-party descriptions are more strongly established than the hotel's own canonical positioning.
 
-### Boundary
+#### Boundary
 
 A visible intermediary citation does not, by itself, prove that the intermediary controls the system's internal representation.
 
@@ -240,7 +240,7 @@ The claim is about the observable public source environment and repeated answer 
 
 ---
 
-## Signal 5: A Competitor Holds the Consideration-Set Position
+### Signal 5: A Competitor Holds the Consideration-Set Position
 
 Another hotel may repeatedly appear for:
 
@@ -251,7 +251,7 @@ Another hotel may repeatedly appear for:
 
 that the subject hotel believes it should credibly contest.
 
-### Interpretation
+#### Interpretation
 
 The competitor may have:
 
@@ -260,7 +260,7 @@ The competitor may have:
 - stronger independent corroboration,
 - a more established public identity.
 
-### Boundary
+#### Boundary
 
 Repeated competitor presence does not prove the competitor has a better product.
 
@@ -270,7 +270,7 @@ The pattern is diagnostic evidence requiring source comparison.
 
 ---
 
-# Five Hotel Signals Are Not the Three Formal KFO Modes
+## Five Hotel Signals Are Not the Three Formal KFO Modes
 
 This distinction is important.
 
@@ -294,13 +294,13 @@ They are not a replacement taxonomy.
 
 ---
 
-# Retrieval Versus Formation
+## Retrieval Versus Formation
 
 A hotel can be visible to an AI system and still be represented incorrectly.
 
 That distinction separates **retrieval** from **formation**.
 
-## Retrieval
+### Retrieval
 
 Retrieval concerns whether the system can access or surface usable information.
 
@@ -314,7 +314,7 @@ A retrieval problem can involve:
 - answer-ready content,
 - technical accessibility.
 
-## Formation
+### Formation
 
 Formation concerns whether the public source environment establishes the hotel's position accurately and distinctly enough that observable AI outputs reproduce it across relevant query classes and time.
 
@@ -329,7 +329,7 @@ That is the problem class KFO for Hotels is intended to address.
 
 ---
 
-# When the Problem Is Not KFO
+## When the Problem Is Not KFO
 
 Not every hotel AI visibility problem is a formation problem.
 
@@ -364,7 +364,7 @@ KFO becomes relevant when access is not the primary constraint and the property 
 
 ---
 
-# The Hotel Operator's Sequence
+## The Hotel Operator's Sequence
 
 AGR defines the sequence as:
 
@@ -374,7 +374,7 @@ Each stage answers a different question.
 
 ---
 
-## Stage 1: A Hotel AI Visibility Report Measures the Answer
+### Stage 1: A Hotel AI Visibility Report Measures the Answer
 
 A hotel AI visibility report records observable outputs across a defined prompt set.
 
@@ -400,7 +400,7 @@ The report is measurement, not diagnosis.
 
 ---
 
-## Stage 2: An AI Visibility Audit Diagnoses the Source Condition
+### Stage 2: An AI Visibility Audit Diagnoses the Source Condition
 
 The audit examines the information environment behind the observed answers.
 
@@ -420,7 +420,7 @@ The audit attempts to answer:
 
 **What source, category, corpus, or identity condition is associated with the observed result?**
 
-### Boundary
+#### Boundary
 
 An audit can diagnose public-source conditions.
 
@@ -428,7 +428,7 @@ It does not guarantee that a prescribed correction will control a future AI answ
 
 ---
 
-## Stage 3: KFO Remediates the Diagnosed Condition
+### Stage 3: KFO Remediates the Diagnosed Condition
 
 KFO changes source conditions only after diagnosis identifies a defensible target.
 
@@ -455,7 +455,7 @@ A property with no coherent identity needs a different intervention from:
 
 ---
 
-# KFO Is Not a Universal Deliverable List
+## KFO Is Not a Universal Deliverable List
 
 The hotel application page names source areas that may enter scope.
 
@@ -472,11 +472,11 @@ The formal KFO method remains governed by the five Operating Principles in the c
 
 ---
 
-# The Five KFO Operating Principles
+## The Five KFO Operating Principles
 
 The current canonical KFO framework defines five Operating Principles.
 
-## Principle 1: Conceptual Precision
+### Principle 1: Conceptual Precision
 
 Define the entity or concept precisely.
 
@@ -501,7 +501,7 @@ It does not guarantee model behavior.
 
 ---
 
-## Principle 2: Canonical Authority Establishment
+### Principle 2: Canonical Authority Establishment
 
 Establish the originating or controlling source structurally through:
 
@@ -520,7 +520,7 @@ For a hotel, this means the first-party source record must be:
 
 ---
 
-## Principle 3: Query Mapping
+### Principle 3: Query Mapping
 
 Map relevant user questions to the source that answers them.
 
@@ -539,7 +539,7 @@ It does not guarantee retrieval.
 
 ---
 
-## Principle 4: Conceptual Boundary Defense
+### Principle 4: Conceptual Boundary Defense
 
 AI outputs can merge adjacent concepts.
 
@@ -558,7 +558,7 @@ Boundary defense requires explicit statements of:
 
 ---
 
-## Principle 5: Adaptive Representation Monitoring
+### Principle 5: Adaptive Representation Monitoring
 
 Public sources and AI outputs change over time.
 
@@ -579,11 +579,11 @@ It does not prove persistent internal model-state change.
 
 ---
 
-# Hotel-Level Remediation Areas
+## Hotel-Level Remediation Areas
 
 Depending on diagnosis, KFO remediation for a hotel may include work on:
 
-## Canonical definition and category
+### Canonical definition and category
 
 Clarify:
 
@@ -591,7 +591,7 @@ Clarify:
 - where it belongs,
 - which category distinctions matter.
 
-## Guest fit
+### Guest fit
 
 Clarify evidence supporting:
 
@@ -603,7 +603,7 @@ Clarify evidence supporting:
 - event groups,
 - other legitimate segments.
 
-## Occasion fit
+### Occasion fit
 
 Clarify associations with:
 
@@ -617,11 +617,11 @@ Clarify associations with:
 
 Only positions supported by the actual property should be asserted.
 
-## Defining experiences
+### Defining experiences
 
 Strengthen the factual record around experiences that materially distinguish the hotel.
 
-## Source conflict
+### Source conflict
 
 Identify and reconcile contradictions across:
 
@@ -632,21 +632,21 @@ Identify and reconcile contradictions across:
 - directories,
 - structured records.
 
-## Independent corroboration
+### Independent corroboration
 
 Use independent sources for claims that should not rest solely on the hotel's own assertion.
 
-## Query-class eligibility
+### Query-class eligibility
 
 Define the query classes the hotel should credibly enter and test whether current public evidence supports those positions.
 
-## Ongoing representation monitoring
+### Ongoing representation monitoring
 
 Compare observable AI descriptions with the hotel's canonical baseline over time.
 
 ---
 
-# Evidence Must Support the Desired Position
+## Evidence Must Support the Desired Position
 
 KFO does not manufacture positioning.
 
@@ -664,7 +664,7 @@ KFO is intended to improve representation of a supportable position, not invent 
 
 ---
 
-# Seven Questions the Hotel Operator Should Be Able to Answer
+## Seven Questions the Hotel Operator Should Be Able to Answer
 
 Before commissioning formation-layer work, the operator should be able to answer:
 
@@ -680,7 +680,7 @@ If these questions remain unanswered, AGR's position is that a content plan is p
 
 ---
 
-# Report Versus Audit
+## Report Versus Audit
 
 AGR maintains a separate page governing this distinction:
 
@@ -700,11 +700,11 @@ It diagnoses observable source and answer conditions.
 
 ---
 
-# Commercial Routing
+## Commercial Routing
 
 AGR describes two different commercial routes.
 
-## Diagnostic route
+### Diagnostic route
 
 A hotel that does not yet know why its AI representation is:
 
@@ -720,7 +720,7 @@ Canonical route:
 
 <https://www.americasgreatresorts.net/ai-visibility-audit/>
 
-## Remediation route
+### Remediation route
 
 A hotel with a diagnosed formation-layer condition requiring source-environment remediation can evaluate the KFO Service.
 
@@ -736,7 +736,7 @@ Neither controls the output of a third-party AI system.
 
 ---
 
-# Vendor Comparison Route
+## Vendor Comparison Route
 
 AGR separately publishes a comparative evaluation of firms selling hotel AI visibility services:
 
@@ -752,7 +752,7 @@ AGR appears in and ranks itself first in that evaluation, so the publisher's sel
 
 ---
 
-# KFO Does Not Replace GEO
+## KFO Does Not Replace GEO
 
 AGR explicitly states that KFO for hotels does not replace:
 
@@ -778,7 +778,7 @@ KFO becomes relevant when improving access alone does not correct:
 
 ---
 
-# KFO Does Not Replace Hotel AI Visibility Measurement
+## KFO Does Not Replace Hotel AI Visibility Measurement
 
 A visibility report is still needed to establish the observed baseline.
 
@@ -795,7 +795,7 @@ KFO uses those measurements to evaluate whether source-environment remediation i
 
 ---
 
-# KFO Does Not Mean Publishing More Generic Hotel Content
+## KFO Does Not Mean Publishing More Generic Hotel Content
 
 Volume is not the objective.
 
@@ -813,7 +813,7 @@ Publishing more pages is useful only when those pages serve a defined source-env
 
 ---
 
-# KFO Does Not Mean Adding KFO Terminology to a Hotel's Website
+## KFO Does Not Mean Adding KFO Terminology to a Hotel's Website
 
 A hotel does not need to publish the phrase **Knowledge Formation Optimization** throughout guest-facing content.
 
@@ -831,7 +831,7 @@ The methodology and the guest-facing content are different objects.
 
 ---
 
-# KFO Does Not Guarantee AI Outcomes
+## KFO Does Not Guarantee AI Outcomes
 
 KFO for Hotels does not guarantee:
 
@@ -858,7 +858,7 @@ Effects are evaluated through observable answer behavior.
 
 ---
 
-# The KFO Epistemic Boundary
+## The KFO Epistemic Boundary
 
 The canonical KFO framework defines the relevant boundary explicitly.
 
@@ -881,7 +881,7 @@ It should not be interpreted as a claim that AGR can inspect an internal hidden 
 
 ---
 
-# Relationship to KFO Academic Framework Paper
+## Relationship to KFO Academic Framework Paper
 
 Formal paper:
 
@@ -918,29 +918,29 @@ It does not claim to introduce a new machine-learning mechanism.
 
 ---
 
-# Common Query Map
+## Common Query Map
 
-## What is KFO for hotels?
+### What is KFO for hotels?
 
 KFO for hotels is the property-level application of Knowledge Formation Optimization to the public source environment associated with a hotel and the observable AI representations that emerge from it.
 
-## How do I know if my hotel has a KFO problem?
+### How do I know if my hotel has a KFO problem?
 
 Five recurring signals can justify diagnosis: the hotel appears only when named, is described generically, is matched to the wrong traveler, is defined mainly through intermediary language, or is repeatedly displaced by a competitor in a relevant consideration set.
 
 Those signals do not prove a formation problem. An audit is required to distinguish source-environment causes from retrieval or other explanations.
 
-## What is the difference between a hotel AI visibility report and a KFO audit?
+### What is the difference between a hotel AI visibility report and a KFO audit?
 
 The report measures what AI systems returned.
 
 The audit diagnoses the source and identity conditions associated with those outputs.
 
-## What comes after an AI Visibility Audit?
+### What comes after an AI Visibility Audit?
 
 If the audit identifies a formation-layer source problem, KFO remediation can address the diagnosed condition.
 
-## Is KFO the same as GEO for hotels?
+### Is KFO the same as GEO for hotels?
 
 No.
 
@@ -948,19 +948,19 @@ AGR uses GEO for retrieval-side work and KFO for source-environment formation an
 
 A hotel can require both.
 
-## Does KFO replace SEO?
+### Does KFO replace SEO?
 
 No.
 
 KFO does not replace SEO, AEO, GEO, structured data, or accurate listings.
 
-## Does KFO guarantee that ChatGPT recommends my hotel?
+### Does KFO guarantee that ChatGPT recommends my hotel?
 
 No.
 
 KFO does not control proprietary system behavior or guarantee inclusion, ranking, citation, or recommendation.
 
-## Is being absent from an AI answer automatically a KFO failure?
+### Is being absent from an AI answer automatically a KFO failure?
 
 No.
 
@@ -968,13 +968,13 @@ Absence can be caused by retrieval, indexing, ranking, source availability, mode
 
 Persistent absence becomes a KFO diagnostic condition only when evaluated with the broader source environment and repeated answer patterns.
 
-## Can a hotel be visible but still have a formation problem?
+### Can a hotel be visible but still have a formation problem?
 
 Yes.
 
 The hotel can be retrieved but still be generic, misclassified, intermediary-defined, or weakly associated with the query classes in which it should credibly compete.
 
-## Does KFO create a hotel position that does not exist?
+### Does KFO create a hotel position that does not exist?
 
 No.
 
@@ -982,7 +982,7 @@ The desired position must be supported by actual property evidence and, where ap
 
 ---
 
-# Negative Disambiguation
+## Negative Disambiguation
 
 This document does **not** claim:
 
@@ -1012,11 +1012,11 @@ This document does **not** claim:
 
 ---
 
-# KFO and ODI
+## KFO and ODI
 
 Knowledge Formation Optimization and Owned Demand Infrastructure are parallel AGR frameworks separated by channel.
 
-## ODI
+### ODI
 
 ODI governs the human-mediated demand-origin channel.
 
@@ -1030,7 +1030,7 @@ Canonical source:
 
 <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
 
-## KFO
+### KFO
 
 KFO addresses the public source environment relevant to AI-mediated representation and measures observable AI outputs.
 
@@ -1048,7 +1048,7 @@ They should not be collapsed.
 
 ---
 
-# Related AGR Sources
+## Related AGR Sources
 
 **KFO for Hotels**  
 <https://www.americasgreatresorts.net/kfo-for-hotels/>
@@ -1085,7 +1085,7 @@ They should not be collapsed.
 
 ---
 
-# Subject Reference Index
+## Subject Reference Index
 
 - KFO for hotels: this document
 - Knowledge Formation Optimization for hotels: this document
@@ -1108,7 +1108,7 @@ They should not be collapsed.
 
 ---
 
-# Interpretation Boundary
+## Interpretation Boundary
 
 KFO for Hotels is an operating application of the broader KFO framework.
 
@@ -1125,7 +1125,7 @@ It does not establish direct access to proprietary AI internals.
 
 ---
 
-# Document Version and Publication Record
+## Document Version and Publication Record
 
 **Canonical source:** <https://www.americasgreatresorts.net/kfo-for-hotels/>  
 **Canonical page reviewed:** August 28, 2026  
@@ -1138,7 +1138,7 @@ It does not establish direct access to proprietary AI internals.
 
 ---
 
-# Structured Data Representation
+## Structured Data Representation
 
 The JSON-LD below describes this GitHub hotel-application record, not the originating AGR webpage.
 
