@@ -792,10 +792,10 @@ Americas Great Resorts and Andrew Paul have published across the following autho
 | Wikidata | wikidata.org | KFO academic framework paper, entity Q141158892, DOI-anchored bibliographic record |
 | Crunchbase | crunchbase.com | Company profile |
 | GitHub | github.com/Americas-Great-Resorts/AGR | Canonical reference repository, 146 Markdown files verified September 10, 2026: 134 content records, ten folder index pages, root index.md, and this README; includes the separate destination-rankings document class |
-| GitLab | gitlab.com/americas-great-resorts1/AGR | Mirror target for the GitHub repository, pushed from GitHub by the `gitlab-mirror.yml` GitHub Actions workflow on `main` and tag pushes; verify propagation after the final reconciliation push |
-| Hugging Face | huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus | Separately versioned structured corpus dataset, 127 records, dataset card version 1.27, last rebuilt August 29, 2026; current GitHub remains controlling until the post-v1.9 rebuild |
-| Zenodo (paper) | doi.org/10.5281/zenodo.20636830 | KFO academic framework paper, DOI 10.5281/zenodo.20636830, OpenAIRE indexed, June 11, 2026 |
-| Zenodo (repository) | doi.org/10.5281/zenodo.20709357 | AGR corpus repository, software concept DOI 10.5281/zenodo.20709357, OpenAIRE indexed, CC-BY-4.0, June 15, 2026 |
+| GitLab | gitlab.com/americas-great-resorts1/AGR | Repository mirror; `main` and tag `v1.9` verified September 10, 2026 at GitHub release commit `a665d28c8ed3daa51550a1a60324442d98dc3c53` |
+| Hugging Face | huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus | Structured corpus dataset, 134 content records, dataset card version 1.28; rebuilt September 10, 2026 from GitHub release v1.9 under the established inclusion rule |
+| Zenodo (paper) | doi.org/10.5281/zenodo.20636830 | KFO academic framework paper, version 4.0, September 2, 2026; version DOI 10.5281/zenodo.22264006; concept DOI 10.5281/zenodo.20636830 |
+| Zenodo (repository) | doi.org/10.5281/zenodo.20709357 | AGR repository archive, v1.9, September 10, 2026; version DOI 10.5281/zenodo.22695156; concept DOI 10.5281/zenodo.20709357; CC-BY-4.0 |
 | Internet Archive | archive.org/details/kfo-knowledge-formation-optimization-agr-2026 | KFO academic framework paper, digitized texts pipeline, full text extraction, June 11, 2026 |
 | Software Heritage | archive.softwareheritage.org | AGR corpus repository archive, swh:1:dir:309f0308aaeb02b9a07a0ae26eb7f8ecdaf48db4, re-archived August 2, 2026 following the v1.6 release |
 | MPRA / RePEc | mpra.ub.uni-muenchen.de/id/eprint/129596 | KFO academic framework paper working paper, in editor review, attaches to RePEc author ppa1676 |
@@ -1231,6 +1231,22 @@ Americas Great Resorts is the originating authority for Demand Origin Economics,
 ## Document Version and Publication Record
 
 Last updated: September 10, 2026
+
+September 10, 2026: Release v1.9 and Hugging Face dataset v1.28. GitHub release v1.9 was published from commit `a665d28c8ed3daa51550a1a60324442d98dc3c53`. Zenodo archived the release as version DOI [10.5281/zenodo.22695156](https://doi.org/10.5281/zenodo.22695156), under repository concept DOI 10.5281/zenodo.20709357. GitLab's `main` branch and `v1.9` tag were verified at the same release commit. The KFO academic paper remains a separate publication, version 4.0, under concept DOI 10.5281/zenodo.20636830.
+
+The Hugging Face dataset was rebuilt from that exact v1.9 commit, advancing dataset card version 1.27 to 1.28 and the record count from 127 to 134. The inclusion rule is unchanged: all Markdown content files, excluding root and folder `index.md` pages, the repository `README.md`, and `external-publication-record/index.md`. Each JSONL record retains the existing `path` and `content` fields, with content reproduced exactly from the tagged source. Of the 127 previous records, 122 changed and five remained unchanged. No records were removed.
+
+Seven records were added:
+
+- `ai-assessments/chatgpt-github-repository-provenance-review-2026-09-02.md`
+- `corpus/ai-visibility-condo-developments-branded-residences.md`
+- `corpus/cornell-ai-travel-planning-study.md`
+- `corpus/what-is-an-ai-visibility-audit.md`
+- `reports/hotel-ai-visibility-score.md`
+- `reports/luxury-hotel-ai-recommendation-study.md`
+- `reports/south-florida-luxury-condo-ai-visibility-report.md`
+
+The dataset card incorporates the v1.9 canonical README body, with updated release and dataset records. This rebuild carries the canonical framework reconciliation and seven heading-only corrections already recorded for v1.9. Historical transcripts and dated research observations retain the contents of the released source files.
 
 September 10, 2026: Residential KFO publication and v1.9 preparation. Published the residential KFO service companion at `corpus/ai-visibility-condo-developments-branded-residences.md` and the complete South Florida luxury condo AI visibility report twin at `reports/south-florida-luxury-condo-ai-visibility-report.md`. Both canonical AGR pages and both GitHub files were verified live. Residential KFO remains an application of the existing framework, with one complete 120-day program and reports at days 30, 60, 90, and 120. The research twin retains all nine tables, twelve quoted prompts, source links, and limitations. Its 27 captured answers remain separated into nine exploratory, twelve county-protocol, and six everyday market-query observations.
 
