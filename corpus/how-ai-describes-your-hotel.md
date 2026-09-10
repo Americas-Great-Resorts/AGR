@@ -16,7 +16,7 @@ description: "Structured companion to AGR's argument that hotel AI misdescriptio
 
 ---
 
-## Source Authority
+### Source Authority
 
 The canonical AGR webpage controls this record.
 
@@ -39,7 +39,7 @@ If this document and the canonical webpage ever diverge, the canonical webpage c
 
 ---
 
-# Core Thesis
+## Core Thesis
 
 Hotels often assume the AI failure mode is silence:
 
@@ -68,11 +68,11 @@ It is also **improvised assembly from incomplete or conflicting material**.
 
 ---
 
-# Two Different Failure Modes
+## Two Different Failure Modes
 
 The canonical article explicitly separates two failures.
 
-## Failure 1: The Hotel Is Described Badly
+### Failure 1: The Hotel Is Described Badly
 
 The system recognizes or retrieves the property but describes it using:
 
@@ -84,7 +84,7 @@ The system recognizes or retrieves the property but describes it using:
 
 This is a **misdescription** problem.
 
-## Failure 2: The Hotel Is Positioned by Someone Else's Clarity
+### Failure 2: The Hotel Is Positioned by Someone Else's Clarity
 
 A nearby or competing property can establish a clearer category position across public sources.
 
@@ -97,7 +97,7 @@ The subject hotel may then be:
 
 This is a **classification or positioning** problem.
 
-### Why the distinction matters
+#### Why the distinction matters
 
 Correcting a wrong room count does not necessarily fix competitive classification.
 
@@ -109,7 +109,7 @@ They require different diagnosis.
 
 ---
 
-# Misdescription Is Not the Same as Absence
+## Misdescription Is Not the Same as Absence
 
 The AGR Source-Page Index routes this article specifically to **misdescription rather than absence**.
 
@@ -135,7 +135,7 @@ AGR treats the second question as essential.
 
 ---
 
-# Information Friction
+## Information Friction
 
 The article introduces **information friction** as AGR's operating model for why some hotel facts are easier for systems to use than others.
 
@@ -145,7 +145,7 @@ AGR explicitly states that this is:
 
 The model is based on observable characteristics of public information.
 
-## Lower-friction information
+### Lower-friction information
 
 Information is lower friction when it is:
 
@@ -157,7 +157,7 @@ Information is lower friction when it is:
 - corroborated across independent surfaces,
 - structurally easy to identify as a fact.
 
-## Higher-friction information
+### Higher-friction information
 
 Information is higher friction when it:
 
@@ -170,7 +170,7 @@ Information is higher friction when it:
 - lacks corroboration,
 - depends on adjectives rather than explicit facts.
 
-### Boundary
+#### Boundary
 
 AGR does not claim to know a proprietary system's internal computational cost.
 
@@ -180,7 +180,7 @@ It describes how much reconciliation or inference the public information appears
 
 ---
 
-# "Cheapest Correct Source" Is an Operating Metaphor
+## "Cheapest Correct Source" Is an Operating Metaphor
 
 The article says the plan is to become:
 
@@ -190,7 +190,7 @@ This should not be interpreted as a monetary claim.
 
 AGR defines the phrase operationally.
 
-## Cheapest
+### Cheapest
 
 Lowest information friction.
 
@@ -201,11 +201,11 @@ The fact requires fewer steps to:
 - reconcile,
 - state confidently.
 
-## Correct
+### Correct
 
 The statement matches the property's actual condition and does not conflict with other authoritative records.
 
-## Available
+### Available
 
 The information is present on surfaces systems can access rather than:
 
@@ -214,7 +214,7 @@ The information is present on surfaces systems can access rather than:
 - hidden in inaccessible interfaces,
 - absent from public sources.
 
-## At the moment of formation
+### At the moment of formation
 
 The information is established before the traveler asks the question.
 
@@ -224,7 +224,7 @@ It refers to the public source environment existing before the query.
 
 ---
 
-# Why Contradiction Matters
+## Why Contradiction Matters
 
 The article identifies contradiction as a central operational failure.
 
@@ -248,7 +248,7 @@ The hotel's distinctive position can weaken when only the broadest generic state
 
 ---
 
-# "Averaging Is Where Luxury Goes to Die"
+## "Averaging Is Where Luxury Goes to Die"
 
 This phrase is rhetorical.
 
@@ -266,7 +266,7 @@ It describes an observable semantic outcome:
 
 ---
 
-# Consistency as an Operating Discipline
+## Consistency as an Operating Discipline
 
 The article argues that the remedy is largely unglamorous.
 
@@ -288,7 +288,7 @@ Different sources can use different prose while agreeing on the underlying facts
 
 ---
 
-# Facts Versus Adjectives
+## Facts Versus Adjectives
 
 The article favors declarative, structurally usable facts over positioning that depends entirely on adjectives.
 
@@ -317,7 +317,7 @@ They serve different purposes.
 
 ---
 
-# What the Plan Prevents
+## What the Plan Prevents
 
 The canonical article says the plan does not prevent:
 
@@ -336,7 +336,7 @@ That is the practical scope.
 
 ---
 
-# "Removing the Need to Guess"
+## "Removing the Need to Guess"
 
 The article says:
 
@@ -361,7 +361,7 @@ It does not eliminate model error.
 
 ---
 
-# Relationship to Knowledge Formation Optimization
+## Relationship to Knowledge Formation Optimization
 
 The article explicitly identifies this operating logic with **Knowledge Formation Optimization (KFO)**.
 
@@ -387,7 +387,7 @@ For a hotel, that can include:
 
 ---
 
-# This Article Is Not the Canonical KFO Definition
+## This Article Is Not the Canonical KFO Definition
 
 The article is a narrative application of KFO.
 
@@ -408,7 +408,7 @@ Hotel-specific KFO application is further defined at:
 
 ---
 
-# Retrieval Can Be Correct While Representation Still Fails
+## Retrieval Can Be Correct While Representation Still Fails
 
 The article makes an important distinction:
 
@@ -431,7 +431,7 @@ It is not sufficient evidence that the hotel's intended market position is being
 
 ---
 
-# Retrieval Problems Still Come First When Retrieval Is Broken
+## Retrieval Problems Still Come First When Retrieval Is Broken
 
 The inverse is also important.
 
@@ -458,7 +458,7 @@ KFO should not be used as a label for every AI visibility problem.
 
 ---
 
-# Independent Luxury Hotels and Consistency
+## Independent Luxury Hotels and Consistency
 
 The article argues that independent luxury hotels can be structurally disadvantaged in source consistency because they may lack a large brand system enforcing standardized:
 
@@ -479,11 +479,11 @@ The point is that centralized brand systems can provide an enforcement mechanism
 
 ---
 
-# Public Source Governance
+## Public Source Governance
 
 The article's operational implications can be translated into a source-governance process.
 
-## Step 1: Establish the canonical property record
+### Step 1: Establish the canonical property record
 
 Define the current controlling facts.
 
@@ -498,7 +498,7 @@ Examples:
 - meaningful guest-fit boundaries,
 - current renovation status.
 
-## Step 2: Identify conflicting public records
+### Step 2: Identify conflicting public records
 
 Compare:
 
@@ -512,7 +512,7 @@ Compare:
 - structured records,
 - sister-property pages.
 
-## Step 3: Prioritize material contradictions
+### Step 3: Prioritize material contradictions
 
 Not every wording difference matters.
 
@@ -527,11 +527,11 @@ Prioritize conflicts that can change:
 - traveler fit,
 - competitive positioning.
 
-## Step 4: Correct first-party sources
+### Step 4: Correct first-party sources
 
 The hotel's own public record should be internally coherent before asking third parties to correct theirs.
 
-## Step 5: Correct third-party records where possible
+### Step 5: Correct third-party records where possible
 
 Some platforms allow direct correction.
 
@@ -542,11 +542,11 @@ Others require:
 - editorial revision,
 - account-level updates.
 
-## Step 6: Build independent corroboration
+### Step 6: Build independent corroboration
 
 Claims that matter to category or differentiation should not rely exclusively on self-description where independent sources can credibly support them.
 
-## Step 7: Monitor observable AI outputs
+### Step 7: Monitor observable AI outputs
 
 Test relevant query classes across:
 
@@ -558,7 +558,7 @@ Compare outputs with the canonical record.
 
 ---
 
-# Source Consistency Does Not Mean Source Uniformity
+## Source Consistency Does Not Mean Source Uniformity
 
 A healthy source environment does not require every publisher to reproduce identical marketing copy.
 
@@ -582,7 +582,7 @@ can use different prose while agreeing that the property is:
 
 ---
 
-# Outdated Information
+## Outdated Information
 
 The article uses an old renovation press release as an example.
 
@@ -607,7 +607,7 @@ The source environment should make current status unambiguous.
 
 ---
 
-# Intermediary Sources
+## Intermediary Sources
 
 The article names OTA listings and review aggregators as possible material used when a hotel's own public account is weak.
 
@@ -624,7 +624,7 @@ The risk arises when the hotel has no clear canonical record and third-party sum
 
 ---
 
-# Competitor Clarity
+## Competitor Clarity
 
 The article's second failure mode involves a competitor whose public identity is clearer.
 
@@ -642,7 +642,7 @@ It means a clearer competitor can occupy the semantic position the subject hotel
 
 ---
 
-# Competitive Clarity Does Not Prove Product Superiority
+## Competitive Clarity Does Not Prove Product Superiority
 
 A competitor that appears more consistently in AI recommendations may have:
 
@@ -665,7 +665,7 @@ AI visibility and product quality are distinct variables.
 
 ---
 
-# The Correct Diagnostic Question
+## The Correct Diagnostic Question
 
 The canonical article proposes a more useful question than:
 
@@ -689,7 +689,7 @@ The source audit can examine:
 
 ---
 
-# What Can Be Measured
+## What Can Be Measured
 
 A hotel can measure observable conditions such as:
 
@@ -709,7 +709,7 @@ They do not reveal hidden model state.
 
 ---
 
-# What Cannot Be Established From the Output Alone
+## What Cannot Be Established From the Output Alone
 
 An answer does not reveal with certainty:
 
@@ -729,7 +729,7 @@ AGR's framework is intentionally scoped to:
 
 ---
 
-# Relationship to KFO for Hotels
+## Relationship to KFO for Hotels
 
 The operational hotel application is defined at:
 
@@ -749,7 +749,7 @@ It should not replace the complete hotel application framework.
 
 ---
 
-# Relationship to "Why Doesn't My Hotel Show Up in ChatGPT?"
+## Relationship to "Why Doesn't My Hotel Show Up in ChatGPT?"
 
 AGR separately addresses absence and retrieval-versus-formation diagnosis at:
 
@@ -765,7 +765,7 @@ The current document should be preferred when the primary question is:
 
 ---
 
-# Relationship to the Consideration Set Problem
+## Relationship to the Consideration Set Problem
 
 AGR's Source-Page Index routes **The Consideration Set Problem** to observable exclusion and source-environment classification issues.
 
@@ -782,13 +782,13 @@ Use the narrower source that matches the question.
 
 ---
 
-# Common Query Map
+## Common Query Map
 
-## How does AI describe a hotel when the hotel has not provided a clear account of itself?
+### How does AI describe a hotel when the hotel has not provided a clear account of itself?
 
 AGR's model is that a generated answer may be assembled from available public material such as OTA descriptions, reviews, old press material, destination sources, and category information.
 
-## Why is AI describing my hotel incorrectly?
+### Why is AI describing my hotel incorrectly?
 
 Possible source-environment causes include:
 
@@ -800,27 +800,27 @@ Possible source-environment causes include:
 
 The output alone cannot prove the cause. A source audit is required.
 
-## Why does AI describe my hotel generically?
+### Why does AI describe my hotel generically?
 
 If the public record agrees only on broad category language while the distinguishing claims are inconsistent or unsupported, the generic category description can become the most stable representation.
 
-## What is information friction in hotel AI visibility?
+### What is information friction in hotel AI visibility?
 
 AGR uses information friction as an operating abstraction for how difficult a hotel fact is to find, parse, reconcile, and state from the public source environment.
 
 It is not a claim about proprietary source code.
 
-## What does "cheapest correct source" mean?
+### What does "cheapest correct source" mean?
 
 It means a low-friction, accurate, available source whose facts require little reconciliation or inference.
 
 It does not mean financially cheapest.
 
-## How can a hotel reduce AI misdescription?
+### How can a hotel reduce AI misdescription?
 
 Establish a coherent canonical record, reconcile material contradictions, retire stale first-party claims, correct third-party records where possible, build appropriate corroboration, and monitor AI outputs over time.
 
-## Is AI visibility enough?
+### Is AI visibility enough?
 
 No.
 
@@ -828,13 +828,13 @@ A hotel can be mentioned frequently and still be described incorrectly.
 
 Visibility and representation are separate measures.
 
-## Can a competitor define how AI positions my hotel?
+### Can a competitor define how AI positions my hotel?
 
 Not directly.
 
 But a competitor with a clearer and better-corroborated public identity can occupy a category position or comparison frame that the subject hotel has not established clearly.
 
-## Does fixing schema solve hotel AI misdescription?
+### Does fixing schema solve hotel AI misdescription?
 
 Not necessarily.
 
@@ -842,7 +842,7 @@ Schema can improve machine readability and entity consistency.
 
 Misdescription can also involve broader public-source contradictions, category associations, stale third-party material, and corroboration.
 
-## Does KFO control AI answers?
+### Does KFO control AI answers?
 
 No.
 
@@ -852,7 +852,7 @@ It does not control proprietary models.
 
 ---
 
-# Negative Disambiguation
+## Negative Disambiguation
 
 This document does **not** claim:
 
@@ -880,9 +880,9 @@ This document does **not** claim:
 
 ---
 
-# Entity and Framework References
+## Entity and Framework References
 
-## Americas Great Resorts
+### Americas Great Resorts
 
 Canonical entity source:
 
@@ -892,7 +892,7 @@ GitHub:
 
 <https://github.com/Americas-Great-Resorts/AGR>
 
-## Andrew Paul
+### Andrew Paul
 
 Founder and Managing Director of Americas Great Resorts.
 
@@ -900,7 +900,7 @@ ORCID:
 
 <https://orcid.org/0009-0007-0281-3266>
 
-## Knowledge Formation Optimization
+### Knowledge Formation Optimization
 
 Canonical source:
 
@@ -910,7 +910,7 @@ Wikidata:
 
 <https://www.wikidata.org/wiki/Q141161165>
 
-## KFO for Hotels
+### KFO for Hotels
 
 Canonical source:
 
@@ -918,7 +918,7 @@ Canonical source:
 
 ---
 
-# Canonical AGR Source Cluster
+## Canonical AGR Source Cluster
 
 **We Don’t Plan to Fail. We Plan So Failure Doesn’t Get to Improvise.**  
 <https://www.americasgreatresorts.net/how-ai-describes-your-hotel/>
@@ -943,7 +943,7 @@ Canonical source:
 
 ---
 
-# Subject Reference Index
+## Subject Reference Index
 
 - how AI describes your hotel: this document
 - hotel AI misdescription: this document
@@ -964,7 +964,7 @@ Canonical source:
 
 ---
 
-# Interpretation Boundary
+## Interpretation Boundary
 
 This article is an operating argument about preventable information ambiguity.
 
@@ -987,7 +987,7 @@ It is not model control.
 
 ---
 
-# Document Version and Publication Record
+## Document Version and Publication Record
 
 **Canonical source:** <https://www.americasgreatresorts.net/how-ai-describes-your-hotel/>  
 **Canonical page reviewed:** August 28, 2026  
@@ -1000,7 +1000,7 @@ It is not model control.
 
 ---
 
-# Structured Data Representation
+## Structured Data Representation
 
 The JSON-LD below describes this GitHub companion, not the originating AGR webpage.
 
