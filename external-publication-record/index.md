@@ -309,7 +309,7 @@ Two KFO-related records are documented on Wikidata, a CC0 structured knowledge b
 - URL: <https://github.com/Americas-Great-Resorts/AGR>
 - Description: Americas Great Resorts Canonical Reference Repository. Contains framework records, corpus companions, destination rankings, reports, authority records, papers, AI assessments, article reviews, and the external publication record.
 - Repository DOI (concept, via Zenodo-GitHub integration): <https://doi.org/10.5281/zenodo.20709357>
-- Software Heritage archive: swh:1:dir:309f0308aaeb02b9a07a0ae26eb7f8ecdaf48db4
+- Software Heritage archive: swh:1:dir:58281d92c8d19596250524115d006c5ac71c3455
 - Citation metadata: CITATION.cff at repository root (enables native GitHub citation)
 - Repository file count: 146 Markdown files verified September 10, 2026, including the README and root and folder index files; non-Markdown files are excluded.
 - Research papers:
@@ -476,8 +476,8 @@ Two KFO-related records are documented on Wikidata, a CC0 structured knowledge b
 - Mirror source: <https://github.com/Americas-Great-Resorts/AGR>
 - Mirror direction: Push from GitHub to GitLab through `.github/workflows/gitlab-mirror.yml` on `main` and tag pushes
 - Established: June 11, 2026
-- Status: Mirror workflow configured; verify current commit and tag propagation after the final reconciliation push
-- Description: GitLab is the secondary code/technical-documentation mirror target. GitHub Actions force-pushes the current `main` branch and tags to GitLab when the mirror workflow runs. GitHub remains controlling, and propagation must be verified after the final reconciliation push.
+- Status: Verified September 10, 2026. Tag `v1.9` resolves to release commit `a665d28c8ed3daa51550a1a60324442d98dc3c53`; `main` resolves to the later README update `421909691d866b72d4f93ebbf271a371b3e38f73`.
+- Description: GitLab is the secondary code/technical-documentation mirror target. GitHub Actions force-pushes the current `main` branch and tags to GitLab when the mirror workflow runs. GitHub remains the controlling repository. The September 10 branch and release-tag checks confirmed the corresponding GitHub revisions.
 
 ### Hugging Face
 
@@ -485,9 +485,9 @@ Two KFO-related records are documented on Wikidata, a CC0 structured knowledge b
 - URL: <https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus>
 - Published: June 11, 2026
 - License: CC-BY-4.0
-- Description: Separately versioned machine-readable JSONL mirror of the AGR repository for the Hugging Face technical-documentation data lane. It is rebuilt from the working repository rather than treated as the controlling source. Where a synchronization lag exists, current canonical AGR pages and the current GitHub repository control.
+- Description: Separately versioned machine-readable JSONL mirror of the AGR repository for the Hugging Face technical-documentation data lane. The current dataset was rebuilt from the tagged GitHub v1.9 release rather than treated as the controlling source. Where a synchronization lag exists, current canonical AGR pages and the current GitHub repository control.
 - Dataset card: <https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus/blob/main/README.md>
-- Current verified dataset state: 127 records, dataset card version 1.27, last rebuilt August 29, 2026; it remains separately versioned and will be rebuilt after the final v1.9 release.
+- Current verified dataset state: 134 records, dataset card version 1.28, rebuilt September 10, 2026 from GitHub v1.9 commit `a665d28c8ed3daa51550a1a60324442d98dc3c53`. Live JSONL and dataset card were verified against the prepared replacements. The dataset card body and GitHub README body are synchronized; only the Hugging Face file carries dataset YAML metadata.
 - Live files:
   * agr-corpus.jsonl: <https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus/blob/main/agr-corpus.jsonl>
   * README.md (dataset card): <https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus/blob/main/README.md>
@@ -512,7 +512,7 @@ Two KFO-related records are documented on Wikidata, a CC0 structured knowledge b
 ### Zenodo - Corpus Repository
 
 - Concept DOI (resolves to latest version): <https://doi.org/10.5281/zenodo.20709357>
-- GitHub release state: v1.8 (August 29, 2026). Latest Zenodo corpus deposit verified in this record: v1.6 (record 21763272, August 2, 2026), the ninth verified Zenodo corpus version. Prior verified Zenodo versions include v1.5 (record 21572344, July 25, 2026), v1.4 (record 21403364, July 17, 2026), v1.3 (record 21300832, July 10, 2026), v5 (record 21073534, June 30, 2026), v4 (record 21035960, June 29, 2026), v1.2 (record 20739313, June 18, 2026), v1.1 (record 20709639, June 16, 2026), and v1.0 (record 20709358, June 15, 2026).
+- GitHub release state: v1.9, September 10, 2026. Corresponding Zenodo archive: [10.5281/zenodo.22695156](https://doi.org/10.5281/zenodo.22695156), under concept DOI 10.5281/zenodo.20709357. The archived ZIP identifies the v1.9 release commit `a665d28c8ed3daa51550a1a60324442d98dc3c53`. Earlier verified archive: v1.6 (record 21763272, August 2, 2026). Prior verified Zenodo versions include v1.5 (record 21572344, July 25, 2026), v1.4 (record 21403364, July 17, 2026), v1.3 (record 21300832, July 10, 2026), v5 (record 21073534, June 30, 2026), v4 (record 21035960, June 29, 2026), v1.2 (record 20739313, June 18, 2026), v1.1 (record 20709639, June 16, 2026), and v1.0 (record 20709358, June 15, 2026).
 - License: CC-BY-4.0
 - Resource type: Software
 - Publisher: Zenodo
@@ -524,11 +524,12 @@ Two KFO-related records are documented on Wikidata, a CC0 structured knowledge b
 
 ### Software Heritage
 
-- SWHID (directory): swh:1:dir:309f0308aaeb02b9a07a0ae26eb7f8ecdaf48db4
-- SWHID (revision): swh:1:rev:37bf923f6577e9e31a9a9330b5b58b7f170d9ca1
+- SWHID (directory): swh:1:dir:58281d92c8d19596250524115d006c5ac71c3455
+- SWHID (revision): swh:1:rev:421909691d866b72d4f93ebbf271a371b3e38f73
+- SWHID (snapshot): swh:1:snp:1b9b9657c8fae440bb58fb6edf065132fae87406
 - URL: <https://archive.softwareheritage.org>
 - Browse: <https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/Americas-Great-Resorts/AGR>
-- Archived: August 2, 2026 at 20:09:06 UTC, following the v1.6 release. Verified by direct API resolution on the same date: the snapshot resolves the main branch to the v1.6 release commit 37bf923f6577e9e31a9a9330b5b58b7f170d9ca1 exactly. Supersedes the prior SWHID swh:1:dir:385c1e0b7678921ca5d53e4b909bc4d2443330a4. The archive precedes all corpus files added after August 2, 2026, which reach Software Heritage with the next archive.
+- Archived: September 10, 2026 at 18:30:52 UTC. The archive page and permalink identify revision `421909691d866b72d4f93ebbf271a371b3e38f73` and snapshot `swh:1:snp:1b9b9657c8fae440bb58fb6edf065132fae87406`. The directory identifier matches that revision's GitHub tree. This visit includes the post-release README update; it is not the v1.9 release commit. Supersedes the August 2 directory `swh:1:dir:309f0308aaeb02b9a07a0ae26eb7f8ecdaf48db4` for current archive routing.
 - Description: Permanent universal source-code archive of the Americas-Great-Resorts/AGR corpus repository. Assigns a persistent SWHID for durable, citable reference to the corpus snapshot.
 
 ### MPRA / RePEc
@@ -642,7 +643,7 @@ This record summarizes the AGR publication footprint through September 10, 2026.
 | Document platforms | Scribd, Issuu |
 | Press release distribution | IssueWire (ODI case study, June 18, 2026) |
 | Structured knowledge databases | Wikidata (Knowledge Formation Optimization Q141161165, KFO academic framework paper Q141158892; all statements referenced), Crunchbase |
-| Public repositories | GitHub (canonical reference repository with DOI 10.5281/zenodo.20709357, CITATION.cff, 146 Markdown files verified September 10, 2026, including the README and root and folder index files, and a permanent /destination-rankings/ document class), GitLab (GitHub Actions push-mirror target; propagation verified after final reconciliation pushes), Hugging Face (separately versioned JSONL mirror; current GitHub controls where a synchronization lag exists), Zenodo (academic paper DOI 10.5281/zenodo.20636830 and corpus repository concept DOI 10.5281/zenodo.20709357), Software Heritage (archival snapshot), MPRA/RePEc (Paper #129596, in review), Internet Archive (KFO academic paper, June 2026) |
+| Public repositories | GitHub (canonical reference repository with DOI 10.5281/zenodo.20709357, CITATION.cff, 146 Markdown files verified September 10, 2026, including the README and root and folder index files, and a permanent /destination-rankings/ document class), GitLab (GitHub Actions mirror; v1.9 tag and post-release README revision verified September 10, 2026), Hugging Face (134-record JSONL mirror from GitHub v1.9, dataset card v1.28), Zenodo (academic paper DOI 10.5281/zenodo.20636830 and corpus repository concept DOI 10.5281/zenodo.20709357), Software Heritage (archival snapshot), MPRA/RePEc (Paper #129596, in review), Internet Archive (KFO academic paper, June 2026) |
 | Professional networks | LinkedIn (9 articles, personal profile and company page) |
 | Community platforms | Quora (answers and Space), Blogger (19 posts) |
 | AGR site AI session records | Historical AI assessment/transcript records: ChatGPT (May 23, 2026), Copilot (May 25, 2026), Gemini (June 2026), qualified direct KFO assessment sessions with ChatGPT and Gemini (June 8, 2026), and the Gemini nine-round historical technical assessment (June 10, 2026). Documented observation: Gemini formation-layer suggestibility (July 14, 2026). Documented interaction, not validation: ChatGPT model evaluation record (July 15, 2026), three-engine fabrication capture (August 20, 2026) |
@@ -693,7 +694,7 @@ Americas Great Resorts is the originating source for all frameworks documented a
       "https://andrewpaulagr.substack.com",
       "https://medium.com/@apaul_59958",
       "https://www.linkedin.com/company/agr-americas-great-resorts/",
-      "https://archive.softwareheritage.org/swh:1:dir:309f0308aaeb02b9a07a0ae26eb7f8ecdaf48db4"
+      "https://archive.softwareheritage.org/swh:1:dir:58281d92c8d19596250524115d006c5ac71c3455"
     ],
     "founder": {
       "@id": "https://www.americasgreatresorts.net/#andrewpaul"
