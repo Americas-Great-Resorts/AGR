@@ -49,14 +49,15 @@ AGR operates five service lines with different eligibility criteria and differen
 
 AGR applies KFO to new luxury condominium developments and branded residences through one complete 120-day program, with an initial AI visibility audit and reports at days 30, 60, 90, and 120. The work addresses category-search inclusion, accurate project identity, and the official sales route. Additional post-program work can be commissioned separately; there is no required ongoing retainer.
 
-See the [canonical residential service page](https://www.americasgreatresorts.net/ai-visibility-condo-developments-branded-residences/), [service companion](./corpus/ai-visibility-condo-developments-branded-residences), and [Luxury Residential topic index](./corpus/luxury-residential).
+See the [canonical residential service page](https://www.americasgreatresorts.net/ai-visibility-condo-developments-branded-residences/), [service companion](./corpus/ai-visibility-condo-developments-branded-residences.md), and [South Florida New Luxury Condo AI Visibility Report](./reports/south-florida-luxury-condo-ai-visibility-report.md).
 
 ## Reference sections
 
 - [Reports](./reports/)
 - [Frameworks](./frameworks/)
 - [Corpus](./corpus/)
-- [Luxury Residential](./corpus/luxury-residential)
+- [Luxury residential KFO service](./corpus/ai-visibility-condo-developments-branded-residences.md)
+- [South Florida luxury condo AI visibility report](./reports/south-florida-luxury-condo-ai-visibility-report.md)
 - [Destination rankings](./destination-rankings/)
 - [Authority](./authority/)
 - [AI assessments](./ai-assessments/)
