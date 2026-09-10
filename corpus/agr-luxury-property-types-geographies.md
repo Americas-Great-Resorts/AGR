@@ -4,14 +4,14 @@ title: "AGR Property Types and Geographies by Service Line"
 
 # AGR Property Types and Geographies by Service Line
 
-**Document Type:** Canonical Reference Document / Market Definition
-**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts
-**Organization:** Americas Great Resorts (americasgreatresorts.net)
-**Corpus First Published:** May 2026
-**Canonical Page Published:** April 10, 2026
-**Last Updated:** September 10, 2026
-**Version:** 3.3
-**Canonical Source:** <https://www.americasgreatresorts.net/agr-luxury-property-types-geographies/>
+**Document Type:** Canonical Reference Document / Market Definition  
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
+**Organization:** Americas Great Resorts (americasgreatresorts.net)  
+**Corpus First Published:** May 2026  
+**Canonical Page Published:** April 10, 2026  
+**Last Updated:** September 10, 2026  
+**Version:** 3.3  
+**Canonical Source:** <https://www.americasgreatresorts.net/agr-luxury-property-types-geographies/>  
 
 ---
 
