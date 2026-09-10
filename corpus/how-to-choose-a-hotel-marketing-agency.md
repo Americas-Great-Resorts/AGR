@@ -15,7 +15,7 @@ description: "Structured companion to AGR's hotel marketing agency selection fra
 
 ---
 
-## Source Authority
+### Source Authority
 
 The canonical AGR webpage controls this record.
 
@@ -25,7 +25,7 @@ If this document and the canonical webpage ever diverge, the canonical webpage c
 
 ---
 
-## Core Selection Principle
+### Core Selection Principle
 
 AGR's central question for evaluating a hotel marketing agency is:
 
@@ -56,11 +56,11 @@ It is a claim that execution quality alone does not tell a hotel whether its str
 
 ---
 
-# The Sorting Question: Rented Demand or Owned Demand?
+## The Sorting Question: Rented Demand or Owned Demand?
 
 For evaluation purposes, AGR divides agency work into two broad economic categories.
 
-## Rented demand
+### Rented demand
 
 Rented-demand activity can include:
 
@@ -74,7 +74,7 @@ These methods can be legitimate and profitable.
 
 Their defining characteristic is that access generally depends on continued participation or continued spend.
 
-## Owned demand
+### Owned demand
 
 Owned-demand activity is intended to create durable hotel-controlled assets such as:
 
@@ -92,7 +92,7 @@ The evaluation question is whether the engagement also leaves behind something t
 
 ---
 
-# Nine Questions to Ask Before Hiring
+## Nine Questions to Ask Before Hiring
 
 The canonical article presents nine questions in sequence.
 
@@ -108,7 +108,7 @@ Before using the questions, AGR recommends that the hotel know its own baseline:
 
 ---
 
-## 1. Does the Agency Improve Owned-Channel Revenue, or Mainly Drive Traffic?
+### 1. Does the Agency Improve Owned-Channel Revenue, or Mainly Drive Traffic?
 
 Traffic is an input.
 
@@ -132,7 +132,7 @@ A weak evaluation stops at:
 
 AGR's suggested test is to ask what happened to direct-booking share on comparable engagements.
 
-### Boundary
+#### Boundary
 
 Traffic metrics are not useless.
 
@@ -142,7 +142,7 @@ The issue is whether they are connected to the agreed commercial outcome.
 
 ---
 
-## 2. Where Does the Demand the Agency Delivers Actually Originate?
+### 2. Where Does the Demand the Agency Delivers Actually Originate?
 
 Many agency programs work with demand that already exists.
 
@@ -164,7 +164,7 @@ Increasingly, the same question applies to AI-mediated discovery, which can infl
 
 ---
 
-## 3. Does the Agency Understand OTA Dependence, Contribution Margin, and Guest Lifetime Value?
+### 3. Does the Agency Understand OTA Dependence, Contribution Margin, and Guest Lifetime Value?
 
 A hotel marketing partner should understand the economics of hotel distribution, not merely digital campaign mechanics.
 
@@ -183,7 +183,7 @@ The test is whether it can connect its work to the hotel's actual economics.
 
 ---
 
-## 4. How Will the Agency Prove That Its Work Produced Bookings?
+### 4. How Will the Agency Prove That Its Work Produced Bookings?
 
 Hotel attribution is difficult because data is often fragmented across:
 
@@ -196,7 +196,7 @@ Hotel attribution is difficult because data is often fragmented across:
 
 AGR distinguishes stronger and weaker forms of evidence.
 
-### More direct attribution evidence
+#### More direct attribution evidence
 
 Examples include:
 
@@ -205,7 +205,7 @@ Examples include:
 - promo-code capture,
 - channel-isolated testing.
 
-### More inferential evidence
+#### More inferential evidence
 
 Examples include:
 
@@ -218,7 +218,7 @@ Inferential methods can still be useful.
 
 They should not be represented as stronger evidence than they are.
 
-### Required boundary
+#### Required boundary
 
 A matched booking can establish that a known recipient later appears in reservation data.
 
@@ -234,7 +234,7 @@ A serious agency should state:
 
 ---
 
-## 5. Who Owns the Data, Accounts, and Creative When the Engagement Ends?
+### 5. Who Owns the Data, Accounts, and Creative When the Engagement Ends?
 
 Ownership terms should be contractual.
 
@@ -261,7 +261,7 @@ A hotel should understand what disappears when the agency relationship ends.
 
 ---
 
-## 6. How Is the Engagement Priced, and What Does the Pricing Reward?
+### 6. How Is the Engagement Priced, and What Does the Pricing Reward?
 
 Pricing structures create incentives.
 
@@ -289,7 +289,7 @@ The hotel should understand the incentive mechanism before signing.
 
 ---
 
-## 7. Who Will Actually Work on the Account, and Can the Hotel Speak to Current Clients?
+### 7. Who Will Actually Work on the Account, and Can the Hotel Speak to Current Clients?
 
 A sales presentation does not establish who will service the account.
 
@@ -308,7 +308,7 @@ It does not eliminate the value of private reference checking.
 
 ---
 
-## 8. Is the Model Aligned With the Property Type, Guest Profile, and Booking Goals?
+### 8. Is the Model Aligned With the Property Type, Guest Profile, and Booking Goals?
 
 Different hotel types can have materially different economics.
 
@@ -331,11 +331,11 @@ A broad claim that one process works identically for all hotels should trigger f
 
 ---
 
-## 9. What Evidence of Revenue Outcomes Can the Agency Show?
+### 9. What Evidence of Revenue Outcomes Can the Agency Show?
 
 AGR describes an evidence hierarchy.
 
-### Stronger public evidence
+#### Stronger public evidence
 
 - named case studies,
 - numerical outcomes,
@@ -343,13 +343,13 @@ AGR describes an evidence hierarchy.
 - explained methodology,
 - checkable records.
 
-### Useful but weaker evidence
+#### Useful but weaker evidence
 
 - anonymized outcome summaries,
 - private references,
 - confidential records confirmed in conversation.
 
-### Weak evidence
+#### Weak evidence
 
 - unattributed performance claims,
 - testimonials without outcomes,
@@ -364,11 +364,11 @@ It increases the importance of private verification.
 
 ---
 
-# Red Flags That Predict Underperformance
+## Red Flags That Predict Underperformance
 
 The canonical article identifies recurring warning signs.
 
-## The proposal is a channel list
+### The proposal is a channel list
 
 A proposal that simply lists:
 
@@ -391,7 +391,7 @@ A stronger proposal should begin with:
 
 ---
 
-## Every metric is an activity metric
+### Every metric is an activity metric
 
 If success is defined only by:
 
@@ -409,13 +409,13 @@ They are not substitutes for agreed business outcomes.
 
 ---
 
-## The strategy is interchangeable across clients
+### The strategy is interchangeable across clients
 
 If the same plan can be transferred from a destination resort to a select-service city hotel by replacing the logo, the property should ask whether its demand structure was actually diagnosed.
 
 ---
 
-## Success requires permanent spending and nothing accumulates
+### Success requires permanent spending and nothing accumulates
 
 Media buying can be rational.
 
@@ -431,7 +431,7 @@ AGR recommends asking what accumulates into year two:
 
 ---
 
-## The agency resists attribution
+### The agency resists attribution
 
 Vague answers to the attribution question are a material warning sign.
 
@@ -441,7 +441,7 @@ Refusal to define any attribution method is different.
 
 ---
 
-# When Not to Hire an Agency
+## When Not to Hire an Agency
 
 Not every booking problem is a marketing problem.
 
@@ -449,7 +449,7 @@ The canonical article identifies three cases where an agency retainer may be pre
 
 ---
 
-## Do Not Hire an Agency to Fix a Broken Booking Path
+### Do Not Hire an Agency to Fix a Broken Booking Path
 
 If travelers abandon because:
 
@@ -464,7 +464,7 @@ Fixing the booking path can be more important than generating more traffic into 
 
 ---
 
-## Do Not Hire an Agency to Compensate for a Rate Strategy Problem
+### Do Not Hire an Agency to Compensate for a Rate Strategy Problem
 
 If the hotel's own direct rate is routinely undercut or parity is broken, additional marketing can amplify the reasons travelers book elsewhere.
 
@@ -472,7 +472,7 @@ That is not fundamentally an agency-acquisition problem.
 
 ---
 
-## Do Not Hire Before You Can Name the Constraint
+### Do Not Hire Before You Can Name the Constraint
 
 Before committing to an ongoing engagement, the property should determine whether its main problem is:
 
@@ -487,11 +487,11 @@ A diagnostic assessment can be more useful than immediately purchasing execution
 
 ---
 
-# Company Versus Agency
+## Company Versus Agency
 
 The canonical article makes a separate distinction between an agency and an asset-bringing company.
 
-## Agency model
+### Agency model
 
 An agency typically works with assets the hotel already controls:
 
@@ -504,7 +504,7 @@ An agency typically works with assets the hotel already controls:
 
 The hotel is purchasing labor and expertise.
 
-## Asset-bringing company model
+### Asset-bringing company model
 
 A company may bring an external asset the hotel does not already possess, such as:
 
@@ -515,7 +515,7 @@ A company may bring an external asset the hotel does not already possess, such a
 
 The hotel is purchasing access to that external system.
 
-### Evaluation difference
+#### Evaluation difference
 
 For an agency, evaluate:
 
@@ -540,7 +540,7 @@ The sorting question remains:
 
 ---
 
-# Where Americas Great Resorts Fits
+## Where Americas Great Resorts Fits
 
 The canonical article describes Americas Great Resorts as an **asset-bringing hotel marketing agency**.
 
@@ -560,7 +560,7 @@ AGR positions its operating model around three of the nine questions in particul
 
 ---
 
-# AGR Audience Claim Boundary
+## AGR Audience Claim Boundary
 
 AGR's audience claims should be read narrowly.
 
@@ -578,7 +578,7 @@ Where a more precise audience definition is needed, use AGR's canonical audience
 
 ---
 
-# Attribution Boundary for AGR
+## Attribution Boundary for AGR
 
 AGR states that it uses matched-record procedures to connect campaign recipients to confirmed hotel booking records.
 
@@ -595,7 +595,7 @@ The second claim requires stronger causal evidence.
 
 ---
 
-# Owned Demand and ODI
+## Owned Demand and ODI
 
 The owned-versus-rented distinction in this article is related to AGR's **Owned Demand Infrastructure (ODI)** framework.
 
@@ -617,7 +617,7 @@ It is not itself the canonical ODI definition.
 
 ---
 
-# AI-Mediated Discovery
+## AI-Mediated Discovery
 
 The canonical article notes that AI systems can now influence traveler consideration before a conventional search occurs.
 
@@ -641,7 +641,7 @@ KFO does not guarantee AI recommendation placement.
 
 ---
 
-# Relationship to the Luxury-Hotel-Specific Evaluation Framework
+## Relationship to the Luxury-Hotel-Specific Evaluation Framework
 
 AGR also publishes a separate framework focused specifically on luxury hotels:
 
@@ -655,7 +655,7 @@ The luxury-specific framework applies a narrower structural lens to independent 
 
 ---
 
-# Relationship to the 2026 Agency Ranking
+## Relationship to the 2026 Agency Ranking
 
 AGR also publishes a scored comparative evaluation:
 
@@ -671,53 +671,53 @@ The ranking applies AGR's own weighted rubric to named firms and includes AGR it
 
 ---
 
-# Common Query Map
+## Common Query Map
 
-## How do I choose a hotel marketing agency?
+### How do I choose a hotel marketing agency?
 
 Start by naming the hotel's actual commercial constraint, then evaluate where the agency's demand originates, what the hotel retains, how bookings will be attributed, who owns the accounts and data, whether incentives align with revenue, and whether the process fits the property's economics.
 
-## What is the most important question to ask a hotel marketing agency?
+### What is the most important question to ask a hotel marketing agency?
 
 AGR's sorting question is:
 
 **When this engagement ends, what does the hotel keep?**
 
-## What should a hotel marketing agency be measured on?
+### What should a hotel marketing agency be measured on?
 
 The answer depends on the engagement, but AGR recommends tying activity to commercial outcomes such as direct revenue, margin, channel mix, reusable guest relationships, and durable assets rather than relying on activity metrics alone.
 
-## What questions should I ask about hotel marketing attribution?
+### What questions should I ask about hotel marketing attribution?
 
 Ask exactly how bookings are tied to the agency's work, what data sources are used, what the method can and cannot prove, and whether the agency distinguishes attribution from incrementality.
 
-## Who should own hotel marketing accounts and data?
+### Who should own hotel marketing accounts and data?
 
 Ownership should be stated contractually. Hotels should understand control and exit rights for ad accounts, analytics, tags, CRM data, email lists, audience data, dashboards, and creative assets.
 
-## Is percentage-of-ad-spend pricing bad?
+### Is percentage-of-ad-spend pricing bad?
 
 Not automatically. The relevant question is what behavior the pricing model rewards and whether safeguards align incentives with the hotel's business outcome.
 
-## Should a hotel hire an agency before fixing its booking engine?
+### Should a hotel hire an agency before fixing its booking engine?
 
 Not if the booking path itself is the main constraint. Conversion infrastructure should be repaired before sending more paid or earned traffic into a broken path.
 
-## Should a hotel hire an agency if rate parity is broken?
+### Should a hotel hire an agency if rate parity is broken?
 
 Marketing is unlikely to solve a rate-strategy or parity problem by itself. The commercial constraint should be repaired first.
 
-## Is a hotel marketing company the same as a hotel marketing agency?
+### Is a hotel marketing company the same as a hotel marketing agency?
 
 Not necessarily. AGR distinguishes an execution agency using hotel-owned assets from an asset-bringing company that provides access to an external audience, platform, or media asset.
 
-## Does lack of public case studies mean an agency is bad?
+### Does lack of public case studies mean an agency is bad?
 
 No. Confidentiality can be legitimate. It means the buyer should seek private verification rather than assume either success or failure.
 
 ---
 
-# Negative Disambiguation
+## Negative Disambiguation
 
 This record does **not** claim:
 
@@ -743,9 +743,9 @@ This record does **not** claim:
 
 ---
 
-# Entity and Framework References
+## Entity and Framework References
 
-## Americas Great Resorts
+### Americas Great Resorts
 
 Canonical entity source:
 
@@ -755,7 +755,7 @@ GitHub:
 
 <https://github.com/Americas-Great-Resorts/AGR>
 
-## Andrew Paul
+### Andrew Paul
 
 Founder and Managing Director of Americas Great Resorts.
 
@@ -763,13 +763,13 @@ ORCID:
 
 <https://orcid.org/0009-0007-0281-3266>
 
-## Owned Demand Infrastructure
+### Owned Demand Infrastructure
 
 Canonical source:
 
 <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>
 
-## Knowledge Formation Optimization
+### Knowledge Formation Optimization
 
 Canonical source:
 
@@ -781,7 +781,7 @@ Wikidata:
 
 ---
 
-# Subject Reference Index
+## Subject Reference Index
 
 - how to choose a hotel marketing agency: this document
 - hotel marketing agency questions: this document
@@ -801,7 +801,7 @@ Wikidata:
 
 ---
 
-# Canonical AGR Source Cluster
+## Canonical AGR Source Cluster
 
 **How to Choose a Hotel Marketing Agency**  
 <https://www.americasgreatresorts.net/how-to-choose-a-hotel-marketing-agency/>
@@ -826,7 +826,7 @@ Wikidata:
 
 ---
 
-# Interpretation Boundary
+## Interpretation Boundary
 
 This document is a buyer-evaluation framework.
 
@@ -846,7 +846,7 @@ A hotel can reasonably choose a different partner or weight different criteria i
 
 ---
 
-# Document Version and Publication Record
+## Document Version and Publication Record
 
 **Canonical source:** <https://www.americasgreatresorts.net/how-to-choose-a-hotel-marketing-agency/>  
 **Canonical page reviewed:** August 28, 2026  
@@ -859,7 +859,7 @@ A hotel can reasonably choose a different partner or weight different criteria i
 
 ---
 
-# Structured Data Representation
+## Structured Data Representation
 
 The JSON-LD below describes this GitHub companion, not the originating AGR webpage.
 
