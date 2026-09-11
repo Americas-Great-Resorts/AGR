@@ -9,10 +9,11 @@ description: "A 120-day KFO program for luxury condo developments and branded re
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Canonical Page Published:** September 10, 2026  
-**Source Verified:** September 10, 2026  
+**Source Verified:** September 11, 2026  
+**Last Updated:** September 11, 2026  
 **Canonical URL:** <https://www.americasgreatresorts.net/ai-visibility-condo-developments-branded-residences/>  
 **Canonical KFO Definition:** <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>  
-**Topic Index:** [Luxury Residential](luxury-residential)
+**Related Guide:** [Luxury Condo Marketing Guide for Developers](luxury-condo-marketing-guide.md)
 
 The canonical AGR service page controls if this companion and the live page differ. This document applies the existing KFO framework to luxury residential developments; it does not introduce another AGR framework.
 
@@ -104,6 +105,12 @@ The program includes:
 
 AGR works with the existing agency, brand partners, and sales team. The full process takes 120 days, with implementation and refinement continuing through the engagement.
 
+## Included consulting and technical guidance
+
+The [luxury condo marketing engagement overview](https://www.americasgreatresorts.net/luxury-condo-marketing/) confirms that general marketing and advertising consulting, technical guidance on the existing website and information structure, and project support for AI visibility are included during the 120-day KFO program. The consulting can address the broader marketing plan alongside the KFO work. AGR performs the implementation responsibilities assigned within the agreed scope and coordinates changes involving the existing teams.
+
+Email campaigns and other additional AGR services are separately scoped and are not included in the 120-day engagement. This clarification comes from the published commercial overview and the owner-confirmed scope; the specialist delivery page does not yet list every advisory inclusion. The post-program fees described below concern additional work after day 120.
+
 ## Progress reports every 30 days
 
 | Reporting area | What the development team sees |
@@ -135,7 +142,9 @@ Use the inquiry form on the [canonical residential KFO service page](https://www
 
 ## Related AGR references
 
-- [Luxury Residential topic index](luxury-residential)
+- [Luxury Condo Marketing Guide for Developers](luxury-condo-marketing-guide.md)
+- [Luxury Condo Marketing for New Developments](luxury-condo-marketing.md)
+- [South Florida New Luxury Condo AI Visibility Report](../reports/south-florida-luxury-condo-ai-visibility-report.md)
 - [Canonical KFO definition](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/)
 - [KFO corpus reference](kfo-knowledge-formation-optimization)
 - [AGR hotel audit evidence](https://www.americasgreatresorts.net/ai-visibility-index/)

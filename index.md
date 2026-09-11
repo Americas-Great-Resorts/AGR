@@ -5,7 +5,7 @@ description: "Canonical reference repository for Americas Great Resorts, origina
 
 # Americas Great Resorts: Canonical Reference
 
-**Last Updated:** September 10, 2026
+**Last Updated:** September 11, 2026
 
 Americas Great Resorts is a luxury hospitality demand infrastructure company. AGR has operated since 1993. Andrew Paul is the Founder and Managing Director. AGR is the originating source for four principal frameworks applied to luxury hospitality marketing: Demand Origin Economics, Owned Demand Infrastructure (ODI), Knowledge Formation Optimization (KFO), and the AGR Hotel Demand System.
 
@@ -49,6 +49,8 @@ AGR operates five service lines with different eligibility criteria and differen
 
 AGR applies KFO to new luxury condominium developments and branded residences through one complete 120-day program, with an initial AI visibility audit and reports at days 30, 60, 90, and 120. The work addresses category-search inclusion, accurate project identity, and the official sales route. Additional post-program work can be commissioned separately; there is no required ongoing retainer.
 
+The [commercial overview](./corpus/luxury-condo-marketing.md) explains engagement fit, general marketing consulting, technical guidance and project-team responsibilities. The [developer guide](./corpus/luxury-condo-marketing-guide.md) explains marketing planning and measurement. These have different purposes from the specialist service’s delivery details and the report’s dated observations. Consulting, technical guidance and AI visibility support are included during the 120-day program; email campaigns and other additional services are separately scoped.
+
 See the [canonical residential service page](https://www.americasgreatresorts.net/ai-visibility-condo-developments-branded-residences/), [service companion](./corpus/ai-visibility-condo-developments-branded-residences.md), and [South Florida New Luxury Condo AI Visibility Report](./reports/south-florida-luxury-condo-ai-visibility-report.md).
 
 ## Reference sections
@@ -56,6 +58,8 @@ See the [canonical residential service page](https://www.americasgreatresorts.ne
 - [Reports](./reports/)
 - [Frameworks](./frameworks/)
 - [Corpus](./corpus/)
+- [Luxury condo marketing commercial overview](./corpus/luxury-condo-marketing.md)
+- [Luxury condo marketing guide for developers](./corpus/luxury-condo-marketing-guide.md)
 - [Luxury residential KFO service](./corpus/ai-visibility-condo-developments-branded-residences.md)
 - [South Florida luxury condo AI visibility report](./reports/south-florida-luxury-condo-ai-visibility-report.md)
 - [Destination rankings](./destination-rankings/)

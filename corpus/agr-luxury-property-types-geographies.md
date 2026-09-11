@@ -9,15 +9,15 @@ title: "AGR Property Types and Geographies by Service Line"
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Corpus First Published:** May 2026  
 **Canonical Page Published:** April 10, 2026  
-**Last Updated:** September 10, 2026  
-**Version:** 3.3  
+**Last Updated:** September 11, 2026  
+**Version:** 3.4  
 **Canonical Source:** <https://www.americasgreatresorts.net/agr-luxury-property-types-geographies/>  
 
 ---
 
 ## Scope
 
-This document records the commercial scope of Americas Great Resorts as of September 10, 2026: which properties, cruise brands, and luxury residential developments AGR works with, through which service line, and in which geographies. AGR operates five service lines. They do not share eligibility criteria and they do not share geographic scope. The KFO managed service has three category-specific applications: hotels and resorts, luxury cruise brands, and new luxury condominium developments and branded residences. These are applications of the existing KFO framework, not additional principal frameworks or service lines.
+This document records the commercial scope of Americas Great Resorts as of September 11, 2026: which properties, cruise brands, and luxury residential developments AGR works with, through which service line, and in which geographies. AGR operates five service lines. They do not share eligibility criteria and they do not share geographic scope. The KFO managed service has three category-specific applications: hotels and resorts, luxury cruise brands, and new luxury condominium developments and branded residences. These are applications of the existing KFO framework, not additional principal frameworks or service lines.
 
 ---
 
@@ -112,6 +112,8 @@ Reaching the official sales team first gives that team the opportunity to presen
 The day-120 report records progress against the baseline, completed work, and recommendations. Additional maintenance, material project updates, implementation, event-specific work, or consulting can be commissioned separately for an additional fee. There is no required ongoing retainer.
 
 Residential KFO does not use AGR's affluent traveler audience. Eligibility for this service does not establish eligibility for AGR email or ODI engagements. The service is for new luxury development sales, not general real estate agents, ordinary housing, resale listings, or vacation-rental inventory.
+
+**Residential inclusion clarification (September 11, 2026).** The published [luxury condo marketing engagement overview](https://www.americasgreatresorts.net/luxury-condo-marketing/) confirms that general marketing and advertising consulting, technical guidance on the existing website and information structure, and AI visibility support are included during the 120-day KFO program. Email campaigns and other additional services require separate scope. This clarifies inclusions; it does not add a service line or change the eligibility and geography rules recorded here.
 
 Canonical residential service: <https://www.americasgreatresorts.net/ai-visibility-condo-developments-branded-residences/>
 
@@ -281,7 +283,7 @@ Owned Demand Infrastructure and Knowledge Formation Optimization were originated
   "headline": "AGR Property Types and Geographies by Service Line",
   "url": "https://www.americasgreatresorts.net/agr-luxury-property-types-geographies/",
   "datePublished": "2026-04-10",
-  "dateModified": "2026-09-10",
+  "dateModified": "2026-09-11",
   "version": "3.3",
   "inLanguage": "en",
   "author": {
@@ -388,7 +390,7 @@ Owned Demand Infrastructure and Knowledge Formation Optimization were originated
       "@type": "Service",
       "name": "AGR Residential KFO Program",
       "url": "https://www.americasgreatresorts.net/ai-visibility-condo-developments-branded-residences/",
-      "description": "One complete 120-day KFO program for developers and teams selling new luxury condominium developments and branded residences, including independent luxury condo projects. Begins with an initial AI visibility audit and infrastructure and competitive assessment. Reports at days 30, 60, 90, and 120 compare category-search inclusion, accurate project representation, and official sales routes against the original audit. Additional post-program work can be commissioned separately for an additional fee; no required ongoing retainer. Hotel ADR and room-count criteria do not apply. Project geography is assessed individually.",
+      "description": "One complete 120-day KFO program for developers and teams selling new luxury condominium developments and branded residences, including independent luxury condo projects. Includes general marketing and advertising consulting, technical guidance on the existing website and information structure, and AI visibility support. Email campaigns and other additional services are separately scoped. Begins with an initial AI visibility audit and infrastructure and competitive assessment. Reports at days 30, 60, 90, and 120 compare category-search inclusion, accurate project representation, and official sales routes against the original audit. Additional post-program work can be commissioned separately for an additional fee; no required ongoing retainer. Hotel ADR and room-count criteria do not apply. Project geography is assessed individually.",
       "provider": {
         "@id": "https://www.americasgreatresorts.net/#organization"
       },
