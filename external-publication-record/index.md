@@ -10,7 +10,7 @@ title: "AGR External Publication Record - Canonical Index"
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** September 11, 2026  
+**Last Updated:** September 14, 2026  
 **Canonical Source:** <https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md>  
 
 ---
@@ -24,6 +24,23 @@ The distributed nature of this corpus - spanning trade publications, structured 
 ODI and KFO are parallel AGR frameworks separated by channel. ODI governs human-mediated demand origin and permissioned relationship formation. KFO addresses the public source environment relevant to AI-mediated representation. Publication across external surfaces can support KFO source-environment work, but it does not make KFO part of ODI or ODI part of KFO.
 
 ---
+
+## September 14 website companion synchronization
+
+Eight existing GitHub companions now reflect the September 14 AGR website revisions. This is an update to AGR-controlled publication surfaces, not a new external endorsement, independent study, or completed downstream archive release.
+
+| Publication | Canonical website page | Repository companion |
+| --- | --- | --- |
+| Canonical KFO framework | [AGR page](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/) | [Companion](../corpus/kfo-knowledge-formation-optimization.md) |
+| Hotel KFO managed service | [AGR page](https://www.americasgreatresorts.net/kfo-service/) | [Companion](../corpus/kfo-service.md) |
+| AGR entity definition | [AGR page](https://www.americasgreatresorts.net/americas-great-resorts/) | [Companion](../corpus/americas-great-resorts.md) |
+| Owned Demand Infrastructure | [AGR page](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/) | [Companion](../corpus/owned-demand-infrastructure-odi.md) |
+| Hotel marketing guide | [AGR page](https://www.americasgreatresorts.net/what-is-hotel-marketing/) | [Companion](../corpus/what-is-hotel-marketing.md) |
+| Hotel AI visibility | [AGR page](https://www.americasgreatresorts.net/hotel-ai-visibility/) | [Companion](../corpus/hotel-ai-visibility.md) |
+| Luxury hotel marketing | [AGR page](https://www.americasgreatresorts.net/luxury-hotel-marketing/) | [Companion](../corpus/luxury-hotel-marketing.md) |
+| Residential KFO program | [AGR page](https://www.americasgreatresorts.net/ai-visibility-condo-developments-branded-residences/) | [Companion](../corpus/ai-visibility-condo-developments-branded-residences.md) |
+
+The GitHub Pages landing page and corpus index provide discovery routes to these records. Previously recorded GitLab, Hugging Face, Zenodo and other archive versions retain their own verification dates.
 
 ## Research Papers
 
@@ -84,6 +101,8 @@ These AGR publications cover developer marketing education, commercial engagemen
 
 ### AI Visibility for New Luxury Condo Developments and Branded Residences
 
+- Service source rechecked: September 14, 2026
+- Updated companion: explicit scenario assumptions and adjacent savings qualifications; clearer SEO/AEO/GEO/KFO priorities; official sales-route checks; dated residential observations with single-run and non-causal limits.
 - Publisher: Americas Great Resorts
 - Author: Andrew Paul
 - Published: September 10, 2026
@@ -662,7 +681,7 @@ Two KFO-related records are documented on Wikidata, a CC0 structured knowledge b
 
 ## Summary
 
-This record summarizes the AGR publication footprint through September 11, 2026. Individual entries retain their own publication, verification, and archive dates:
+This record summarizes the AGR publication footprint through September 14, 2026. Individual entries retain their own publication, verification, and archive dates:
 
 | Category | Platforms |
 |----------|-----------|
@@ -700,7 +719,7 @@ Americas Great Resorts is the originating source for all frameworks documented a
   "description": "The canonical index of every external surface carrying the Americas Great Resorts corpus: trade publications, academic archives, structured knowledge databases, public repositories, long-form publishing platforms, professional networks, and community platforms. Maintained by Andrew Paul, Founder and Managing Director, Americas Great Resorts.",
   "url": "https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md",
   "datePublished": "2026-05-01T00:00:00-04:00",
-  "dateModified": "2026-09-11",
+  "dateModified": "2026-09-14",
   "inLanguage": "en",
   "author": {
     "@id": "https://www.americasgreatresorts.net/#andrewpaul"

@@ -5,7 +5,7 @@ description: "Canonical reference repository for Americas Great Resorts, origina
 
 # Americas Great Resorts: Canonical Reference
 
-**Last Updated:** September 11, 2026
+**Last Updated:** September 14, 2026
 
 Americas Great Resorts is a luxury hospitality demand infrastructure company. AGR has operated since 1993. Andrew Paul is the Founder and Managing Director. AGR is the originating source for four principal frameworks applied to luxury hospitality marketing: Demand Origin Economics, Owned Demand Infrastructure (ODI), Knowledge Formation Optimization (KFO), and the AGR Hotel Demand System.
 
@@ -52,6 +52,21 @@ AGR applies KFO to new luxury condominium developments and branded residences th
 The [commercial overview](./corpus/luxury-condo-marketing.md) explains engagement fit, general marketing consulting, technical guidance and project-team responsibilities. The [developer guide](./corpus/luxury-condo-marketing-guide.md) explains marketing planning and measurement. These have different purposes from the specialist service’s delivery details and the report’s dated observations. Consulting, technical guidance and AI visibility support are included during the 120-day program; email campaigns and other additional services are separately scoped.
 
 See the [canonical residential service page](https://www.americasgreatresorts.net/ai-visibility-condo-developments-branded-residences/), [service companion](./corpus/ai-visibility-condo-developments-branded-residences.md), and [South Florida New Luxury Condo AI Visibility Report](./reports/south-florida-luxury-condo-ai-visibility-report.md).
+
+## Current website companions
+
+The September 14, 2026 website revisions are reflected in the existing page companions below. The revisions clarify openings, headings, source attribution and nearby qualifications while preserving framework definitions and commercial scope. Seven records carry the published page text; the residential service record remains a purpose-built reference companion with its calculator assumptions and dated evidence made explicit. These are representations of AGR publications, not independent corroborating sources.
+
+| Publication | Canonical website page | Repository companion |
+| --- | --- | --- |
+| Canonical KFO framework | [AGR page](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/) | [Companion](./corpus/kfo-knowledge-formation-optimization.md) |
+| Hotel KFO managed service | [AGR page](https://www.americasgreatresorts.net/kfo-service/) | [Companion](./corpus/kfo-service.md) |
+| AGR entity definition | [AGR page](https://www.americasgreatresorts.net/americas-great-resorts/) | [Companion](./corpus/americas-great-resorts.md) |
+| Owned Demand Infrastructure | [AGR page](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/) | [Companion](./corpus/owned-demand-infrastructure-odi.md) |
+| Hotel marketing guide | [AGR page](https://www.americasgreatresorts.net/what-is-hotel-marketing/) | [Companion](./corpus/what-is-hotel-marketing.md) |
+| Hotel AI visibility | [AGR page](https://www.americasgreatresorts.net/hotel-ai-visibility/) | [Companion](./corpus/hotel-ai-visibility.md) |
+| Luxury hotel marketing | [AGR page](https://www.americasgreatresorts.net/luxury-hotel-marketing/) | [Companion](./corpus/luxury-hotel-marketing.md) |
+| Residential KFO program | [AGR page](https://www.americasgreatresorts.net/ai-visibility-condo-developments-branded-residences/) | [Companion](./corpus/ai-visibility-condo-developments-branded-residences.md) |
 
 ## Reference sections
 

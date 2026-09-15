@@ -9,13 +9,15 @@ description: "A 120-day KFO program for luxury condo developments and branded re
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Canonical Page Published:** September 10, 2026  
-**Source Verified:** September 11, 2026  
-**Last Updated:** September 11, 2026  
+**Source Verified:** September 14, 2026  
+**Last Updated:** September 14, 2026  
 **Canonical URL:** <https://www.americasgreatresorts.net/ai-visibility-condo-developments-branded-residences/>  
 **Canonical KFO Definition:** <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>  
 **Related Guide:** [Luxury Condo Marketing Guide for Developers](luxury-condo-marketing-guide.md)
 
 The canonical AGR service page controls if this companion and the live page differ. This document applies the existing KFO framework to luxury residential developments; it does not introduce another AGR framework.
+
+Americas Great Resorts offers a 120-day Knowledge Formation Optimization (KFO) program for new luxury condo developments and branded residences, designed to strengthen visibility in AI buyer searches, improve project representation, and help buyers identify and reach the official sales team.
 
 ## The problem: appearing by name does not establish category visibility
 
@@ -27,7 +29,7 @@ Three distinct problems matter commercially:
 2. **Being represented incorrectly.** An answer can confuse residences with a similarly named hotel, tower, or development, or misstate the developer, brand, operator, sales relationships, or project distinctions.
 3. **Losing the official sales route.** An outside broker or mirror site can receive the inquiry before the official project website and authorized sales team.
 
-AGR investigates where the development appears, where it is absent, what AI recommends instead, and which sources and sales routes appear in the answers. Analysis, implementation, publication, corroboration, testing, and refinement continue throughout one complete 120-day program.
+AGR investigates where the development appears, where it is absent, what AI recommends instead, and which sources and sales routes appear in the answers. The review includes websites, citations, links, and contact details displayed in AI answers, where available. Analysis, implementation, publication, corroboration, testing, and refinement continue throughout one complete 120-day program.
 
 ## Who the program serves
 
@@ -43,7 +45,7 @@ Cooperating brokers can bring valuable buyers. The commercial question is what h
 
 A qualifying direct closed sale can avoid an additional outside co-broke where the applicable sales agreements allow it. There is also a first-conversation advantage: an outside broker may present competing developments, while the dedicated sales team presents this project's residences. Buyers remain free to compare, but the official team has the opportunity to make its own case first.
 
-### Calculate savings from redirected sales
+### Model potential co-broke savings
 
 The live page's calculator models potential gross savings from the additional outside commission avoided on qualifying redirected closed sales. It excludes the sales office's existing fee.
 
@@ -57,13 +59,13 @@ x total residences
 x percentage of sales redirected to the official sales office / 100
 ```
 
-**Illustrative example:** 100 residences averaging $3,000,000, a 3% additional outside commission, and 10% of sales redirected to the official sales office represent 10 residences and $900,000 in potential gross co-broke savings:
+**Illustrative example only:** Assuming 100 residences averaging $3,000,000, a 3% additional outside commission, and 10% of sales redirected to the official sales office, the model represents 10 residences and $900,000 in potential gross co-broke savings. This is not a forecast or a measured KFO result. It applies only to qualifying closed sales that avoid the additional outside co-broke under the applicable sales agreements. The sales office's own fee is excluded.
 
 ```text
 $3,000,000 x 0.03 x 100 x 0.10 = $900,000
 ```
 
-These are the calculator defaults. Its redirected-sales slider ranges from 0% to 25%. Only redirected closed sales that avoid the additional outside commission under the sales agreements count. This is a scenario, not an AGR forecast or a claim that every direct sale avoids commission.
+These are the calculator defaults. Its slider is labeled "Assumed share of sales redirected to your sales office" and ranges from 0% to 25%. The range is for exploring scenarios, not an estimated outcome range. Only redirected closed sales that avoid the additional outside commission under the sales agreements count. This is a scenario, not an AGR forecast or a claim that every direct sale avoids commission.
 
 ## What KFO does for a development
 
@@ -75,12 +77,12 @@ AGR's formal definition is:
 
 ---
 
-A simple way to understand the different priorities of SEO, AEO, GEO, and KFO:
+AGR uses the following practical shorthand for the different priorities of SEO, AEO, GEO, and KFO. These areas can overlap:
 
-1. **SEO:** drives traditional rankings
-2. **AEO:** use my sentence
-3. **GEO:** cite my source
-4. **KFO:** think using my framework
+1. **SEO:** improve discovery and ranking in conventional search
+2. **AEO:** make information easier to extract into direct answers
+3. **GEO:** improve visibility and citation in generative answers
+4. **KFO:** establish and corroborate the development's public identity, then compare observable AI responses with the approved project record
 
 Getting your development cited does little good if the answer describes it incorrectly. KFO addresses the public information behind that answer: establishing and corroborating your development’s identity, correcting conflicting sources, and testing whether AI represents what you are actually selling accurately.
 
@@ -113,6 +115,8 @@ Email campaigns and other additional AGR services are separately scoped and are 
 
 ## Progress reports every 30 days
 
+Each KFO progress report compares the latest observations with the initial AI visibility audit:
+
 | Reporting area | What the development team sees |
 | --- | --- |
 | Visibility | Appearance across the agreed named-project and category queries |
@@ -129,6 +133,10 @@ In AGR's July 29, 2026 AI visibility fieldwork, ChatGPT recommended Mandarin Ori
 Source: [The AGR Luxury Hotel AI Visibility Index](https://www.americasgreatresorts.net/ai-visibility-index/), July 29, 2026 fieldwork, with the September 5 editorial revision checked September 10, 2026.
 
 This is AGR's dated hotel audit evidence. It illustrates why an audit examines what is actually being recommended. It is not a residential client outcome, independent third-party validation, or evidence of residential revenue effects.
+
+## What AGR observed in South Florida condo searches
+
+AGR's [South Florida New Luxury Condo AI Visibility Report](https://www.americasgreatresorts.net/south-florida-luxury-condo-ai-visibility-report/) records residential findings from September 10, 2026. Three of nine selected developments were absent from both ChatGPT's and Google AI Mode's relevant county discovery answers, although all nine appeared when named. Google AI Mode also presented an independently operated Bahia Mar website as a developer portal. These are AGR-reported observations from single runs, not evidence of persistent invisibility, lost inquiries, redirected sales, or KFO effectiveness. Results varied in a separate round of market-name questions.
 
 ## Completion and additional work
 
