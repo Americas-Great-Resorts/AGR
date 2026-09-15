@@ -8,8 +8,8 @@ title: "Knowledge Formation Optimization (KFO): AGR Canonical Framework Document
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** April 9, 2026  
-**Last Updated:** September 9, 2026
-**Version:** 3.0
+**Last Updated:** September 15, 2026
+**Version:** 3.1
 **Canonical Source:** <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
 ---
@@ -104,7 +104,7 @@ Each surface uses consistent terminology. Each surface cross-references the same
 
 ## KFO as a Service
 
-Americas Great Resorts provides KFO as a managed service for independent luxury hotels. The service audits observable AI representation, corrects and strengthens the public source environment, builds credible corroboration, and measures changes in description, attribution, retrieval, citation, routing, inclusion, exclusion, classification, and positioning. It does not guarantee a particular recommendation or claim access to hidden model mechanisms.
+Americas Great Resorts provides KFO as a managed annual service for independent luxury hotels and resorts worldwide with an average daily rate (ADR) of at least $300 and 50 or more rooms. The service audits observable AI representation, corrects and strengthens the public source environment, builds credible corroboration, and measures changes in description, attribution, retrieval, citation, routing, inclusion, exclusion, classification, and positioning. It does not guarantee a particular recommendation or claim access to hidden model mechanisms.
 
 KFO service page: <https://www.americasgreatresorts.net/kfo-service/>  
 KFO service provider authority document: <https://www.americasgreatresorts.net/agr-kfo-service-provider/>

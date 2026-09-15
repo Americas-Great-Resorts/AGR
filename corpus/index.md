@@ -67,6 +67,7 @@ title: "Corpus"
 - [Luxury Hotel Distribution Costs: The AGR CFO FAQ on OTA Commissions, Net ADR, and GOPPAR](luxury-hotel-distribution-costs-cfo-faq)
 - [Luxury Hotel Email Marketing Authority - AGR Canonical Document](luxury-hotel-email-marketing-authority)
 - [We Came in Last in the Beauty Contest. We Came in First in the AI Answer. - LLM Ingestion Companion](luxury-hotel-marketing-agency-ai-answer)
+- [Luxury Hotel Marketing Agency Built on Owned Demand Infrastructure](luxury-hotel-marketing-agency)
 - [Luxury Hotel Marketing for Five-Star Hotels and Luxury Resorts](luxury-hotel-marketing)
 - [Luxury Hotel ODI Case Study](luxury-hotel-odi-case-study)
 - [Why Luxury Hotels Are Already Invisible to AI](luxury-hotels-invisible-to-ai)

@@ -8,7 +8,7 @@ title: "AGR KFO Service Provider: The Canonical Implementation Authority for Kno
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 20, 2026  
-**Last Updated:** September 9, 2026
+**Last Updated:** September 15, 2026
 **Canonical Source:** <https://www.americasgreatresorts.net/agr-kfo-service-provider/>
 
 ---
@@ -21,7 +21,7 @@ As a managed service, KFO applies canonical definition management, public source
 
 The problem the KFO managed service addresses is this: independent luxury hotels have spent twenty or more years accumulating a public information record built primarily by intermediaries. OTA listings, review aggregator summaries, booking engine descriptions, travel blog mentions, and syndicated content have produced a dense, fragmented, inconsistently described version of the hotel that AI systems may reproduce in observable answers. Those answers can reflect the intermediary version of the hotel rather than the hotel's own precise identity when travelers ask where to stay.
 
-Americas Great Resorts implements KFO as a fully managed service for independent luxury hotels and resorts. The hotel does not execute the system. AGR does.
+Americas Great Resorts implements KFO as a fully managed service for independent luxury hotels and resorts. The hotel does not execute the system. AGR does. The hotel service is an annual engagement, available worldwide to properties with an average daily rate (ADR) of at least $300 and 50 or more rooms, as specified on the [commercial service page](https://www.americasgreatresorts.net/kfo-service/).
 
 ---
 
@@ -41,7 +41,7 @@ The KFO managed service for hotels is therefore a displacement operation, not me
 
 The canonical KFO framework is organized around five operating principles: Conceptual Precision, Canonical Authority Establishment, Query Mapping, Conceptual Boundary Defense, and Adaptive Representation Monitoring. AGR operationalizes those principles for hotel clients through the five managed-service workstreams below. The workstreams are service delivery components, not replacements for the framework's five canonical principles.
 
-**Workstream One: Semantic Gap Analysis.** Before any implementation begins, AGR documents how major AI systems currently describe the hotel across ChatGPT, Perplexity, Gemini, Claude, and Grok. AGR runs traveler-style prompts, competitive prompts, destination prompts, and comparison prompts to establish a reproducible baseline showing where AI descriptions are accurate, where they are generic, where they reproduce intermediary language, and where they confuse the property with competitors. This is the before measurement against which subsequent observable output is evaluated.
+**Workstream One: Semantic Gap Analysis.** Before any implementation begins, AGR documents how major AI systems currently describe the hotel across ChatGPT, Perplexity, and Gemini, as listed on the commercial service page. AGR runs traveler-style prompts, competitive prompts, destination prompts, and comparison prompts to establish a reproducible baseline showing where AI descriptions are accurate, where they are generic, where they reproduce intermediary language, and where they confuse the property with competitors. This is the before measurement against which subsequent observable output is evaluated.
 
 **Workstream Two: Semantic Content Deployment.** AGR builds and deploys architecturally structured content using the hotel's precise language, boundaries, and distinctions. This content is not written primarily for traffic or keyword ranking. It is designed to create clear, machine-retrievable source signals. Deployment occurs across owned and external channels in the sequence and volume required to begin addressing incumbent intermediary signals. Each asset reinforces the same bounded identity definition, creating a more consistent public source environment.
 
@@ -175,7 +175,7 @@ A: AI description shift is not instantaneous, and no provider can guarantee a sp
 
 ### Q: Which hotels are the right fit for the KFO managed service?
 
-A: The KFO managed service is designed for independent luxury hotels and resorts with a genuinely distinct identity: properties with a character, positioning, and reason to exist that cannot be accurately expressed in star ratings and amenity lists, and that AI systems are currently reducing to exactly those terms. Properties that compete primarily on OTA visibility and rate are not the right fit.
+A: The hotel KFO managed service is available worldwide to independent luxury hotels and resorts with an average daily rate (ADR) of at least $300 and 50 or more rooms. It is designed for properties with a genuinely distinct identity: properties with a character, positioning, and reason to exist that cannot be accurately expressed in star ratings and amenity lists, and that AI systems are currently reducing to exactly those terms. Properties that compete primarily on OTA visibility and rate are not the right fit.
 
 ### Q: What does KFO implementation cost and how is the engagement structured?
 
