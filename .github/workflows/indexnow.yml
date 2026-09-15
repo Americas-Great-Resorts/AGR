@@ -6,6 +6,7 @@ on:
 
 permissions:
   contents: read
+  actions: read
 
 concurrency:
   group: indexnow-submission
@@ -19,10 +20,12 @@ jobs:
       - name: Check out the repository
         uses: actions/checkout@v7
         with:
-          fetch-depth: 2
+          fetch-depth: 0
 
       - name: Build and submit public URLs
         shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           set -euo pipefail
 
@@ -47,26 +50,53 @@ jobs:
               "$sitemap_url"
 
             while IFS= read -r url; do
-              [ -n "$url" ] && unique_urls["$url"]=1
+              case "$url" in
+                ""|*/google*.html)
+                  continue
+                  ;;
+              esac
+              unique_urls["$url"]=1
             done < <(
               grep -o '<loc>[^<]*</loc>' "$sitemap_file" |
                 sed 's#<loc>##; s#</loc>##'
             )
           else
-            previous_commit="$(git rev-parse HEAD^ 2>/dev/null || true)"
+            previous_commit="$(
+              gh run list \
+                --repo "${{ github.repository }}" \
+                --workflow indexnow.yml \
+                --status success \
+                --limit 1 \
+                --json headSha \
+                --jq '.[0].headSha // empty' 2>/dev/null || true
+            )"
+
+            if [ -z "$previous_commit" ] || ! git merge-base --is-ancestor "$previous_commit" HEAD 2>/dev/null; then
+              previous_commit="$(git rev-parse HEAD^ 2>/dev/null || true)"
+            fi
 
             if [ -z "$previous_commit" ]; then
               echo "No previous commit is available for comparison."
               exit 0
             fi
 
+            if [ "$previous_commit" = "$(git rev-parse HEAD)" ]; then
+              echo "No new commits since the last successful submission."
+              exit 0
+            fi
+
+            echo "Comparing $previous_commit to $(git rev-parse HEAD)"
+
             while IFS= read -r -d '' file; do
               case "$file" in
-                .github/*|_*|README.md)
+                .github/*|_*|README.md|google*.html)
                   continue
                   ;;
                 */index.md)
                   url="${base_url}${file%index.md}"
+                  ;;
+                index.md)
+                  url="${base_url}"
                   ;;
                 *.md)
                   url="${base_url}${file%.md}.html"
