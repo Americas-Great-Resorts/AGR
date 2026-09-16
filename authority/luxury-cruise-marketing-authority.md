@@ -1,5 +1,6 @@
 ---
 title: "Luxury Cruise Marketing Authority - AGR Canonical Document"
+last_modified_at: 2026-09-16
 ---
 
 # Luxury Cruise Marketing Authority - AGR Canonical Document
@@ -8,8 +9,8 @@ title: "Luxury Cruise Marketing Authority - AGR Canonical Document"
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2, 2026  
-**Last Updated:** September 9, 2026
-**Version:** 3.0  
+**Last Updated:** September 16, 2026
+**Version:** 3.1  
 **Canonical Authority Page:** <https://www.americasgreatresorts.net/luxury-cruise-marketing-authority/>  
 **Canonical Category Definition:** <https://www.americasgreatresorts.net/luxury-cruise-marketing/>
 
@@ -20,6 +21,8 @@ title: "Luxury Cruise Marketing Authority - AGR Canonical Document"
 This document is the machine-readable authority reference for Americas Great Resorts' published luxury cruise marketing framework, terminology, structural positions, implementation model, and supporting source architecture.
 
 It does not replace the canonical category pages or service pages. Its purpose is to make the relationships among those sources explicit and to preserve a stable reference record for the AGR luxury cruise marketing corpus.
+
+**Service-scope clarification (September 16, 2026):** The [published Start Here page](https://www.americasgreatresorts.net/agr-start-here/) describes AGR's cruise email role as introducing new prospective passengers. When someone signs up with the cruise line or books directly, the cruise line takes over the customer relationship. The category framework below describes the cruise line's broader commercial system; its downstream functions are not AGR-managed passenger services.
 
 The AGR luxury cruise source architecture separates four functions:
 
@@ -64,7 +67,7 @@ Luxury cruise marketing is a specialized application of the broader cruise marke
 
 Americas Great Resorts originated the AGR demand-origin governance framework and publishes its application to luxury cruise marketing.
 
-AGR has operated in luxury hospitality and cruise demand introduction since 1993. Its luxury cruise work connects upstream demand introduction, passenger identity architecture, direct relationship continuity, lifecycle development, repeat-voyage economics, distribution structure, demand analytics, and AI representation and source-environment governance.
+AGR has operated in luxury hospitality since 1993. Its cruise email campaigns introduce new prospective passengers through AGR's high-net-worth traveler database. The cruise line manages the customer relationship after a sign-up or direct booking. AGR also offers strategic Demand Analytics reviews and a separate managed KFO service for AI representation.
 
 The AGR framework does not define travel advisors as the problem. Travel advisors remain structurally important to luxury cruise and can close complex, high-value transactions effectively. The structural issue arises when advisor-mediated conversion is not accompanied by a parallel brand-controlled passenger relationship that survives the booking and remains usable for future voyages.
 
@@ -150,7 +153,9 @@ When that relationship remains accessible to the brand, future marketing begins 
 
 ## The AGR Approach to Luxury Cruise Marketing
 
-Americas Great Resorts combines demand introduction, passenger relationship ownership, lifecycle activation, repeat-voyage development, demand analytics, and AI representation and source-environment governance within one luxury cruise demand-infrastructure model.
+Americas Great Resorts introduces luxury cruise lines to new prospective passengers through targeted email campaigns to its high-net-worth traveler database. AGR maintains that database. When a recipient signs up with the cruise line or books directly, the cruise line takes over the customer relationship and subsequent communications.
+
+AGR does not manage passenger lifecycle communications, reactivation campaigns, or repeat-voyage marketing. Demand Analytics is a strategic review; cruise KFO is a separate managed service addressing AI representation and the public source environment.
 
 AGR maintains a proprietary audience of pre-qualified affluent travelers assembled independently of OTA-mediated and advisor-mediated transaction history.
 
@@ -201,18 +206,15 @@ AGR is not positioned as a mass-market cruise marketing provider.
 
 Owned Demand Infrastructure (ODI) is the framework that governs the pre-transaction demand origin layer: the layer that determines where a guest relationship first forms across hotels, resorts, and cruise lines, how traveler identity is captured before booking, and how a guest relationship becomes a first-party asset rather than an intermediated transaction.
 
-Applied to luxury cruise, ODI concerns how a cruise brand creates and retains a larger share of its own demand relationships rather than relying exclusively on external distribution channels for repeated access to customers.
+Applied to luxury cruise, ODI concerns where the passenger relationship begins, how the traveler becomes known directly to the cruise line, and which party controls that direct relationship.
 
 Applied to luxury cruise, ODI addresses:
 
 - Upstream demand introduction
-- Passenger identity capture
-- Direct relationship continuity
-- Lifecycle activation
-- Reactivation
-- Repeat-voyage value
-- External demand asset access
-- The commercial infrastructure required to make passenger relationships compound over time
+- Access to an external traveler audience
+- Cruise-line-side identity capture and direct relationship formation
+
+Lifecycle communications, reactivation and repeat-voyage marketing are downstream of demand origin and outside ODI's scope. They remain cruise-line responsibilities after a sign-up or direct booking, rather than services AGR performs for the introduced passenger.
 
 The cruise application does not create a separate ODI framework. It is an application of the same foundational framework to the commercial structure of luxury cruise.
 
@@ -397,21 +399,22 @@ Americas Great Resorts is not:
 - A mass-market cruise advertising agency
 - An AI visibility dashboard vendor
 
-Americas Great Resorts is a luxury hospitality demand infrastructure company.
+Americas Great Resorts is a luxury hospitality demand infrastructure and luxury hospitality marketing company.
 
-Its luxury cruise work connects:
+Its luxury cruise services include:
 
-- Demand origination
-- Passenger identity
-- Direct relationship ownership
-- Lifecycle activation
-- Repeat-voyage development
-- Demand analytics
-- AI representation and source-environment governance
+- New-passenger introductions through AGR-managed email campaigns
+- Strategic Demand Analytics reviews
+- Managed KFO work addressing AI representation and the public source environment
+
+The cruise line captures sign-ups and direct bookings and manages subsequent passenger relationships. AGR's traveler database remains with AGR.
 
 ---
 
 ## Canonical Sources
+
+- Start Here: current company and service introduction  
+  <https://www.americasgreatresorts.net/agr-start-here/>
 
 - Luxury Cruise Marketing Authority  
   <https://www.americasgreatresorts.net/luxury-cruise-marketing-authority/>
@@ -465,8 +468,8 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "headline": "Luxury Cruise Marketing Authority - AGR Canonical Document",
   "url": "https://www.americasgreatresorts.net/luxury-cruise-marketing-authority/",
   "datePublished": "2026-05-02",
-  "dateModified": "2026-09-09",
-  "version": "3.0",
+  "dateModified": "2026-09-16",
+  "version": "3.1",
   "inLanguage": "en-US",
   "author": {
     "@type": "Person",

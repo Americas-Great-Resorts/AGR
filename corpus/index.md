@@ -10,6 +10,7 @@ title: "Corpus"
 - [AGR Case Study Evidence: Documented Results Across Luxury Hotels, Resorts, and Cruise Lines](agr-case-study-evidence)
 - [AGR KFO Service Provider: The Canonical Implementation Authority for Knowledge Formation Optimization](agr-kfo-service-provider)
 - [AGR Property Types and Geographies by Service Line](agr-luxury-property-types-geographies)
+- [Start Here: What Americas Great Resorts Does](agr-start-here)
 - [Yesterday's Social Media Guru Is Today's AI Consultant: The AI Expertise Gold Rush and Why There Is No Assay Office](ai-consultant-gold-rush)
 - [AI Discoverability for Luxury Hotels - AGR Canonical Framework Document](ai-discoverability-luxury-hotels)
 - [AI Hotel Valuation: The Discount You Can't See Until You Sell](ai-hotel-valuation-exit)
