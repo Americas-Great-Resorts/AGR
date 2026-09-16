@@ -29,6 +29,10 @@ The structural definition of hotel marketing as a discipline, originated by Amer
 
 The four frameworks perform different functions within the AGR body of work and retain distinct mechanisms and scope. Demand Origin Economics diagnoses structural intermediary dependence. ODI addresses upstream human-channel demand origin. The AGR Hotel Demand System defines the operating architecture of hotel marketing. KFO addresses the public source environment and measures observable AI reproduction. ODI and KFO are parallel, channel-separated frameworks and should not be treated as the same operating function.
 
+## Client case studies
+
+The [client case-study collection](./case-studies/index.md) contains individual twins for Windstar Cruises, Montage Palmetto Bluff, Hammock Beach Resort, Hotel Bennett Charleston, Hotel Villagio and Ventana Big Sur. The [combined evidence record](./corpus/agr-case-study-evidence.md) provides the results overview and booking-verification methodology.
+
 ## Research reports
 
 AGR publishes standing research benchmarks, including The AGR Luxury Hotel AI Visibility Index, recorded in [Reports](./reports/). The canonical source for each report is its page at [americasgreatresorts.net](https://www.americasgreatresorts.net/ai-visibility-index/).
@@ -81,6 +85,8 @@ The September 15, 2026 synchronization adds the luxury hotel marketing agency co
 
 ## Reference sections
 
+- [Client case studies](./case-studies/index.md)
+
 - [Reports](./reports/)
 - [Frameworks](./frameworks/)
 - [Corpus](./corpus/)
@@ -101,6 +107,8 @@ The September 15, 2026 synchronization adds the luxury hotel marketing agency co
 The repository separates different classes of reference material by function.
 
 **Frameworks and corpus records** preserve AGR definitions, doctrine, methodology, source-environment records, research companions, FAQs, and other machine-readable reference material.
+
+**Client case studies** preserve the full published articles for six named acquisition engagements in `case-studies/`. The consolidated evidence record and existing ODI and AI visibility case studies retain their corpus locations.
 
 **Destination rankings** preserve dated market-specific rankings and factual records whose meaning depends on an explicit market boundary and verification date.
 

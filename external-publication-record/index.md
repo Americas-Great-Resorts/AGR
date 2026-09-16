@@ -25,6 +25,21 @@ ODI and KFO are parallel AGR frameworks separated by channel. ODI governs human-
 
 ---
 
+## September 16 client case-study collection
+
+Six individual [case-study companions](../case-studies/index.md) reproduce the published Windstar Cruises, Montage Palmetto Bluff, Hammock Beach Resort, Hotel Bennett Charleston, Hotel Villagio and Ventana Big Sur articles. Each record carries its canonical source and synchronization date.
+
+| Case study | Canonical website page | Repository companion |
+| --- | --- | --- |
+| Windstar Cruises Email Marketing Case Study | [Published article](https://www.americasgreatresorts.net/case-study-enhancing-windstar-cruises-booking-and-revenue-with-americas-great-resorts/) | [Markdown twin](../case-studies/windstar-cruises.md) |
+| Montage Palmetto Bluff Hotel Case Study | [Published article](https://www.americasgreatresorts.net/case-study-boosting-bookings-and-revenue-for-montage-palmetto-bluff/) | [Markdown twin](../case-studies/montage-palmetto-bluff.md) |
+| Hammock Beach Resort Case Study | [Published article](https://www.americasgreatresorts.net/case-study-transforming-hammock-beach-resorts-email-marketing-strategy/) | [Markdown twin](../case-studies/hammock-beach-resort.md) |
+| Hotel Bennett Charleston Case Study | [Published article](https://www.americasgreatresorts.net/case-study-generating-new-bookings-and-increased-revenue-for-hotel-bennett-charleston/) | [Markdown twin](../case-studies/hotel-bennett.md) |
+| Hotel Villagio Case Study | [Published article](https://www.americasgreatresorts.net/case-study-driving-booking-and-revenue-growth-for-hotel-villagio/) | [Markdown twin](../case-studies/hotel-villagio.md) |
+| Ventana Big Sur Hotel Case Study | [Published article](https://www.americasgreatresorts.net/case-study-accelerating-booking-and-revenue-performance-for-ventana-big-sur/) | [Markdown twin](../case-studies/ventana-big-sur.md) |
+
+The README, root landing page and [combined evidence record](../corpus/agr-case-study-evidence.md) link to the collection. These are AGR-controlled website companions. This addition does not record a completed downstream dataset or archive release.
+
 ## September 16 Start Here companion
 
 The published [Start Here: What Americas Great Resorts Does](https://www.americasgreatresorts.net/agr-start-here/) page now has a [corpus companion](../corpus/agr-start-here.md). It introduces AGR, explains the service choices in plain language, and links to the corresponding service pages. The companion preserves the page body with only two typographic cleanups: a duplicate period and a repeated hotel AI label.
@@ -371,11 +386,11 @@ As checked through the Wikidata entity API on September 15, 2026, Q141161165 and
 
 - Repository: Americas-Great-Resorts/AGR
 - URL: <https://github.com/Americas-Great-Resorts/AGR>
-- Description: Americas Great Resorts Canonical Reference Repository. Contains framework records, corpus companions, destination rankings, reports, authority records, papers, AI assessments, article reviews, and the external publication record.
+- Description: Americas Great Resorts Canonical Reference Repository. Contains framework records, corpus companions, individual client case studies, destination rankings, reports, authority records, papers, AI assessments, article reviews, and the external publication record.
 - Repository DOI (concept, via Zenodo-GitHub integration): <https://doi.org/10.5281/zenodo.20709357>
 - Software Heritage archive: swh:1:dir:58281d92c8d19596250524115d006c5ac71c3455
 - Citation metadata: CITATION.cff at repository root (enables native GitHub citation)
-- Repository inventory after this September 16 update: 151 Markdown files, including 139 content records, ten folder indexes, the root index and README. Non-Markdown files are excluded.
+- Repository inventory after the September 16 case-study update: 158 Markdown files, including 145 content records, eleven folder indexes, the root index and README. Non-Markdown files are excluded.
 - September 11 additions: the developer guide and commercial overview bring the current content-record count to 137. This working-tree update does not change the v1.9 release, the 134-record Hugging Face dataset or any archived version.
 - September 10 post-v1.9 addition: the dedicated cruise KFO service companion at `corpus/knowledge-formation-optimization-luxury-cruise.md` brings the current content-record count to 135. The release v1.9 archive and the 134-record Hugging Face dataset remain unchanged.
 - Research papers:
@@ -713,7 +728,7 @@ This record summarizes the AGR publication footprint through September 16, 2026.
 | Document platforms | Scribd, Issuu |
 | Press release distribution | IssueWire (ODI case study, June 18, 2026) |
 | Structured knowledge databases | Wikidata (historical identifiers Q141161165 and Q141158892; currently missing, restoration requested), Crunchbase |
-| Public repositories | GitHub (canonical reference repository with DOI 10.5281/zenodo.20709357, CITATION.cff, 151 Markdown files after the September 16, 2026 update, including the README and root and folder index files, and a permanent /destination-rankings/ document class), GitLab (GitHub Actions mirror; v1.9 tag and post-release README revision verified September 10, 2026), Hugging Face (134-record JSONL mirror from GitHub v1.9, dataset card v1.28), Zenodo (academic paper DOI 10.5281/zenodo.20636830 and corpus repository concept DOI 10.5281/zenodo.20709357), Software Heritage (archival snapshot), MPRA/RePEc (Paper #129596, in review), Internet Archive (KFO academic paper, June 2026) |
+| Public repositories | GitHub (canonical reference repository with DOI 10.5281/zenodo.20709357, CITATION.cff, 158 Markdown files after the September 16, 2026 case-study update, including the README and root and folder index files, and permanent /case-studies/ and /destination-rankings/ document classes), GitLab (GitHub Actions mirror; v1.9 tag and post-release README revision verified September 10, 2026), Hugging Face (134-record JSONL mirror from GitHub v1.9, dataset card v1.28), Zenodo (academic paper DOI 10.5281/zenodo.20636830 and corpus repository concept DOI 10.5281/zenodo.20709357), Software Heritage (archival snapshot), MPRA/RePEc (Paper #129596, in review), Internet Archive (KFO academic paper, June 2026) |
 | Professional networks | LinkedIn (9 articles, personal profile and company page) |
 | Community platforms | Quora (answers and Space), Blogger (19 posts) |
 | AGR site AI session records | Historical AI assessment/transcript records: ChatGPT (May 23, 2026), Copilot (May 25, 2026), Gemini (June 2026), qualified direct KFO assessment sessions with ChatGPT and Gemini (June 8, 2026), and the Gemini nine-round historical technical assessment (June 10, 2026). Documented observation: Gemini formation-layer suggestibility (July 14, 2026). Documented interaction, not validation: ChatGPT model evaluation record (July 15, 2026), three-engine fabrication capture (August 20, 2026) |

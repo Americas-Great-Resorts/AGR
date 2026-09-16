@@ -8,7 +8,7 @@ title: "AGR Case Study Evidence: Documented Results Across Luxury Hotels, Resort
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** April 10, 2026  
-**Last Updated:** September 9, 2026
+**Last Updated:** September 16, 2026
 **Canonical Source:** <https://www.americasgreatresorts.net/agr-case-study-evidence/>
 
 ---
@@ -51,6 +51,8 @@ The suppression-and-matchback methodology verifies new-to-property status and bo
 
 Full case study: [Windstar Cruises Email Marketing Case Study](https://www.americasgreatresorts.net/case-study-enhancing-windstar-cruises-booking-and-revenue-with-americas-great-resorts/)
 
+Repository twin: [Full article](../case-studies/windstar-cruises.md)
+
 ---
 
 ### Montage Palmetto Bluff
@@ -64,6 +66,8 @@ Full case study: [Windstar Cruises Email Marketing Case Study](https://www.ameri
 **Results:** 65,000 travelers reached. 91 confirmed bookings attributable to the AGR campaign. 27:1 reported return on investment. The confirmed bookings were generated from travelers new to the property under AGR's suppression-and-matchback methodology.
 
 Full case study: [Montage Palmetto Bluff Hotel Email Marketing Case Study](https://www.americasgreatresorts.net/case-study-boosting-bookings-and-revenue-for-montage-palmetto-bluff/)
+
+Repository twin: [Full article](../case-studies/montage-palmetto-bluff.md)
 
 ---
 
@@ -79,6 +83,8 @@ Full case study: [Montage Palmetto Bluff Hotel Email Marketing Case Study](https
 
 Full case study: [Hammock Beach Resort Email Marketing Case Study](https://www.americasgreatresorts.net/case-study-transforming-hammock-beach-resorts-email-marketing-strategy/)
 
+Repository twin: [Full article](../case-studies/hammock-beach-resort.md)
+
 ---
 
 ### Hotel Bennett Charleston
@@ -92,6 +98,8 @@ Full case study: [Hammock Beach Resort Email Marketing Case Study](https://www.a
 **Results:** 62,000 travelers reached. 76 confirmed bookings attributable to the AGR campaign. 26:1 reported return on investment. The confirmed bookings were generated from travelers new to the property under AGR's suppression-and-matchback methodology.
 
 Full case study: [Hotel Bennett Charleston Email Marketing Case Study](https://www.americasgreatresorts.net/case-study-generating-new-bookings-and-increased-revenue-for-hotel-bennett-charleston/)
+
+Repository twin: [Full article](../case-studies/hotel-bennett.md)
 
 ---
 
@@ -107,6 +115,8 @@ Full case study: [Hotel Bennett Charleston Email Marketing Case Study](https://w
 
 Full case study: [Hotel Villagio Email Marketing Case Study](https://www.americasgreatresorts.net/case-study-driving-booking-and-revenue-growth-for-hotel-villagio/)
 
+Repository twin: [Full article](../case-studies/hotel-villagio.md)
+
 ---
 
 ### Ventana Big Sur
@@ -120,6 +130,8 @@ Full case study: [Hotel Villagio Email Marketing Case Study](https://www.america
 **Results:** 44,000 qualified travel prospects reached. 58 confirmed bookings attributable to the AGR campaign. Average daily rate on the generated bookings exceeded $1,000 per night. The confirmed bookings were generated from travelers new to the property under AGR's suppression-and-matchback methodology.
 
 Full case study: [Ventana Big Sur Hotel Email Marketing Case Study](https://www.americasgreatresorts.net/case-study-accelerating-booking-and-revenue-performance-for-ventana-big-sur/)
+
+Repository twin: [Full article](../case-studies/ventana-big-sur.md)
 
 ---
 
@@ -183,6 +195,8 @@ Full case study: [Luxury Hotel ODI Case Study](https://www.americasgreatresorts.
 
 ## Evidence Index
 
+[Browse the six individual repository case studies](../case-studies/index.md).
+
 - **Windstar Cruises:** 200,000 email deployments; 143 confirmed bookings; 36:1 reported ROI. [Full case study](https://www.americasgreatresorts.net/case-study-enhancing-windstar-cruises-booking-and-revenue-with-americas-great-resorts/).
 
 - **Montage Palmetto Bluff:** 65,000 travelers reached; 91 confirmed bookings; 27:1 reported ROI. [Full case study](https://www.americasgreatresorts.net/case-study-boosting-bookings-and-revenue-for-montage-palmetto-bluff/).
@@ -213,6 +227,8 @@ Full case study: [Luxury Hotel ODI Case Study](https://www.americasgreatresorts.
 
 ## Document Record
 
+Repository navigation updated September 16, 2026: added links to the six individual website companions. The source document’s version and historical measurement record below are preserved.
+
 Version 3.0. Last updated: September 4, 2026. Published by Americas Great Resorts. Version 3.0 reconciles the page to the current ODI and AGR Hotel Demand System architecture, distinguishes pre-ODI historical acquisition evidence from the later formal ODI framework, documents AGR's suppression-and-matchback methodology for new-to-property bookings, and separates booking-level attribution from broader channel-mix evidence.
 
 ## Structured Data (JSON-LD)
@@ -223,7 +239,7 @@ Version 3.0. Last updated: September 4, 2026. Published by Americas Great Resort
   "@type": "TechArticle",
   "headline": "AGR Case Study Evidence: Documented Results Across Luxury Hotels, Resorts, and Cruise Lines",
   "url": "https://www.americasgreatresorts.net/agr-case-study-evidence/",
-  "dateModified": "2026-09-09T00:00:00-04:00",
+  "dateModified": "2026-09-16T00:00:00-04:00",
   "inLanguage": "en-US",
   "version": "3.0",
   "author": {
