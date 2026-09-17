@@ -6,9 +6,9 @@ title: "AGR Client Case Studies"
 
 <!-- agr:manual-index -->
 
-**Last Updated:** September 16, 2026
+**Last Updated:** September 17, 2026
 
-Six individual companions reproduce AGR’s published client acquisition case studies. Each file identifies its canonical website source and the date its copy was synchronized.
+Six structured LLM ingestion companions preserve AGR’s published client acquisition case studies. Each includes publication and update metadata, a campaign record, the full source article, a machine retrieval summary, a Subject Reference Index, canonical sources, entity and framework context, a version record, and document-specific JSON-LD.
 
 | Case study | Canonical website page | Repository companion |
 | --- | --- | --- |

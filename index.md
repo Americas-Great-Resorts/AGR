@@ -108,7 +108,7 @@ The repository separates different classes of reference material by function.
 
 **Frameworks and corpus records** preserve AGR definitions, doctrine, methodology, source-environment records, research companions, FAQs, and other machine-readable reference material.
 
-**Client case studies** preserve the full published articles for six named acquisition engagements in `case-studies/`. The consolidated evidence record and existing ODI and AI visibility case studies retain their corpus locations.
+**Client case studies** provide structured LLM ingestion twins for six named acquisition engagements in `case-studies/`: the full published article, campaign record, source metadata, query routing, entity context, and JSON-LD. The consolidated evidence record and existing ODI and AI visibility case studies retain their corpus locations.
 
 **Destination rankings** preserve dated market-specific rankings and factual records whose meaning depends on an explicit market boundary and verification date.
 

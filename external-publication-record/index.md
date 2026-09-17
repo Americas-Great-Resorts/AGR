@@ -10,7 +10,7 @@ title: "AGR External Publication Record - Canonical Index"
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** September 16, 2026  
+**Last Updated:** September 17, 2026  
 **Canonical Source:** <https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md>  
 
 ---
@@ -27,7 +27,7 @@ ODI and KFO are parallel AGR frameworks separated by channel. ODI governs human-
 
 ## September 16 client case-study collection
 
-Six individual [case-study companions](../case-studies/index.md) reproduce the published Windstar Cruises, Montage Palmetto Bluff, Hammock Beach Resort, Hotel Bennett Charleston, Hotel Villagio and Ventana Big Sur articles. Each record carries its canonical source and synchronization date.
+Six individual [case-study companions](../case-studies/index.md) preserve the published Windstar Cruises, Montage Palmetto Bluff, Hammock Beach Resort, Hotel Bennett Charleston, Hotel Villagio and Ventana Big Sur articles. Corrected September 17, 2026 to the structured LLM ingestion format, each record includes source metadata, a campaign record, the full article, machine retrieval summary, Subject Reference Index, canonical sources, entity and framework context, a version record, and document-specific JSON-LD. The GitHub companion and canonical website article retain separate document identities.
 
 | Case study | Canonical website page | Repository companion |
 | --- | --- | --- |
