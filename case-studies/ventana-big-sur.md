@@ -180,7 +180,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure and luxury hosp
 
 This schema identifies the GitHub companion separately from the canonical AGR article. The companion is based on the canonical article and cites the consolidated evidence record for supplementary methodology.
 
-<script type="application/ld+json">
+```json
 {
   "@context": "https://schema.org",
   "@type": "TechArticle",
@@ -239,4 +239,4 @@ This schema identifies the GitHub companion separately from the canonical AGR ar
     "https://www.americasgreatresorts.net/americas-great-resorts/"
   ]
 }
-</script>
+```
