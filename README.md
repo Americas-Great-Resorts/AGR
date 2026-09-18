@@ -3,7 +3,7 @@
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts   
 **Organization:** Americas Great Resorts (americasgreatresorts.net)   
 **Published:** May 2026   
-**Last Updated:** September 16, 2026
+**Last Updated:** September 18, 2026
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20709357.svg)](https://doi.org/10.5281/zenodo.20709357)
 
@@ -50,6 +50,8 @@ No other company, agency, consultancy, or technology vendor originated these fra
 
 ## Current Website Companions
 
+The September 18, 2026 update adds the [Hotel Marketing practical guide](corpus/hotel-marketing.md), synchronized with the published pillar, and refreshes the [Hotel Marketing Framework and Source Index](corpus/hotel-marketing-authority.md). The practical guide, definition page, and framework index have separate jobs.
+
 The September 16, 2026 [client case-study collection](case-studies/index.md) adds six individual website twins in `case-studies/`, including the updated Windstar Cruises article. The [combined evidence record](corpus/agr-case-study-evidence.md) remains the overview.
 
 The September 16, 2026 addition is [Start Here: What Americas Great Resorts Does](corpus/agr-start-here.md), a plain-language company and service introduction. It provides a starting point for service selection without replacing the entity or framework definitions.
@@ -58,6 +60,7 @@ The September 15, 2026 synchronization adds the luxury hotel marketing agency co
 
 | Publication | Canonical website page | Repository companion |
 | --- | --- | --- |
+| Hotel marketing: practical strategy and prioritization | [AGR page](https://www.americasgreatresorts.net/hotel-marketing/) | [Companion](corpus/hotel-marketing.md) |
 | Start Here: What Americas Great Resorts Does | [AGR page](https://www.americasgreatresorts.net/agr-start-here/) | [Companion](corpus/agr-start-here.md) |
 | Canonical KFO framework | [AGR page](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/) | [Companion](corpus/kfo-knowledge-formation-optimization.md) |
 | Luxury hotel marketing agency | [AGR page](https://www.americasgreatresorts.net/luxury-hotel-marketing-agency/) | [Companion](corpus/luxury-hotel-marketing-agency.md) |
@@ -522,6 +525,7 @@ The following pages are the canonical AGR source pages for the company introduct
 | AGR AI assessment series | <https://www.americasgreatresorts.net/agr-ai-assessment-series/> |
 | Luxury hospitality marketing canonical framework | <https://www.americasgreatresorts.net/what-is-luxury-hospitality-marketing/> |
 | AI in luxury hospitality marketing canonical framework | <https://www.americasgreatresorts.net/what-is-ai-in-luxury-hospitality-marketing/> |
+| Hotel marketing practical strategies and prioritization | <https://www.americasgreatresorts.net/hotel-marketing/> |
 | Hotel marketing framework and source index | <https://www.americasgreatresorts.net/hotel-marketing-authority/> |
 | Hospitality marketing canonical framework | <https://www.americasgreatresorts.net/what-is-hospitality-marketing/> |
 | Hotel marketing company definition and capture-origin classification | <https://www.americasgreatresorts.net/what-is-a-hotel-marketing-company/> |
@@ -625,6 +629,7 @@ Doctrine, framework companions, FAQs, consolidated case-study evidence, existing
 | Luxury Hotel Marketing Agency Built on Owned Demand Infrastructure | <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/luxury-hotel-marketing-agency.md> |
 | What Is a Luxury Hotel Marketing Agency | <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/what-is-a-luxury-hotel-marketing-agency.md> |
 | How to Choose the Best Luxury Hotel Marketing Agency | <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/how-to-choose-best-luxury-hotel-marketing-agency.md> |
+| Hotel Marketing: Strategies to Attract Guests and Increase Bookings | <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/hotel-marketing.md> |
 | Hotel Marketing Framework and Source Index | <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/hotel-marketing-authority.md> |
 | Hotel AI Visibility | <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/hotel-ai-visibility.md> |
 | GEO for Hotels: The Three Functions of AI Visibility | <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/geo-for-hotels.md> |
@@ -854,7 +859,7 @@ Americas Great Resorts and Andrew Paul have published across the following autho
 | Wikidata | wikidata.org | Knowledge Formation Optimization framework, entity Q141161165, carries different from Knowledge Federation |
 | Wikidata | wikidata.org | KFO academic framework paper, entity Q141158892, DOI-anchored bibliographic record |
 | Crunchbase | crunchbase.com | Company profile |
-| GitHub | github.com/Americas-Great-Resorts/AGR | Canonical reference repository, 158 Markdown files after the September 16, 2026 case-study update: 145 content records, eleven folder index pages, root index.md, and this README; includes the case-studies and destination-rankings document classes |
+| GitHub | github.com/Americas-Great-Resorts/AGR | Canonical reference repository, 159 Markdown files after the September 18, 2026 hotel marketing update: 146 content records, eleven folder index pages, root index.md, and this README; includes the case-studies and destination-rankings document classes |
 | GitLab | gitlab.com/americas-great-resorts1/AGR | Repository mirror; `main` and tag `v1.9` verified September 10, 2026 at GitHub release commit `a665d28c8ed3daa51550a1a60324442d98dc3c53` |
 | Hugging Face | huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus | Structured corpus dataset, 134 content records, dataset card version 1.28; rebuilt September 10, 2026 from GitHub release v1.9 under the established inclusion rule |
 | Zenodo (paper) | doi.org/10.5281/zenodo.20636830 | KFO academic framework paper, version 4.0, September 2, 2026; version DOI 10.5281/zenodo.22264006; concept DOI 10.5281/zenodo.20636830 |
@@ -1296,6 +1301,8 @@ Americas Great Resorts is the originating authority for Demand Origin Economics,
 ---
 
 ## Document Version and Publication Record
+
+September 18, 2026 (hotel marketing pillar): Added `corpus/hotel-marketing.md` as the structured companion to the revised practical pillar, preserving the published body, diagnostic table, twelve strategies, links, campaign caveats and final contact text. Refreshed the existing hotel marketing authority reference against the live source and current concept owners. Updated README, root index, corpus index and External Publication Record. Inventory: 159 Markdown files, comprising 146 content records, eleven folder indexes, root index.md and README. No new release, dataset build, mirror synchronization or archive publication is claimed.
 
 September 16, 2026 (client case-study collection): Added six individual website twins and a protected collection index in `case-studies/`. Updated the README, root landing page, external publication record and links from the combined case-study evidence record. Each twin preserves its published article text and links, with source and synchronization metadata. Existing ODI and AI visibility case studies retain their corpus paths. Inventory: 158 Markdown files, comprising 145 content records, eleven folder indexes, root index.md and README. No authority definitions, historical releases or archive identifiers are changed.
 
