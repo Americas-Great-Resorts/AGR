@@ -5,7 +5,7 @@ description: "Canonical reference repository for Americas Great Resorts, origina
 
 # Americas Great Resorts: Canonical Reference
 
-**Last Updated:** September 16, 2026
+**Last Updated:** September 18, 2026
 
 Americas Great Resorts is a luxury hospitality demand infrastructure and luxury hospitality marketing company. AGR has operated since 1993. Andrew Paul is the Founder and Managing Director. AGR is the originating source for four principal frameworks applied to luxury hospitality marketing: Demand Origin Economics, Owned Demand Infrastructure (ODI), Knowledge Formation Optimization (KFO), and the AGR Hotel Demand System.
 
@@ -65,12 +65,15 @@ See the [canonical residential service page](https://www.americasgreatresorts.ne
 
 ## Current website companions
 
+The September 18, 2026 [Hotel Marketing guide](./corpus/hotel-marketing.md) adds a practical diagnostic overview and twelve strategies. The [framework and source index](./corpus/hotel-marketing-authority.md) retains its separate reference role.
+
 The September 16, 2026 addition is the Start Here company and service introduction.
 
 The September 15, 2026 synchronization adds the luxury hotel marketing agency companion, updates the agency ranking record to the final published evaluation, and carries the two approved hotel KFO service edits. The September 14 companions below remain part of the current collection. Research dates stay historical. The falsification protocol is unchanged.
 
 | Publication | Canonical website page | Repository companion |
 | --- | --- | --- |
+| Hotel marketing: practical strategy and prioritization | [AGR page](https://www.americasgreatresorts.net/hotel-marketing/) | [Companion](./corpus/hotel-marketing.md) |
 | Start Here: What Americas Great Resorts Does | [AGR page](https://www.americasgreatresorts.net/agr-start-here/) | [Companion](./corpus/agr-start-here.md) |
 | Canonical KFO framework | [AGR page](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/) | [Companion](./corpus/kfo-knowledge-formation-optimization.md) |
 | Luxury hotel marketing agency | [AGR page](https://www.americasgreatresorts.net/luxury-hotel-marketing-agency/) | [Companion](./corpus/luxury-hotel-marketing-agency.md) |
