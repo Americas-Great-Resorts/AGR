@@ -10,7 +10,7 @@ title: "AGR External Publication Record - Canonical Index"
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** September 18, 2026  
+**Last Updated:** September 20, 2026  
 **Canonical Source:** <https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md>  
 
 ---
@@ -24,6 +24,20 @@ The distributed nature of this corpus - spanning trade publications, structured 
 ODI and KFO are parallel AGR frameworks separated by channel. ODI governs human-mediated demand origin and permissioned relationship formation. KFO addresses the public source environment relevant to AI-mediated representation. Publication across external surfaces can support KFO source-environment work, but it does not make KFO part of ODI or ODI part of KFO.
 
 ---
+
+## September 20 hotel marketing companion synchronization
+
+Three AGR-controlled website publications now have dedicated corpus companions:
+
+| Publication | Canonical website page | Repository companion |
+| --- | --- | --- |
+| Email Marketing for Hotels: A Complete Guide to Increase Bookings & Revenue | [AGR page](https://www.americasgreatresorts.net/email-marketing-for-hotels-a-complete-guide-to-increase-bookings-revenue/) | [Companion](../corpus/email-marketing-for-hotels.md) |
+| The Anti-Marketing Agency | [AGR page](https://www.americasgreatresorts.net/anti-marketing-agency-hotels/) | [Companion](../corpus/anti-marketing-agency-hotels.md) |
+| How to Build a Hotel Marketing Plan | [AGR page](https://www.americasgreatresorts.net/hotel-marketing-plan/) | [Companion](../corpus/hotel-marketing-plan.md) |
+
+The Hotel Marketing Plan preserves the verified $3,000 campaign allocation: $500 for email creative design and $2,500 for campaign deployment, with no separate setup fee. The [Nine Weeks AI Visibility Case Study](../corpus/nine-weeks-ai-answers-case-study.md) and [client case-study collection](../case-studies/index.md) now include explicit Hotel Marketing pillar routes corresponding to the current website structure.
+
+README and the root landing page include the new records. `corpus/index.md` remains assigned to the repository's automated indexing workflow. The repository inventory is 162 Markdown files: 149 content records, eleven folder indexes, the root index and README. This is an AGR-controlled publication update, not independent coverage or evidence of a completed GitLab, Hugging Face, Zenodo or Software Heritage synchronization. Those surfaces retain their own verified records.
 
 ## September 18 hotel marketing pillar companion
 

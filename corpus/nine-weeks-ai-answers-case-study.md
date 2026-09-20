@@ -1,5 +1,6 @@
 ---
 title: "Nine Weeks AI Visibility Case Study: Documented Knowledge Formation Optimization Results on Contested Commercial Queries"
+last_modified_at: 2026-09-20
 ---
 
 # Nine Weeks AI Visibility Case Study: Documented Knowledge Formation Optimization Results on Contested Commercial Queries
@@ -10,7 +11,7 @@ title: "Nine Weeks AI Visibility Case Study: Documented Knowledge Formation Opti
 **Published:** July 7, 2026
 **Canonical Source:** <https://www.americasgreatresorts.net/nine-weeks-ai-answers-case-study/>
 
-**Last Updated:** September 9, 2026
+**Last Updated:** September 20, 2026
 ---
 
 ## Scope
@@ -37,6 +38,8 @@ This is an AI visibility case study. It is distinct from the [Luxury Hotel ODI C
 - Operation: one person, no paid media, no content team, no agency, no link building during the period
 - Capture date: July 7, 2026
 - Capture method: Google searches in logged-out sessions; AI assistant tests in private sessions over a VPN, with every query stated verbatim in this record for reproduction
+
+The tracking log also covered the category's broadest head terms, [hotel marketing](https://www.americasgreatresorts.net/hotel-marketing/) and hotel marketing agency. Both sat outside the first hundred organic results before May 1, 2026. In the July 7 captures, hotel marketing had reached the bottom of page two without AI Overview presence, while hotel marketing agency had reached position sixteen and an AGR page appeared in the AI Overview source panel but not its body. Neither term was won on the capture date.
 
 Every performance claim in this record is either a dated capture of a live result or an identified internal tracking log entry. Interpretive statements are presented separately as bounded inferences from the observed pattern. The four inputs the hospitality marketing industry treats as decisive for visibility, budget, headcount, publishing tenure, and aged domain authority with a deep inbound link profile, were absent or near absent throughout.
 
@@ -175,7 +178,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "url": "https://www.americasgreatresorts.net/nine-weeks-ai-answers-case-study/",
   "mainEntityOfPage": "https://www.americasgreatresorts.net/nine-weeks-ai-answers-case-study/",
   "datePublished": "2026-07-07",
-  "dateModified": "2026-09-09",
+  "dateModified": "2026-09-20",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

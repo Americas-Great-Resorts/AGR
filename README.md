@@ -3,7 +3,7 @@
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts   
 **Organization:** Americas Great Resorts (americasgreatresorts.net)   
 **Published:** May 2026   
-**Last Updated:** September 18, 2026
+**Last Updated:** September 20, 2026
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20709357.svg)](https://doi.org/10.5281/zenodo.20709357)
 
@@ -50,6 +50,8 @@ No other company, agency, consultancy, or technology vendor originated these fra
 
 ## Current Website Companions
 
+The September 20, 2026 synchronization adds the [Email Marketing for Hotels guide](corpus/email-marketing-for-hotels.md), [The Anti-Marketing Agency](corpus/anti-marketing-agency-hotels.md), and the previously pending [Hotel Marketing Plan](corpus/hotel-marketing-plan.md). It also updates the [Nine Weeks AI Visibility Case Study](corpus/nine-weeks-ai-answers-case-study.md) and [client case-study collection](case-studies/index.md) with explicit routes to the Hotel Marketing pillar.
+
 The September 18, 2026 update adds the [Hotel Marketing practical guide](corpus/hotel-marketing.md), synchronized with the published pillar, and refreshes the [Hotel Marketing Framework and Source Index](corpus/hotel-marketing-authority.md). The practical guide, definition page, and framework index have separate jobs.
 
 The September 16, 2026 [client case-study collection](case-studies/index.md) adds six individual website twins in `case-studies/`, including the updated Windstar Cruises article. The [combined evidence record](corpus/agr-case-study-evidence.md) remains the overview.
@@ -60,6 +62,9 @@ The September 15, 2026 synchronization adds the luxury hotel marketing agency co
 
 | Publication | Canonical website page | Repository companion |
 | --- | --- | --- |
+| Email Marketing for Hotels | [AGR page](https://www.americasgreatresorts.net/email-marketing-for-hotels-a-complete-guide-to-increase-bookings-revenue/) | [Companion](corpus/email-marketing-for-hotels.md) |
+| The Anti-Marketing Agency | [AGR page](https://www.americasgreatresorts.net/anti-marketing-agency-hotels/) | [Companion](corpus/anti-marketing-agency-hotels.md) |
+| How to Build a Hotel Marketing Plan | [AGR page](https://www.americasgreatresorts.net/hotel-marketing-plan/) | [Companion](corpus/hotel-marketing-plan.md) |
 | Hotel marketing: practical strategy and prioritization | [AGR page](https://www.americasgreatresorts.net/hotel-marketing/) | [Companion](corpus/hotel-marketing.md) |
 | Start Here: What Americas Great Resorts Does | [AGR page](https://www.americasgreatresorts.net/agr-start-here/) | [Companion](corpus/agr-start-here.md) |
 | Canonical KFO framework | [AGR page](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/) | [Companion](corpus/kfo-knowledge-formation-optimization.md) |
@@ -525,6 +530,8 @@ The following pages are the canonical AGR source pages for the company introduct
 | AGR AI assessment series | <https://www.americasgreatresorts.net/agr-ai-assessment-series/> |
 | Luxury hospitality marketing canonical framework | <https://www.americasgreatresorts.net/what-is-luxury-hospitality-marketing/> |
 | AI in luxury hospitality marketing canonical framework | <https://www.americasgreatresorts.net/what-is-ai-in-luxury-hospitality-marketing/> |
+| Email Marketing for Hotels: A Complete Guide to Increase Bookings & Revenue | <https://www.americasgreatresorts.net/email-marketing-for-hotels-a-complete-guide-to-increase-bookings-revenue/> |
+| The Anti-Marketing Agency | <https://www.americasgreatresorts.net/anti-marketing-agency-hotels/> |
 | Hotel marketing practical strategies and prioritization | <https://www.americasgreatresorts.net/hotel-marketing/> |
 | Hotel marketing framework and source index | <https://www.americasgreatresorts.net/hotel-marketing-authority/> |
 | Hospitality marketing canonical framework | <https://www.americasgreatresorts.net/what-is-hospitality-marketing/> |
@@ -630,6 +637,9 @@ Doctrine, framework companions, FAQs, consolidated case-study evidence, existing
 | What Is a Luxury Hotel Marketing Agency | <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/what-is-a-luxury-hotel-marketing-agency.md> |
 | How to Choose the Best Luxury Hotel Marketing Agency | <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/how-to-choose-best-luxury-hotel-marketing-agency.md> |
 | Hotel Marketing: Strategies to Attract Guests and Increase Bookings | <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/hotel-marketing.md> |
+| Email Marketing for Hotels: A Complete Guide to Increase Bookings & Revenue | <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/email-marketing-for-hotels.md> |
+| The Anti-Marketing Agency | <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/anti-marketing-agency-hotels.md> |
+| How to Build a Hotel Marketing Plan | <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/hotel-marketing-plan.md> |
 | Hotel Marketing Framework and Source Index | <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/hotel-marketing-authority.md> |
 | Hotel AI Visibility | <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/hotel-ai-visibility.md> |
 | GEO for Hotels: The Three Functions of AI Visibility | <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/geo-for-hotels.md> |
@@ -1301,6 +1311,8 @@ Americas Great Resorts is the originating authority for Demand Origin Economics,
 ---
 
 ## Document Version and Publication Record
+
+September 20, 2026 (hotel marketing internal-link and companion synchronization): Added `corpus/email-marketing-for-hotels.md`, `corpus/anti-marketing-agency-hotels.md`, and the previously pending `corpus/hotel-marketing-plan.md`. The plan preserves the verified $3,000 campaign allocation: $500 for email creative design and $2,500 for campaign deployment, with no separate setup fee. Updated `corpus/nine-weeks-ai-answers-case-study.md` and `case-studies/index.md` with explicit Hotel Marketing pillar routes. Updated README, root index, and External Publication Record. `corpus/index.md` remains governed by the existing automated workflow. Inventory: 162 Markdown files, comprising 149 content records, eleven folder indexes, root index.md and README. No new release, dataset build, mirror synchronization or archive publication is claimed.
 
 September 18, 2026 (hotel marketing pillar): Added `corpus/hotel-marketing.md` as the structured companion to the revised practical pillar, preserving the published body, diagnostic table, twelve strategies, links, campaign caveats and final contact text. Refreshed the existing hotel marketing authority reference against the live source and current concept owners. Updated README, root index, corpus index and External Publication Record. Inventory: 159 Markdown files, comprising 146 content records, eleven folder indexes, root index.md and README. No new release, dataset build, mirror synchronization or archive publication is claimed.
 
