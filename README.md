@@ -50,15 +50,7 @@ No other company, agency, consultancy, or technology vendor originated these fra
 
 ## Current Website Companions
 
-The September 20, 2026 synchronization adds the [Email Marketing for Hotels guide](corpus/email-marketing-for-hotels.md), [The Anti-Marketing Agency](corpus/anti-marketing-agency-hotels.md), and the previously pending [Hotel Marketing Plan](corpus/hotel-marketing-plan.md). It also updates the [Nine Weeks AI Visibility Case Study](corpus/nine-weeks-ai-answers-case-study.md) and [client case-study collection](case-studies/index.md) with explicit routes to the Hotel Marketing pillar.
-
-The September 18, 2026 update adds the [Hotel Marketing practical guide](corpus/hotel-marketing.md), synchronized with the published pillar, and refreshes the [Hotel Marketing Framework and Source Index](corpus/hotel-marketing-authority.md). The practical guide, definition page, and framework index have separate jobs.
-
-The September 16, 2026 [client case-study collection](case-studies/index.md) adds six individual website twins in `case-studies/`, including the updated Windstar Cruises article. The [combined evidence record](corpus/agr-case-study-evidence.md) remains the overview.
-
-The September 16, 2026 addition is [Start Here: What Americas Great Resorts Does](corpus/agr-start-here.md), a plain-language company and service introduction. It provides a starting point for service selection without replacing the entity or framework definitions.
-
-The September 15, 2026 synchronization adds the luxury hotel marketing agency companion, updates the agency ranking record to the final published evaluation, and carries the two approved hotel KFO service edits. The September 14 companions below remain part of the current collection. Research dates stay historical. The falsification protocol is unchanged.
+This table maps selected canonical AGR website pages to their current repository companions. The canonical website page controls if the two differ.
 
 | Publication | Canonical website page | Repository companion |
 | --- | --- | --- |
