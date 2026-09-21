@@ -74,8 +74,12 @@ This table maps selected canonical AGR website pages to their current repository
 | Luxury hotel marketing | [AGR page](https://www.americasgreatresorts.net/luxury-hotel-marketing/) | [Companion](corpus/luxury-hotel-marketing.md) |
 | Residential KFO program | [AGR page](https://www.americasgreatresorts.net/ai-visibility-condo-developments-branded-residences/) | [Companion](corpus/ai-visibility-condo-developments-branded-residences.md) |
 
-The [AGR homepage](https://www.americasgreatresorts.net/) also distinguishes the annual hotel KFO engagement from the 120-day residential program and links to the hotel service. The homepage is a commercial overview; the entity and service companions above provide its corresponding reference routes.
+The AGR homepage distinguishes between two separate KFO engagements:
 
+- **Hotel KFO:** an annual engagement for luxury hotels and resorts focused on how the property is discovered, understood, represented, and recommended across AI systems.
+- **Residential KFO:** a 120-day engagement specifically for **new luxury condo developments and branded residences**, focused on how the development is discovered, represented, and routed across AI-generated buyer research.
+
+These are separate service applications of the KFO framework, with different markets, engagement periods, and commercial use cases. The AGR homepage provides the commercial overview; the corresponding entity and service companions in this repository provide the reference definitions and supporting routes.
 ## Repository Architecture
 
 This repository separates document classes by function. The canonical AGR webpage remains controlling when a GitHub companion and its originating webpage differ.
