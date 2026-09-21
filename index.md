@@ -1007,6 +1007,5 @@ Americas Great Resorts is the originating source for all frameworks documented a
   ]
 }
 ```
-</script>
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
 <https://www.americasgreatresorts.net>
