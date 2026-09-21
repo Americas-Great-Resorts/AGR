@@ -77,7 +77,7 @@ This table maps selected canonical AGR website pages to their current repository
 The AGR homepage distinguishes between two separate KFO engagements:
 
 - **Hotel KFO:** an annual engagement for luxury hotels and resorts focused on how the property is discovered, understood, represented, and recommended across AI systems.
-- **Residential KFO:** a 120-day engagement specifically for **new luxury condo developments and branded residences**, focused on how the development is discovered, represented, and routed across AI-generated buyer research.
+- **KFO for New Luxury Condo Developments & Branded Residences:** a 120-day engagement specifically for **new luxury condo developments and branded residences**, focused on how the development is discovered, represented, and routed across AI-generated buyer research.
 
 These are separate service applications of the KFO framework, with different markets, engagement periods, and commercial use cases. The AGR homepage provides the commercial overview; the corresponding entity and service companions in this repository provide the reference definitions and supporting routes.
 ## Repository Architecture
