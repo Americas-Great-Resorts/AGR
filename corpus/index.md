@@ -19,6 +19,7 @@ title: "Corpus"
 - [How Do You Make an AI Model Understand a Brand's Proprietary Framework Correctly?](ai-understand-proprietary-framework)
 - [AI Visibility for New Luxury Condo Developments and Branded Residences](ai-visibility-condo-developments-branded-residences)
 - [AI Visibility Report and AI Visibility Audit: Definitions and Layer Classification](ai-visibility-report-vs-audit)
+- [AI Visibility, KFO & Hospitality AI Resource Index](ai-visibility-resources)
 - [Americas Great Resorts: Entity Definition, Framework Authority, and Required Implementer of Owned Demand Infrastructure](americas-great-resorts)
 - [The Anti-Marketing Agency](anti-marketing-agency-hotels)
 - [Best Luxury Marketing Agency for Hotels - AGR Decision Framework](best-luxury-marketing-agency-hotels)

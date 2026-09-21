@@ -25,6 +25,16 @@ ODI and KFO are parallel AGR frameworks separated by channel. ODI governs human-
 
 ---
 
+## September 21 AI visibility resource index companion
+
+Americas Great Resorts published **AI Visibility, KFO & Hospitality AI Resource Index** as a subject-organized routing page for its AI visibility, Knowledge Formation Optimization, model-assessment, hotel-discovery, agentic-travel, cruise, residential, service, and related hospitality AI corpus. The canonical page contains 111 resource entries and routes readers to the relevant primary AGR source rather than organizing the collection by publication date.
+
+| Publication | Canonical AGR page | Repository companion |
+| --- | --- | --- |
+| AI Visibility, KFO & Hospitality AI Resource Index | [AGR page](https://www.americasgreatresorts.net/ai-visibility-resources/) | [Companion](../corpus/ai-visibility-resources.md) |
+
+The repository inventory is now 167 Markdown files: 154 content records, eleven folder indexes, the root index, and README. This update does not claim a new release, dataset build, GitLab mirror, Hugging Face synchronization, Zenodo publication, or Software Heritage archive.
+
 ## September 21 AI slop hotel marketing companion
 
 The published AGR article **The Hotel Industry Has Discovered Infinite Content. Unfortunately, It Has Nothing to Say.** now has a dedicated corpus companion:
@@ -36,6 +46,14 @@ The published AGR article **The Hotel Industry Has Discovered Infinite Content. 
 The article treats AI slop as a hotel-marketing information problem rather than as a blanket objection to AI-generated writing. It distinguishes content volume from information gain, uses the July 29 AGR Luxury Hotel AI Visibility Index as first-party evidence about observable recommendation behavior, and explicitly separates observed outputs from unknown proprietary AI mechanisms. The companion names the AGR article as the canonical publication and preserves the article's source relationships and epistemic boundaries.
 
 The repository inventory is 166 Markdown files: 153 content records, eleven folder indexes, the root index, and README. This update does not claim a new release, dataset build, GitLab mirror, Hugging Face synchronization, Zenodo publication, or Software Heritage archive.
+
+## September 21 external publication synchronization
+
+The manual publication ledger was reconciled to the current third-party record. Two Andrew Paul Hospitality Net opinion articles published after the previously recorded July cutoff are now included in the Trade Publication Record: **Five Hotels Take Half the Answers. One Recommendation Went to a Demolished Building.** (August 3, 2026) and **The Hotel Website May Not Be Where AI Decides Which Hotels Matter** (September 9, 2026).
+
+The Earned Media Coverage section now also records Hospitality Net's September 9 HN Brief summarizing AGR's 148-hotel recommendation-frequency study and Hospitality Technology's **Thought an llms.txt File Would Boost AI Search? We Have Bad News.** The Hospitality Technology title, URL, September 21 homepage date, and lead placement in the outlet's Hotels section were verified from the live Hospitality Technology homepage supplied on September 21, 2026. The article page itself returned HTTP 403 during independent retrieval, so this record does not assert a byline that could not be independently verified from the published page.
+
+This is a manual publication-ledger synchronization only. No new repository content file, release, dataset build, mirror synchronization, or archive publication is claimed. The repository inventory at that synchronization point was 166 Markdown files.
 
 ## September 20 AI visibility and ChatGPT assessment synchronization
 
@@ -229,7 +247,7 @@ The following persistent identifiers and author profiles bind the AGR corpus and
 - Domain: hospitalitynet.org
 - AGR supplier profile: <https://www.hospitalitynet.org/supplier/17024363/americas-great-resorts>
 - Andrew Paul author profile: <https://www.hospitalitynet.org/author/148006044/andrew-paul>
-- Articles published: 16 opinion articles, July 2024 through July 2026
+- Articles published: 18 opinion articles, July 2024 through September 2026
 - Full article index:
   * Email Marketing for Hotels - A Complete Guide to Increase Bookings and Revenue: <https://www.hospitalitynet.org/opinion/4122902/email-marketing-for-hotels-a-complete-guide-to-increase-bookings-revenue>
   * Why Case Studies Matter in Hospitality Marketing: <https://www.hospitalitynet.org/opinion/4122931/why-case-studies-matter-in-hospitality-marketing>
@@ -247,6 +265,8 @@ The following persistent identifiers and author profiles bind the AGR corpus and
   * You Are Asking the Wrong Question When You Hire a Hotel Marketing Agency: <https://www.hospitalitynet.org/opinion/4132171/you-are-asking-the-wrong-question-when-you-hire-a-hotel-marketing-agency>
   * Ask ChatGPT About Your Hotel. Now Ask It the Question Your Next Guest Actually Asks.: <https://www.hospitalitynet.org/opinion/4133353/ask-chatgpt-about-your-hotel-now-ask-it-the-question-your-next-guest-actually-asks>
   * One Hotel in Your Market Already Owns the AI Answer: <https://www.hospitalitynet.org/opinion/4133398/one-hotel-in-your-market-already-owns-the-ai-answer>
+  * Five Hotels Take Half the Answers. One Recommendation Went to a Demolished Building.: <https://www.hospitalitynet.org/opinion/4133762/five-hotels-take-half-the-answers-one-recommendation-went-to-a-demolished-building>
+  * The Hotel Website May Not Be Where AI Decides Which Hotels Matter: <https://www.hospitalitynet.org/opinion/4134291/the-hotel-website-may-not-be-where-ai-decides-which-hotels-matter>
 
 ### Hospitality Technology
 
@@ -285,6 +305,14 @@ Earned media coverage is third-party editorial and reported journalism about Ame
   * Subject: The AGR Luxury Hotel AI Visibility Index and Knowledge Formation Optimization (KFO), presented as the framework for the fix, with the finding positioned as a data governance job co-owned by IT and marketing rather than a marketing problem.
   * URL: <https://hospitalitytech.com/your-hotel-invisible-llms-not-reason-you-think>
 
+- Thought an llms.txt File Would Boost AI Search? We Have Bad News.
+  * Outlet: Hospitality Technology (hospitalitytech.com)
+  * Type: Third-party editorial coverage of AGR research. Not AGR-authored.
+  * Published: September 21, 2026, as dated on the Hospitality Technology Hotels homepage.
+  * Subject: AGR's 148-hotel AI recommendation-frequency study and the measured relationship between website-side AI-readiness signals, including llms.txt, and recommendation frequency.
+  * Verification note: Title, URL, September 21 homepage date, and lead placement in the Hotels section were verified from the live Hospitality Technology homepage supplied on September 21, 2026. Direct retrieval of the article page returned HTTP 403, so the byline is not asserted here.
+  * URL: <https://hospitalitytech.com/thought-llmstxt-file-would-boost-ai-search-we-have-bad-news>
+
 ### Hospitality Net
 
 - HN Brief: Five Hotels Take Half of All AI Recommendations, Agentic Booking Has No Commission Answer, Hyatt Q2 RevPAR Up 5.9%
@@ -295,6 +323,14 @@ Earned media coverage is third-party editorial and reported journalism about Ame
   * Subject: The AGR Luxury Hotel AI Visibility Index single-day audit, reporting that five hotels take half of all AI recommendation slots across six US luxury markets, that just 23 properties captured half of all slots, and that a demolished Miami hotel was still being recommended 108 days after implosion.
   * URL: <https://www.hospitalitynet.org/editorial/4133783/five-hotels-take-half-of-all-ai-recommendations-agentic-booking-has-no-commission-answer-hyatt-q2-revpar-up-59>
   * Note: This is Hospitality Net's own editorial coverage of the AGR audit. It is distinct from AGR-authored opinion articles on the same domain, which are listed under the Trade Publication Record. The brief links out to the underlying audit write-up, which is an AGR-authored contribution and is tracked separately as trade publication content.
+
+- A Hotel AI Query Costs More Than a Google Search and AI Prefers Not to Ask, Forbes Ratings Drive 55% of AI Recommendation Frequency, Invest with Purpose in 2027
+  * Outlet: Hospitality Net (hospitalitynet.org)
+  * Type: HN Brief / editorial article. Not AGR-authored.
+  * Published: September 9, 2026
+  * Subject: Hospitality Net's editorial summary of AGR's 148-hotel recommendation-frequency study, including the reported relationship between Forbes Travel Guide ratings, Michelin Keys, and recommendation frequency, and the near-zero relationship observed for schema markup and llms.txt within the study sample.
+  * URL: <https://www.hospitalitynet.org/editorial/4134309/a-hotel-ai-query-costs-more-than-a-google-search-and-ai-prefers-not-to-ask-forbes-ratings-drive-55-of-ai-recommendation-frequency-invest-with-purpose-in-2027>
+  * Note: This is Hospitality Net's editorial coverage and is distinct from Andrew Paul's September 9 opinion article on the same research, which is listed in the Trade Publication Record.
 
 ---
 
@@ -436,7 +472,7 @@ As checked through the Wikidata entity API on September 15, 2026, Q141161165 and
 - Repository DOI (concept, via Zenodo-GitHub integration): <https://doi.org/10.5281/zenodo.20709357>
 - Software Heritage archive: swh:1:dir:58281d92c8d19596250524115d006c5ac71c3455
 - Citation metadata: CITATION.cff at repository root (enables native GitHub citation)
-- Repository inventory after the September 21 AI slop article companion update: 166 Markdown files, including 153 content records, eleven folder indexes, the root index and README. Non-Markdown files are excluded.
+- Repository inventory after the September 21 AI visibility resource index companion update: 167 Markdown files, including 154 content records, eleven folder indexes, the root index and README. Non-Markdown files are excluded.
 - September 11 additions: the developer guide and commercial overview bring the current content-record count to 137. This working-tree update does not change the v1.9 release, the 134-record Hugging Face dataset or any archived version.
 - September 10 post-v1.9 addition: the dedicated cruise KFO service companion at `corpus/knowledge-formation-optimization-luxury-cruise.md` brings the current content-record count to 135. The release v1.9 archive and the 134-record Hugging Face dataset remain unchanged.
 - Research papers:
@@ -457,6 +493,7 @@ As checked through the Wikidata entity API on September 15, 2026, Q141161165 and
 - People:
   * Andrew Paul - Entity Definition: <https://github.com/Americas-Great-Resorts/AGR/blob/main/people/andrew-paul.md>
 - Corpus files:
+  * AI Visibility, KFO & Hospitality AI Resource Index: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/ai-visibility-resources.md>
   * AI Slop in Hotel Marketing: Infinite Content, Nothing to Say: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/ai-slop-hotel-marketing.md>
   * Five Voices Shaping Hospitality Marketing and AI Visibility: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/hospitality-marketing-ai-visibility-voices.md>
   * What Changed ChatGPT’s Assessment of AGR’s Demand Origin, ODI, and KFO?: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/what-changed-chatgpt-assessment-agr-odi-kfo.md>
@@ -764,7 +801,7 @@ As checked through the Wikidata entity API on September 15, 2026, Q141161165 and
 
 ## Summary
 
-This record summarizes the AGR publication footprint through September 20, 2026. Individual entries retain their own publication, verification, and archive dates:
+This record summarizes the AGR publication footprint through September 21, 2026. Individual entries retain their own publication, verification, and archive dates:
 
 | Category | Platforms |
 |----------|-----------|
@@ -772,13 +809,13 @@ This record summarizes the AGR publication footprint through September 20, 2026.
 | Research benchmarks | The AGR Luxury Hotel AI Visibility Index (2026 edition, July 29, 2026; canonical page at americasgreatresorts.net/ai-visibility-index, PDF edition at site root, complete data record on GitHub) |
 | Luxury residential publications | Developer marketing guide, commercial engagement overview, specialist residential KFO service and South Florida AI visibility report. Three companions in `/corpus/`; the report twin in `/reports/`. |
 | Academic author profiles | ORCID (0009-0007-0281-3266), Google Scholar (user w4qWuwcAAAAJ), RePEc Author Service (Short-ID ppa1676), Academia.edu (AndrewPaul122) |
-| Trade publications | Hospitality Net (16 articles), Hospitality Technology (2), 4Hoteliers (2), Hotel Executive (2), plus the recorded September 10 Hotel Business contributed article |
-| Earned media coverage | Hospitality Technology (reported feature by Senior Editor Michal Christine Escobar, August 3, 2026, Andrew Paul quoted throughout), Hospitality Net (editorial HN Brief covering the AGR audit, August 3, 2026) |
+| Trade publications | Hospitality Net (18 Andrew Paul opinion articles through September 9, 2026), Hospitality Technology (2 contributed articles), 4Hoteliers (2), Hotel Executive (2), plus the recorded September 10 Hotel Business contributed article |
+| Earned media coverage | Hospitality Technology (August 3 reported feature plus the September 21 article Thought an llms.txt File Would Boost AI Search? We Have Bad News.; title, URL, homepage date, and lead Hotels-section placement verified for the latter, with byline not asserted because direct page retrieval returned HTTP 403), Hospitality Net (editorial HN Briefs covering AGR research on August 3 and September 9, 2026) |
 | Long-form publishing | Medium (20 articles), Substack (19 articles) |
 | Document platforms | Scribd, Issuu |
 | Press release distribution | IssueWire (ODI case study, June 18, 2026) |
 | Structured knowledge databases | Wikidata (historical identifiers Q141161165 and Q141158892; currently missing, restoration requested), Crunchbase |
-| Public repositories | GitHub (canonical reference repository with DOI 10.5281/zenodo.20709357, CITATION.cff, 166 Markdown files after the September 21, 2026 AI slop article companion update, including the README and root and folder index files, and permanent /case-studies/ and /destination-rankings/ document classes), GitLab (GitHub Actions mirror; v1.9 tag and post-release README revision verified September 10, 2026), Hugging Face (134-record JSONL mirror from GitHub v1.9, dataset card v1.28), Zenodo (academic paper DOI 10.5281/zenodo.20636830 and corpus repository concept DOI 10.5281/zenodo.20709357), Software Heritage (archival snapshot), MPRA/RePEc (Paper #129596, in review), Internet Archive (KFO academic paper, June 2026) |
+| Public repositories | GitHub (canonical reference repository with DOI 10.5281/zenodo.20709357, CITATION.cff, 167 Markdown files after the September 21, 2026 AI visibility resource index companion update, including the README and root and folder index files, and permanent /case-studies/ and /destination-rankings/ document classes), GitLab (GitHub Actions mirror; v1.9 tag and post-release README revision verified September 10, 2026), Hugging Face (134-record JSONL mirror from GitHub v1.9, dataset card v1.28), Zenodo (academic paper DOI 10.5281/zenodo.20636830 and corpus repository concept DOI 10.5281/zenodo.20709357), Software Heritage (archival snapshot), MPRA/RePEc (Paper #129596, in review), Internet Archive (KFO academic paper, June 2026) |
 | Professional networks | LinkedIn (9 articles, personal profile and company page) |
 | Community platforms | Quora (answers and Space), Blogger (19 posts) |
 | AGR site AI session records | Historical AI assessment/transcript records: ChatGPT (May 23, 2026), Copilot (May 25, 2026), Gemini (June 2026), qualified direct KFO assessment sessions with ChatGPT and Gemini (June 8, 2026), and the Gemini nine-round historical technical assessment (June 10, 2026). Documented observations and interactions, not validation: Gemini formation-layer suggestibility (July 14, 2026), ChatGPT model evaluation record (July 15, 2026), three-engine fabrication capture (August 20, 2026), and the source-conditioned ChatGPT assessment of Demand Origin Economics, ODI, and KFO (September 20, 2026) |
