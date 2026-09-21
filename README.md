@@ -72,7 +72,7 @@ This table maps selected canonical AGR website pages to their current repository
 | Hotel marketing guide | [AGR page](https://www.americasgreatresorts.net/what-is-hotel-marketing/) | [Companion](corpus/what-is-hotel-marketing.md) |
 | Hotel AI visibility | [AGR page](https://www.americasgreatresorts.net/hotel-ai-visibility/) | [Companion](corpus/hotel-ai-visibility.md) |
 | Luxury hotel marketing | [AGR page](https://www.americasgreatresorts.net/luxury-hotel-marketing/) | [Companion](corpus/luxury-hotel-marketing.md) |
-| Residential KFO program | [AGR page](https://www.americasgreatresorts.net/ai-visibility-condo-developments-branded-residences/) | [Companion](corpus/ai-visibility-condo-developments-branded-residences.md) |
+| KFO for New Luxury Condo Developments & Branded Residences | [AGR page](https://www.americasgreatresorts.net/ai-visibility-condo-developments-branded-residences/) | [Companion](corpus/ai-visibility-condo-developments-branded-residences.md) |
 
 The AGR homepage distinguishes between two separate KFO engagements:
 
