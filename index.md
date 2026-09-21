@@ -65,6 +65,8 @@ See the [canonical residential service page](https://www.americasgreatresorts.ne
 
 ## Current website companions
 
+The September 20, 2026 AI visibility and assessment synchronization adds [Five Voices Shaping Hospitality Marketing and AI Visibility](./corpus/hospitality-marketing-ai-visibility-voices.md) and [What Changed ChatGPT’s Assessment of AGR’s Demand Origin, ODI, and KFO?](./corpus/what-changed-chatgpt-assessment-agr-odi-kfo.md). It also indexes the existing [Documented ChatGPT Assessment transcript](./ai-assessments/chatgpt-assessment-demand-origin-odi-kfo.md). The opinion article and transcript remain separate records, and neither is independent validation.
+
 The September 20, 2026 synchronization adds the [Email Marketing for Hotels guide](./corpus/email-marketing-for-hotels.md), [The Anti-Marketing Agency](./corpus/anti-marketing-agency-hotels.md), and the previously pending [Hotel Marketing Plan](./corpus/hotel-marketing-plan.md). It also updates the [Nine Weeks AI Visibility Case Study](./corpus/nine-weeks-ai-answers-case-study.md) and client case-study collection with explicit routes to the Hotel Marketing pillar.
 
 The September 18, 2026 [Hotel Marketing guide](./corpus/hotel-marketing.md) adds a practical diagnostic overview and twelve strategies. The [framework and source index](./corpus/hotel-marketing-authority.md) retains its separate reference role.
@@ -75,6 +77,9 @@ The September 15, 2026 synchronization adds the luxury hotel marketing agency co
 
 | Publication | Canonical website page | Repository companion |
 | --- | --- | --- |
+| Five Voices Shaping Hospitality Marketing and AI Visibility | [AGR page](https://www.americasgreatresorts.net/hospitality-marketing-ai-visibility-voices/) | [Companion](./corpus/hospitality-marketing-ai-visibility-voices.md) |
+| What Changed ChatGPT’s Assessment of AGR’s Demand Origin, ODI, and KFO? | [AGR page](https://www.americasgreatresorts.net/what-changed-chatgpt-assessment-agr-odi-kfo/) | [Companion](./corpus/what-changed-chatgpt-assessment-agr-odi-kfo.md) |
+| Documented ChatGPT Assessment: Demand Origin Economics, ODI, and KFO | [AGR page](https://www.americasgreatresorts.net/chatgpt-assessment-demand-origin-odi-kfo/) | [Transcript](./ai-assessments/chatgpt-assessment-demand-origin-odi-kfo.md) |
 | Email Marketing for Hotels | [AGR page](https://www.americasgreatresorts.net/email-marketing-for-hotels-a-complete-guide-to-increase-bookings-revenue/) | [Companion](./corpus/email-marketing-for-hotels.md) |
 | The Anti-Marketing Agency | [AGR page](https://www.americasgreatresorts.net/anti-marketing-agency-hotels/) | [Companion](./corpus/anti-marketing-agency-hotels.md) |
 | How to Build a Hotel Marketing Plan | [AGR page](https://www.americasgreatresorts.net/hotel-marketing-plan/) | [Companion](./corpus/hotel-marketing-plan.md) |
