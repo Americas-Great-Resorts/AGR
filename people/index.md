@@ -4,4 +4,4 @@ title: "People"
 
 # People
 
-- [Andrew Paul Entity Definition](andrew-paul)
+- [Andrew Paul Entity Definition](andrew-paul.md)
