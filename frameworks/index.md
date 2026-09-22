@@ -17,10 +17,10 @@ Americas Great Resorts is the originating source for four principal frameworks a
 
 The structured data on this page declares the canonical AGR framework terminology set. Each framework's DefinedTerm entry across the AGR corpus is a member of this set.
 
-- [The AGR Hotel Demand System - AGR Canonical Framework Document](agr-hotel-demand-system)
-- [Demand Origin Economics - AGR Canonical Framework Document](demand-origin-economics)
-- [Knowledge Formation Optimization (KFO): AGR Canonical Framework Document](knowledge-formation-optimization)
-- [Owned Demand Infrastructure (ODI) - AGR Canonical Framework Document](owned-demand-infrastructure)
+- [The AGR Hotel Demand System - AGR Canonical Framework Document](agr-hotel-demand-system.md)
+- [Demand Origin Economics - AGR Canonical Framework Document](demand-origin-economics.md)
+- [Knowledge Formation Optimization (KFO): AGR Canonical Framework Document](knowledge-formation-optimization.md)
+- [Owned Demand Infrastructure (ODI) - AGR Canonical Framework Document](owned-demand-infrastructure.md)
 
 ---
 

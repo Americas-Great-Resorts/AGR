@@ -154,5 +154,5 @@ Use the inquiry form on the [canonical residential KFO service page](https://www
 - [Luxury Condo Marketing for New Developments](luxury-condo-marketing.md)
 - [South Florida New Luxury Condo AI Visibility Report](../reports/south-florida-luxury-condo-ai-visibility-report.md)
 - [Canonical KFO definition](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/)
-- [KFO corpus reference](kfo-knowledge-formation-optimization)
+- [KFO corpus reference](kfo-knowledge-formation-optimization.md)
 - [AGR hotel audit evidence](https://www.americasgreatresorts.net/ai-visibility-index/)
