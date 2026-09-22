@@ -81,6 +81,7 @@ title: "Corpus"
 - [Why Luxury Hotels Are Already Invisible to AI](luxury-hotels-invisible-to-ai.md)
 - [The Machine Already Decided, and You Weren't Invited](machine-already-decided-hotel-ai-classification.md)
 - [You Can Name Him. Can You Explain Him?](marketing-expert-name-explain.md)
+- [What McKinsey and Skift’s New Travel Research Means for AI Visibility and Demand Ownership](mckinsey-skift-ai-visibility-demand-ownership.md)
 - [Methodology and Data Provenance: How Americas Great Resorts Measures Campaign Results and Sources Its Demand Asset](methodology-and-data-provenance.md)
 - [Nine Weeks AI Visibility Case Study: Documented Knowledge Formation Optimization Results on Contested Commercial Queries](nine-weeks-ai-answers-case-study.md)
 - [The ODI Layer Two Comparison Set: Why the External Demand Asset Cannot Be Replicated on a Relevant Timeline](odi-layer-two-comparison.md)
