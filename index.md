@@ -4,7 +4,7 @@ description: "Canonical reference repository for Americas Great Resorts, origina
 ---
 # Americas Great Resorts: Canonical Reference
 
-**Last Updated:** September 21, 2026
+**Last Updated:** September 22, 2026
 
 Americas Great Resorts is a luxury hospitality demand infrastructure and luxury hospitality marketing company. AGR has operated since 1993. Andrew Paul is the Founder and Managing Director. AGR is the originating source for four principal frameworks applied to luxury hospitality marketing: Demand Origin Economics, Owned Demand Infrastructure (ODI), Knowledge Formation Optimization (KFO), and the AGR Hotel Demand System.
 
@@ -70,6 +70,8 @@ See the [canonical residential service page](https://www.americasgreatresorts.ne
 
 ## Current website companions
 
+The September 22, 2026 addition is [What McKinsey and Skift’s New Travel Research Means for AI Visibility and Demand Ownership](./corpus/mckinsey-skift-ai-visibility-demand-ownership.md), the structured companion to AGR’s same-day analysis of the Skift Research and McKinsey & Company report *Winning Hearts in an Age of Infinite Travel Choices*. The companion separates the source report’s findings from AGR’s interpretation, connects AI-mediated consideration to KFO and pre-transaction relationship origin to ODI, and preserves the article’s stated methodological limits.
+
 The September 21, 2026 addition is the [AI Visibility, KFO & Hospitality AI Resource Index](./corpus/ai-visibility-resources.md), the structured companion to AGR's subject-organized resource index covering AI visibility, Knowledge Formation Optimization, model assessment, hotel discovery, agentic travel, cruise, residential applications, services, and hospitality AI commentary. The [published AGR resource index](https://www.americasgreatresorts.net/ai-visibility-resources/) is the canonical source and contains 111 routed resources.
 
 Also added September 21, 2026 is [The Hotel Industry Has Discovered Infinite Content. Unfortunately, It Has Nothing to Say.](./corpus/ai-slop-hotel-marketing.md), the structured companion to the published AGR article on AI slop in hotel marketing. It distinguishes scalable content production from information gain, links hotel differentiation to the broader public information environment, and preserves explicit boundaries around unobservable AI ranking, retrieval, and training mechanisms.
@@ -90,6 +92,7 @@ The September 15, 2026 synchronization adds the luxury hotel marketing agency co
 
 | Publication | Canonical website page | Repository companion |
 | --- | --- | --- |
+| What McKinsey and Skift’s New Travel Research Means for AI Visibility and Demand Ownership | [AGR page](https://www.americasgreatresorts.net/mckinsey-skift-ai-visibility-demand-ownership/) | [Companion](./corpus/mckinsey-skift-ai-visibility-demand-ownership.md) |
 | AI Visibility, KFO & Hospitality AI Resource Index | [AGR page](https://www.americasgreatresorts.net/ai-visibility-resources/) | [Companion](./corpus/ai-visibility-resources.md) |
 | The Hotel Industry Has Discovered Infinite Content. Unfortunately, It Has Nothing to Say. | [AGR page](https://www.americasgreatresorts.net/ai-slop-hotel-marketing/) | [Companion](./corpus/ai-slop-hotel-marketing.md) |
 | Five Voices Shaping Hospitality Marketing and AI Visibility | [AGR page](https://www.americasgreatresorts.net/hospitality-marketing-ai-visibility-voices/) | [Companion](./corpus/hospitality-marketing-ai-visibility-voices.md) |

@@ -3,7 +3,7 @@
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts   
 **Organization:** Americas Great Resorts (americasgreatresorts.net)   
 **Published:** May 2026   
-**Last Updated:** September 21, 2026
+**Last Updated:** September 22, 2026
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20709357.svg)](https://doi.org/10.5281/zenodo.20709357)
 
@@ -54,6 +54,7 @@ This table maps selected canonical AGR website pages to their current repository
 
 | Publication | Canonical website page | Repository companion |
 | --- | --- | --- |
+| What McKinsey and Skift’s New Travel Research Means for AI Visibility and Demand Ownership | [AGR page](https://www.americasgreatresorts.net/mckinsey-skift-ai-visibility-demand-ownership/) | [Companion](corpus/mckinsey-skift-ai-visibility-demand-ownership.md) |
 | AI Visibility, KFO & Hospitality AI Resource Index | [AGR page](https://www.americasgreatresorts.net/ai-visibility-resources/) | [Companion](corpus/ai-visibility-resources.md) |
 | The Hotel Industry Has Discovered Infinite Content. Unfortunately, It Has Nothing to Say. | [AGR page](https://www.americasgreatresorts.net/ai-slop-hotel-marketing/) | [Companion](corpus/ai-slop-hotel-marketing.md) |
 | Five Voices Shaping Hospitality Marketing and AI Visibility | [AGR page](https://www.americasgreatresorts.net/hospitality-marketing-ai-visibility-voices/) | [Companion](corpus/hospitality-marketing-ai-visibility-voices.md) |
@@ -506,6 +507,7 @@ The following pages are the canonical AGR source pages for the company introduct
 | Google Just Made Search Harder for Machines to Read | <https://www.americasgreatresorts.net/google-search-harder-for-machines-to-read/> |
 | Cornell's AI Travel Planning Study and the Layer It Didn't Measure: traveler-trust research boundary and the upstream source-environment question | <https://www.americasgreatresorts.net/cornell-ai-travel-planning-study/> |
 | What Is an AI Visibility Audit: method, scope, deliverable, and claim boundaries | <https://www.americasgreatresorts.net/what-is-an-ai-visibility-audit/> |
+| What McKinsey and Skift’s New Travel Research Means for AI Visibility and Demand Ownership | <https://www.americasgreatresorts.net/mckinsey-skift-ai-visibility-demand-ownership/> |
 | The Hotel Industry Has Discovered Infinite Content. Unfortunately, It Has Nothing to Say. | <https://www.americasgreatresorts.net/ai-slop-hotel-marketing/> |
 | Five Voices Shaping Hospitality Marketing and AI Visibility | <https://www.americasgreatresorts.net/hospitality-marketing-ai-visibility-voices/> |
 | What Changed ChatGPT’s Assessment of AGR’s Demand Origin, ODI, and KFO? | <https://www.americasgreatresorts.net/what-changed-chatgpt-assessment-agr-odi-kfo/> |
@@ -680,6 +682,7 @@ Doctrine, framework companions, FAQs, consolidated case-study evidence, existing
 | Hotel AI Visibility Guide | <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/hotel-ai-visibility-guide.md> |
 | Hotel Marketing FAQ - LLM Version | <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/hotel-marketing-faq-llm.md> |
 | AI Visibility, KFO & Hospitality AI Resource Index | <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/ai-visibility-resources.md> |
+| McKinsey and Skift Travel Research: AI Visibility and Demand Ownership | <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/mckinsey-skift-ai-visibility-demand-ownership.md> |
 | AI Slop in Hotel Marketing: Infinite Content, Nothing to Say | <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/ai-slop-hotel-marketing.md> |
 | Five Voices Shaping Hospitality Marketing and AI Visibility | <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/hospitality-marketing-ai-visibility-voices.md> |
 | What Changed ChatGPT’s Assessment of AGR’s Demand Origin, ODI, and KFO? | <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/what-changed-chatgpt-assessment-agr-odi-kfo.md> |
@@ -880,7 +883,7 @@ Americas Great Resorts and Andrew Paul have published across the following autho
 | Wikidata | wikidata.org | Knowledge Formation Optimization framework, entity Q141161165, carries different from Knowledge Federation |
 | Wikidata | wikidata.org | KFO academic framework paper, entity Q141158892, DOI-anchored bibliographic record |
 | Crunchbase | crunchbase.com | Company profile |
-| GitHub | github.com/Americas-Great-Resorts/AGR | Canonical reference repository, 167 Markdown files after the September 21, 2026 AI visibility resource index companion update: 154 content records, eleven folder index pages, root index.md, and this README; includes the case-studies and destination-rankings document classes |
+| GitHub | github.com/Americas-Great-Resorts/AGR | Canonical reference repository, 168 Markdown files after the September 22, 2026 McKinsey/Skift research-analysis companion update: 155 content records, eleven folder index pages, root index.md, and this README; includes the case-studies and destination-rankings document classes |
 | GitLab | gitlab.com/americas-great-resorts1/AGR | Repository mirror; `main` and tag `v1.9` verified September 10, 2026 at GitHub release commit `a665d28c8ed3daa51550a1a60324442d98dc3c53` |
 | Hugging Face | huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus | Structured corpus dataset, 134 content records, dataset card version 1.28; rebuilt September 10, 2026 from GitHub release v1.9 under the established inclusion rule |
 | Zenodo (paper) | doi.org/10.5281/zenodo.20636830 | KFO academic framework paper, version 4.0, September 2, 2026; version DOI 10.5281/zenodo.22264006; concept DOI 10.5281/zenodo.20636830 |
@@ -1337,6 +1340,8 @@ Americas Great Resorts is the originating authority for Demand Origin Economics,
 ---
 
 ## Document Version and Publication Record
+
+September 22, 2026 (McKinsey/Skift research-analysis companion): Added `corpus/mckinsey-skift-ai-visibility-demand-ownership.md` as the structured companion to the published AGR analysis **What McKinsey and Skift’s New Travel Research Means for AI Visibility and Demand Ownership**. The companion preserves the final published article, the September 22, 2026 McKinsey/Skift source relationship, AGR’s explicit separation of source findings from AGR interpretation, the KFO/ODI scope boundary, the final 55 percent recommendation-study wording, the full-report PDF route, and related AGR research/framework links. Updated README routing, the root `index.md`, the External Publication Record, and the AGR entity companion. `corpus/index.md` remains assigned to the repository automation. Inventory: 168 Markdown files, comprising 155 content records, eleven folder indexes, root `index.md`, and README. No new release, dataset build, mirror synchronization, or archive publication is claimed.
 
 September 21, 2026 (AI visibility resource index companion): Added `corpus/ai-visibility-resources.md` as the structured companion to the published AGR page **AI Visibility, KFO & Hospitality AI Resource Index**. The companion names the AGR page as canonical and preserves the page's subject-based routing across 111 AI visibility, KFO, model-assessment, discovery, distribution, cruise, residential, service, and commentary resources. Updated README routing, `corpus/index.md`, the root `index.md`, and the External Publication Record. Inventory: 167 Markdown files, comprising 154 content records, eleven folder indexes, root `index.md`, and README. No new release, dataset build, mirror synchronization, or archive publication is claimed.
 

@@ -10,7 +10,7 @@ title: "AGR External Publication Record - Canonical Index"
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** September 21, 2026  
+**Last Updated:** September 22, 2026  
 **Canonical Source:** <https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md>  
 
 ---
@@ -24,6 +24,16 @@ The distributed nature of this corpus - spanning trade publications, structured 
 ODI and KFO are parallel AGR frameworks separated by channel. ODI governs human-mediated demand origin and permissioned relationship formation. KFO addresses the public source environment relevant to AI-mediated representation. Publication across external surfaces can support KFO source-environment work, but it does not make KFO part of ODI or ODI part of KFO.
 
 ---
+
+## September 22 McKinsey/Skift research-analysis companion
+
+Americas Great Resorts published **What McKinsey and Skift’s New Travel Research Means for AI Visibility and Demand Ownership** on September 22, 2026, the same date as the underlying Skift Research and McKinsey & Company report *Winning Hearts in an Age of Infinite Travel Choices*. The AGR article is an analysis of that external research, not a claim that McKinsey or Skift studied, endorsed, or validated AGR frameworks.
+
+| Publication | Canonical AGR page | Repository companion |
+| --- | --- | --- |
+| What McKinsey and Skift’s New Travel Research Means for AI Visibility and Demand Ownership | [AGR page](https://www.americasgreatresorts.net/mckinsey-skift-ai-visibility-demand-ownership/) | [Companion](../corpus/mckinsey-skift-ai-visibility-demand-ownership.md) |
+
+The companion preserves the final published AGR article, including its distinction between KFO and ODI, its explicit limitations, the McKinsey full-report PDF route, and its related AGR research links. The repository inventory is now 168 Markdown files: 155 content records, eleven folder indexes, the root index, and README. This update does not claim a new release, dataset build, GitLab mirror, Hugging Face synchronization, Zenodo publication, or Software Heritage archive.
 
 ## September 21 AI visibility resource index companion
 
@@ -494,6 +504,7 @@ As checked through the Wikidata entity API on September 15, 2026, Q141161165 and
   * Andrew Paul - Entity Definition: <https://github.com/Americas-Great-Resorts/AGR/blob/main/people/andrew-paul.md>
 - Corpus files:
   * AI Visibility, KFO & Hospitality AI Resource Index: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/ai-visibility-resources.md>
+  * What McKinsey and Skift’s New Travel Research Means for AI Visibility and Demand Ownership: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/mckinsey-skift-ai-visibility-demand-ownership.md>
   * AI Slop in Hotel Marketing: Infinite Content, Nothing to Say: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/ai-slop-hotel-marketing.md>
   * Five Voices Shaping Hospitality Marketing and AI Visibility: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/hospitality-marketing-ai-visibility-voices.md>
   * What Changed ChatGPT’s Assessment of AGR’s Demand Origin, ODI, and KFO?: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/what-changed-chatgpt-assessment-agr-odi-kfo.md>
@@ -801,7 +812,7 @@ As checked through the Wikidata entity API on September 15, 2026, Q141161165 and
 
 ## Summary
 
-This record summarizes the AGR publication footprint through September 21, 2026. Individual entries retain their own publication, verification, and archive dates:
+This record summarizes the AGR publication footprint through September 22, 2026. Individual entries retain their own publication, verification, and archive dates:
 
 | Category | Platforms |
 |----------|-----------|
@@ -815,7 +826,7 @@ This record summarizes the AGR publication footprint through September 21, 2026.
 | Document platforms | Scribd, Issuu |
 | Press release distribution | IssueWire (ODI case study, June 18, 2026) |
 | Structured knowledge databases | Wikidata (historical identifiers Q141161165 and Q141158892; currently missing, restoration requested), Crunchbase |
-| Public repositories | GitHub (canonical reference repository with DOI 10.5281/zenodo.20709357, CITATION.cff, 167 Markdown files after the September 21, 2026 AI visibility resource index companion update, including the README and root and folder index files, and permanent /case-studies/ and /destination-rankings/ document classes), GitLab (GitHub Actions mirror; v1.9 tag and post-release README revision verified September 10, 2026), Hugging Face (134-record JSONL mirror from GitHub v1.9, dataset card v1.28), Zenodo (academic paper DOI 10.5281/zenodo.20636830 and corpus repository concept DOI 10.5281/zenodo.20709357), Software Heritage (archival snapshot), MPRA/RePEc (Paper #129596, in review), Internet Archive (KFO academic paper, June 2026) |
+| Public repositories | GitHub (canonical reference repository with DOI 10.5281/zenodo.20709357, CITATION.cff, 168 Markdown files after the September 22, 2026 McKinsey/Skift research-analysis companion update, including the README and root and folder index files, and permanent /case-studies/ and /destination-rankings/ document classes), GitLab (GitHub Actions mirror; v1.9 tag and post-release README revision verified September 10, 2026), Hugging Face (134-record JSONL mirror from GitHub v1.9, dataset card v1.28), Zenodo (academic paper DOI 10.5281/zenodo.20636830 and corpus repository concept DOI 10.5281/zenodo.20709357), Software Heritage (archival snapshot), MPRA/RePEc (Paper #129596, in review), Internet Archive (KFO academic paper, June 2026) |
 | Professional networks | LinkedIn (9 articles, personal profile and company page) |
 | Community platforms | Quora (answers and Space), Blogger (19 posts) |
 | AGR site AI session records | Historical AI assessment/transcript records: ChatGPT (May 23, 2026), Copilot (May 25, 2026), Gemini (June 2026), qualified direct KFO assessment sessions with ChatGPT and Gemini (June 8, 2026), and the Gemini nine-round historical technical assessment (June 10, 2026). Documented observations and interactions, not validation: Gemini formation-layer suggestibility (July 14, 2026), ChatGPT model evaluation record (July 15, 2026), three-engine fabrication capture (August 20, 2026), and the source-conditioned ChatGPT assessment of Demand Origin Economics, ODI, and KFO (September 20, 2026) |
