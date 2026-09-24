@@ -34,6 +34,7 @@ title: "Corpus"
 - [GEO for Hotels: The Three Functions of AI Visibility](geo-for-hotels.md)
 - [Google Just Made Search Harder for Machines to Read - LLM Ingestion Document](google-search-harder-for-machines-to-read.md)
 - [Your Next Guest Just Asked a Machine Which Hotel to Book. You Weren't on the List.](guest-asked-ai-hotel.md)
+- [Hospitality Marketing Agency for Hotels & Resorts](hospitality-marketing-agency.md)
 - [Five Voices Shaping Hospitality Marketing and AI Visibility](hospitality-marketing-ai-visibility-voices.md)
 - [Hotel AI Visibility Guide](hotel-ai-visibility-guide.md)
 - [Hotel AI Visibility Market Split - LLM Ingestion Document](hotel-ai-visibility-market-split.md)
