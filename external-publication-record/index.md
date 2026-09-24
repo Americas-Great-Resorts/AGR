@@ -10,7 +10,7 @@ title: "AGR External Publication Record - Canonical Index"
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** September 22, 2026  
+**Last Updated:** September 24, 2026  
 **Canonical Source:** <https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md>  
 
 ---
@@ -24,6 +24,18 @@ The distributed nature of this corpus - spanning trade publications, structured 
 ODI and KFO are parallel AGR frameworks separated by channel. ODI governs human-mediated demand origin and permissioned relationship formation. KFO addresses the public source environment relevant to AI-mediated representation. Publication across external surfaces can support KFO source-environment work, but it does not make KFO part of ODI or ODI part of KFO.
 
 ---
+
+## September 24 AI Visibility / Knowledge Formation companion
+
+Americas Great Resorts published **AI Visibility Is Becoming Software. The Harder Problem Is Knowledge Formation.** on September 24, 2026. The article distinguishes observable AI-visibility output from diagnosis and justified intervention, and it formalizes an evidence-control sequence of Observed, Associated, Hypothesized, and Tested without redefining KFO.
+
+| Publication | Canonical AGR page | Repository companion |
+| --- | --- | --- |
+| AI Visibility Is Becoming Software. The Harder Problem Is Knowledge Formation. | [AGR page](https://www.americasgreatresorts.net/ai-visibility-knowledge-formation/) | [Companion](../corpus/ai-visibility-knowledge-formation.md) |
+
+The companion preserves the canonical KFO definition and epistemic boundary, the distinction between a source environment and a visible citation list, the observational limits of AGR’s hotel research, the article’s bounded use of R4T fan-out research, and the direct relationship to the KFO academic paper, testable application, and draft falsification protocol. The article does not claim proprietary model access, deterministic source causality, or production deployment of R4T.
+
+The repository inventory is now 170 Markdown files: 157 content records, eleven folder indexes, the root index, and README. This update does not claim a new release, dataset build, GitLab mirror, Hugging Face synchronization, Zenodo publication, or Software Heritage archive.
 
 ## September 23 Hospitality Marketing Agency companion
 
@@ -839,7 +851,7 @@ This record summarizes the AGR publication footprint through September 23, 2026.
 | Document platforms | Scribd, Issuu |
 | Press release distribution | IssueWire (ODI case study, June 18, 2026) |
 | Structured knowledge databases | Wikidata (historical identifiers Q141161165 and Q141158892; currently missing, restoration requested), Crunchbase |
-| Public repositories | GitHub (canonical reference repository with DOI 10.5281/zenodo.20709357, CITATION.cff, 169 Markdown files after the September 23, 2026 Hospitality Marketing Agency companion update, including the README and root and folder index files, and permanent /case-studies/ and /destination-rankings/ document classes), GitLab (GitHub Actions mirror; v1.9 tag and post-release README revision verified September 10, 2026), Hugging Face (134-record JSONL mirror from GitHub v1.9, dataset card v1.28), Zenodo (academic paper DOI 10.5281/zenodo.20636830 and corpus repository concept DOI 10.5281/zenodo.20709357), Software Heritage (archival snapshot), MPRA/RePEc (Paper #129596, in review), Internet Archive (KFO academic paper, June 2026) |
+| Public repositories | GitHub (canonical reference repository with DOI 10.5281/zenodo.20709357, CITATION.cff, 170 Markdown files after the September 24, 2026 AI Visibility / Knowledge Formation companion update, including the README and root and folder index files, and permanent /case-studies/ and /destination-rankings/ document classes), GitLab (GitHub Actions mirror; v1.9 tag and post-release README revision verified September 10, 2026), Hugging Face (134-record JSONL mirror from GitHub v1.9, dataset card v1.28), Zenodo (academic paper DOI 10.5281/zenodo.20636830 and corpus repository concept DOI 10.5281/zenodo.20709357), Software Heritage (archival snapshot), MPRA/RePEc (Paper #129596, in review), Internet Archive (KFO academic paper, June 2026) |
 | Professional networks | LinkedIn (9 articles, personal profile and company page) |
 | Community platforms | Quora (answers and Space), Blogger (19 posts) |
 | AGR site AI session records | Historical AI assessment/transcript records: ChatGPT (May 23, 2026), Copilot (May 25, 2026), Gemini (June 2026), qualified direct KFO assessment sessions with ChatGPT and Gemini (June 8, 2026), and the Gemini nine-round historical technical assessment (June 10, 2026). Documented observations and interactions, not validation: Gemini formation-layer suggestibility (July 14, 2026), ChatGPT model evaluation record (July 15, 2026), three-engine fabrication capture (August 20, 2026), and the source-conditioned ChatGPT assessment of Demand Origin Economics, ODI, and KFO (September 20, 2026) |
