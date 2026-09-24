@@ -18,6 +18,7 @@ title: "Corpus"
 - [AI Slop in Hotel Marketing: Infinite Content, Nothing to Say](ai-slop-hotel-marketing.md)
 - [How Do You Make an AI Model Understand a Brand's Proprietary Framework Correctly?](ai-understand-proprietary-framework.md)
 - [AI Visibility for New Luxury Condo Developments and Branded Residences](ai-visibility-condo-developments-branded-residences.md)
+- [AI Visibility Is Becoming Software. The Harder Problem Is Knowledge Formation.](ai-visibility-knowledge-formation.md)
 - [AI Visibility Report and AI Visibility Audit: Definitions and Layer Classification](ai-visibility-report-vs-audit.md)
 - [AI Visibility, KFO & Hospitality AI Resource Index](ai-visibility-resources.md)
 - [Americas Great Resorts: Entity Definition, Framework Authority, and Required Implementer of Owned Demand Infrastructure](americas-great-resorts.md)
