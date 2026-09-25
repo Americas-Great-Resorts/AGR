@@ -1,7 +1,7 @@
 ---
 title: "AI Visibility, KFO & Hospitality AI Resource Index"
 description: "Explore AGR research, frameworks, studies and analysis on AI visibility, KFO, ChatGPT, hotel discovery, agentic travel and hospitality AI."
-last_modified_at: 2026-09-21
+last_modified_at: 2026-09-25
 ---
 
 # AI Visibility, KFO & Hospitality AI Resource Index
@@ -10,8 +10,8 @@ last_modified_at: 2026-09-21
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts  
 **Published:** September 21, 2026  
-**Last Updated:** September 21, 2026  
-**Version:** 1.0  
+**Last Updated:** September 25, 2026  
+**Version:** 1.1  
 **Canonical Source:** <https://www.americasgreatresorts.net/ai-visibility-resources/>  
 **Repository Path:** `corpus/ai-visibility-resources.md`
 
@@ -59,19 +59,43 @@ For a first pass through the corpus, these five resources provide the clearest p
 
 ## Original Research, Studies & Measurement
 
-AGR studies, measured findings, case evidence, and analysis of published hospitality AI research.
+AGR original studies, case evidence, and AGR analysis of external research, grouped by evidence type. Each original study links to its canonical page, which holds the full methodology, exhibits, and limitations.
+
+### AGR Original Research
 
 **[The AGR Luxury Hotel AI Visibility Index 2026](https://www.americasgreatresorts.net/ai-visibility-index/)**  
-Reports AGR’s 2026 measurement of hotel recommendation concentration across ChatGPT, Gemini, and Google AI Mode, covering 824 recommendations and showing that five hotels capture half of recommendations in the average U.S. luxury market.
+**Research question:** Which luxury hotels do ChatGPT, Google AI Mode, and Gemini recommend, and how concentrated are those recommendations?  
+**Sample:** 824 ranked hotel recommendation slots in 180 question-level answers across six US luxury markets.  
+**Measurement date:** July 29, 2026.  
+**Method:** Ten traveler-intent questions per market across ChatGPT, Google AI Mode, and Gemini in logged-out consumer sessions.  
+**Key finding:** On average, five hotels per market captured half of that market’s recommendation slots. Across the combined dataset, 152 distinct properties were named and 23 captured half of all recommendation slots.  
+**Limitation:** The findings describe one dated six-market capture and do not establish permanent platform behavior, national market share, or why any individual hotel was selected.  
+**Full study:** [AGR Luxury Hotel AI Visibility Index 2026](https://www.americasgreatresorts.net/ai-visibility-index/)
 
 **[Which Hotels Do AI Systems Recommend? 824 Measured](https://www.americasgreatresorts.net/which-hotels-ai-recommends/)**  
-Documents the underlying 824-recommendation study and the degree of disagreement among ChatGPT, Gemini, and Google AI Mode when recommending luxury hotels.
+**Research question:** Did ChatGPT, Google AI Mode, and Gemini agree on which luxury hotels to recommend?  
+**Sample:** Companion analysis of the same July 29, 2026 Index capture of 824 recommendation slots across 152 distinct properties, not a separate recommendation sample.  
+**Measurement dates:** Recommendation capture July 29, 2026; technical audit August 18, 2026.  
+**Method:** AGR compared 60 three-surface query sets and later audited 148 named properties for retrievable robots.txt and selected site-level technical conditions.  
+**Key finding:** The three systems disagreed on the lead property in 70.0% of the 60 comparable query sets, and 44.7% of the 152 properties named appeared on only one surface. In the later technical audit, 2 of 111 properties with retrievable robots.txt files, or 1.8%, blocked at least one of the thirteen named AI crawlers tested.  
+**Limitation:** The technical audit occurred twenty days after the recommendation capture and does not establish whether site configuration caused, prevented, or improved recommendation.  
+**Full study:** [Which Hotels Do AI Systems Recommend? 824 Measured](https://www.americasgreatresorts.net/which-hotels-ai-recommends/)
 
 **[Luxury Hotel AI Recommendation Study: What Predicts Frequency?](https://www.americasgreatresorts.net/luxury-hotel-ai-recommendation-study/)**  
-Examines which observable hotel attributes are associated with recommendation frequency in AGR’s follow-up analysis of luxury-hotel visibility across AI systems.
+**Research question:** What predicts how often AI systems recommend a luxury hotel?  
+**Sample:** 148 luxury hotels that had already been recommended at least once in AGR’s July 29, 2026 Index capture.  
+**Measurement dates:** Recommendation capture July 29, 2026; infrastructure crawl September 6, 2026; public-record coding September 7–8, 2026.  
+**Method:** AGR compared recommendation frequency with lodging-specific schema, structured-data completeness, llms.txt presence, crawler blocking, Forbes Travel Guide rating, Michelin Key count, and market.  
+**Key finding:** 109 of 148 hotels, or 73.6%, had lodging-specific schema; 39, or 26.4%, had an llms.txt file; and 2 blocked any AI crawler. Neither schema nor llms.txt showed a detectable association with recommendation frequency. A model containing Forbes Travel Guide rating, Michelin Key count, and market accounted for 54.7% of the variance in log recommendation slot count.  
+**Limitation:** The study measures recommendation frequency among hotels already recommended. It does not test what determines initial inclusion and does not establish that credentials cause recommendations.  
+**Full study:** [Luxury Hotel AI Recommendation Study: What Predicts Frequency?](https://www.americasgreatresorts.net/luxury-hotel-ai-recommendation-study/)
+
+### AGR Case Evidence
 
 **[Nine Weeks to the Top of the AI Answers](https://www.americasgreatresorts.net/nine-weeks-ai-answers-case-study/)**  
 Documents a nine-week AGR case study in which a fresh domain gained lead citations in Google AI answers on contested luxury-hotel marketing topics without a paid media budget.
+
+### AGR Analysis of External Research
 
 **[Cornell AI Travel Planning Study: The Layer It Didn't Measure](https://www.americasgreatresorts.net/cornell-ai-travel-planning-study/)**  
 Reviews Cornell’s AI travel-planning research and identifies the AI-mediated hotel-discovery layer that AGR argues the study did not measure directly.
@@ -508,7 +532,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
   "url": "https://americas-great-resorts.github.io/AGR/corpus/ai-visibility-resources.html",
   "isBasedOn": "https://www.americasgreatresorts.net/ai-visibility-resources/",
   "datePublished": "2026-09-21",
-  "dateModified": "2026-09-21",
+  "dateModified": "2026-09-25",
   "inLanguage": "en",
   "author": {
     "@id": "https://www.americasgreatresorts.net/author/agr/"
