@@ -4,6 +4,7 @@ title: "Reports"
 
 # Reports
 
+- [Do AI-Recommended Luxury Hotels Use Schema and llms.txt, and Do They Block AI Crawlers?](ai-recommended-luxury-hotel-schema-llms-txt.md)
 - [The AGR Luxury Hotel AI Visibility Index 2026: Complete Findings, Data, and Methodology](ai-visibility-index.md)
 - [What a Hotel’s AI Visibility Score Can Actually Tell You](hotel-ai-visibility-score.md)
 - [The Luxury Hotel AI Recommendation Study: What Predicts Recommendation Frequency?](luxury-hotel-ai-recommendation-study.md)

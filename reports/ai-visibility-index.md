@@ -334,6 +334,14 @@ The Index succeeds the Americas Great Resorts pilot audit of July 2026: 300 capt
 
 ---
 
+## Related Technical-Adoption Analysis
+
+The September 26, 2026 [technical-adoption analysis](ai-recommended-luxury-hotel-schema-llms-txt.md) gives the schema, llms.txt, and crawler-blocking results a dedicated research page: [Do AI-Recommended Luxury Hotels Use Schema and llms.txt, and Do They Block AI Crawlers?](https://www.americasgreatresorts.net/ai-recommended-luxury-hotel-schema-llms-txt/). It uses the same 148 already-recommended hotels and 816 slots as the September recommendation-frequency study, with infrastructure crawled September 6, 2026. It is not a new independent sample or an industry adoption census and does not test initial inclusion.
+
+The [AI Visibility Resources companion](../corpus/ai-visibility-resources.md) routes the related studies. This repository cross-reference does not change the original report’s fieldwork dates, results, or methodology.
+
+---
+
 ## Subject Reference Index
 
 - What is the AGR Luxury Hotel AI Visibility Index: this document and <https://www.americasgreatresorts.net/ai-visibility-index/>

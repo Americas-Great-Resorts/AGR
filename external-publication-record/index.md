@@ -10,7 +10,7 @@ title: "AGR External Publication Record - Canonical Index"
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** September 24, 2026  
+**Last Updated:** September 26, 2026  
 **Canonical Source:** <https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md>  
 
 ---
@@ -24,6 +24,16 @@ The distributed nature of this corpus - spanning trade publications, structured 
 ODI and KFO are parallel AGR frameworks separated by channel. ODI governs human-mediated demand origin and permissioned relationship formation. KFO addresses the public source environment relevant to AI-mediated representation. Publication across external surfaces can support KFO source-environment work, but it does not make KFO part of ODI or ODI part of KFO.
 
 ---
+
+## September 26 technical-adoption research companion
+
+Americas Great Resorts published **Do AI-Recommended Luxury Hotels Use Schema and llms.txt, and Do They Block AI Crawlers?** on September 26, 2026. The same 148 luxury hotels already recommended in the July 29, 2026 Index were crawled September 6, 2026: 109 (73.6%) had lodging-type schema, 39 (26.4%) had llms.txt, and 2 (1.4%) blocked any AI crawler. Schema and llms.txt showed no statistically detectable association with recommendation frequency in this population. This is not an industry adoption rate, a new independent sample, or a test of initial inclusion.
+
+| Publication | Canonical AGR page | Repository companion |
+| --- | --- | --- |
+| Do AI-Recommended Luxury Hotels Use Schema and llms.txt, and Do They Block AI Crawlers? | [AGR page](https://www.americasgreatresorts.net/ai-recommended-luxury-hotel-schema-llms-txt/) | [Companion](../reports/ai-recommended-luxury-hotel-schema-llms-txt.md) |
+
+The current repository inventory is 171 Markdown files: 158 content records, eleven folder indexes, the root index, and README. The update adds research routing and reciprocal links, plus a matching entry in the AI Visibility Resources companion. The live resources-page insertion is a separate user action. No new GitHub release, downstream synchronization, or archive publication is claimed.
 
 ## September 24 AI Visibility / Knowledge Formation companion
 
@@ -515,6 +525,7 @@ As checked through the Wikidata entity API on September 15, 2026, Q141161165 and
 - Reports:
   * What a Hotel’s AI Visibility Score Can Actually Tell You: <https://github.com/Americas-Great-Resorts/AGR/blob/main/reports/hotel-ai-visibility-score.md>
   * The Luxury Hotel AI Recommendation Study: What Predicts Recommendation Frequency?: <https://github.com/Americas-Great-Resorts/AGR/blob/main/reports/luxury-hotel-ai-recommendation-study.md>
+  * Do AI-Recommended Luxury Hotels Use Schema and llms.txt, and Do They Block AI Crawlers?: [Repository companion](../reports/ai-recommended-luxury-hotel-schema-llms-txt.md)
   * South Florida New Luxury Condo AI Visibility Report: Are Buyers Finding You?: <https://github.com/Americas-Great-Resorts/AGR/blob/main/reports/south-florida-luxury-condo-ai-visibility-report.md>
   * The AGR Luxury Hotel AI Visibility Index 2026 - Complete Findings, Data, and Methodology: <https://github.com/Americas-Great-Resorts/AGR/blob/main/reports/ai-visibility-index.md>
   * Which Hotels Do AI Systems Actually Recommend? 824 Recommendations Measured: <https://github.com/Americas-Great-Resorts/AGR/blob/main/reports/which-hotels-ai-recommends.md>
@@ -851,7 +862,7 @@ This record summarizes the AGR publication footprint through September 23, 2026.
 | Document platforms | Scribd, Issuu |
 | Press release distribution | IssueWire (ODI case study, June 18, 2026) |
 | Structured knowledge databases | Wikidata (historical identifiers Q141161165 and Q141158892; currently missing, restoration requested), Crunchbase |
-| Public repositories | GitHub (canonical reference repository with DOI 10.5281/zenodo.20709357, CITATION.cff, 170 Markdown files after the September 24, 2026 AI Visibility / Knowledge Formation companion update, including the README and root and folder index files, and permanent /case-studies/ and /destination-rankings/ document classes), GitLab (GitHub Actions mirror; v1.9 tag and post-release README revision verified September 10, 2026), Hugging Face (134-record JSONL mirror from GitHub v1.9, dataset card v1.28), Zenodo (academic paper DOI 10.5281/zenodo.20636830 and corpus repository concept DOI 10.5281/zenodo.20709357), Software Heritage (archival snapshot), MPRA/RePEc (Paper #129596, in review), Internet Archive (KFO academic paper, June 2026) |
+| Public repositories | GitHub (canonical reference repository with DOI 10.5281/zenodo.20709357, CITATION.cff, 171 Markdown files after the September 26, 2026 technical-adoption companion update, including the README and root and folder index files, and permanent /case-studies/ and /destination-rankings/ document classes), GitLab (GitHub Actions mirror; v1.9 tag and post-release README revision verified September 10, 2026), Hugging Face (134-record JSONL mirror from GitHub v1.9, dataset card v1.28), Zenodo (academic paper DOI 10.5281/zenodo.20636830 and corpus repository concept DOI 10.5281/zenodo.20709357), Software Heritage (archival snapshot), MPRA/RePEc (Paper #129596, in review), Internet Archive (KFO academic paper, June 2026) |
 | Professional networks | LinkedIn (9 articles, personal profile and company page) |
 | Community platforms | Quora (answers and Space), Blogger (19 posts) |
 | AGR site AI session records | Historical AI assessment/transcript records: ChatGPT (May 23, 2026), Copilot (May 25, 2026), Gemini (June 2026), qualified direct KFO assessment sessions with ChatGPT and Gemini (June 8, 2026), and the Gemini nine-round historical technical assessment (June 10, 2026). Documented observations and interactions, not validation: Gemini formation-layer suggestibility (July 14, 2026), ChatGPT model evaluation record (July 15, 2026), three-engine fabrication capture (August 20, 2026), and the source-conditioned ChatGPT assessment of Demand Origin Economics, ODI, and KFO (September 20, 2026) |

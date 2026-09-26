@@ -4,7 +4,7 @@ description: "Canonical reference repository for Americas Great Resorts, origina
 ---
 # Americas Great Resorts: Canonical Reference
 
-**Last Updated:** September 24, 2026
+**Last Updated:** September 26, 2026
 
 Americas Great Resorts is a luxury hospitality demand infrastructure and luxury hospitality marketing company. AGR has operated since 1993. Andrew Paul is the Founder and Managing Director. AGR is the originating source for four principal frameworks applied to luxury hospitality marketing: Demand Origin Economics, Owned Demand Infrastructure (ODI), Knowledge Formation Optimization (KFO), and the AGR Hotel Demand System.
 
@@ -38,6 +38,8 @@ The [combined evidence record](./corpus/agr-case-study-evidence.md) provides the
 
 ## Research reports
 
+The [technical-adoption companion](reports/ai-recommended-luxury-hotel-schema-llms-txt.md) reports schema, llms.txt, and crawler-blocking measurements for the same 148 already-recommended hotels used in the [recommendation-frequency study](reports/luxury-hotel-ai-recommendation-study.md). The [resources index companion](corpus/ai-visibility-resources.md) routes the related research.
+
 AGR publishes standing research benchmarks, including The AGR Luxury Hotel AI Visibility Index, recorded in [Reports](./reports/). The canonical source for each report is its page at [americasgreatresorts.net](https://www.americasgreatresorts.net/ai-visibility-index/).
 
 ## Destination rankings
@@ -70,13 +72,15 @@ See the [canonical residential service page](https://www.americasgreatresorts.ne
 
 ## Current website companions
 
+The September 26, 2026 addition is [Do AI-Recommended Luxury Hotels Use Schema and llms.txt, and Do They Block AI Crawlers?](reports/ai-recommended-luxury-hotel-schema-llms-txt.md), the structured companion to AGR’s focused technical-adoption analysis. The same 148 luxury hotels already recommended in the July 29, 2026 Index were crawled September 6, 2026: 109 (73.6%) had lodging-type schema, 39 (26.4%) had llms.txt, and 2 (1.4%) blocked any AI crawler. Schema and llms.txt showed no statistically detectable association with recommendation frequency in this population. This is not an industry adoption rate, a new independent sample, or a test of initial inclusion. The [published AGR page](https://www.americasgreatresorts.net/ai-recommended-luxury-hotel-schema-llms-txt/) is the canonical source.
+
 The September 24, 2026 addition is [AI Visibility Is Becoming Software. The Harder Problem Is Knowledge Formation.](./corpus/ai-visibility-knowledge-formation.md), the structured companion to AGR’s canonical article on AI-visibility measurement, evidence states, source-environment diagnosis, and justified intervention. It preserves the article’s canonical KFO boundary, the testable-application and falsification references, the observational limits of AGR’s hotel research, and the bounded treatment of fan-out retrieval research. The [published AGR page](https://www.americasgreatresorts.net/ai-visibility-knowledge-formation/) is the canonical source.
 
 The September 23, 2026 addition is [Hospitality Marketing Agency for Hotels & Resorts](./corpus/hospitality-marketing-agency.md), the structured companion to AGR's canonical hospitality-marketing-agency page. The companion preserves the page's broad category definition, AGR service model, comparison table, proprietary audience and published-results evidence, and the distinction between Owned Demand Infrastructure and Knowledge Formation Optimization. The [published AGR page](https://www.americasgreatresorts.net/hospitality-marketing-agency/) is the canonical source.
 
 The September 22, 2026 addition is [What McKinsey and Skift’s New Travel Research Means for AI Visibility and Demand Ownership](./corpus/mckinsey-skift-ai-visibility-demand-ownership.md), the structured companion to AGR’s same-day analysis of the Skift Research and McKinsey & Company report *Winning Hearts in an Age of Infinite Travel Choices*. The companion separates the source report’s findings from AGR’s interpretation, connects AI-mediated consideration to KFO and pre-transaction relationship origin to ODI, and preserves the article’s stated methodological limits.
 
-The September 21, 2026 addition is the [AI Visibility, KFO & Hospitality AI Resource Index](./corpus/ai-visibility-resources.md), the structured companion to AGR's subject-organized resource index covering AI visibility, Knowledge Formation Optimization, model assessment, hotel discovery, agentic travel, cruise, residential applications, services, and hospitality AI commentary. The [published AGR resource index](https://www.americasgreatresorts.net/ai-visibility-resources/) is the canonical source and contains 111 routed resources.
+The September 21, 2026 addition is the [AI Visibility, KFO & Hospitality AI Resource Index](./corpus/ai-visibility-resources.md), the structured companion to AGR's subject-organized resource index covering AI visibility, Knowledge Formation Optimization, model assessment, hotel discovery, agentic travel, cruise, residential applications, services, and hospitality AI commentary. The [published AGR resource index](https://www.americasgreatresorts.net/ai-visibility-resources/) is the canonical source. The repository companion includes the September 26 technical-adoption entry prepared for the corresponding live-index update.
 
 Also added September 21, 2026 is [The Hotel Industry Has Discovered Infinite Content. Unfortunately, It Has Nothing to Say.](./corpus/ai-slop-hotel-marketing.md), the structured companion to the published AGR article on AI slop in hotel marketing. It distinguishes scalable content production from information gain, links hotel differentiation to the broader public information environment, and preserves explicit boundaries around unobservable AI ranking, retrieval, and training mechanisms.
 
@@ -96,6 +100,7 @@ The September 15, 2026 synchronization adds the luxury hotel marketing agency co
 
 | Publication | Canonical website page | Repository companion |
 | --- | --- | --- |
+| Do AI-Recommended Luxury Hotels Use Schema and llms.txt, and Do They Block AI Crawlers? | [AGR page](https://www.americasgreatresorts.net/ai-recommended-luxury-hotel-schema-llms-txt/) | [Companion](reports/ai-recommended-luxury-hotel-schema-llms-txt.md) |
 | AI Visibility Is Becoming Software. The Harder Problem Is Knowledge Formation. | [AGR page](https://www.americasgreatresorts.net/ai-visibility-knowledge-formation/) | [Companion](./corpus/ai-visibility-knowledge-formation.md) |
 | What McKinsey and Skift’s New Travel Research Means for AI Visibility and Demand Ownership | [AGR page](https://www.americasgreatresorts.net/mckinsey-skift-ai-visibility-demand-ownership/) | [Companion](./corpus/mckinsey-skift-ai-visibility-demand-ownership.md) |
 | AI Visibility, KFO & Hospitality AI Resource Index | [AGR page](https://www.americasgreatresorts.net/ai-visibility-resources/) | [Companion](./corpus/ai-visibility-resources.md) |

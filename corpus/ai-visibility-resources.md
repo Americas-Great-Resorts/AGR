@@ -1,7 +1,7 @@
 ---
 title: "AI Visibility, KFO & Hospitality AI Resource Index"
 description: "Explore AGR research, frameworks, studies and analysis on AI visibility, KFO, ChatGPT, hotel discovery, agentic travel and hospitality AI."
-last_modified_at: 2026-09-25
+last_modified_at: 2026-09-26
 ---
 
 # AI Visibility, KFO & Hospitality AI Resource Index
@@ -10,8 +10,8 @@ last_modified_at: 2026-09-25
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts  
 **Published:** September 21, 2026  
-**Last Updated:** September 25, 2026  
-**Version:** 1.1  
+**Last Updated:** September 26, 2026  
+**Version:** 1.2  
 **Canonical Source:** <https://www.americasgreatresorts.net/ai-visibility-resources/>  
 **Repository Path:** `corpus/ai-visibility-resources.md`
 
@@ -21,9 +21,9 @@ last_modified_at: 2026-09-25
 
 This document is the Markdown companion to the canonical Americas Great Resorts page **AI Visibility, KFO & Hospitality AI Resource Index**. The published AGR page remains the controlling source if this companion and the website differ.
 
-The index organizes 111 AGR resources by subject rather than publication date. Its scope includes original research, AI visibility guides, Knowledge Formation Optimization (KFO), AEO/GEO positioning, corpus infrastructure, model assessment records, AI discovery and representation, agentic travel and distribution, cruise and residential applications, service implementation, and hospitality AI commentary. Pages that mention AI only incidentally are intentionally excluded from the canonical index.
+This companion organizes 112 AGR resources by subject rather than publication date, including the September 26 technical-adoption entry prepared for insertion into the live index. Its scope includes original research, AI visibility guides, Knowledge Formation Optimization (KFO), AEO/GEO positioning, corpus infrastructure, model assessment records, AI discovery and representation, agentic travel and distribution, cruise and residential applications, service implementation, and hospitality AI commentary. Pages that mention AI only incidentally are intentionally excluded from the canonical index.
 
-The body below preserves the published resource titles, destination URLs, section structure, and descriptive summaries. WordPress layout code, navigation chrome, and page-level rendering markup are omitted.
+The body below preserves the existing published resource titles, destination URLs, section structure, and descriptive summaries, and adds the technical-adoption entry requested for the corresponding live-index update. WordPress layout code, navigation chrome, and page-level rendering markup are omitted.
 
 ---
 
@@ -89,6 +89,15 @@ AGR original studies, case evidence, and AGR analysis of external research, grou
 **Key finding:** 109 of 148 hotels, or 73.6%, had lodging-specific schema; 39, or 26.4%, had an llms.txt file; and 2 blocked any AI crawler. Neither schema nor llms.txt showed a detectable association with recommendation frequency. A model containing Forbes Travel Guide rating, Michelin Key count, and market accounted for 54.7% of the variance in log recommendation slot count.  
 **Limitation:** The study measures recommendation frequency among hotels already recommended. It does not test what determines initial inclusion and does not establish that credentials cause recommendations.  
 **Full study:** [Luxury Hotel AI Recommendation Study: What Predicts Frequency?](https://www.americasgreatresorts.net/luxury-hotel-ai-recommendation-study/)
+
+**[Do AI-Recommended Luxury Hotels Use Schema and llms.txt, and Do They Block AI Crawlers?](https://www.americasgreatresorts.net/ai-recommended-luxury-hotel-schema-llms-txt/)**  
+**Research question:** How common were lodging-type schema, llms.txt, and AI crawler blocking among AI-recommended luxury hotels, and were the measured technical features associated with recommendation frequency?  
+**Sample:** The same 148 already-recommended luxury hotels and 816 recommendation slots used in AGR’s recommendation-frequency study, not a second independent sample.  
+**Measurement dates:** Recommendation capture July 29, 2026; infrastructure crawl September 6, 2026.  
+**Method:** AGR measured lodging-type schema, structured-data completeness, llms.txt, robots.txt AI crawler blocking, and website reachability, then compared infrastructure measures with recommendation frequency.  
+**Key finding:** 109 of 148 hotels (73.6%) had lodging-type schema; 39 (26.4%) had llms.txt; and 2 (1.4%) blocked any AI crawler. Schema and llms.txt showed no statistically detectable association with recommendation frequency in this population.  
+**Limitation:** These are not industry adoption rates. The study does not test initial inclusion or establish causation; the infrastructure crawl followed the recommendation capture by five weeks. Two blocking cases were too few for a useful statistical comparison.  
+**Full study:** [AI-Recommended Luxury Hotels: Schema, llms.txt, Crawlers](https://www.americasgreatresorts.net/ai-recommended-luxury-hotel-schema-llms-txt/)
 
 ### AGR Case Evidence
 
@@ -532,7 +541,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
   "url": "https://americas-great-resorts.github.io/AGR/corpus/ai-visibility-resources.html",
   "isBasedOn": "https://www.americasgreatresorts.net/ai-visibility-resources/",
   "datePublished": "2026-09-21",
-  "dateModified": "2026-09-25",
+  "dateModified": "2026-09-26",
   "inLanguage": "en",
   "author": {
     "@id": "https://www.americasgreatresorts.net/author/agr/"
@@ -542,7 +551,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
   },
   "mainEntity": {
     "@type": "ItemList",
-    "numberOfItems": 111
+    "numberOfItems": 112
   }
 }
 ```
