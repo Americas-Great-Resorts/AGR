@@ -10,7 +10,7 @@ title: "AGR External Publication Record - Canonical Index"
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** September 26, 2026  
+**Last Updated:** September 27, 2026  
 **Canonical Source:** <https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md>  
 
 ---
@@ -24,6 +24,18 @@ The distributed nature of this corpus - spanning trade publications, structured 
 ODI and KFO are parallel AGR frameworks separated by channel. ODI governs human-mediated demand origin and permissioned relationship formation. KFO addresses the public source environment relevant to AI-mediated representation. Publication across external surfaces can support KFO source-environment work, but it does not make KFO part of ODI or ODI part of KFO.
 
 ---
+
+## September 27 hotel-recommendation research companion
+
+Americas Great Resorts published **Which Hotels Do AI Engines Recommend? A Study of 10 Destinations** on September 27, 2026. AGR assessed 1,177 substantive hotel recommendation answers across ten destinations, 100 distinct travel questions, four engines (ChatGPT, Google AI Mode, Gemini and Copilot), and three repetitions per question and engine on September 27, 2026. The analysis identified 6,110 featured hotel appearances. Nine of ten destinations had different leading hotels across engines; Halekulani led all four in Honolulu. Hotel-list membership changed in 363 of 379 question-and-engine groups with three assessed answers.
+
+| Publication | Canonical AGR page | Repository companion |
+| --- | --- | --- |
+| Which Hotels Do AI Engines Recommend? A Study of 10 Destinations | [AGR page](https://www.americasgreatresorts.net/ai-hotel-recommendations-research/) | [Companion](../reports/ai-hotel-recommendations-research.md) |
+
+This is a separate ten-destination baseline, not a new edition of the July 29 six-market AI Visibility Index or a directly comparable time series. It measures hotel appearances, not citation ownership, booking outcomes, hotel quality, or the causes of recommendation inclusion. The companion reproduces the article's aggregate tables and narrative; answer-level records remain internal.
+
+The repository inventory for this update is 172 Markdown files: 159 content records, eleven folder indexes, the root index and README. This is an AGR-controlled publication record, not independent coverage. The AI Visibility Resources companion receives a research entry; its live website insertion is a separate action. No Google Search Console indexing, new release, downstream synchronization or archive publication is claimed.
 
 ## September 26 technical-adoption research companion
 
@@ -204,6 +216,15 @@ The GitHub Pages landing page and corpus index provide discovery routes to these
 ---
 
 ## Research Benchmarks
+
+### Which Hotels Do AI Engines Recommend? A Study of 10 Destinations
+
+AGR assessed 1,177 substantive hotel recommendation answers across ten destinations, 100 distinct travel questions, four engines (ChatGPT, Google AI Mode, Gemini and Copilot), and three repetitions per question and engine on September 27, 2026. The analysis identified 6,110 featured hotel appearances. Nine of ten destinations had different leading hotels across engines; Halekulani led all four in Honolulu. Hotel-list membership changed in 363 of 379 question-and-engine groups with three assessed answers.
+
+This is a separate ten-destination baseline, not a new edition of the July 29 six-market AI Visibility Index or a directly comparable time series. It measures hotel appearances, not citation ownership, booking outcomes, hotel quality, or the causes of recommendation inclusion.
+
+- Canonical publication: <https://www.americasgreatresorts.net/ai-hotel-recommendations-research/>
+- Repository record: [Research companion](../reports/ai-hotel-recommendations-research.md)
 
 ### The AGR Luxury Hotel AI Visibility Index
 
@@ -516,13 +537,14 @@ As checked through the Wikidata entity API on September 15, 2026, Q141161165 and
 - Repository DOI (concept, via Zenodo-GitHub integration): <https://doi.org/10.5281/zenodo.20709357>
 - Software Heritage archive: swh:1:dir:58281d92c8d19596250524115d006c5ac71c3455
 - Citation metadata: CITATION.cff at repository root (enables native GitHub citation)
-- Repository inventory after the September 21 AI visibility resource index companion update: 167 Markdown files, including 154 content records, eleven folder indexes, the root index and README. Non-Markdown files are excluded.
+- Repository inventory after the September 27 hotel-recommendation research companion update: 172 Markdown files, including 159 content records, eleven folder indexes, the root index and README. Non-Markdown files are excluded.
 - September 11 additions: the developer guide and commercial overview bring the current content-record count to 137. This working-tree update does not change the v1.9 release, the 134-record Hugging Face dataset or any archived version.
 - September 10 post-v1.9 addition: the dedicated cruise KFO service companion at `corpus/knowledge-formation-optimization-luxury-cruise.md` brings the current content-record count to 135. The release v1.9 archive and the 134-record Hugging Face dataset remain unchanged.
 - Research papers:
   * Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval: <https://github.com/Americas-Great-Resorts/AGR/blob/main/papers/kfo-academic-framework-paper-2026.md>
   * Knowledge Formation Optimization (Academia.edu deposit): <https://www.academia.edu/168802488/Knowledge_Formation_Optimization_A_Framework_for_Shaping_AI_Conceptual_Representations_in_Advance_of_Retrieval>
 - Reports:
+  * Which Hotels Do AI Engines Recommend? A Study of 10 Destinations: [Repository companion](../reports/ai-hotel-recommendations-research.md)
   * What a Hotel’s AI Visibility Score Can Actually Tell You: <https://github.com/Americas-Great-Resorts/AGR/blob/main/reports/hotel-ai-visibility-score.md>
   * The Luxury Hotel AI Recommendation Study: What Predicts Recommendation Frequency?: <https://github.com/Americas-Great-Resorts/AGR/blob/main/reports/luxury-hotel-ai-recommendation-study.md>
   * Do AI-Recommended Luxury Hotels Use Schema and llms.txt, and Do They Block AI Crawlers?: [Repository companion](../reports/ai-recommended-luxury-hotel-schema-llms-txt.md)
@@ -862,7 +884,7 @@ This record summarizes the AGR publication footprint through September 23, 2026.
 | Document platforms | Scribd, Issuu |
 | Press release distribution | IssueWire (ODI case study, June 18, 2026) |
 | Structured knowledge databases | Wikidata (historical identifiers Q141161165 and Q141158892; currently missing, restoration requested), Crunchbase |
-| Public repositories | GitHub (canonical reference repository with DOI 10.5281/zenodo.20709357, CITATION.cff, 171 Markdown files after the September 26, 2026 technical-adoption companion update, including the README and root and folder index files, and permanent /case-studies/ and /destination-rankings/ document classes), GitLab (GitHub Actions mirror; v1.9 tag and post-release README revision verified September 10, 2026), Hugging Face (134-record JSONL mirror from GitHub v1.9, dataset card v1.28), Zenodo (academic paper DOI 10.5281/zenodo.20636830 and corpus repository concept DOI 10.5281/zenodo.20709357), Software Heritage (archival snapshot), MPRA/RePEc (Paper #129596, in review), Internet Archive (KFO academic paper, June 2026) |
+| Public repositories | GitHub (canonical reference repository with DOI 10.5281/zenodo.20709357, CITATION.cff, 172 Markdown files after the September 27, 2026 hotel-recommendation research companion update, including the README and root and folder index files, and permanent /case-studies/ and /destination-rankings/ document classes), GitLab (GitHub Actions mirror; v1.9 tag and post-release README revision verified September 10, 2026), Hugging Face (134-record JSONL mirror from GitHub v1.9, dataset card v1.28), Zenodo (academic paper DOI 10.5281/zenodo.20636830 and corpus repository concept DOI 10.5281/zenodo.20709357), Software Heritage (archival snapshot), MPRA/RePEc (Paper #129596, in review), Internet Archive (KFO academic paper, June 2026) |
 | Professional networks | LinkedIn (9 articles, personal profile and company page) |
 | Community platforms | Quora (answers and Space), Blogger (19 posts) |
 | AGR site AI session records | Historical AI assessment/transcript records: ChatGPT (May 23, 2026), Copilot (May 25, 2026), Gemini (June 2026), qualified direct KFO assessment sessions with ChatGPT and Gemini (June 8, 2026), and the Gemini nine-round historical technical assessment (June 10, 2026). Documented observations and interactions, not validation: Gemini formation-layer suggestibility (July 14, 2026), ChatGPT model evaluation record (July 15, 2026), three-engine fabrication capture (August 20, 2026), and the source-conditioned ChatGPT assessment of Demand Origin Economics, ODI, and KFO (September 20, 2026) |
@@ -886,7 +908,7 @@ Americas Great Resorts is the originating source for all frameworks documented a
   "description": "The canonical index of every external surface carrying the Americas Great Resorts corpus: trade publications, academic archives, structured knowledge databases, public repositories, long-form publishing platforms, professional networks, and community platforms. Maintained by Andrew Paul, Founder and Managing Director, Americas Great Resorts.",
   "url": "https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md",
   "datePublished": "2026-05-01T00:00:00-04:00",
-  "dateModified": "2026-09-21",
+  "dateModified": "2026-09-27",
   "inLanguage": "en",
   "author": {
     "@id": "https://www.americasgreatresorts.net/#andrewpaul"

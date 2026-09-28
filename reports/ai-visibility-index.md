@@ -334,6 +334,12 @@ The Index succeeds the Americas Great Resorts pilot audit of July 2026: 300 capt
 
 ---
 
+## Related Ten-Destination Recommendation Research
+
+The September 27, 2026 [Which Hotels Do AI Engines Recommend? A Study of 10 Destinations](ai-hotel-recommendations-research.md) reports a separate collection of 1,177 assessed answers and 6,110 featured hotel appearances across ten destinations and four engines, including Copilot. This is a separate ten-destination baseline, not a new edition of the July 29 six-market AI Visibility Index or a directly comparable time series. It measures hotel appearances, not citation ownership, booking outcomes, hotel quality, or the causes of recommendation inclusion. The original Index figures, fieldwork dates and methodology remain unchanged. [Canonical September article](https://www.americasgreatresorts.net/ai-hotel-recommendations-research/).
+
+---
+
 ## Related Technical-Adoption Analysis
 
 The September 26, 2026 [technical-adoption analysis](ai-recommended-luxury-hotel-schema-llms-txt.md) gives the schema, llms.txt, and crawler-blocking results a dedicated research page: [Do AI-Recommended Luxury Hotels Use Schema and llms.txt, and Do They Block AI Crawlers?](https://www.americasgreatresorts.net/ai-recommended-luxury-hotel-schema-llms-txt/). It uses the same 148 already-recommended hotels and 816 slots as the September recommendation-frequency study, with infrastructure crawled September 6, 2026. It is not a new independent sample or an industry adoption census and does not test initial inclusion.
