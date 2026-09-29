@@ -469,6 +469,12 @@ Tell us about your development, its location and sales stage, and any AI answers
 
 ---
 
+
+
+## Related AGR research and resources
+
+**Repository navigation — September 29, 2026.** The [Luxury Condo AI Visibility Resource Index](../corpus/luxury-condo-ai-visibility-resources.md) organizes the related research, guide, framework and service pages. The [ten-market luxury condo AI visibility study](../reports/luxury-condo-ai-visibility-study.md) preserves 100 questions, repeated-search charts, source classifications, the eligible-property roster and the no-recorded-mention list. Its September 28, 2026 captures are a separate study, not a directly comparable extension of the earlier South Florida protocol. These links are repository navigation additions; the canonical pages continue to control each publication.
+
 ## Structured data (JSON-LD)
 
 ```json

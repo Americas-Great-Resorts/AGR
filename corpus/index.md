@@ -71,6 +71,7 @@ title: "Corpus"
 - [AI Visibility for Luxury Cruise Lines: Knowledge Formation Optimization (KFO)](knowledge-formation-optimization-luxury-cruise.md)
 - [The Two Kinds of Late: Purchasable Delay and Time-Compounding Delay in Hotel Technology Adoption](late-is-cheap-until-it-isnt.md)
 - [LLMs Are About to Hand More Power to OTAs And Most Luxury Hotels Don't See It Coming](llms-otas-luxury-hotel-demand.md)
+- [Luxury Condo AI Visibility Resource Index](luxury-condo-ai-visibility-resources.md)
 - [Luxury Condo Marketing Guide for Developers](luxury-condo-marketing-guide.md)
 - [Luxury Condo Marketing for New Developments](luxury-condo-marketing.md)
 - [Luxury Hotel Demand and OTA Dependence: Questions and Answers](luxury-hotel-demand-faq.md)

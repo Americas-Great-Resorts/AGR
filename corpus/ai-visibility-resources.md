@@ -1,7 +1,7 @@
 ---
 title: "AI Visibility, KFO & Hospitality AI Resource Index"
 description: "Explore AGR research, frameworks, studies and analysis on AI visibility, KFO, ChatGPT, hotel discovery, agentic travel and hospitality AI."
-last_modified_at: 2026-09-27
+last_modified_at: 2026-09-29
 ---
 
 # AI Visibility, KFO & Hospitality AI Resource Index
@@ -10,8 +10,8 @@ last_modified_at: 2026-09-27
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts  
 **Published:** September 21, 2026  
-**Last Updated:** September 27, 2026  
-**Version:** 1.3  
+**Last Updated:** September 29, 2026  
+**Version:** 1.4  
 **Canonical Source:** <https://www.americasgreatresorts.net/ai-visibility-resources/>  
 **Repository Path:** `corpus/ai-visibility-resources.md`
 
@@ -19,9 +19,11 @@ last_modified_at: 2026-09-27
 
 ## Purpose and Scope
 
+**Repository routing update — September 29, 2026:** Added the ten-market luxury condo study and the Luxury Condo AI Visibility Resource Index, increasing this companion from 113 to 115 resources. These additions do not establish that the broad canonical website index has been edited.
+
 This document is the Markdown companion to the canonical Americas Great Resorts page **AI Visibility, KFO & Hospitality AI Resource Index**. The published AGR page remains the controlling source if this companion and the website differ.
 
-This companion organizes 113 AGR resources by subject rather than publication date, including the September 26 technical-adoption and September 27 hotel-recommendation research entries prepared for insertion into the live index. Its scope includes original research, AI visibility guides, Knowledge Formation Optimization (KFO), AEO/GEO positioning, corpus infrastructure, model assessment records, AI discovery and representation, agentic travel and distribution, cruise and residential applications, service implementation, and hospitality AI commentary. Pages that mention AI only incidentally are intentionally excluded from the canonical index.
+This companion organizes 115 AGR resources by subject rather than publication date, including the September 26 technical-adoption and September 27 hotel-recommendation research entries prepared for insertion into the live index. Its scope includes original research, AI visibility guides, Knowledge Formation Optimization (KFO), AEO/GEO positioning, corpus infrastructure, model assessment records, AI discovery and representation, agentic travel and distribution, cruise and residential applications, service implementation, and hospitality AI commentary. Pages that mention AI only incidentally are intentionally excluded from the canonical index.
 
 The body below preserves the existing published resource titles, destination URLs, section structure, and descriptive summaries, and adds the technical-adoption and hotel-recommendation research entries for corresponding live-index updates. These repository additions do not establish that either entry has been inserted into the live resource page. WordPress layout code, navigation chrome, and page-level rendering markup are omitted.
 
@@ -62,6 +64,9 @@ For a first pass through the corpus, these five resources provide the clearest p
 AGR original studies, case evidence, and AGR analysis of external research, grouped by evidence type. Each original study links to its canonical page, which holds the full methodology, exhibits, and limitations.
 
 ### AGR Original Research
+
+**[Which New Luxury Condo Developments Do AI Platforms Recommend? A Study Across 10 U.S. Markets](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-study/)**  
+AGR collected 900 responses on September 28, 2026, using 100 market-specific questions across ten U.S. markets, three platforms (ChatGPT, Gemini and Microsoft Copilot), and three repetitions. Four nonanswers were excluded, leaving 896 assessed answers against 136 included developments. The full article preserves question-by-question top-five comparison charts, source classifications, the eligible-property roster and the no-recorded-mention list. Findings apply to these captured answers and reference set; they do not establish permanent invisibility, lost sales or KFO effectiveness.
 
 **[Which Hotels Do AI Engines Recommend? A Study of 10 Destinations](https://www.americasgreatresorts.net/ai-hotel-recommendations-research/)**  
 **Fieldwork:** September 27, 2026.  
@@ -430,6 +435,9 @@ Documents AGR’s 1998 warning about OTA gateway control and presents the claime
 
 ## Cruise & Residential Applications
 
+**[Luxury Condo AI Visibility Resource Index](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-resources/)**  
+Organizes six AGR resources: two condo research studies, the developer marketing guide, KFO framework and two service pages. [Repository companion](luxury-condo-ai-visibility-resources.md).
+
 AI visibility and KFO applications for luxury cruise lines, new luxury condominium developments, and branded residences.
 
 **[AI Search for Cruise Lines: How Brands Should Prepare](https://www.americasgreatresorts.net/how-cruise-lines-should-prepare-for-ai-search-before-its-too-late/)**  
@@ -548,7 +556,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
   "url": "https://americas-great-resorts.github.io/AGR/corpus/ai-visibility-resources.html",
   "isBasedOn": "https://www.americasgreatresorts.net/ai-visibility-resources/",
   "datePublished": "2026-09-21",
-  "dateModified": "2026-09-27",
+  "dateModified": "2026-09-29",
   "inLanguage": "en",
   "author": {
     "@id": "https://www.americasgreatresorts.net/author/agr/"
@@ -558,7 +566,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
   },
   "mainEntity": {
     "@type": "ItemList",
-    "numberOfItems": 113
+    "numberOfItems": 115
   }
 }
 ```

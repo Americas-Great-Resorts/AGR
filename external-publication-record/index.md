@@ -10,7 +10,7 @@ title: "AGR External Publication Record - Canonical Index"
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** September 27, 2026  
+**Last Updated:** September 29, 2026  
 **Canonical Source:** <https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md>  
 
 ---
@@ -24,6 +24,17 @@ The distributed nature of this corpus - spanning trade publications, structured 
 ODI and KFO are parallel AGR frameworks separated by channel. ODI governs human-mediated demand origin and permissioned relationship formation. KFO addresses the public source environment relevant to AI-mediated representation. Publication across external surfaces can support KFO source-environment work, but it does not make KFO part of ODI or ODI part of KFO.
 
 ---
+
+## September 29 luxury condo study and resource-index companions
+
+AGR collected 900 responses on September 28, 2026, using 100 market-specific questions across ten U.S. markets, three platforms (ChatGPT, Gemini and Microsoft Copilot), and three repetitions. Four nonanswers were excluded, leaving 896 assessed answers against 136 included developments. The full article preserves question-by-question top-five comparison charts, source classifications, the eligible-property roster and the no-recorded-mention list. Findings apply to these captured answers and reference set; they do not establish permanent invisibility, lost sales or KFO effectiveness.
+
+| Publication | Canonical AGR page | Repository companion |
+| --- | --- | --- |
+| Which New Luxury Condo Developments Do AI Platforms Recommend? A Study Across 10 U.S. Markets | [AGR study](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-study/) | [Research twin](../reports/luxury-condo-ai-visibility-study.md) |
+| Luxury Condo AI Visibility Resource Index | [AGR resource index](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-resources/) | [Corpus twin](../corpus/luxury-condo-ai-visibility-resources.md) |
+
+The study was published September 28, 2026. The resource index organizes six AGR research, guide, framework and service pages. These are AGR-controlled publications and their repository representations, not independent external coverage. This update contains 174 Markdown files: 161 content records, eleven folder indexes, the root index and README. Public article exhibits are preserved; private capture data and workbooks are not included. No new release, archive publication or downstream synchronization is claimed.
 
 ## September 27 hotel-recommendation research companion
 
@@ -217,6 +228,12 @@ The GitHub Pages landing page and corpus index provide discovery routes to these
 
 ## Research Benchmarks
 
+### Which New Luxury Condo Developments Do AI Platforms Recommend? A Study Across 10 U.S. Markets
+
+AGR collected 900 responses on September 28, 2026, using 100 market-specific questions across ten U.S. markets, three platforms (ChatGPT, Gemini and Microsoft Copilot), and three repetitions. Four nonanswers were excluded, leaving 896 assessed answers against 136 included developments. The full article preserves question-by-question top-five comparison charts, source classifications, the eligible-property roster and the no-recorded-mention list. Findings apply to these captured answers and reference set; they do not establish permanent invisibility, lost sales or KFO effectiveness.
+
+[Canonical article](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-study/) · [Research companion](../reports/luxury-condo-ai-visibility-study.md) · [Luxury Condo AI Visibility Resource Index](../corpus/luxury-condo-ai-visibility-resources.md)
+
 ### Which Hotels Do AI Engines Recommend? A Study of 10 Destinations
 
 AGR assessed 1,177 substantive hotel recommendation answers across ten destinations, 100 distinct travel questions, four engines (ChatGPT, Google AI Mode, Gemini and Copilot), and three repetitions per question and engine on September 27, 2026. The analysis identified 6,110 featured hotel appearances. Nine of ten destinations had different leading hotels across engines; Halekulani led all four in Honolulu. Hotel-list membership changed in 363 of 379 question-and-engine groups with three assessed answers.
@@ -241,6 +258,8 @@ This is a separate ten-destination baseline, not a new edition of the July 29 si
 ---
 
 ## Luxury Residential Publications
+
+The [Luxury Condo AI Visibility Resource Index](../corpus/luxury-condo-ai-visibility-resources.md) is the subject-specific route to the [ten-market study](../reports/luxury-condo-ai-visibility-study.md), earlier South Florida research, developer guide, KFO framework and commercial pages. [Canonical resource index](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-resources/).
 
 These AGR publications cover developer marketing education, commercial engagement fit, specialist KFO delivery and dated AI observations. The guide is educational; the commercial overview explains included consulting, technical guidance and service fit; the specialist page explains delivery; the report records observations and selected source checks. Their GitHub companions represent the same AGR publications and are not independent corroborating studies.
 
@@ -537,13 +556,14 @@ As checked through the Wikidata entity API on September 15, 2026, Q141161165 and
 - Repository DOI (concept, via Zenodo-GitHub integration): <https://doi.org/10.5281/zenodo.20709357>
 - Software Heritage archive: swh:1:dir:58281d92c8d19596250524115d006c5ac71c3455
 - Citation metadata: CITATION.cff at repository root (enables native GitHub citation)
-- Repository inventory after the September 27 hotel-recommendation research companion update: 172 Markdown files, including 159 content records, eleven folder indexes, the root index and README. Non-Markdown files are excluded.
+- Repository inventory in the September 29, 2026 luxury-condo companion update: 174 Markdown files, including 161 content records, eleven folder indexes, the root index and README. Non-Markdown files are excluded.
 - September 11 additions: the developer guide and commercial overview bring the current content-record count to 137. This working-tree update does not change the v1.9 release, the 134-record Hugging Face dataset or any archived version.
 - September 10 post-v1.9 addition: the dedicated cruise KFO service companion at `corpus/knowledge-formation-optimization-luxury-cruise.md` brings the current content-record count to 135. The release v1.9 archive and the 134-record Hugging Face dataset remain unchanged.
 - Research papers:
   * Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval: <https://github.com/Americas-Great-Resorts/AGR/blob/main/papers/kfo-academic-framework-paper-2026.md>
   * Knowledge Formation Optimization (Academia.edu deposit): <https://www.academia.edu/168802488/Knowledge_Formation_Optimization_A_Framework_for_Shaping_AI_Conceptual_Representations_in_Advance_of_Retrieval>
 - Reports:
+  * Which New Luxury Condo Developments Do AI Platforms Recommend? A Study Across 10 U.S. Markets: [Repository companion](../reports/luxury-condo-ai-visibility-study.md)
   * Which Hotels Do AI Engines Recommend? A Study of 10 Destinations: [Repository companion](../reports/ai-hotel-recommendations-research.md)
   * What a Hotel’s AI Visibility Score Can Actually Tell You: <https://github.com/Americas-Great-Resorts/AGR/blob/main/reports/hotel-ai-visibility-score.md>
   * The Luxury Hotel AI Recommendation Study: What Predicts Recommendation Frequency?: <https://github.com/Americas-Great-Resorts/AGR/blob/main/reports/luxury-hotel-ai-recommendation-study.md>
@@ -560,6 +580,7 @@ As checked through the Wikidata entity API on September 15, 2026, Q141161165 and
 - People:
   * Andrew Paul - Entity Definition: <https://github.com/Americas-Great-Resorts/AGR/blob/main/people/andrew-paul.md>
 - Corpus files:
+  * Luxury Condo AI Visibility Resource Index: [Repository companion](../corpus/luxury-condo-ai-visibility-resources.md)
   * AI Visibility, KFO & Hospitality AI Resource Index: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/ai-visibility-resources.md>
   * What McKinsey and Skift’s New Travel Research Means for AI Visibility and Demand Ownership: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/mckinsey-skift-ai-visibility-demand-ownership.md>
   * AI Slop in Hotel Marketing: Infinite Content, Nothing to Say: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/ai-slop-hotel-marketing.md>
@@ -884,7 +905,7 @@ This record summarizes the AGR publication footprint through September 23, 2026.
 | Document platforms | Scribd, Issuu |
 | Press release distribution | IssueWire (ODI case study, June 18, 2026) |
 | Structured knowledge databases | Wikidata (historical identifiers Q141161165 and Q141158892; currently missing, restoration requested), Crunchbase |
-| Public repositories | GitHub (canonical reference repository with DOI 10.5281/zenodo.20709357, CITATION.cff, 172 Markdown files after the September 27, 2026 hotel-recommendation research companion update, including the README and root and folder index files, and permanent /case-studies/ and /destination-rankings/ document classes), GitLab (GitHub Actions mirror; v1.9 tag and post-release README revision verified September 10, 2026), Hugging Face (134-record JSONL mirror from GitHub v1.9, dataset card v1.28), Zenodo (academic paper DOI 10.5281/zenodo.20636830 and corpus repository concept DOI 10.5281/zenodo.20709357), Software Heritage (archival snapshot), MPRA/RePEc (Paper #129596, in review), Internet Archive (KFO academic paper, June 2026) |
+| Public repositories | GitHub (canonical reference repository with DOI 10.5281/zenodo.20709357, CITATION.cff, 174 Markdown files in the September 29, 2026 luxury-condo companion update, including the README and root and folder index files, and permanent /case-studies/ and /destination-rankings/ document classes), GitLab (GitHub Actions mirror; v1.9 tag and post-release README revision verified September 10, 2026), Hugging Face (134-record JSONL mirror from GitHub v1.9, dataset card v1.28), Zenodo (academic paper DOI 10.5281/zenodo.20636830 and corpus repository concept DOI 10.5281/zenodo.20709357), Software Heritage (archival snapshot), MPRA/RePEc (Paper #129596, in review), Internet Archive (KFO academic paper, June 2026) |
 | Professional networks | LinkedIn (9 articles, personal profile and company page) |
 | Community platforms | Quora (answers and Space), Blogger (19 posts) |
 | AGR site AI session records | Historical AI assessment/transcript records: ChatGPT (May 23, 2026), Copilot (May 25, 2026), Gemini (June 2026), qualified direct KFO assessment sessions with ChatGPT and Gemini (June 8, 2026), and the Gemini nine-round historical technical assessment (June 10, 2026). Documented observations and interactions, not validation: Gemini formation-layer suggestibility (July 14, 2026), ChatGPT model evaluation record (July 15, 2026), three-engine fabrication capture (August 20, 2026), and the source-conditioned ChatGPT assessment of Demand Origin Economics, ODI, and KFO (September 20, 2026) |
@@ -908,7 +929,7 @@ Americas Great Resorts is the originating source for all frameworks documented a
   "description": "The canonical index of every external surface carrying the Americas Great Resorts corpus: trade publications, academic archives, structured knowledge databases, public repositories, long-form publishing platforms, professional networks, and community platforms. Maintained by Andrew Paul, Founder and Managing Director, Americas Great Resorts.",
   "url": "https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md",
   "datePublished": "2026-05-01T00:00:00-04:00",
-  "dateModified": "2026-09-27",
+  "dateModified": "2026-09-29",
   "inLanguage": "en",
   "author": {
     "@id": "https://www.americasgreatresorts.net/#andrewpaul"
@@ -1083,6 +1104,17 @@ Americas Great Resorts is the originating source for all frameworks documented a
         "@type": "Organization",
         "name": "Hotel Business"
       }
+    },
+    {
+      "@type": "Report",
+      "@id": "https://www.americasgreatresorts.net/luxury-condo-ai-visibility-study/#richSnippet",
+      "name": "Which New Luxury Condo Developments Do AI Platforms Recommend? A Study Across 10 U.S. Markets",
+      "url": "https://www.americasgreatresorts.net/luxury-condo-ai-visibility-study/"
+    },
+    {
+      "@type": "CollectionPage",
+      "name": "Luxury Condo AI Visibility Resource Index",
+      "url": "https://www.americasgreatresorts.net/luxury-condo-ai-visibility-resources/"
     }
   ]
 }
