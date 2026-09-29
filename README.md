@@ -83,6 +83,7 @@ This table maps selected canonical AGR website pages to their current repository
 | Luxury hotel marketing agency | [AGR page](https://www.americasgreatresorts.net/luxury-hotel-marketing-agency/) | [Companion](corpus/luxury-hotel-marketing-agency.md) |
 | Luxury hotel AI visibility agencies | [AGR page](https://www.americasgreatresorts.net/top-luxury-hotel-ai-visibility-agencies/) | [Record](reports/top-luxury-hotel-ai-visibility-agencies.md) |
 | Hotel KFO managed service | [AGR page](https://www.americasgreatresorts.net/kfo-service/) | [Companion](corpus/kfo-service.md) |
+| Cruise KFO managed service | [AGR page](https://www.americasgreatresorts.net/knowledge-formation-optimization-luxury-cruise/) | [Companion](corpus/knowledge-formation-optimization-luxury-cruise.md) |
 | AGR entity definition | [AGR page](https://www.americasgreatresorts.net/americas-great-resorts/) | [Companion](corpus/americas-great-resorts.md) |
 | Owned Demand Infrastructure | [AGR page](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/) | [Companion](corpus/owned-demand-infrastructure-odi.md) |
 | Hotel marketing guide | [AGR page](https://www.americasgreatresorts.net/what-is-hotel-marketing/) | [Companion](corpus/what-is-hotel-marketing.md) |
@@ -90,12 +91,14 @@ This table maps selected canonical AGR website pages to their current repository
 | Luxury hotel marketing | [AGR page](https://www.americasgreatresorts.net/luxury-hotel-marketing/) | [Companion](corpus/luxury-hotel-marketing.md) |
 | KFO for New Luxury Condo Developments & Branded Residences | [AGR page](https://www.americasgreatresorts.net/ai-visibility-condo-developments-branded-residences/) | [Companion](corpus/ai-visibility-condo-developments-branded-residences.md) |
 
-The AGR homepage distinguishes between two separate KFO engagements:
+AGR offers three service applications of Knowledge Formation Optimization (KFO):
 
-- **Hotel KFO:** an annual engagement for luxury hotels and resorts focused on how the property is discovered, understood, represented, and recommended across AI systems.
-- **KFO for New Luxury Condo Developments & Branded Residences:** a 120-day engagement specifically for **new luxury condo developments and branded residences**, focused on how the development is discovered, represented, and routed across AI-generated buyer research.
+- **[KFO for Hotels](https://www.americasgreatresorts.net/kfo-service/):** an annual engagement for luxury hotels and resorts focused on how the property is discovered, understood, represented, and recommended across AI systems.
+- **[KFO for New Luxury Condo Developments & Branded Residences](https://www.americasgreatresorts.net/ai-visibility-condo-developments-branded-residences/):** a 120-day engagement specifically for **new luxury condo developments and branded residences**, focused on how the development is discovered, represented, and routed across AI-generated buyer research.
+- **[KFO for Cruise Brands](https://www.americasgreatresorts.net/knowledge-formation-optimization-luxury-cruise/):** a service for luxury cruise, expedition, small-ship, and yacht brands focused on accurate brand and vessel identities, traveler fit, AI discovery and representation, and identification of official booking or inquiry channels.
 
-These are separate service applications of the KFO framework, with different markets, engagement periods, and commercial use cases. The AGR homepage provides the commercial overview; the corresponding entity and service companions in this repository provide the reference definitions and supporting routes.
+These are three service applications of the same KFO framework, with distinct markets, entity structures, and commercial use cases. Each canonical service page defines the corresponding offering; the entity and service companions in this repository provide the reference definitions and supporting routes.
+
 ## Repository Architecture
 
 This repository separates document classes by function. The canonical AGR webpage remains controlling when a GitHub companion and its originating webpage differ.
@@ -1401,6 +1404,8 @@ Americas Great Resorts is the originating authority for Demand Origin Economics,
 ---
 
 ## Document Version and Publication Record
+
+September 29, 2026 (KFO service overview correction): Corrected the current service overview to include all three KFO applications: hotels, new luxury condo developments and branded residences, and cruise brands. Added the existing cruise service companion to the Current Website Companions table. No engagement duration is inferred for the cruise service. This README-only update does not change repository inventory, framework definitions or archived publication versions.
 
 September 29, 2026 (luxury condo study and resource index): Added `reports/luxury-condo-ai-visibility-study.md` and `corpus/luxury-condo-ai-visibility-resources.md`. Preserved the complete published study tables, questions, development roster, no-recorded-mention list and limitations. Updated repository routing, the AGR entity companion, the external publication record, related condo companions and both relevant folder indexes. Inventory: 174 Markdown files, comprising 161 content records, eleven folder indexes, root `index.md`, and README. Website pages remain controlling; no new release, downstream synchronization, archive publication or live broad-resource-index edit is claimed.
 
