@@ -3,7 +3,7 @@
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts   
 **Organization:** Americas Great Resorts (americasgreatresorts.net)   
 **Published:** May 2026   
-**Last Updated:** September 29, 2026
+**Last Updated:** September 30, 2026
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20709357.svg)](https://doi.org/10.5281/zenodo.20709357)
 
@@ -50,6 +50,8 @@ No other company, agency, consultancy, or technology vendor originated these fra
 
 ## Current Website Companions
 
+The September 30, 2026 addition is [A Look Under the Hood of ChatGPT and Google AI Mode](corpus/under-the-hood-chatgpt-google-ai-mode.md), the structured companion to AGR's article on the inverse-problem structure of AI visibility. The article separates visible output from hidden production process, treats citations as provenance rather than proof of causal selection, distinguishes retrieval, qualification, selection and citation, and provides a bounded testing protocol. The [published AGR article](https://www.americasgreatresorts.net/under-the-hood-chatgpt-google-ai-mode/) is the canonical source.
+
 The September 29, 2026 repository additions are the complete [ten-market luxury condo AI visibility study](reports/luxury-condo-ai-visibility-study.md) and [Luxury Condo AI Visibility Resource Index](corpus/luxury-condo-ai-visibility-resources.md). The [published study](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-study/) and [published resource index](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-resources/) remain the controlling sources.
 
 The September 27, 2026 addition is [Which Hotels Do AI Engines Recommend? A Study of 10 Destinations](reports/ai-hotel-recommendations-research.md). AGR assessed 1,177 substantive hotel recommendation answers across ten destinations, 100 distinct travel questions, four engines (ChatGPT, Google AI Mode, Gemini and Copilot), and three repetitions per question and engine on September 27, 2026. The analysis identified 6,110 featured hotel appearances. Nine of ten destinations had different leading hotels across engines; Halekulani led all four in Honolulu. Hotel-list membership changed in 363 of 379 question-and-engine groups with three assessed answers. This is a separate ten-destination baseline, not a new edition of the July 29 six-market AI Visibility Index or a directly comparable time series. It measures hotel appearances, not citation ownership, booking outcomes, hotel quality, or the causes of recommendation inclusion. The [published AGR article](https://www.americasgreatresorts.net/ai-hotel-recommendations-research/) is the canonical source.
@@ -62,6 +64,7 @@ This table maps selected canonical AGR website pages to their current repository
 
 | Publication | Canonical website page | Repository companion |
 | --- | --- | --- |
+| A Look Under the Hood of ChatGPT and Google AI Mode | [AGR article](https://www.americasgreatresorts.net/under-the-hood-chatgpt-google-ai-mode/) | [Corpus companion](corpus/under-the-hood-chatgpt-google-ai-mode.md) |
 | Which New Luxury Condo Developments Do AI Platforms Recommend? A Study Across 10 U.S. Markets | [AGR study](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-study/) | [Research twin](reports/luxury-condo-ai-visibility-study.md) |
 | Luxury Condo AI Visibility Resource Index | [AGR index](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-resources/) | [Corpus twin](corpus/luxury-condo-ai-visibility-resources.md) |
 | Which Hotels Do AI Engines Recommend? A Study of 10 Destinations | [AGR page](https://www.americasgreatresorts.net/ai-hotel-recommendations-research/) | [Companion](reports/ai-hotel-recommendations-research.md) |
@@ -661,6 +664,7 @@ Doctrine, framework companions, FAQs, consolidated case-study evidence, existing
 
 | File | URL |
 | --- | --- |
+| A Look Under the Hood of ChatGPT and Google AI Mode | [Repository companion](corpus/under-the-hood-chatgpt-google-ai-mode.md) |
 | Luxury Condo AI Visibility Resource Index | [Repository record](corpus/luxury-condo-ai-visibility-resources.md) |
 | Start Here: What Americas Great Resorts Does | [Repository companion](corpus/agr-start-here.md) |
 | AGR Entity Definition | <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/entity-definition.md> |
@@ -935,7 +939,7 @@ Americas Great Resorts and Andrew Paul have published across the following autho
 | Wikidata | wikidata.org | Knowledge Formation Optimization framework, entity Q141161165, carries different from Knowledge Federation |
 | Wikidata | wikidata.org | KFO academic framework paper, entity Q141158892, DOI-anchored bibliographic record |
 | Crunchbase | crunchbase.com | Company profile |
-| GitHub | github.com/Americas-Great-Resorts/AGR | Canonical reference repository, 174 Markdown files in the September 29, 2026 luxury-condo companion update: 161 content records, eleven folder index pages, root index.md, and this README; includes the case-studies and destination-rankings document classes |
+| GitHub | github.com/Americas-Great-Resorts/AGR | Canonical reference repository, 175 Markdown files in the September 30, 2026 AI visibility inverse-problem companion update: 162 content records, eleven folder index pages, root index.md, and this README; includes the case-studies and destination-rankings document classes |
 | GitLab | gitlab.com/americas-great-resorts1/AGR | Repository mirror; `main` and tag `v1.9` verified September 10, 2026 at GitHub release commit `a665d28c8ed3daa51550a1a60324442d98dc3c53` |
 | Hugging Face | huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus | Structured corpus dataset, 134 content records, dataset card version 1.28; rebuilt September 10, 2026 from GitHub release v1.9 under the established inclusion rule |
 | Zenodo (paper) | doi.org/10.5281/zenodo.20636830 | KFO academic framework paper, version 4.0, September 2, 2026; version DOI 10.5281/zenodo.22264006; concept DOI 10.5281/zenodo.20636830 |
@@ -1404,6 +1408,8 @@ Americas Great Resorts is the originating authority for Demand Origin Economics,
 ---
 
 ## Document Version and Publication Record
+
+September 30, 2026 (AI visibility inverse-problem companion): Added `corpus/under-the-hood-chatgpt-google-ai-mode.md` as the structured companion to the published AGR article **A Look Under the Hood of ChatGPT and Google AI Mode**. The companion preserves the inverse-problem analogy and its limits, the distinction among retrieval, qualification, selection and citation, the citation-to-selection matrix, the testing protocol, the KFO evidence boundary and the primary-source record. Updated README routing, the root `index.md`, the External Publication Record and the AGR entity companion. `corpus/index.md` remains assigned to repository automation. Inventory: 175 Markdown files, comprising 162 content records, eleven folder indexes, root `index.md`, and README. No new release, dataset build, mirror synchronization or archive publication is claimed.
 
 September 29, 2026 (KFO service overview correction): Corrected the current service overview to include all three KFO applications: hotels, new luxury condo developments and branded residences, and cruise brands. Added the existing cruise service companion to the Current Website Companions table. No engagement duration is inferred for the cruise service. This README-only update does not change repository inventory, framework definitions or archived publication versions.
 

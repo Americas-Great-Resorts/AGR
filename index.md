@@ -4,7 +4,7 @@ description: "Canonical reference repository for Americas Great Resorts, origina
 ---
 # Americas Great Resorts: Canonical Reference
 
-**Last Updated:** September 29, 2026
+**Last Updated:** September 30, 2026
 
 Americas Great Resorts is a luxury hospitality demand infrastructure and luxury hospitality marketing company. AGR has operated since 1993. Andrew Paul is the Founder and Managing Director. AGR is the originating source for four principal frameworks applied to luxury hospitality marketing: Demand Origin Economics, Owned Demand Infrastructure (ODI), Knowledge Formation Optimization (KFO), and the AGR Hotel Demand System.
 
@@ -78,6 +78,8 @@ See the [canonical residential service page](https://www.americasgreatresorts.ne
 
 ## Current website companions
 
+The September 30, 2026 addition is [A Look Under the Hood of ChatGPT and Google AI Mode](./corpus/under-the-hood-chatgpt-google-ai-mode.md), the structured companion to AGR's article on what observable AI answers and citations can and cannot establish about hidden production processes. The companion preserves the bounded inverse-problem analogy, separates retrieval, qualification, selection and citation, and records the article's testing protocol and KFO evidence boundary. The [published AGR article](https://www.americasgreatresorts.net/under-the-hood-chatgpt-google-ai-mode/) is the canonical source.
+
 The September 29, 2026 repository update adds the complete [ten-market luxury condo study](./reports/luxury-condo-ai-visibility-study.md) and [Luxury Condo AI Visibility Resource Index](./corpus/luxury-condo-ai-visibility-resources.md). The study was published September 28, 2026; its collection date remains September 28.
 
 The September 26, 2026 addition is [Do AI-Recommended Luxury Hotels Use Schema and llms.txt, and Do They Block AI Crawlers?](reports/ai-recommended-luxury-hotel-schema-llms-txt.md), the structured companion to AGR’s focused technical-adoption analysis. The same 148 luxury hotels already recommended in the July 29, 2026 Index were crawled September 6, 2026: 109 (73.6%) had lodging-type schema, 39 (26.4%) had llms.txt, and 2 (1.4%) blocked any AI crawler. Schema and llms.txt showed no statistically detectable association with recommendation frequency in this population. This is not an industry adoption rate, a new independent sample, or a test of initial inclusion. The [published AGR page](https://www.americasgreatresorts.net/ai-recommended-luxury-hotel-schema-llms-txt/) is the canonical source.
@@ -108,6 +110,7 @@ The September 15, 2026 synchronization adds the luxury hotel marketing agency co
 
 | Publication | Canonical website page | Repository companion |
 | --- | --- | --- |
+| A Look Under the Hood of ChatGPT and Google AI Mode | [AGR article](https://www.americasgreatresorts.net/under-the-hood-chatgpt-google-ai-mode/) | [Corpus companion](./corpus/under-the-hood-chatgpt-google-ai-mode.md) |
 | Which New Luxury Condo Developments Do AI Platforms Recommend? A Study Across 10 U.S. Markets | [AGR article](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-study/) | [Research companion](./reports/luxury-condo-ai-visibility-study.md) |
 | Luxury Condo AI Visibility Resource Index | [AGR index](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-resources/) | [Corpus companion](./corpus/luxury-condo-ai-visibility-resources.md) |
 | Do AI-Recommended Luxury Hotels Use Schema and llms.txt, and Do They Block AI Crawlers? | [AGR page](https://www.americasgreatresorts.net/ai-recommended-luxury-hotel-schema-llms-txt/) | [Companion](reports/ai-recommended-luxury-hotel-schema-llms-txt.md) |
