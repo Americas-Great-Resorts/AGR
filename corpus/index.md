@@ -93,7 +93,6 @@ title: "Corpus"
 - [Owned Demand Infrastructure (ODI)](owned-demand-infrastructure-odi.md)
 - [Superposition in AI Visibility: AI-Visibility Company Source Discrepancy Record](superposition-in-ai-visibility.md)
 - [A Three-Day-Old Page Outranked Forbes and Condé Nast: A Documented Google Ranking and Answer-Formation Instability Observation](three-day-old-page-outranked-forbes.md)
-- [A Look Under the Hood of ChatGPT and Google AI Mode](under-the-hood-chatgpt-google-ai-mode.md)
 - [We Said This in 1998. You Didn't Listen. Here It Comes Again.](we-said-this-in-1998.md)
 - [What Changed ChatGPT's Assessment of AGR's Demand Origin, ODI, and KFO?](what-changed-chatgpt-assessment-agr-odi-kfo.md)
 - [Time to Ask the Machine](what-geo-tools-cannot-do.md)
