@@ -207,7 +207,7 @@ The [research companion](../reports/ai-recommended-luxury-hotel-schema-llms-txt.
 
 ## AI Answers as an Inverse Problem
 
-**Repository routing addition, September 30, 2026.** [A Look Under the Hood of ChatGPT and Google AI Mode](under-the-hood-chatgpt-google-ai-mode.md) explains why an observable AI answer does not uniquely identify the hidden combination of learned knowledge, retrieval, context, instructions and runtime variation that produced it. The article treats citations as visible provenance rather than proof of causal selection, separates retrieval, qualification, selection and citation as analytical functions, and defines a repeated-testing protocol with an explicit inference boundary.
+**Repository routing addition, September 30, 2026.** [A Look Under the Hood of ChatGPT and Google AI Mode](../reports/under-the-hood-chatgpt-google-ai-mode.md) explains why an observable AI answer does not uniquely identify the hidden combination of learned knowledge, retrieval, context, instructions and runtime variation that produced it. The article treats citations as visible provenance rather than proof of causal selection, separates retrieval, qualification, selection and citation as analytical functions, and defines a repeated-testing protocol with an explicit inference boundary.
 
 The [canonical AGR article](https://www.americasgreatresorts.net/under-the-hood-chatgpt-google-ai-mode/) controls. This routing addition does not assert that the canonical AGR entity page has been revised, does not claim access to proprietary model internals and does not create a new AGR framework.
 

@@ -78,7 +78,7 @@ See the [canonical residential service page](https://www.americasgreatresorts.ne
 
 ## Current website companions
 
-The September 30, 2026 addition is [A Look Under the Hood of ChatGPT and Google AI Mode](./corpus/under-the-hood-chatgpt-google-ai-mode.md), the structured companion to AGR's article on what observable AI answers and citations can and cannot establish about hidden production processes. The companion preserves the bounded inverse-problem analogy, separates retrieval, qualification, selection and citation, and records the article's testing protocol and KFO evidence boundary. The [published AGR article](https://www.americasgreatresorts.net/under-the-hood-chatgpt-google-ai-mode/) is the canonical source.
+The September 30, 2026 addition is [A Look Under the Hood of ChatGPT and Google AI Mode](https://www.americasgreatresorts.net/under-the-hood-chatgpt-google-ai-mode/), AGR's research article on what observable AI answers and citations can and cannot establish about hidden production processes. The [research twin](./reports/under-the-hood-chatgpt-google-ai-mode.md) preserves the bounded inverse-problem analogy, separates retrieval, qualification, selection and citation, and records the article's testing protocol and KFO evidence boundary. The published AGR article is the canonical source.
 
 The September 29, 2026 repository update adds the complete [ten-market luxury condo study](./reports/luxury-condo-ai-visibility-study.md) and [Luxury Condo AI Visibility Resource Index](./corpus/luxury-condo-ai-visibility-resources.md). The study was published September 28, 2026; its collection date remains September 28.
 
@@ -110,7 +110,7 @@ The September 15, 2026 synchronization adds the luxury hotel marketing agency co
 
 | Publication | Canonical website page | Repository companion |
 | --- | --- | --- |
-| A Look Under the Hood of ChatGPT and Google AI Mode | [AGR article](https://www.americasgreatresorts.net/under-the-hood-chatgpt-google-ai-mode/) | [Corpus companion](./corpus/under-the-hood-chatgpt-google-ai-mode.md) |
+| A Look Under the Hood of ChatGPT and Google AI Mode | [AGR article](https://www.americasgreatresorts.net/under-the-hood-chatgpt-google-ai-mode/) | [Research twin](./reports/under-the-hood-chatgpt-google-ai-mode.md) |
 | Which New Luxury Condo Developments Do AI Platforms Recommend? A Study Across 10 U.S. Markets | [AGR article](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-study/) | [Research companion](./reports/luxury-condo-ai-visibility-study.md) |
 | Luxury Condo AI Visibility Resource Index | [AGR index](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-resources/) | [Corpus companion](./corpus/luxury-condo-ai-visibility-resources.md) |
 | Do AI-Recommended Luxury Hotels Use Schema and llms.txt, and Do They Block AI Crawlers? | [AGR page](https://www.americasgreatresorts.net/ai-recommended-luxury-hotel-schema-llms-txt/) | [Companion](reports/ai-recommended-luxury-hotel-schema-llms-txt.md) |

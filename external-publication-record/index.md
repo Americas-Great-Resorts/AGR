@@ -31,7 +31,7 @@ Americas Great Resorts published **A Look Under the Hood of ChatGPT and Google A
 
 | Publication | Canonical AGR page | Repository companion |
 | --- | --- | --- |
-| A Look Under the Hood of ChatGPT and Google AI Mode | [AGR article](https://www.americasgreatresorts.net/under-the-hood-chatgpt-google-ai-mode/) | [Corpus companion](../corpus/under-the-hood-chatgpt-google-ai-mode.md) |
+| A Look Under the Hood of ChatGPT and Google AI Mode | [AGR article](https://www.americasgreatresorts.net/under-the-hood-chatgpt-google-ai-mode/) | [Research twin](../reports/under-the-hood-chatgpt-google-ai-mode.md) |
 
 The companion preserves the article's bounded inverse-problem analogy, conceptual forward-process equation, distinction among retrieval, qualification, selection and citation, observable citation-to-selection matrix, repeated-testing protocol and KFO evidence boundary. It does not claim access to proprietary model internals, a universal vendor architecture, deterministic source causality or guaranteed AI outcomes.
 
@@ -592,7 +592,7 @@ As checked through the Wikidata entity API on September 15, 2026, Q141161165 and
 - People:
   * Andrew Paul - Entity Definition: <https://github.com/Americas-Great-Resorts/AGR/blob/main/people/andrew-paul.md>
 - Corpus files:
-  * A Look Under the Hood of ChatGPT and Google AI Mode: [Repository companion](../corpus/under-the-hood-chatgpt-google-ai-mode.md)
+  * A Look Under the Hood of ChatGPT and Google AI Mode: [Research twin](../reports/under-the-hood-chatgpt-google-ai-mode.md)
   * Luxury Condo AI Visibility Resource Index: [Repository companion](../corpus/luxury-condo-ai-visibility-resources.md)
   * AI Visibility, KFO & Hospitality AI Resource Index: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/ai-visibility-resources.md>
   * What McKinsey and Skift’s New Travel Research Means for AI Visibility and Demand Ownership: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/mckinsey-skift-ai-visibility-demand-ownership.md>
