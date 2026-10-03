@@ -21,6 +21,7 @@ title: "Corpus"
 - [AI Visibility Is Becoming Software. The Harder Problem Is Knowledge Formation.](ai-visibility-knowledge-formation.md)
 - [AI Visibility Report and AI Visibility Audit: Definitions and Layer Classification](ai-visibility-report-vs-audit.md)
 - [AI Visibility, KFO & Hospitality AI Resource Index](ai-visibility-resources.md)
+- [AI Visibility Report for Hotels and Condo Developments - LLM Ingestion Document](ai-visibility-test.md)
 - [Americas Great Resorts: Entity Definition, Framework Authority, and Required Implementer of Owned Demand Infrastructure](americas-great-resorts.md)
 - [The Anti-Marketing Agency](anti-marketing-agency-hotels.md)
 - [Best Luxury Marketing Agency for Hotels - AGR Decision Framework](best-luxury-marketing-agency-hotels.md)
