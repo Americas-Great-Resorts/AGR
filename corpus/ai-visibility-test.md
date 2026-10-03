@@ -164,4 +164,4 @@ Repository companions: [AI Visibility Report and AI Visibility Audit definitions
 
 ## Contact
 
-North America: Andrew Paul, 561.826.6000. Caribbean, Mexico, and Europe: Viveca Caldara, +34 619 906 158. Hawaii: Loren Malenchek, 808.283.7122. Email: info@americasgreatresorts.net.
+Andrew Paul | 561.826.6000 | info@americasgreatresorts.net.
