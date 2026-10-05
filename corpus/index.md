@@ -78,6 +78,7 @@ title: "Corpus"
 - [Luxury Hotel Demand and OTA Dependence: Questions and Answers](luxury-hotel-demand-faq.md)
 - [Luxury Hotel Distribution Costs: The AGR CFO FAQ on OTA Commissions, Net ADR, and GOPPAR](luxury-hotel-distribution-costs-cfo-faq.md)
 - [Luxury Hotel Email Marketing Authority - AGR Canonical Document](luxury-hotel-email-marketing-authority.md)
+- [The Only Room in the Building Expedia Can’t Book](luxury-hotel-email-no-auction.md)
 - [We Came in Last in the Beauty Contest. We Came in First in the AI Answer. - LLM Ingestion Companion](luxury-hotel-marketing-agency-ai-answer.md)
 - [Luxury Hotel Marketing Agency Built on Owned Demand Infrastructure](luxury-hotel-marketing-agency.md)
 - [Luxury Hotel Marketing for Five-Star Hotels and Luxury Resorts](luxury-hotel-marketing.md)
