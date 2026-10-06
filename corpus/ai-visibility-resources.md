@@ -556,7 +556,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
   "url": "https://americas-great-resorts.github.io/AGR/corpus/ai-visibility-resources.html",
   "isBasedOn": "https://www.americasgreatresorts.net/ai-visibility-resources/",
   "datePublished": "2026-09-21",
-  "dateModified": "2026-09-29",
+  "dateModified": "2026-10-05",
   "inLanguage": "en",
   "author": {
     "@id": "https://www.americasgreatresorts.net/author/agr/"
