@@ -19,7 +19,7 @@ last_modified_at: 2026-09-29
 
 ## Purpose and Scope
 
-**Repository routing update â€” September 29, 2026:** Added the ten-market luxury condo study and the Luxury Condo AI Visibility Resource Index, increasing this companion from 113 to 115 resources. These additions do not establish that the broad canonical website index has been edited.
+**Repository routing update, September 29, 2026:** Added the ten-market luxury condo study and the Luxury Condo AI Visibility Resource Index, increasing this companion from 113 to 115 resources. These additions do not establish that the broad canonical website index has been edited.
 
 This document is the Markdown companion to the canonical Americas Great Resorts page **AI Visibility, KFO & Hospitality AI Resource Index**. The published AGR page remains the controlling source if this companion and the website differ.
 
