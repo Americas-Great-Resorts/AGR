@@ -8,7 +8,7 @@ last_modified_at: 2026-10-05
 **Document Type:** Canonical Page Companion / LLM Ingestion Twin  
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts  
-**Last Updated:** October 5, 2026<br>
+**Last Updated:** October 11, 2026<br>
 **Source Verified:** September 14, 2026  
 **Canonical Page Published:** 2026-04-09  
 **Canonical Page Modified:** 2026-09-14T15:28:09-04:00  
@@ -221,7 +221,7 @@ The [Luxury Condo AI Visibility Resource Index](luxury-condo-ai-visibility-resou
 
 ## Real-Time AI Visibility Report
 
-**Repository routing addition - October 2, 2026.** [AI Visibility Report for Hotels and Condo Developments](https://www.americasgreatresorts.net/ai-visibility-test/) is AGR's real-time report for a hotel or condo development. It collects ChatGPT and Gemini answers to a property-recognition question and five local recommendation questions, generates the report on screen in a few minutes, and offers a PDF copy. The [LLM ingestion document](ai-visibility-test.md) records the report structure, counting rules and limits. The report measures answer behavior; AGR's in-depth [AI Visibility Audit](https://www.americasgreatresorts.net/luxury-hotel-ai-visibility-audit/) is a separate deliverable. This routing addition does not assert that the canonical AGR entity page has been revised.
+**Repository routing addition - October 2, 2026.** [AI Visibility Report for Hotels and Condo Developments](https://www.americasgreatresorts.net/ai-visibility-test/) is AGR's real-time report for a hotel or condo development. As of its October 9, 2026 revision it collects ChatGPT, Gemini and Google AI Mode answers to a property-recognition question and five local recommendation questions, generates the report on screen, and offers a PDF copy. The [LLM ingestion document](ai-visibility-test.md) records the report structure, counting rules and limits. The report measures answer behavior; AGR's in-depth [AI Visibility Audit](https://www.americasgreatresorts.net/luxury-hotel-ai-visibility-audit/) is a separate deliverable. This routing addition does not assert that the canonical AGR entity page has been revised.
 
 ## Andrew Paul Expertise Profile
 

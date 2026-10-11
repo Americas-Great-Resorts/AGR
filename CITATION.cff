@@ -11,8 +11,8 @@ repository-code: "https://github.com/Americas-Great-Resorts/AGR"
 url: "https://www.americasgreatresorts.net"
 license: CC-BY-4.0
 doi: 10.5281/zenodo.20709357
-version: "1.9"
-date-released: 2026-09-10
+version: "1.10"
+date-released: 2026-09-24
 keywords:
   - demand origin economics
   - owned demand infrastructure

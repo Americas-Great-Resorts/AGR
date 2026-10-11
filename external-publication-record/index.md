@@ -10,7 +10,7 @@ title: "AGR External Publication Record - Canonical Index"
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** October 5, 2026  
+**Last Updated:** October 11, 2026  
 **Canonical Source:** <https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md>  
 
 ---
@@ -24,6 +24,22 @@ The distributed nature of this corpus - spanning trade publications, structured 
 ODI and KFO are parallel AGR frameworks separated by channel. ODI governs human-mediated demand origin and permissioned relationship formation. KFO addresses the public source environment relevant to AI-mediated representation. Publication across external surfaces can support KFO source-environment work, but it does not make KFO part of ODI or ODI part of KFO.
 
 ---
+
+## October 6-11 hotel research, guide and previously unrecorded page companions
+
+Americas Great Resorts published **How Claude Finds and Describes Hotels: What 80 Answers Revealed** (October 6, 2026), **Hotel Schema Markup: An Implementation and Validation Guide** (October 6, 2026) and **Perplexity Hotel Recommendations: Do the Sources Support the Facts?** (October 7, 2026). The two studies each examine 80 answers from two runs of the same 40 questions on October 6, 2026 across six destinations. The guide provides Hotel and HotelRoom structured-data examples using fictional teaching data.
+
+| Publication | Canonical AGR page | Repository companion |
+| --- | --- | --- |
+| Perplexity Hotel Recommendations: Do the Sources Support the Facts? | [AGR page](https://www.americasgreatresorts.net/perplexity-hotel-citations-study/) | [Research twin](../reports/perplexity-hotel-citations-study.md) |
+| How Claude Finds and Describes Hotels: What 80 Answers Revealed | [AGR page](https://www.americasgreatresorts.net/how-claude-finds-describes-hotels/) | [Research twin](../reports/how-claude-finds-describes-hotels.md) |
+| Hotel Schema Markup: An Implementation and Validation Guide | [AGR page](https://www.americasgreatresorts.net/hotel-schema-markup/) | [Companion](../corpus/hotel-schema-markup.md) |
+| AI Hotel Recommendations: Who Gets the Link? | [AGR page](https://www.americasgreatresorts.net/ai-hotel-recommendation-links/) | [Companion](../reports/ai-hotel-recommendation-links.md) |
+| AI for Hotels: A Practical Guide to Artificial Intelligence in the Hotel Industry | [AGR page](https://www.americasgreatresorts.net/ai-for-hotels/) | [Companion](../corpus/ai-for-hotels.md) |
+| What AGR KFO Does Beyond Lighthouse Connect AI and HotelRank | [AGR page](https://www.americasgreatresorts.net/agr-kfo-vs-lighthouse-connect-ai/) | [Companion](../corpus/agr-kfo-vs-lighthouse-connect-ai.md) |
+| AI in Hospitality in 2026: How Hotels Are Found, Understood, and Chosen | [AGR page](https://www.americasgreatresorts.net/ai-in-hospitality-2026/) | [Companion](../corpus/ai-in-hospitality-2026.md) |
+
+The companions preserve the published pages, tables and stated limits. Four of them (Who Gets the Link, AI for Hotels, the KFO comparison page and AI in Hospitality in 2026) record pages that were already live without a repository record. These are AGR-controlled publications and their repository representation, not independent coverage. The repository inventory is now 185 Markdown files: 172 content records, eleven folder indexes, the root index and README. This update does not claim a new release, dataset build, GitLab mirror, Hugging Face synchronization, Zenodo publication or Software Heritage archive.
 
 ## October 5 acquisition-email article twin
 
@@ -47,13 +63,13 @@ The companion preserves the published page and its links. These are AGR-controll
 
 ## October 2 real-time AI Visibility Report companion
 
-Americas Great Resorts published the interactive **AI Visibility Report for Hotels and Condo Developments** page on October 2, 2026. The page runs a real-time report for a hotel or condo development: it collects ChatGPT and Gemini answers, generates the report on screen within minutes, and offers a PDF copy. The page links to a sample report.
+Americas Great Resorts published the interactive **AI Visibility Report for Hotels and Condo Developments** page on October 2, 2026, and revised it on October 9, 2026. The page runs a real-time report for a hotel or condo development: it collects ChatGPT, Gemini and Google AI Mode answers, generates the report on screen, and offers a PDF copy. The page links to a sample report.
 
 | Publication | Canonical AGR page | Repository companion |
 | --- | --- | --- |
 | AI Visibility Report for Hotels and Condo Developments | [AGR page](https://www.americasgreatresorts.net/ai-visibility-test/) | [LLM ingestion document](../corpus/ai-visibility-test.md) |
 
-The version 3.0 ingestion document records the tool's inputs, question structure, report sections, counting and labeling rules, and limitations. It carries no results for any named property. It distinguishes the real-time report, which measures answer behavior, from the in-depth [AI Visibility Audit](https://www.americasgreatresorts.net/luxury-hotel-ai-visibility-audit/) and from KFO. The repository inventory is now 176 Markdown files, comprising 163 content records, eleven folder indexes, root `index.md`, and README. This is an AGR-controlled publication record, not independent coverage. This update does not claim a new release, dataset build, GitLab mirror, Hugging Face synchronization, Zenodo publication or Software Heritage archive.
+The version 4.0 ingestion document records the tool's inputs, three-platform question structure, report sections (including the sampled technical website overview), counting and labeling rules, and limitations. It carries no results for any named property. It distinguishes the real-time report, which measures answer behavior, from the in-depth [AI Visibility Audit](https://www.americasgreatresorts.net/luxury-hotel-ai-visibility-audit/) and from KFO. The repository inventory is now 176 Markdown files, comprising 163 content records, eleven folder indexes, root `index.md`, and README. This is an AGR-controlled publication record, not independent coverage. This update does not claim a new release, dataset build, GitLab mirror, Hugging Face synchronization, Zenodo publication or Software Heritage archive.
 
 ## September 30 AI visibility inverse-problem companion
 
