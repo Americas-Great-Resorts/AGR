@@ -6,10 +6,12 @@ title: "Reports"
 
 - [AI Hotel Recommendations: Who Gets the Link?](ai-hotel-recommendation-links.md)
 - [Which Hotels Do AI Engines Recommend? A Study of 10 Destinations](ai-hotel-recommendations-research.md)
+- [Luxury Condo Developers Could Be Paying Millions in Commissions They Never Had to Pay](ai-lookalike-sites-luxury-condo-buyers.md)
 - [Do AI-Recommended Luxury Hotels Use Schema and llms.txt, and Do They Block AI Crawlers?](ai-recommended-luxury-hotel-schema-llms-txt.md)
 - [The AGR Luxury Hotel AI Visibility Index 2026: Complete Findings, Data, and Methodology](ai-visibility-index.md)
 - [What a Hotel’s AI Visibility Score Can Actually Tell You](hotel-ai-visibility-score.md)
 - [How Claude Finds and Describes Hotels: What 80 Answers Revealed](how-claude-finds-describes-hotels.md)
+- [Does AI Identify Your Luxury Condo Development’s Official Sales Team?](luxury-condo-ai-official-sales-channel.md)
 - [Which New Luxury Condo Developments Do AI Platforms Recommend? A Study Across 10 U.S. Markets](luxury-condo-ai-visibility-study.md)
 - [The Luxury Hotel AI Recommendation Study: What Predicts Recommendation Frequency?](luxury-hotel-ai-recommendation-study.md)
 - [Perplexity Hotel Recommendations: Do the Sources Support the Facts?](perplexity-hotel-citations-study.md)
