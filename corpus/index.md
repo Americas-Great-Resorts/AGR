@@ -15,6 +15,7 @@ title: "Corpus"
 - [Yesterday's Social Media Guru Is Today's AI Consultant: The AI Expertise Gold Rush and Why There Is No Assay Office](ai-consultant-gold-rush.md)
 - [AI Discoverability for Luxury Hotels - AGR Canonical Framework Document](ai-discoverability-luxury-hotels.md)
 - [AI for Hotels: A Practical Guide to Artificial Intelligence in the Hotel Industry](ai-for-hotels.md)
+- [You Won the AI Recommendation. Expedia Won the Click.](ai-hotel-link-trap.md)
 - [AI Hotel Valuation: The Discount You Can't See Until You Sell](ai-hotel-valuation-exit.md)
 - [AI in Hospitality in 2026: How Hotels Are Found, Understood, and Chosen](ai-in-hospitality-2026.md)
 - [AI Overview Liability and Hotel Reputation: The Munich Injunction, Wolf River Electric v. Google, and Knowledge Formation Governance](ai-overview-liability-legal-landscape.md)

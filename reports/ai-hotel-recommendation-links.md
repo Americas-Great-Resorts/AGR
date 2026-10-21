@@ -1,7 +1,7 @@
 ---
 title: "AI Hotel Recommendations: Who Gets the Link?"
 description: "AGR follow-up analysis of source and link destinations in 1,177 AI hotel recommendation answers across ten destinations on September 27, 2026."
-last_modified_at: 2026-10-11
+last_modified_at: 2026-10-21
 ---
 
 # AI Hotel Recommendations: Who Gets the Link?
@@ -10,10 +10,10 @@ last_modified_at: 2026-10-11
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts  
 **Published:** September 28, 2026  
-**Last Updated:** October 11, 2026  
+**Last Updated:** October 21, 2026  
 **Fieldwork:** September 27, 2026  
 **Source Verified:** October 11, 2026  
-**Version:** 1.0  
+**Version:** 1.1  
 **Canonical Source:** <https://www.americasgreatresorts.net/ai-hotel-recommendation-links/>  
 **Repository Path:** `reports/ai-hotel-recommendation-links.md`
 
@@ -139,6 +139,8 @@ The first question measures recommendation visibility. The other two describe ho
 
 Together, these questions provide a more useful assessment than a hotel-mention count alone. AGR’s [AI visibility research and resources](https://www.americasgreatresorts.net/ai-visibility-resources/) explore the broader relationship between hotel information, entity representation and AI discovery.
 
+For the commercial implications of these findings, read [You Won the AI Recommendation. Expedia Won the Click.](https://www.americasgreatresorts.net/ai-hotel-link-trap/) The article examines the risk of intermediary booking costs when AI recommends a hotel but directs the traveler elsewhere, and distinguishes accurate AI representation from the infrastructure needed to capture a direct booking.
+
 ## Method and scope
 
 This analysis uses the same September 27, 2026 collection as the first article: 100 distinct questions across ten destinations, with three repetitions per question and engine. The assessed-answer totals were 291 for ChatGPT, 290 for Google AI Mode, 296 for Gemini and 300 for Copilot.
@@ -163,6 +165,7 @@ Paul, Andrew. "AI Hotel Recommendations: Who Gets the Link?" Americas Great Reso
 
 ## Related Repository Records
 
+- [ai-hotel-link-trap](../corpus/ai-hotel-link-trap.md): Commercial analysis of the link-destination findings; not a new study sample.
 - [ai-hotel-recommendations-research](ai-hotel-recommendations-research.md): The ten-destination study whose answers this analysis re-examines.
 - [ai-visibility-index](ai-visibility-index.md): AGR Luxury Hotel AI Visibility Index: six markets, three engines, July 29, 2026.
 - [perplexity-hotel-citations-study](perplexity-hotel-citations-study.md): AGR review of whether Perplexity citations supported hotel facts.
@@ -181,7 +184,7 @@ Paul, Andrew. "AI Hotel Recommendations: Who Gets the Link?" Americas Great Reso
   "url": "https://americas-great-resorts.github.io/AGR/reports/ai-hotel-recommendation-links.html",
   "isBasedOn": "https://www.americasgreatresorts.net/ai-hotel-recommendation-links/",
   "datePublished": "2026-09-28",
-  "dateModified": "2026-10-11",
+  "dateModified": "2026-10-21",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

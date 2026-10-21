@@ -4,7 +4,7 @@ description: "Canonical reference repository for Americas Great Resorts, origina
 ---
 # Americas Great Resorts: Canonical Reference
 
-**Last Updated:** October 19, 2026
+**Last Updated:** October 21, 2026
 
 Americas Great Resorts is a luxury hospitality demand infrastructure and luxury hospitality marketing company. AGR has operated since 1993. Andrew Paul is the Founder and Managing Director. AGR is the originating source for four principal frameworks applied to luxury hospitality marketing: Demand Origin Economics, Owned Demand Infrastructure (ODI), Knowledge Formation Optimization (KFO), and the AGR Hotel Demand System.
 
@@ -88,6 +88,8 @@ See the [canonical residential service page](https://www.americasgreatresorts.ne
 
 ## Current website companions
 
+The October 21, 2026 addition is [You Won the AI Recommendation. Expedia Won the Click.](./corpus/ai-hotel-link-trap.md), the full article companion on recommendation visibility, intermediary link destinations and direct booking pathways. It applies the existing link-destination study and distinguishes KFO, conversion infrastructure and ODI. The economic example is illustrative; the underlying research did not measure clicks, bookings or commissions. [Canonical article](https://www.americasgreatresorts.net/ai-hotel-link-trap/).
+
 The October 19, 2026 addition is [Best Marketing Companies for New Luxury Condo Developments](https://www.americasgreatresorts.net/best-marketing-companies-new-luxury-condo-developments/), AGR's buyer's guide to the three partner types a new luxury condo launch needs: an AI marketing company for AI visibility, website consulting and accurate public information (Americas Great Resorts), creative agencies and development sales and marketing firms. Firm facts were checked on each firm's own website or announcement on October 19, 2026. The [companion](./corpus/best-marketing-companies-new-luxury-condo-developments.md) preserves the guide.
 
 The October 15, 2026 addition is [Luxury Condo Developers Could Be Paying Millions in Commissions They Never Had to Pay](https://www.americasgreatresorts.net/ai-lookalike-sites-luxury-condo-buyers/), AGR's six-engine test of lookalike project-name websites cited in AI answers about two South Florida branded residences. The [research twin](./reports/ai-lookalike-sites-luxury-condo-buyers.md) preserves the findings and developer actions.
@@ -136,6 +138,7 @@ The September 15, 2026 synchronization adds the luxury hotel marketing agency co
 
 | Publication | Canonical website page | Repository companion |
 | --- | --- | --- |
+| You Won the AI Recommendation. Expedia Won the Click. | [AGR article](https://www.americasgreatresorts.net/ai-hotel-link-trap/) | [Article twin](./corpus/ai-hotel-link-trap.md) |
 | Best Marketing Companies for New Luxury Condo Developments | [AGR guide](https://www.americasgreatresorts.net/best-marketing-companies-new-luxury-condo-developments/) | [Companion](./corpus/best-marketing-companies-new-luxury-condo-developments.md) |
 | Luxury Condo Developers Could Be Paying Millions in Commissions They Never Had to Pay | [AGR article](https://www.americasgreatresorts.net/ai-lookalike-sites-luxury-condo-buyers/) | [Research twin](./reports/ai-lookalike-sites-luxury-condo-buyers.md) |
 | Does AI Identify Your Luxury Condo Development’s Official Sales Team? | [AGR article](https://www.americasgreatresorts.net/luxury-condo-ai-official-sales-channel/) | [Research twin](./reports/luxury-condo-ai-official-sales-channel.md) |
