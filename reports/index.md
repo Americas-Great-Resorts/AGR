@@ -9,6 +9,7 @@ title: "Reports"
 - [Luxury Condo Developers Could Be Paying Millions in Commissions They Never Had to Pay](ai-lookalike-sites-luxury-condo-buyers.md)
 - [Do AI-Recommended Luxury Hotels Use Schema and llms.txt, and Do They Block AI Crawlers?](ai-recommended-luxury-hotel-schema-llms-txt.md)
 - [The AGR Luxury Hotel AI Visibility Index 2026: Complete Findings, Data, and Methodology](ai-visibility-index.md)
+- [AI Visibility Reports for Luxury Hotels and Condo Residences](ai-visibility-reports.md)
 - [What a Hotel’s AI Visibility Score Can Actually Tell You](hotel-ai-visibility-score.md)
 - [How Claude Finds and Describes Hotels: What 80 Answers Revealed](how-claude-finds-describes-hotels.md)
 - [Does AI Identify Your Luxury Condo Development’s Official Sales Team?](luxury-condo-ai-official-sales-channel.md)
