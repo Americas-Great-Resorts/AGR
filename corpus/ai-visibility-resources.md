@@ -73,7 +73,7 @@ AGR original studies, case evidence, and AGR analysis of external research, grou
 
 <a id="resource-ai-visibility-reports"></a>
 
-**[AI Visibility Reports for Luxury Hotels and Condo Residences](https://www.americasgreatresorts.net/ai-visibility-reports/)**  
+**[AI Visibility Research Library for Luxury Hotels and Condo Developments](https://www.americasgreatresorts.net/ai-visibility-reports/)**  
 Browse downloadable property reports in separate hotel and resort and luxury residential sections, alongside earlier hotel studies, the July 2026 AI Visibility Index, and AGR’s March 15, 1998 OTA commentary. The property reports examine AI recommendations, factual representation, and inquiry-link destinations. Each report retains its own date and scope; the collection does not establish a combined ranking or measure bookings, sales, or revenue impact.
 
 <a id="resource-ai-hotel-recommendation-links"></a>
@@ -891,7 +891,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/ai-visibility-reports/",
-          "name": "AI Visibility Reports for Luxury Hotels and Condo Residences",
+          "name": "AI Visibility Research Library for Luxury Hotels and Condo Developments",
           "description": "Public PDF research library with separate hotel and resort and luxury residential sections, earlier hotel studies, the July 2026 AI Visibility Index, and AGR's March 15, 1998 OTA commentary. Property reports examine recommendations, factual representation, and inquiry-link destinations within each report's stated date and scope."
         }
       },

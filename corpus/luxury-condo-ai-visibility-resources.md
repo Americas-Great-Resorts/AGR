@@ -35,7 +35,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
 
 AGR’s condo research records what AI answers actually said on the dates they were captured. Each study links to its canonical page, which holds the full method, exhibits, and limits.
 
-**[AI Visibility Reports for Luxury Hotels and Condo Residences](https://www.americasgreatresorts.net/ai-visibility-reports/)**  
+**[AI Visibility Research Library for Luxury Hotels and Condo Developments](https://www.americasgreatresorts.net/ai-visibility-reports/)**  
 Browse downloadable property reports in a separate luxury residential section covering Cipriani Residences Miami, The St. Regis Residences Bahia Mar, Viceroy Brickell and Waldorf Astoria Residences Pompano Beach. The reports examine AI recommendations, property descriptions and inquiry destinations within each study’s stated date and scope.
 
 **[Which New Luxury Condo Developments Do AI Platforms Recommend? A Study Across 10 U.S. Markets](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-study/)**  
@@ -123,7 +123,7 @@ Tell us about your development, its location, and its sales stage. [Discuss your
       {
         "@type": "ListItem",
         "position": 1,
-        "name": "AI Visibility Reports for Luxury Hotels and Condo Residences",
+        "name": "AI Visibility Research Library for Luxury Hotels and Condo Developments",
         "url": "https://www.americasgreatresorts.net/ai-visibility-reports/"
       },
       {

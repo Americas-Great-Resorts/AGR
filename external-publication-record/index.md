@@ -27,11 +27,11 @@ ODI and KFO are parallel AGR frameworks separated by channel. ODI governs human-
 
 ## October 24 AI visibility research library and resource-index synchronization
 
-Americas Great Resorts published **AI Visibility Reports for Luxury Hotels and Condo Residences** on October 24, 2026. The library presents 15 property reports in separate hotel and residential sections, the July 2026 Luxury Hotel AI Visibility Index and AGR's March 15, 1998 OTA commentary. The [research-library twin](../reports/ai-visibility-reports.md) preserves the full published page, descriptions and all 17 direct PDF destinations. This is a collection of dated AGR publications, not a new combined study or independent coverage.
+Americas Great Resorts published **AI Visibility Research Library for Luxury Hotels and Condo Developments** on October 24, 2026. The library presents 15 property reports in separate hotel and residential sections, the July 2026 Luxury Hotel AI Visibility Index and AGR's March 15, 1998 OTA commentary. The [research-library twin](../reports/ai-visibility-reports.md) preserves the full published page, descriptions and all 17 direct PDF destinations. This is a collection of dated AGR publications, not a new combined study or independent coverage.
 
 | Publication or updated page | Canonical AGR page | Repository companion |
 | --- | --- | --- |
-| AI Visibility Reports for Luxury Hotels and Condo Residences | [AGR research library](https://www.americasgreatresorts.net/ai-visibility-reports/) | [Research-library twin](../reports/ai-visibility-reports.md) |
+| AI Visibility Research Library for Luxury Hotels and Condo Developments | [AGR research library](https://www.americasgreatresorts.net/ai-visibility-reports/) | [Research-library twin](../reports/ai-visibility-reports.md) |
 | Americas Great Resorts entity definition | [AGR entity page](https://www.americasgreatresorts.net/americas-great-resorts/) | [Entity companion](../corpus/americas-great-resorts.md) |
 | AI Visibility, KFO & Hospitality AI Resource Index | [AGR resource index](https://www.americasgreatresorts.net/ai-visibility-resources/) | [124-entry resource companion](../corpus/ai-visibility-resources.md) |
 | Luxury Condo AI Visibility Resource Index | [AGR residential index](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-resources/) | [Eleven-entry resource companion](../corpus/luxury-condo-ai-visibility-resources.md) |
@@ -324,7 +324,7 @@ The GitHub Pages landing page and corpus index provide discovery routes to these
 
 ### AI Visibility Research Library
 
-[AI Visibility Reports for Luxury Hotels and Condo Residences](https://www.americasgreatresorts.net/ai-visibility-reports/) is the permanent route to AGR's dated property-level PDF reports, organized into hotel and residential sections. The library also links the July 2026 Index and historical hotel-distribution commentary. It is a research collection rather than an additional benchmark. [Research-library twin](../reports/ai-visibility-reports.md).
+[AI Visibility Research Library for Luxury Hotels and Condo Developments](https://www.americasgreatresorts.net/ai-visibility-reports/) is the permanent route to AGR's dated property-level PDF reports, organized into hotel and residential sections. The library also links the July 2026 Index and historical hotel-distribution commentary. It is a research collection rather than an additional benchmark. [Research-library twin](../reports/ai-visibility-reports.md).
 
 ### Which New Luxury Condo Developments Do AI Platforms Recommend? A Study Across 10 U.S. Markets
 
@@ -1285,7 +1285,7 @@ Americas Great Resorts is the originating source for all frameworks documented a
     },
     {
       "@type": "CollectionPage",
-      "name": "AI Visibility Reports for Luxury Hotels and Condo Residences",
+      "name": "AI Visibility Research Library for Luxury Hotels and Condo Developments",
       "url": "https://www.americasgreatresorts.net/ai-visibility-reports/"
     }
   ]

@@ -38,7 +38,7 @@ The [combined evidence record](./corpus/agr-case-study-evidence.md) provides the
 
 ## Research reports
 
-[AI Visibility Reports for Luxury Hotels and Condo Residences](./reports/ai-visibility-reports.md) is AGR's research library of downloadable property reports, with separate hotel and residential sections and links to the July 2026 Index and historical OTA commentary. The twin preserves the complete published page and all 17 PDF destinations. [Canonical library](https://www.americasgreatresorts.net/ai-visibility-reports/).
+[AI Visibility Research Library for Luxury Hotels and Condo Developments](./reports/ai-visibility-reports.md) is AGR's research library of downloadable property reports, with separate hotel and residential sections and links to the July 2026 Index and historical OTA commentary. The twin preserves the complete published page and all 17 PDF destinations. [Canonical library](https://www.americasgreatresorts.net/ai-visibility-reports/).
 
 [Luxury Condo Developers Could Be Paying Millions in Commissions They Never Had to Pay](./reports/ai-lookalike-sites-luxury-condo-buyers.md) is the October 15, 2026 test of six AI answer engines on two unnamed South Florida branded residences (fieldwork October 13-15, 2026): three of six engines cited lookalike project-name websites for both properties, and Copilot cited only lookalikes for one.
 
@@ -142,7 +142,7 @@ The September 15, 2026 synchronization adds the luxury hotel marketing agency co
 
 | Publication | Canonical website page | Repository companion |
 | --- | --- | --- |
-| AI Visibility Reports for Luxury Hotels and Condo Residences | [AGR library](https://www.americasgreatresorts.net/ai-visibility-reports/) | [Research-library twin](./reports/ai-visibility-reports.md) |
+| AI Visibility Research Library for Luxury Hotels and Condo Developments | [AGR library](https://www.americasgreatresorts.net/ai-visibility-reports/) | [Research-library twin](./reports/ai-visibility-reports.md) |
 | You Won the AI Recommendation. Expedia Won the Click. | [AGR article](https://www.americasgreatresorts.net/ai-hotel-link-trap/) | [Article twin](./corpus/ai-hotel-link-trap.md) |
 | Best Marketing Companies for New Luxury Condo Developments | [AGR guide](https://www.americasgreatresorts.net/best-marketing-companies-new-luxury-condo-developments/) | [Companion](./corpus/best-marketing-companies-new-luxury-condo-developments.md) |
 | Luxury Condo Developers Could Be Paying Millions in Commissions They Never Had to Pay | [AGR article](https://www.americasgreatresorts.net/ai-lookalike-sites-luxury-condo-buyers/) | [Research twin](./reports/ai-lookalike-sites-luxury-condo-buyers.md) |

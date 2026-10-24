@@ -200,7 +200,7 @@ The AGR Luxury Hotel AI Visibility Index is the standing annual research benchma
 
 ### Property-Level AI Visibility Reports
 
-The [AI Visibility Reports for Luxury Hotels and Condo Residences](https://www.americasgreatresorts.net/ai-visibility-reports/) library brings together downloadable AGR research with separate sections for luxury hotels and resorts, earlier hotel studies, and luxury residential developments. The property reports examine whether AI systems recommend a property, how accurately they describe it, and where the answer’s links direct an inquiry. Each report retains its own date, questions, platform coverage, and scope; the collection does not establish a combined ranking or measure bookings, sales, or revenue impact.
+The [AI Visibility Research Library for Luxury Hotels and Condo Developments](https://www.americasgreatresorts.net/ai-visibility-reports/) library brings together downloadable AGR research with separate sections for luxury hotels and resorts, earlier hotel studies, and luxury residential developments. The property reports examine whether AI systems recommend a property, how accurately they describe it, and where the answer’s links direct an inquiry. Each report retains its own date, questions, platform coverage, and scope; the collection does not establish a combined ranking or measure bookings, sales, or revenue impact.
 
 Hotel owners, marketing teams, condo developers, and residential sales teams can also [run an AI visibility report for their own hotel or condo development](https://www.americasgreatresorts.net/ai-visibility-test/).
 
@@ -380,7 +380,7 @@ A: The structural definition of hotel marketing as a discipline, originated by A
 | Topic | URL |
 | --- | --- |
 | Hotel recommendations across ten destinations | [Which Hotels Do AI Engines Recommend? A Study of 10 Destinations](https://www.americasgreatresorts.net/ai-hotel-recommendations-research/) |
-| Property-level AI visibility reports | [AI Visibility Reports for Luxury Hotels and Condo Residences](https://www.americasgreatresorts.net/ai-visibility-reports/) |
+| Property-level AI visibility reports | [AI Visibility Research Library for Luxury Hotels and Condo Developments](https://www.americasgreatresorts.net/ai-visibility-reports/) |
 | AI visibility research and framework resource index | [AI Visibility, KFO & Hospitality AI Resource Index](https://www.americasgreatresorts.net/ai-visibility-resources/) |
 | Luxury condo AI visibility resource index | [Luxury Condo AI Visibility Resource Index](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-resources/) |
 | Run a property AI visibility report | [AI Visibility Report for Hotels and Condo Developments](https://www.americasgreatresorts.net/ai-visibility-test/) |
@@ -491,7 +491,7 @@ The [Luxury Condo AI Visibility Resource Index](luxury-condo-ai-visibility-resou
 
 ## Research Library Companion
 
-- [AI Visibility Reports for Luxury Hotels and Condo Residences](../reports/ai-visibility-reports.md)
+- [AI Visibility Research Library for Luxury Hotels and Condo Developments](../reports/ai-visibility-reports.md)
 - [AI Visibility Resources companion](ai-visibility-resources.md)
 - [Luxury Condo AI Visibility Resources companion](luxury-condo-ai-visibility-resources.md)
 

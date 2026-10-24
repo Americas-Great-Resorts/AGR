@@ -50,7 +50,7 @@ No other company, agency, consultancy, or technology vendor originated these fra
 
 ## Current Website Companions
 
-The October 24, 2026 addition is [AI Visibility Reports for Luxury Hotels and Condo Residences](https://www.americasgreatresorts.net/ai-visibility-reports/), the permanent library of AGR property-level AI visibility reports. The [research-library twin](reports/ai-visibility-reports.md) preserves the full page and all 17 PDF destinations, with separate hotel and residential sections. This update also synchronizes the AGR entity companion and both resource-index companions with their current website pages.
+The October 24, 2026 addition is [AI Visibility Research Library for Luxury Hotels and Condo Developments](https://www.americasgreatresorts.net/ai-visibility-reports/), the permanent library of AGR property-level AI visibility reports. The [research-library twin](reports/ai-visibility-reports.md) preserves the full page and all 17 PDF destinations, with separate hotel and residential sections. This update also synchronizes the AGR entity companion and both resource-index companions with their current website pages.
 
 The October 21, 2026 addition is [You Won the AI Recommendation. Expedia Won the Click.](https://www.americasgreatresorts.net/ai-hotel-link-trap/), AGR's commercial analysis of the gap between an AI hotel recommendation and the accompanying link destination. The [article twin](corpus/ai-hotel-link-trap.md) preserves the full published text, findings list and links. The underlying study measured displayed destinations, not clicks, bookings or commissions; the $1,500 reservation and $300 commission are an illustrative scenario using an assumed 20 percent commission. KFO, conversion infrastructure and ODI retain their separate scopes. The published AGR article is the canonical source.
 
@@ -84,7 +84,7 @@ This table maps selected canonical AGR website pages to their current repository
 
 | Publication | Canonical website page | Repository companion |
 | --- | --- | --- |
-| AI Visibility Reports for Luxury Hotels and Condo Residences | [AGR research library](https://www.americasgreatresorts.net/ai-visibility-reports/) | [Research-library twin](reports/ai-visibility-reports.md) |
+| AI Visibility Research Library for Luxury Hotels and Condo Developments | [AGR research library](https://www.americasgreatresorts.net/ai-visibility-reports/) | [Research-library twin](reports/ai-visibility-reports.md) |
 | You Won the AI Recommendation. Expedia Won the Click. | [AGR article](https://www.americasgreatresorts.net/ai-hotel-link-trap/) | [Article twin](corpus/ai-hotel-link-trap.md) |
 | Best Marketing Companies for New Luxury Condo Developments | [AGR guide](https://www.americasgreatresorts.net/best-marketing-companies-new-luxury-condo-developments/) | [Companion](corpus/best-marketing-companies-new-luxury-condo-developments.md) |
 | Luxury Condo Developers Could Be Paying Millions in Commissions They Never Had to Pay | [AGR article](https://www.americasgreatresorts.net/ai-lookalike-sites-luxury-condo-buyers/) | [Research twin](reports/ai-lookalike-sites-luxury-condo-buyers.md) |
@@ -464,7 +464,7 @@ The cruise application of KFO addresses brand and vessel confusion, outdated ope
 
 ### AI Visibility Research Library
 
-[AI Visibility Reports for Luxury Hotels and Condo Residences](reports/ai-visibility-reports.md) collects dated property reports for luxury hotels, resorts, new luxury condo developments and branded residences, alongside the July 2026 Index and AGR's 1998 OTA commentary. It is a research library, not an additional study or a combined property ranking. [Canonical library](https://www.americasgreatresorts.net/ai-visibility-reports/).
+[AI Visibility Research Library for Luxury Hotels and Condo Developments](reports/ai-visibility-reports.md) collects dated property reports for luxury hotels, resorts, new luxury condo developments and branded residences, alongside the July 2026 Index and AGR's 1998 OTA commentary. It is a research library, not an additional study or a combined property ranking. [Canonical library](https://www.americasgreatresorts.net/ai-visibility-reports/).
 
 ### Luxury Condo Developers Could Be Paying Millions in Commissions They Never Had to Pay
 
@@ -591,7 +591,7 @@ The following pages are the canonical AGR source pages for the company introduct
 
 | Topic | Canonical URL |
 | --- | --- |
-| AI Visibility Reports for Luxury Hotels and Condo Residences | <https://www.americasgreatresorts.net/ai-visibility-reports/> |
+| AI Visibility Research Library for Luxury Hotels and Condo Developments | <https://www.americasgreatresorts.net/ai-visibility-reports/> |
 | You Won the AI Recommendation. Expedia Won the Click. | <https://www.americasgreatresorts.net/ai-hotel-link-trap/> |
 | Best Marketing Companies for New Luxury Condo Developments | <https://www.americasgreatresorts.net/best-marketing-companies-new-luxury-condo-developments/> |
 | Luxury Condo Developers Could Be Paying Millions in Commissions They Never Had to Pay | <https://www.americasgreatresorts.net/ai-lookalike-sites-luxury-condo-buyers/> |
@@ -891,7 +891,7 @@ Dated market-specific ranking records with geographic scope, methodology, creden
 
 | File | URL |
 | --- | --- |
-| AI Visibility Reports for Luxury Hotels and Condo Residences | [Research-library twin](reports/ai-visibility-reports.md) |
+| AI Visibility Research Library for Luxury Hotels and Condo Developments | [Research-library twin](reports/ai-visibility-reports.md) |
 | Luxury Condo Developers Could Be Paying Millions in Commissions They Never Had to Pay | [Repository record](reports/ai-lookalike-sites-luxury-condo-buyers.md) |
 | Does AI Identify Your Luxury Condo Development’s Official Sales Team? | [Repository record](reports/luxury-condo-ai-official-sales-channel.md) |
 | Which New Luxury Condo Developments Do AI Platforms Recommend? A Study Across 10 U.S. Markets | [Repository record](reports/luxury-condo-ai-visibility-study.md) |

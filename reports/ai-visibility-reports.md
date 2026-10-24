@@ -1,11 +1,11 @@
 ---
-title: "AI Visibility Reports for Luxury Hotels and Condo Residences"
-description: "Explore AGR research reports on AI recommendations, factual accuracy and inquiry destinations for luxury hotels, resorts and branded condo residences."
+title: "AI Visibility Research Library for Luxury Hotels and Condo Developments"
+description: "Browse AGR’s AI visibility research library for luxury hotels, resorts and condo developments, with dated property reports and downloadable PDFs."
 last_modified_at: 2026-10-24
 canonical_source: https://www.americasgreatresorts.net/ai-visibility-reports/
 ---
 
-# AI Visibility Reports for Luxury Hotels and Condo Residences
+# AI Visibility Research Library for Luxury Hotels and Condo Developments
 
 **Document Type:** Canonical Research Library Companion / LLM Ingestion Twin  
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
@@ -14,7 +14,7 @@ canonical_source: https://www.americasgreatresorts.net/ai-visibility-reports/
 **Last Updated:** October 24, 2026  
 **Source Verified:** October 24, 2026  
 **Canonical Page Published:** 2026-10-24T12:47:05-04:00  
-**Canonical Page Modified:** 2026-10-24T12:59:57-04:00  
+**Canonical Page Modified:** 2026-10-24T14:14:28-04:00  
 **Version:** 1.0  
 **Canonical Source:** <https://www.americasgreatresorts.net/ai-visibility-reports/>  
 **Repository Path:** `reports/ai-visibility-reports.md`
@@ -220,7 +220,7 @@ See how AI represents your own property. [Run an AI Visibility Report for your l
 
 ## How to Cite
 
-Paul, Andrew. "AI Visibility Reports for Luxury Hotels and Condo Residences." Americas Great Resorts, October 24, 2026. <https://www.americasgreatresorts.net/ai-visibility-reports/>
+Paul, Andrew. "AI Visibility Research Library for Luxury Hotels and Condo Developments." Americas Great Resorts, October 24, 2026. <https://www.americasgreatresorts.net/ai-visibility-reports/>
 
 ## Subject Reference Index
 
@@ -256,8 +256,8 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
   "@context": "https://schema.org",
   "@type": "CollectionPage",
   "@id": "https://americas-great-resorts.github.io/AGR/reports/ai-visibility-reports.html#companion",
-  "name": "AI Visibility Reports for Luxury Hotels and Condo Residences",
-  "description": "Explore AGR research reports on AI recommendations, factual accuracy and inquiry destinations for luxury hotels, resorts and branded condo residences.",
+  "name": "AI Visibility Research Library for Luxury Hotels and Condo Developments",
+  "description": "Browse AGR’s AI visibility research library for luxury hotels, resorts and condo developments, with dated property reports and downloadable PDFs.",
   "url": "https://americas-great-resorts.github.io/AGR/reports/ai-visibility-reports.html",
   "isBasedOn": "https://www.americasgreatresorts.net/ai-visibility-reports/",
   "datePublished": "2026-10-24T12:47:05-04:00",
