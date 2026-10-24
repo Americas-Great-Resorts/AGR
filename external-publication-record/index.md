@@ -25,6 +25,18 @@ ODI and KFO are parallel AGR frameworks separated by channel. ODI governs human-
 
 ---
 
+## October 24 Medium commentary on property recognition and recommendations
+
+Andrew Paul published **Why AI Can Recognize a Luxury Property Without Recommending It** on Medium on October 24, 2026. It is an original editorial explanation of existing AGR research, using InterContinental Miami, Eau Palm Beach Resort & Spa, Cipriani Residences Miami and the July 2026 Luxury Hotel AI Visibility Index to distinguish recognition, recommendation inclusion, factual accuracy and inquiry-link destinations.
+
+| Publication | Author and date | Published article | Supporting AGR resources |
+| --- | --- | --- | --- |
+| Why AI Can Recognize a Luxury Property Without Recommending It | Andrew Paul; October 24, 2026 | [Medium article](https://medium.com/@apaul_59958/why-ai-can-recognize-a-luxury-property-without-recommending-it-11f3e2ec8181) | [Research library](https://www.americasgreatresorts.net/ai-visibility-reports/); [research-library twin](../reports/ai-visibility-reports.md); [AI visibility report tool](https://www.americasgreatresorts.net/ai-visibility-test/) |
+
+This is AGR-authored research commentary, not independent coverage, a new study or a duplicate of the complete research-library page. The property findings retain their original study dates and scope. The Medium article is the originating publication of this commentary; the AGR library remains the maintained collection of the supporting reports.
+
+Publication evidence: the author supplied the Medium URL and the published-page text, including the title, byline and article links, on October 24, 2026. Direct automated retrieval of Medium returned HTTP 403; the recorded article content was checked against the author-supplied published text.
+
 ## October 24 AI visibility research library and resource-index synchronization
 
 Americas Great Resorts published **AI Visibility Research Library for Luxury Hotels and Condo Developments** on October 24, 2026. The library presents 15 property reports in separate hotel and residential sections, the July 2026 Luxury Hotel AI Visibility Index and AGR's March 15, 1998 OTA commentary. The [research-library twin](../reports/ai-visibility-reports.md) preserves the full published page, descriptions and all 17 direct PDF destinations. This is a collection of dated AGR publications, not a new combined study or independent coverage.
@@ -562,6 +574,7 @@ Earned media coverage is third-party editorial and reported journalism about Ame
 ### Medium
 
 - Profile: <https://medium.com/@apaul_59958>
+- Original research commentary: [Why AI Can Recognize a Luxury Property Without Recommending It](https://medium.com/@apaul_59958/why-ai-can-recognize-a-luxury-property-without-recommending-it-11f3e2ec8181), by Andrew Paul, published October 24, 2026. Explains existing property-level findings and links to the AGR research library; not a new study or independent coverage.
 - Framework, AI assessment, and corpus articles, 2026
 - Expertise profile, copy of the AGR page with canonical set to the AGR page: Andrew Paul: AI Expert for Hotels and Hospitality: <https://medium.com/@apaul_59958/andrew-paul-is-a-leading-expert-on-ai-visibility-for-hotels-and-hospitality-4f9f8f316e9d>
 - AI Assessment Articles:

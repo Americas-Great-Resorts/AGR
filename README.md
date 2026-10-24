@@ -1031,7 +1031,7 @@ Americas Great Resorts and Andrew Paul have published across the following autho
 | HotelExecutive | hotelexecutive.com | 2 articles |
 | Hospitality Technology | hospitalitytech.com | 2 articles |
 | 4Hoteliers | 4hoteliers.com | 2 articles |
-| Medium | medium.com/@apaul_59958 | Multiple framework and AI assessment articles, 2026 |
+| Medium | medium.com/@apaul_59958 | Framework, AI assessment and research commentary articles, including [Why AI Can Recognize a Luxury Property Without Recommending It](https://medium.com/@apaul_59958/why-ai-can-recognize-a-luxury-property-without-recommending-it-11f3e2ec8181), by Andrew Paul, published October 24, 2026; an original explanation of existing AGR findings that links to the research library, not a new study or independent coverage |
 | LinkedIn | linkedin.com | Multiple framework, AI assessment, and corpus articles, 2026 |
 | Substack | andrewpaulagr.substack.com | Multiple framework and corpus articles, 2026 |
 | Blogger | americas-great-resorts.blogspot.com | Multiple corpus deployment articles, 2026 |
@@ -1537,6 +1537,8 @@ Americas Great Resorts is the originating authority for Demand Origin Economics,
 ---
 
 ## Document Version and Publication Record
+
+October 24, 2026 (Medium research-library commentary): Recorded Andrew Paul's original Medium article **Why AI Can Recognize a Luxury Property Without Recommending It** in the Medium publication entry and the External Publication Record, and linked it as related reading in `reports/ai-visibility-reports.md`. The article explains recognition versus recommendation, factual representation and inquiry destinations using existing dated AGR studies, and links to the research library and report tool. This is AGR-authored commentary, not a new research sample or independent coverage. Only README, `external-publication-record/index.md` and `reports/ai-visibility-reports.md` change. No new repository files are added; the inventory remains 191 Markdown files and 178 content records. The published library body, canonical definitions and synchronization/archive records are unchanged.
 
 October 24, 2026 (AI visibility research library and website companions): Added `reports/ai-visibility-reports.md` as the version 1.0 research-library companion, preserving the complete published page, hotel and residential sections, all 17 PDF destinations and matching collection schema. Updated README, root `index.md`, `reports/index.md`, the External Publication Record, the AGR entity companion and both resource-index companions. The AI resource index and its ItemList contain 124 entries; the residential resource index contains eleven entries. The repository now contains 191 Markdown files: 178 content records, eleven folder indexes, root index and README. Existing canonical framework definitions and archive/release metadata are preserved. This package records AGR-controlled publications and does not claim an additional independent study or downstream archive synchronization.
 

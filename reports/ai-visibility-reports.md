@@ -235,6 +235,7 @@ Paul, Andrew. "AI Visibility Research Library for Luxury Hotels and Condo Develo
 ## Source and Relationship Record
 
 - Published research library: <https://www.americasgreatresorts.net/ai-visibility-reports/>
+- Related reading: [Why AI Can Recognize a Luxury Property Without Recommending It](https://medium.com/@apaul_59958/why-ai-can-recognize-a-luxury-property-without-recommending-it-11f3e2ec8181), Andrew Paul, Medium, October 24, 2026. Original AGR-authored commentary explaining existing research on recognition, recommendations, factual descriptions and inquiry destinations; not an additional study or independent coverage.
 - [Reports index](index.md)
 - [AGR Luxury Hotel AI Visibility Index](ai-visibility-index.md)
 - [AI Visibility, KFO & Hospitality AI Resource Index](../corpus/ai-visibility-resources.md)
