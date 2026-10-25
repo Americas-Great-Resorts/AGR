@@ -3,7 +3,7 @@
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts   
 **Organization:** Americas Great Resorts (americasgreatresorts.net)   
 **Published:** May 2026   
-**Last Updated:** October 24, 2026
+**Last Updated:** October 25, 2026
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20709357.svg)](https://doi.org/10.5281/zenodo.20709357)
 
@@ -50,7 +50,7 @@ No other company, agency, consultancy, or technology vendor originated these fra
 
 ## Current Website Companions
 
-The October 24, 2026 addition is [AI Visibility Research Library for Luxury Hotels and Condo Developments](https://www.americasgreatresorts.net/ai-visibility-reports/), the permanent library of AGR property-level AI visibility reports. The [research-library twin](reports/ai-visibility-reports.md) preserves the full page and all 17 PDF destinations, with separate hotel and residential sections. This update also synchronizes the AGR entity companion and both resource-index companions with their current website pages.
+The October 25, 2026 expansion of [AI Visibility Research Library for Luxury Hotels and Condo Developments](https://www.americasgreatresorts.net/ai-visibility-reports/) adds four hotel reports and six residential reports. The [research-library twin](reports/ai-visibility-reports.md) now preserves 25 property reports, the July 2026 Index and historical OTA commentary, totaling 27 unique PDF destinations. All 25 property entries include an official website link using `target="_blank" rel="nofollow noopener"`. The full published library body, collection schema and revision metadata are synchronized with the updated page.
 
 The October 21, 2026 addition is [You Won the AI Recommendation. Expedia Won the Click.](https://www.americasgreatresorts.net/ai-hotel-link-trap/), AGR's commercial analysis of the gap between an AI hotel recommendation and the accompanying link destination. The [article twin](corpus/ai-hotel-link-trap.md) preserves the full published text, findings list and links. The underlying study measured displayed destinations, not clicks, bookings or commissions; the $1,500 reservation and $300 commission are an illustrative scenario using an assumed 20 percent commission. KFO, conversion infrastructure and ODI retain their separate scopes. The published AGR article is the canonical source.
 
@@ -1537,6 +1537,8 @@ Americas Great Resorts is the originating authority for Demand Origin Economics,
 ---
 
 ## Document Version and Publication Record
+
+October 25, 2026 (AI visibility research library expansion): Updated `reports/ai-visibility-reports.md` to version 1.1 with four additional hotel reports and six additional residential reports, bringing the collection to 25 property reports and 27 unique PDF destinations. Preserved all 25 official property website links with `target="_blank" rel="nofollow noopener"`, refreshed the 27-entry collection schema and recorded the canonical page revision of October 25, 2026 at 15:03:29 Eastern. Updated current summaries in README and root `index.md`, and added an expansion record in `external-publication-record/index.md`. No repository files are added; earlier publication and archive records retain their historical scope. The PDFs remain hosted on the AGR website; the collection is not a combined property ranking.
 
 October 24, 2026 (Medium research-library commentary): Recorded Andrew Paul's original Medium article **Why AI Can Recognize a Luxury Property Without Recommending It** in the Medium publication entry and the External Publication Record, and linked it as related reading in `reports/ai-visibility-reports.md`. The article explains recognition versus recommendation, factual representation and inquiry destinations using existing dated AGR studies, and links to the research library and report tool. This is AGR-authored commentary, not a new research sample or independent coverage. Only README, `external-publication-record/index.md` and `reports/ai-visibility-reports.md` change. No new repository files are added; the inventory remains 191 Markdown files and 178 content records. The published library body, canonical definitions and synchronization/archive records are unchanged.
 

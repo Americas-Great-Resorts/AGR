@@ -10,7 +10,7 @@ title: "AGR External Publication Record - Canonical Index"
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** October 24, 2026  
+**Last Updated:** October 25, 2026  
 **Canonical Source:** <https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md>  
 
 ---
@@ -24,6 +24,23 @@ The distributed nature of this corpus - spanning trade publications, structured 
 ODI and KFO are parallel AGR frameworks separated by channel. ODI governs human-mediated demand origin and permissioned relationship formation. KFO addresses the public source environment relevant to AI-mediated representation. Publication across external surfaces can support KFO source-environment work, but it does not make KFO part of ODI or ODI part of KFO.
 
 ---
+
+## October 25 AI visibility research library expansion
+
+Americas Great Resorts expanded the **AI Visibility Research Library for Luxury Hotels and Condo Developments** with ten property reports dated October 25, 2026: four hotel reports and six residential reports. The maintained collection now contains 25 property reports (15 hotel and resort reports and ten residential reports), the July 2026 Luxury Hotel AI Visibility Index and the March 15, 1998 OTA commentary, totaling 27 unique PDF destinations.
+
+| Added hotel reports | Added residential reports |
+| --- | --- |
+| Four Seasons Hotel and Residences Fort Lauderdale | 8899 Beverly |
+| The Little Nell | Baccarat Residences Miami |
+| The Peninsula New York | Rivage Bal Harbour |
+| Rosewood Mayakoba | The Ritz-Carlton Residences, Tampa |
+| | The St. Regis Residences, Miami |
+| | Waldorf Astoria Residences New York |
+
+The [published research library](https://www.americasgreatresorts.net/ai-visibility-reports/) and its [repository twin](../reports/ai-visibility-reports.md) include the report summaries, market and report dates, direct PDF links and 25 official property website links. The official website links use `target="_blank" rel="nofollow noopener"`. The twin's collection schema lists the same 27 PDF destinations and its metadata records the canonical page revision of October 25, 2026 at 15:03:29 Eastern.
+
+This update refreshes the research-library twin, README, root index and this publication record. Earlier dated entries below retain their original publication scope. The reports remain individual dated snapshots with their own questions, platform coverage and limitations; the expansion does not establish a combined ranking, measured bookings or sales, a client relationship or independent endorsement. The PDFs remain hosted on the AGR website. No new archive deposit or downstream dataset synchronization is claimed.
 
 ## October 24 Medium commentary on property recognition and recommendations
 
