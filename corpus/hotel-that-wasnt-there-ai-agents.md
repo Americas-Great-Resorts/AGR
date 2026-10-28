@@ -14,9 +14,9 @@ canonical_source: https://www.americasgreatresorts.net/hotel-that-wasnt-there-ai
 **Last Updated:** October 28, 2026  
 **Source Verified:** October 28, 2026  
 **Canonical Page Published:** 2026-10-27T23:50:19-04:00  
-**Canonical Page Modified:** 2026-10-28T00:05:28-04:00  
+**Canonical Page Modified:** 2026-10-28T07:32:53-04:00  
 **SEO Title:** The Hotel That Wasn't There: AI Agents and Hotel Visibility  
-**Version:** 1.0  
+**Version:** 1.1  
 **Canonical Source:** <https://www.americasgreatresorts.net/hotel-that-wasnt-there-ai-agents/>  
 **Repository Path:** `corpus/hotel-that-wasnt-there-ai-agents.md`
 
@@ -27,12 +27,13 @@ canonical_source: https://www.americasgreatresorts.net/hotel-that-wasnt-there-ai
 - Martin rebuilds the website. Shown the new site, the assistant agrees with every word. Asked an open question, it recommends the Saltwell. In a fresh conversation, it repeats the old description.
 - The lost business forces the restaurant closed, so the machine's error becomes true. Martin's own assistant then books him a vacation at the Saltwell. He stays and rates it five stars.
 - The epilogue's argument: a hotel can be crawled, read and agreed with and still not be believed. Inclusion depends on what the system already holds about the hotel, and a consistent public record outweighs a correct but scattered one.
+- The closing question widens the story beyond hotels: what happens when the mechanisms built to make life easier decide who gets to participate.
 
 ## Purpose and Evidence Boundary
 
 This twin preserves the published AGR article, its headings and its closing link. The canonical website page controls if the two differ. This is another representation of the same AGR publication, not independent corroboration. The hero image, website navigation, sharing controls, related-post widgets and footer elements are omitted.
 
-The piece is fiction. The Alder Point Inn, the Saltwell, Martin Hale, Dale Pruitt and Ruth Abernathy are invented, and so are their dates, occupancy figures and awards. The story is set in a near future. The assistant's behavior describes a fictional system; it is not a measured result or a claim about how any specific deployed AI product selects hotels. The epilogue's references to inverse reinforcement learning, William of Ockham, Ray Solomonoff and *Minority Report* are explanatory analogies applied to that fictional system. The article introduces no new research data. The closing line and its link to the AI Visibility Report were added to the published article on October 28, 2026 and verified live that day.
+The piece is fiction. The Alder Point Inn, the Saltwell, Martin Hale, Dale Pruitt and Ruth Abernathy are invented, and so are their dates, occupancy figures and awards. The story is set in a near future. The assistant's behavior describes a fictional system; it is not a measured result or a claim about how any specific deployed AI product selects hotels. The epilogue's references to inverse reinforcement learning, William of Ockham, Ray Solomonoff and *Minority Report* are explanatory analogies applied to that fictional system. The article introduces no new research data. The closing line and its link to the AI Visibility Report were added to the published article on October 28, 2026. Version 1.1 adds the epilogue paragraph beginning "What happens when the mechanisms we built," published at 07:32 Eastern on October 28, 2026. Both changes were verified live that day.
 
 ## The Article
 
@@ -189,6 +190,8 @@ In *Minority Report*, three precogs see the future. When one disagrees, the syst
 Then it did something worse. It made itself right. The restaurant it said was closed is closed now. Every guest it sent across the street became one more good review for the Saltwell. Including Martin’s.
 
 Martin Hale ran a beautiful hotel. It was there the whole time. Its old version just got into the machine’s memory first. The true version arrived after the machine had stopped listening.
+
+What happens when the mechanisms we built to make our lives easier acquire the power to decide which of us gets to participate? Martin found out. He gave it five stars.
 
 Consider your hotel.
 
