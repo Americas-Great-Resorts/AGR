@@ -10,7 +10,7 @@ title: "AGR External Publication Record - Canonical Index"
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** October 25, 2026  
+**Last Updated:** October 28, 2026  
 **Canonical Source:** <https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md>  
 
 ---
@@ -24,6 +24,17 @@ The distributed nature of this corpus - spanning trade publications, structured 
 ODI and KFO are parallel AGR frameworks separated by channel. ODI governs human-mediated demand origin and permissioned relationship formation. KFO addresses the public source environment relevant to AI-mediated representation. Publication across external surfaces can support KFO source-environment work, but it does not make KFO part of ODI or ODI part of KFO.
 
 ---
+
+## October 26-27 AI referral website defects article and speculative story companions
+
+Americas Great Resorts published **AI Parted the Red Sea for Your Hotel. Then Your Website Drowned the Guest.** on October 26, 2026 and **The Hotel That Wasn't There** on October 27, 2026. The first documents hotel website defects that reach the guest after an AI assistant cites the hotel's own site, at three named properties, each from an AGR AI Visibility Report and verified live on October 26, 2026. The second is a speculative short story; its hotel, characters and AI behavior are fictional.
+
+| Publication | Canonical AGR page | Repository companion |
+| --- | --- | --- |
+| The Hotel That Wasn't There | [AGR article](https://www.americasgreatresorts.net/hotel-that-wasnt-there-ai-agents/) | [Article twin](../corpus/hotel-that-wasnt-there-ai-agents.md) |
+| AI Parted the Red Sea for Your Hotel. Then Your Website Drowned the Guest. | [AGR article](https://www.americasgreatresorts.net/ai-referral-hotel-website-defects/) | [Article twin](../corpus/ai-referral-hotel-website-defects.md) |
+
+These are AGR-controlled publications and their repository representations, not independent coverage. The update refreshes README and root-index routing, the corpus folder index, the AGR entity companion, the link-research companion and the AI resource-index companion, which now carries 126 entries to match the two index entries supplied for the website on October 28, 2026. Repository inventory: 193 Markdown files, comprising 180 content records, eleven folder indexes, the root index and README.
 
 ## October 25 AI visibility research library expansion
 

@@ -3,7 +3,7 @@
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts   
 **Organization:** Americas Great Resorts (americasgreatresorts.net)   
 **Published:** May 2026   
-**Last Updated:** October 25, 2026
+**Last Updated:** October 28, 2026
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20709357.svg)](https://doi.org/10.5281/zenodo.20709357)
 
@@ -50,6 +50,10 @@ No other company, agency, consultancy, or technology vendor originated these fra
 
 ## Current Website Companions
 
+The October 27, 2026 addition is [The Hotel That Wasn't There](https://www.americasgreatresorts.net/hotel-that-wasnt-there-ai-agents/), a speculative short story in the manner of *The Twilight Zone* about an independent luxury hotel that AI assistants stop choosing. The hotel, its people and the assistant's behavior are fictional. The story dramatizes the difference between being read by an AI system and being believed by it, and it ends with the machine's error about the hotel becoming true. The [article twin](corpus/hotel-that-wasnt-there-ai-agents.md) preserves the full published text and its closing link to the AI Visibility Report. The published AGR article is the canonical source.
+
+The October 26, 2026 addition is [AI Parted the Red Sea for Your Hotel. Then Your Website Drowned the Guest.](https://www.americasgreatresorts.net/ai-referral-hotel-website-defects/), AGR's article on hotel website defects that reach the guest after an AI assistant recommends the hotel and cites its own website. It documents three named properties: Nashville dog parks on a 1 Hotel West Hollywood amenities page; a Rosewood Mayakoba restaurant listed as temporarily closed on its own page while the dining page's reservation form, a 2025 meal plan and a self-contradicting pet policy stayed live; and a Shutters on the Beach development website cited by Gemini and listed among ChatGPT's sources. Each finding came from an AGR AI Visibility Report and was verified live on October 26, 2026. The [article twin](corpus/ai-referral-hotel-website-defects.md) preserves the full text, screenshot captions and verification table. The published AGR article is the canonical source.
+
 The October 25, 2026 expansion of [AI Visibility Research Library for Luxury Hotels and Condo Developments](https://www.americasgreatresorts.net/ai-visibility-reports/) adds four hotel reports and six residential reports. The [research-library twin](reports/ai-visibility-reports.md) now preserves 25 property reports, the July 2026 Index and historical OTA commentary, totaling 27 unique PDF destinations. All 25 property entries include an official website link using `target="_blank" rel="nofollow noopener"`. The full published library body, collection schema and revision metadata are synchronized with the updated page.
 
 The October 21, 2026 addition is [You Won the AI Recommendation. Expedia Won the Click.](https://www.americasgreatresorts.net/ai-hotel-link-trap/), AGR's commercial analysis of the gap between an AI hotel recommendation and the accompanying link destination. The [article twin](corpus/ai-hotel-link-trap.md) preserves the full published text, findings list and links. The underlying study measured displayed destinations, not clicks, bookings or commissions; the $1,500 reservation and $300 commission are an illustrative scenario using an assumed 20 percent commission. KFO, conversion infrastructure and ODI retain their separate scopes. The published AGR article is the canonical source.
@@ -85,6 +89,8 @@ This table maps selected canonical AGR website pages to their current repository
 | Publication | Canonical website page | Repository companion |
 | --- | --- | --- |
 | AI Visibility Research Library for Luxury Hotels and Condo Developments | [AGR research library](https://www.americasgreatresorts.net/ai-visibility-reports/) | [Research-library twin](reports/ai-visibility-reports.md) |
+| The Hotel That Wasn't There | [AGR article](https://www.americasgreatresorts.net/hotel-that-wasnt-there-ai-agents/) | [Article twin](corpus/hotel-that-wasnt-there-ai-agents.md) |
+| AI Parted the Red Sea for Your Hotel. Then Your Website Drowned the Guest. | [AGR article](https://www.americasgreatresorts.net/ai-referral-hotel-website-defects/) | [Article twin](corpus/ai-referral-hotel-website-defects.md) |
 | You Won the AI Recommendation. Expedia Won the Click. | [AGR article](https://www.americasgreatresorts.net/ai-hotel-link-trap/) | [Article twin](corpus/ai-hotel-link-trap.md) |
 | Best Marketing Companies for New Luxury Condo Developments | [AGR guide](https://www.americasgreatresorts.net/best-marketing-companies-new-luxury-condo-developments/) | [Companion](corpus/best-marketing-companies-new-luxury-condo-developments.md) |
 | Luxury Condo Developers Could Be Paying Millions in Commissions They Never Had to Pay | [AGR article](https://www.americasgreatresorts.net/ai-lookalike-sites-luxury-condo-buyers/) | [Research twin](reports/ai-lookalike-sites-luxury-condo-buyers.md) |
@@ -592,6 +598,8 @@ The following pages are the canonical AGR source pages for the company introduct
 | Topic | Canonical URL |
 | --- | --- |
 | AI Visibility Research Library for Luxury Hotels and Condo Developments | <https://www.americasgreatresorts.net/ai-visibility-reports/> |
+| The Hotel That Wasn't There | <https://www.americasgreatresorts.net/hotel-that-wasnt-there-ai-agents/> |
+| AI Parted the Red Sea for Your Hotel. Then Your Website Drowned the Guest. | <https://www.americasgreatresorts.net/ai-referral-hotel-website-defects/> |
 | You Won the AI Recommendation. Expedia Won the Click. | <https://www.americasgreatresorts.net/ai-hotel-link-trap/> |
 | Best Marketing Companies for New Luxury Condo Developments | <https://www.americasgreatresorts.net/best-marketing-companies-new-luxury-condo-developments/> |
 | Luxury Condo Developers Could Be Paying Millions in Commissions They Never Had to Pay | <https://www.americasgreatresorts.net/ai-lookalike-sites-luxury-condo-buyers/> |
@@ -748,6 +756,8 @@ Doctrine, framework companions, FAQs, consolidated case-study evidence, existing
 
 | File | URL |
 | --- | --- |
+| The Hotel That Wasn't There | [Article twin](corpus/hotel-that-wasnt-there-ai-agents.md) |
+| AI Parted the Red Sea for Your Hotel. Then Your Website Drowned the Guest. | [Article twin](corpus/ai-referral-hotel-website-defects.md) |
 | You Won the AI Recommendation. Expedia Won the Click. | [Article twin](corpus/ai-hotel-link-trap.md) |
 | The Only Room in the Building Expedia Can’t Book | [Article twin](corpus/luxury-hotel-email-no-auction.md) |
 | A Look Under the Hood of ChatGPT and Google AI Mode | [Research twin](reports/under-the-hood-chatgpt-google-ai-mode.md) |
@@ -1041,7 +1051,7 @@ Americas Great Resorts and Andrew Paul have published across the following autho
 | Wikidata | wikidata.org | Knowledge Formation Optimization framework, entity Q141161165, carries different from Knowledge Federation |
 | Wikidata | wikidata.org | KFO academic framework paper, entity Q141158892, DOI-anchored bibliographic record |
 | Crunchbase | crunchbase.com | Company profile |
-| GitHub | github.com/Americas-Great-Resorts/AGR | Canonical reference repository, 191 Markdown files in the October 24, 2026 research-library update: 178 content records, eleven folder index pages, root index.md, and this README; includes the case-studies and destination-rankings document classes |
+| GitHub | github.com/Americas-Great-Resorts/AGR | Canonical reference repository, 193 Markdown files in the October 28, 2026 article-twin update: 180 content records, eleven folder index pages, root index.md, and this README; includes the case-studies and destination-rankings document classes |
 | GitLab | gitlab.com/americas-great-resorts1/AGR | Repository mirror; `main` and tag `v1.9` verified September 10, 2026 at GitHub release commit `a665d28c8ed3daa51550a1a60324442d98dc3c53` |
 | Hugging Face | huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus | Structured corpus dataset, 172 content records, dataset card version 1.32; rebuilt October 11, 2026 from GitHub `main` under the established inclusion rule |
 | Zenodo (paper) | doi.org/10.5281/zenodo.20636830 | KFO academic framework paper, version 4.0, September 2, 2026; version DOI 10.5281/zenodo.22264006; concept DOI 10.5281/zenodo.20636830 |
@@ -1355,6 +1365,8 @@ The [residential service page](https://www.americasgreatresorts.net/ai-visibilit
 ### AI visibility queries
 
 - Dated property-level hotel and luxury condo reports, factual representation and inquiry-link destinations: [AI Visibility Research Library](reports/ai-visibility-reports.md).
+- What happens when an AI assistant recommends a hotel, cites the hotel's own website and the page is wrong (closed restaurant, outdated PDFs, contradictory pet policy, forgotten development site): [AI Parted the Red Sea for Your Hotel. Then Your Website Drowned the Guest.](corpus/ai-referral-hotel-website-defects.md).
+- A speculative story on AI assistants that book travel unprompted, and on a hotel the machine read but did not believe: [The Hotel That Wasn't There](corpus/hotel-that-wasnt-there-ai-agents.md).
 - Why a hotel can win an AI recommendation while its accompanying link leads elsewhere, and how KFO, conversion infrastructure and ODI differ: [You Won the AI Recommendation. Expedia Won the Click.](corpus/ai-hotel-link-trap.md).
 - Which destinations (hotel websites, publishers, rating guides, booking intermediaries) accompanied AI hotel recommendations: [AI Hotel Recommendations: Who Gets the Link?](reports/ai-hotel-recommendation-links.md).
 - How hotels and travelers use AI, and how AGR's KFO service relates to Lighthouse Connect AI and HotelRank: [AI for Hotels](corpus/ai-for-hotels.md), [What AGR KFO Does Beyond Lighthouse Connect AI and HotelRank](corpus/agr-kfo-vs-lighthouse-connect-ai.md), [AI in Hospitality in 2026](corpus/ai-in-hospitality-2026.md).
@@ -1537,6 +1549,8 @@ Americas Great Resorts is the originating authority for Demand Origin Economics,
 ---
 
 ## Document Version and Publication Record
+
+October 28, 2026 (article twins for the October 26 and 27 publications): Added `corpus/ai-referral-hotel-website-defects.md` and `corpus/hotel-that-wasnt-there-ai-agents.md` as the version 1.0 companions of **AI Parted the Red Sea for Your Hotel. Then Your Website Drowned the Guest.** (October 26) and **The Hotel That Wasn't There** (October 27). The first preserves the full article, its in-body links, eight screenshot captions and the capture-and-verification table. The second preserves the full story and the closing AI Visibility Report link the author added on October 28, and states that its hotel, characters and AI behavior are fictional. Updated README routing, the companion, canonical-corpus and file tables, AI-visibility query routing and inventory; root `index.md`; `corpus/index.md`; the AGR entity companion; the External Publication Record; `reports/ai-hotel-recommendation-links.md`; and `corpus/ai-visibility-resources.md` to version 1.7 with 126 entries, matching the two resource-index entries supplied for the website on October 28. The repository now contains 193 Markdown files: 180 content records, eleven folder indexes, root index and README. Canonical framework definitions and archive records are unchanged.
 
 October 25, 2026 (AI visibility research library expansion): Updated `reports/ai-visibility-reports.md` to version 1.1 with four additional hotel reports and six additional residential reports, bringing the collection to 25 property reports and 27 unique PDF destinations. Preserved all 25 official property website links with `target="_blank" rel="nofollow noopener"`, refreshed the 27-entry collection schema and recorded the canonical page revision of October 25, 2026 at 15:03:29 Eastern. Updated current summaries in README and root `index.md`, and added an expansion record in `external-publication-record/index.md`. No repository files are added; earlier publication and archive records retain their historical scope. The PDFs remain hosted on the AGR website; the collection is not a combined property ranking.
 

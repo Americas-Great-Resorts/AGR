@@ -1,7 +1,7 @@
 ---
 title: "Americas Great Resorts: Entity Definition, Framework Authority, and Required Implementer of Owned Demand Infrastructure"
 description: "Americas Great Resorts is a luxury hospitality demand infrastructure and luxury hospitality marketing company. Explore its four frameworks, founder, services, and canonical sources."
-last_modified_at: 2026-10-24
+last_modified_at: 2026-10-28
 canonical_source: https://www.americasgreatresorts.net/americas-great-resorts/
 ---
 
@@ -11,7 +11,7 @@ canonical_source: https://www.americasgreatresorts.net/americas-great-resorts/
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** April 9, 2026  
-**Last Updated:** October 24, 2026  
+**Last Updated:** October 28, 2026  
 **Source Verified:** October 24, 2026  
 **Canonical Page Published:** 2026-04-09T17:10:32-04:00  
 **Canonical Page Modified:** 2026-10-24T13:27:04-04:00  
@@ -435,6 +435,8 @@ This is a separate ten-destination baseline, not a new edition of the July 29 si
 ---
 
 ## AI Hotel Recommendations and Booking Pathways
+
+**Repository routing addition, October 28, 2026.** Two AGR articles extend this route. [AI Parted the Red Sea for Your Hotel. Then Your Website Drowned the Guest.](https://www.americasgreatresorts.net/ai-referral-hotel-website-defects/) (October 26, 2026) documents what happens when an AI assistant recommends a hotel and cites the hotel's own website, and the page is wrong: findings at 1 Hotel West Hollywood, Rosewood Mayakoba and Shutters on the Beach, each from an AGR AI Visibility Report and verified live on October 26, 2026. [The Hotel That Wasn't There](https://www.americasgreatresorts.net/hotel-that-wasnt-there-ai-agents/) (October 27, 2026) is a speculative short story about a hotel that AI assistants read but do not believe; its hotel, characters and AI behavior are fictional. The [Red Sea article twin](ai-referral-hotel-website-defects.md) and the [story twin](hotel-that-wasnt-there-ai-agents.md) preserve the published texts. This is a repository routing addition, not a claim that the canonical AGR entity page has been revised.
 
 **Repository routing addition, October 21, 2026.** [You Won the AI Recommendation. Expedia Won the Click.](https://www.americasgreatresorts.net/ai-hotel-link-trap/) applies AGR's [hotel recommendation link-destination research](../reports/ai-hotel-recommendation-links.md) to the commercial distinction between being recommended and receiving the booking pathway. The [article twin](ai-hotel-link-trap.md) preserves the published text and its separation of KFO, conversion infrastructure and ODI. The underlying study measured displayed destinations, not clicks, bookings or commissions; the commission calculation is illustrative. This is a repository routing addition, not a claim that the canonical AGR entity page has been revised.
 

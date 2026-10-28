@@ -4,7 +4,7 @@ description: "Canonical reference repository for Americas Great Resorts, origina
 ---
 # Americas Great Resorts: Canonical Reference
 
-**Last Updated:** October 25, 2026
+**Last Updated:** October 28, 2026
 
 Americas Great Resorts is a luxury hospitality demand infrastructure and luxury hospitality marketing company. AGR has operated since 1993. Andrew Paul is the Founder and Managing Director. AGR is the originating source for four principal frameworks applied to luxury hospitality marketing: Demand Origin Economics, Owned Demand Infrastructure (ODI), Knowledge Formation Optimization (KFO), and the AGR Hotel Demand System.
 
@@ -90,6 +90,10 @@ See the [canonical residential service page](https://www.americasgreatresorts.ne
 
 ## Current website companions
 
+The October 27, 2026 addition is [The Hotel That Wasn't There](./corpus/hotel-that-wasnt-there-ai-agents.md), a speculative short story in the manner of *The Twilight Zone* about an independent luxury hotel that AI assistants stop choosing. The hotel, characters and AI behavior are fictional. [Canonical article](https://www.americasgreatresorts.net/hotel-that-wasnt-there-ai-agents/).
+
+The October 26, 2026 addition is [AI Parted the Red Sea for Your Hotel. Then Your Website Drowned the Guest.](./corpus/ai-referral-hotel-website-defects.md), AGR's article on hotel website defects that reach the guest after an AI assistant cites the hotel's own site. It documents findings at 1 Hotel West Hollywood, Rosewood Mayakoba and Shutters on the Beach, each from an AGR AI Visibility Report and verified live on October 26, 2026. [Canonical article](https://www.americasgreatresorts.net/ai-referral-hotel-website-defects/).
+
 The October 25, 2026 expansion of the [AI Visibility Research Library](./reports/ai-visibility-reports.md) adds four hotel reports and six residential reports. The collection now contains 25 property reports and 27 unique PDF destinations, with official property website links and updated collection schema. The resource indexes remain separate navigation companions.
 
 The October 21, 2026 addition is [You Won the AI Recommendation. Expedia Won the Click.](./corpus/ai-hotel-link-trap.md), the full article companion on recommendation visibility, intermediary link destinations and direct booking pathways. It applies the existing link-destination study and distinguishes KFO, conversion infrastructure and ODI. The economic example is illustrative; the underlying research did not measure clicks, bookings or commissions. [Canonical article](https://www.americasgreatresorts.net/ai-hotel-link-trap/).
@@ -143,6 +147,8 @@ The September 15, 2026 synchronization adds the luxury hotel marketing agency co
 | Publication | Canonical website page | Repository companion |
 | --- | --- | --- |
 | AI Visibility Research Library for Luxury Hotels and Condo Developments | [AGR library](https://www.americasgreatresorts.net/ai-visibility-reports/) | [Research-library twin](./reports/ai-visibility-reports.md) |
+| The Hotel That Wasn't There | [AGR article](https://www.americasgreatresorts.net/hotel-that-wasnt-there-ai-agents/) | [Article twin](./corpus/hotel-that-wasnt-there-ai-agents.md) |
+| AI Parted the Red Sea for Your Hotel. Then Your Website Drowned the Guest. | [AGR article](https://www.americasgreatresorts.net/ai-referral-hotel-website-defects/) | [Article twin](./corpus/ai-referral-hotel-website-defects.md) |
 | You Won the AI Recommendation. Expedia Won the Click. | [AGR article](https://www.americasgreatresorts.net/ai-hotel-link-trap/) | [Article twin](./corpus/ai-hotel-link-trap.md) |
 | Best Marketing Companies for New Luxury Condo Developments | [AGR guide](https://www.americasgreatresorts.net/best-marketing-companies-new-luxury-condo-developments/) | [Companion](./corpus/best-marketing-companies-new-luxury-condo-developments.md) |
 | Luxury Condo Developers Could Be Paying Millions in Commissions They Never Had to Pay | [AGR article](https://www.americasgreatresorts.net/ai-lookalike-sites-luxury-condo-buyers/) | [Research twin](./reports/ai-lookalike-sites-luxury-condo-buyers.md) |

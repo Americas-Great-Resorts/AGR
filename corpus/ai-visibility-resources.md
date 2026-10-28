@@ -1,7 +1,7 @@
 ---
 title: "AI Visibility, KFO & Hospitality AI Resource Index"
 description: "Explore AGR research, frameworks, studies and analysis on AI visibility, KFO, ChatGPT, hotel discovery, agentic travel and hospitality AI."
-last_modified_at: 2026-10-24
+last_modified_at: 2026-10-28
 canonical_source: https://www.americasgreatresorts.net/ai-visibility-resources/
 ---
 
@@ -11,17 +11,17 @@ canonical_source: https://www.americasgreatresorts.net/ai-visibility-resources/
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** September 21, 2026  
-**Last Updated:** October 24, 2026  
-**Source Verified:** October 24, 2026  
+**Last Updated:** October 28, 2026  
+**Source Verified:** October 28, 2026  
 **Canonical Page Published:** 2026-09-21T18:42:39-04:00  
 **Canonical Page Modified:** 2026-10-24T13:34:35-04:00  
-**Version:** 1.6  
+**Version:** 1.7  
 **Canonical Source:** <https://www.americasgreatresorts.net/ai-visibility-resources/>  
 **Repository Path:** `corpus/ai-visibility-resources.md`
 
 ## Purpose and Scope
 
-This is the Markdown companion to AGR's subject-organized AI visibility resource index. The reproduced body preserves the current published headings, resource titles, descriptions, destination URLs and visible order. It contains 124 distinct resource entries, including the property-report library under AGR Original Research. The companion ItemList follows the same 124-entry order. The count describes navigation entries, not independent research samples.
+This is the Markdown companion to AGR's subject-organized AI visibility resource index. The reproduced body preserves the current published headings, resource titles, descriptions, destination URLs and visible order. It contains 126 distinct resource entries, including the property-report library under AGR Original Research. The companion ItemList follows the same 126-entry order. The count describes navigation entries, not independent research samples. Version 1.7 adds the two October 28, 2026 entries supplied for the website index: The Hotel That Wasn’t There at the top of Booking Agents & Distribution and AI Parted the Red Sea for Your Hotel directly after the link-trap article. The Canonical Page Modified value records the last verified website revision before that addition.
 
 The canonical AGR webpage controls if the two differ. This is another representation of AGR's publication, not independent corroboration. WordPress presentation markup and site-wide schema are omitted.
 
@@ -35,7 +35,7 @@ Americas Great Resorts publishes original research, frameworks, model evaluation
 
 Coverage includes AI visibility, Knowledge Formation Optimization (KFO), hotel recommendation behavior, AI discovery and representation, model assessment, agentic travel, distribution, luxury cruise, branded residences, and related hospitality AI analysis. Pages that mention AI only incidentally are intentionally excluded.
 
-**Last updated:** October 24, 2026.
+**Last updated:** October 28, 2026.
 
 <a id="start-here"></a>
 
@@ -564,10 +564,20 @@ Analysis of booking agents, AI-mediated discovery, intermediary power, post-sear
 
 ### Booking Agents & Distribution
 
+<a id="resource-hotel-that-wasnt-there-ai-agents"></a>
+
+**[The Hotel That Wasn’t There](https://www.americasgreatresorts.net/hotel-that-wasnt-there-ai-agents/)**  
+A speculative short story in the Twilight Zone tradition about an independent luxury hotel that AI assistants read, agree with and still do not choose.
+
 <a id="resource-ai-hotel-link-trap"></a>
 
 **[You Won the AI Recommendation. Expedia Won the Click.](https://www.americasgreatresorts.net/ai-hotel-link-trap/)**  
 Examines the commercial implications of AGR’s AI hotel link-destination research, including intermediary booking costs, direct booking pathways, and the separate roles of KFO, conversion infrastructure, and ODI.
+
+<a id="resource-ai-referral-hotel-website-defects"></a>
+
+**[AI Parted the Red Sea for Your Hotel. Then Your Website Drowned the Guest.](https://www.americasgreatresorts.net/ai-referral-hotel-website-defects/)**  
+Documents three luxury hotels whose own websites, cited by AI assistants, carried a closed restaurant still taking reservations, outdated PDFs and an old development site still live.
 
 <a id="resource-ai-booking-agents-execution-layer"></a>
 
@@ -841,6 +851,8 @@ The research, frameworks, studies, model evaluation records, case studies, and a
 
 - Property-level hotel and luxury condo PDF reports: [research-library twin](../reports/ai-visibility-reports.md)
 - AI hotel recommendation link destinations and direct booking pathways: [article twin](ai-hotel-link-trap.md)
+- Hotel website defects reached through AI citations: [article twin](ai-referral-hotel-website-defects.md)
+- Speculative story on AI assistants that read a hotel but do not believe it: [article twin](hotel-that-wasnt-there-ai-agents.md)
 - AGR AI visibility resource index: this document
 - AGR KFO resource index: this document
 - Hospitality AI research and analysis by Americas Great Resorts: this document
@@ -870,7 +882,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
   "url": "https://americas-great-resorts.github.io/AGR/corpus/ai-visibility-resources.html",
   "isBasedOn": "https://www.americasgreatresorts.net/ai-visibility-resources/",
   "datePublished": "2026-09-21T18:42:39-04:00",
-  "dateModified": "2026-10-24",
+  "dateModified": "2026-10-28",
   "inLanguage": "en-US",
   "author": {
     "@type": "Person",
@@ -883,7 +895,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
   "version": "1.6",
   "mainEntity": {
     "@type": "ItemList",
-    "numberOfItems": 124,
+    "numberOfItems": 126,
     "itemListElement": [
       {
         "@type": "ListItem",
@@ -1680,6 +1692,16 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
         "position": 80,
         "item": {
           "@type": "WebPage",
+          "url": "https://www.americasgreatresorts.net/hotel-that-wasnt-there-ai-agents/",
+          "name": "The Hotel That Wasn’t There",
+          "description": "A speculative short story in the Twilight Zone tradition about an independent luxury hotel that AI assistants read, agree with and still do not choose."
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 81,
+        "item": {
+          "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/ai-hotel-link-trap/",
           "name": "You Won the AI Recommendation. Expedia Won the Click.",
           "description": "Examines the commercial implications of AGR's AI hotel link-destination research, including intermediary booking costs, direct booking pathways, and the separate roles of KFO, conversion infrastructure, and ODI."
@@ -1687,7 +1709,17 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 81,
+        "position": 82,
+        "item": {
+          "@type": "WebPage",
+          "url": "https://www.americasgreatresorts.net/ai-referral-hotel-website-defects/",
+          "name": "AI Parted the Red Sea for Your Hotel. Then Your Website Drowned the Guest.",
+          "description": "Documents three luxury hotels whose own websites, cited by AI assistants, carried a closed restaurant still taking reservations, outdated PDFs and an old development site still live."
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 83,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/ai-booking-agents-execution-layer/",
@@ -1697,7 +1729,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 82,
+        "position": 84,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/ai-booking-agents-luxury-resorts/",
@@ -1707,7 +1739,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 83,
+        "position": 85,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/ai-hotel-distribution-otas/",
@@ -1717,7 +1749,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 84,
+        "position": 86,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/ai-mediated-discovery-hotel-demand-control/",
@@ -1727,7 +1759,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 85,
+        "position": 87,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/ai-will-strengthen-travel-intermediaries/",
@@ -1737,7 +1769,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 86,
+        "position": 88,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/chatgpt-recommending-hotels-expedia-demand-origin/",
@@ -1747,7 +1779,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 87,
+        "position": 89,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/google-io-2026-agentic-search-hotel-demand/",
@@ -1757,7 +1789,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 88,
+        "position": 90,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/ai-hotel-marketing-structural-shift/",
@@ -1767,7 +1799,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 89,
+        "position": 91,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/ai-hotel-valuation-exit/",
@@ -1777,7 +1809,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 90,
+        "position": 92,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/hotel-ota-ai-event-horizon/",
@@ -1787,7 +1819,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 91,
+        "position": 93,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/llms-otas-luxury-hotel-demand/",
@@ -1797,7 +1829,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 92,
+        "position": 94,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/luxury-hospitality-post-search-era/",
@@ -1807,7 +1839,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 93,
+        "position": 95,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/when-ai-plans-the-trip-who-owns-the-traveler/",
@@ -1817,7 +1849,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 94,
+        "position": 96,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/agentic-travel-planning-luxury-hotels/",
@@ -1827,7 +1859,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 95,
+        "position": 97,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/cognitive-surrender-luxury-hotel-bookings/",
@@ -1837,7 +1869,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 96,
+        "position": 98,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/ucp-mcp-gemini-you-already-know-how-this-ends/",
@@ -1847,7 +1879,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 97,
+        "position": 99,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/meet-the-new-boss-same-as-the-old-boss/",
@@ -1857,7 +1889,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 98,
+        "position": 100,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/we-said-this-in-1998/",
@@ -1867,7 +1899,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 99,
+        "position": 101,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/agr-1998-ota-warning-llm/",
@@ -1877,7 +1909,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 100,
+        "position": 102,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/how-cruise-lines-should-prepare-for-ai-search-before-its-too-late/",
@@ -1887,7 +1919,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 101,
+        "position": 103,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/invisible-at-the-top-ai-ultra-luxury-cruise/",
@@ -1897,7 +1929,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 102,
+        "position": 104,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/knowledge-formation-optimization-luxury-cruise/",
@@ -1907,7 +1939,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 103,
+        "position": 105,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/ai-visibility-condo-developments-branded-residences/",
@@ -1917,7 +1949,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 104,
+        "position": 106,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/south-florida-luxury-condo-ai-visibility-report/",
@@ -1927,7 +1959,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 105,
+        "position": 107,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/cruise-line-marketing/",
@@ -1937,7 +1969,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 106,
+        "position": 108,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/luxury-condo-marketing/",
@@ -1947,7 +1979,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 107,
+        "position": 109,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/best-marketing-companies-new-luxury-condo-developments/",
@@ -1957,7 +1989,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 108,
+        "position": 110,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/ai-lookalike-sites-luxury-condo-buyers/",
@@ -1967,7 +1999,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 109,
+        "position": 111,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/luxury-condo-ai-official-sales-channel/",
@@ -1977,7 +2009,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 110,
+        "position": 112,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/luxury-condo-ai-visibility-study/",
@@ -1987,7 +2019,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 111,
+        "position": 113,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/luxury-condo-development-marketing-mistakes/",
@@ -1997,7 +2029,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 112,
+        "position": 114,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/luxury-condo-marketing-guide/",
@@ -2007,7 +2039,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 113,
+        "position": 115,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/luxury-condo-ai-visibility-resources/",
@@ -2017,7 +2049,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 114,
+        "position": 116,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/kfo-service/",
@@ -2027,7 +2059,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 115,
+        "position": 117,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/agr-kfo-service-provider/",
@@ -2037,7 +2069,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 116,
+        "position": 118,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/luxury-hotel-ai-visibility-audit/",
@@ -2047,7 +2079,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 117,
+        "position": 119,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/luxury-hotel-marketing-agency-ai-answer/",
@@ -2057,7 +2089,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 118,
+        "position": 120,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/ai-consultant-gold-rush/",
@@ -2067,7 +2099,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 119,
+        "position": 121,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/ai-overview-liability/",
@@ -2077,7 +2109,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 120,
+        "position": 122,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/hal-9000-luxury-hotel-ai-platform-risk/",
@@ -2087,7 +2119,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 121,
+        "position": 123,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/your-ai-vendor-is-a-dot-com-startup/",
@@ -2097,7 +2129,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 122,
+        "position": 124,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/ai-slop-hotel-marketing/",
@@ -2107,7 +2139,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 123,
+        "position": 125,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/hospitality-marketing-ai-visibility-voices/",
@@ -2117,7 +2149,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 124,
+        "position": 126,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/late-is-cheap-until-it-isnt/",

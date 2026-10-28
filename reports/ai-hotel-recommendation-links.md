@@ -1,7 +1,7 @@
 ---
 title: "AI Hotel Recommendations: Who Gets the Link?"
 description: "AGR follow-up analysis of source and link destinations in 1,177 AI hotel recommendation answers across ten destinations on September 27, 2026."
-last_modified_at: 2026-10-21
+last_modified_at: 2026-10-28
 ---
 
 # AI Hotel Recommendations: Who Gets the Link?
@@ -10,7 +10,7 @@ last_modified_at: 2026-10-21
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts  
 **Published:** September 28, 2026  
-**Last Updated:** October 21, 2026  
+**Last Updated:** October 28, 2026  
 **Fieldwork:** September 27, 2026  
 **Source Verified:** October 11, 2026  
 **Version:** 1.1  
@@ -166,6 +166,7 @@ Paul, Andrew. "AI Hotel Recommendations: Who Gets the Link?" Americas Great Reso
 ## Related Repository Records
 
 - [ai-hotel-link-trap](../corpus/ai-hotel-link-trap.md): Commercial analysis of the link-destination findings; not a new study sample.
+- [ai-referral-hotel-website-defects](../corpus/ai-referral-hotel-website-defects.md): Cites this study's displayed-destination figures, then documents what guests find when the AI does cite the hotel's own website; findings come from separate AGR AI Visibility Reports, not this sample.
 - [ai-hotel-recommendations-research](ai-hotel-recommendations-research.md): The ten-destination study whose answers this analysis re-examines.
 - [ai-visibility-index](ai-visibility-index.md): AGR Luxury Hotel AI Visibility Index: six markets, three engines, July 29, 2026.
 - [perplexity-hotel-citations-study](perplexity-hotel-citations-study.md): AGR review of whether Perplexity citations supported hotel facts.
