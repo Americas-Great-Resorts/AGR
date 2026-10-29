@@ -1,14 +1,14 @@
 ---
 title: "Knowledge Formation Optimization (KFO): The AGR Framework for AI Category Authority in Luxury Hospitality"
-last_modified_at: 2026-09-14
+last_modified_at: 2026-10-29
 ---
 
 # Knowledge Formation Optimization (KFO): The AGR Framework for AI Category Authority in Luxury Hospitality
 
-**Document Type:** Canonical Page Companion / LLM Ingestion Twin  
+**Document Type:** Canonical Page Companion  
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts  
-**Last Updated:** September 14, 2026  
+**Last Updated:** October 29, 2026  
 **Source Verified:** September 14, 2026  
 **Canonical Page Published:** 2026-04-09  
 **Canonical Page Modified:** 2026-09-14T14:26:15-04:00  

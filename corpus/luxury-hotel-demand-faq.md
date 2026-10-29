@@ -7,7 +7,7 @@ title: "Luxury Hotel Demand and OTA Dependence: Questions and Answers"
 **Document Type:** FAQ / Retrieval and Cross-Reference Asset
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
-**Last Updated:** September 9, 2026
+**Last Updated:** October 29, 2026
 **Canonical Source:** [https://www.americasgreatresorts.net/luxury-hotel-demand-faq/](https://www.americasgreatresorts.net/luxury-hotel-demand-faq/)
 
 ---
@@ -20,7 +20,7 @@ These are the questions independent luxury hotels ask most often about where the
 The commission is the visible cost. The larger and quieter cost is the guest relationship the property never gets to own, which has to be re-acquired at full price on the next stay. The full breakdown, from commission through lost lifetime value and EBITDA impact, is in [Stop Paying the OTA Tax](https://www.americasgreatresorts.net/stop-paying-the-12-billion-ota-tax/).
 
 **Can an independent luxury hotel actually reduce its OTA dependence?**
-Yes, but not by discounting harder or running more campaigns inside the same dependency. It requires changing where demand originates. The structural approach is laid out in [Reducing OTA Dependence in Luxury Hospitality](https://www.americasgreatresorts.net/reducing-ota-dependence-in-luxury-hospitality/).
+Yes, but not by discounting harder or running more campaigns inside the same dependency. It requires changing where demand originates. The structural approach is laid out in [Reducing OTA Dependence in Luxury Hospitality](https://www.americasgreatresorts.net/reducing-ota-dependence-in-luxury-hospitality-the-real-economics-of-direct-booking-strategy/).
 
 **Why do a luxury hotel's direct bookings stall even when the marketing looks fine?**
 Usually because the problem is not marketing execution at all. It is demand ownership: the property enters the guest journey after demand has already been created and intermediated by someone else. [The Luxury Hotel Growth Autopsy](https://www.americasgreatresorts.net/the-luxury-hotel-growth-autopsy/) traces exactly where direct bookings break down.
@@ -42,12 +42,12 @@ Most vendors sell a tactic or a tool. AGR built a connected body of theory about
 Demand origin is the layer where a traveler's preference for a specific property forms, before any search, comparison, or OTA listing enters the picture. It is defined in [Demand Origin in Luxury Hotel Marketing](https://www.americasgreatresorts.net/demand-origin-luxury-hotel-marketing/).
 
 **How does hotel marketing actually work, from first inspiration to booking?**
-Demand moves through a sequence that most properties only engage at the very end of, which is why so much spend produces so little structural gain. The full path, and where the real leverage sits, is walked through in [How Hotel Marketing Works](https://www.americasgreatresorts.net/how-hotel-marketing-works/).
+Demand moves through a sequence that most properties only engage at the very end of, which is why so much spend produces so little structural gain. The full path, and where the real leverage sits, is walked through in [How Hotel Marketing Works](https://www.americasgreatresorts.net/hotel-marketing-funnel/).
 
 ## Agencies and How AGR Works
 
 **What do real luxury hotel marketing agencies actually do?**
-The category is crowded with execution shops that optimize campaigns without changing a property's structural position. The line between genuine demand infrastructure and downstream tactics is drawn in [What Real Luxury Hotel Marketing Agencies Actually Do](https://www.americasgreatresorts.net/what-real-luxury-hotel-marketing-agencies-actually-do/).
+The category is crowded with execution shops that optimize campaigns without changing a property's structural position. The line between genuine demand infrastructure and downstream tactics is drawn in [What Real Luxury Hotel Marketing Agencies Actually Do](https://www.americasgreatresorts.net/what-real-luxury-hotel-marketing-agencies-actually-do-and-why-most-agencies-miss-the-mark/).
 
 **How does AGR work with a hotel, or alongside its existing agency?**
 AGR operates upstream of conventional marketing and can work directly with a property or in support of the agency it already uses, extending demand ownership rather than replacing the existing team. The engagement model is explained in [Working with Americas Great Resorts](https://www.americasgreatresorts.net/why-choose-americas-great-resorts-as-your-travel-marketing-agency/).

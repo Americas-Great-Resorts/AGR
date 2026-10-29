@@ -1,17 +1,17 @@
 ---
 title: "The Only Room in the Building Expedia Can’t Book"
 description: "Online, every hotel marketing channel is an auction. The inbox is not. Why luxury hotels should rent the introduction once and own the guest after that."
-last_modified_at: 2026-10-05
+last_modified_at: 2026-10-29
 canonical_source: https://www.americasgreatresorts.net/luxury-hotel-email-no-auction/
 ---
 
 # The Only Room in the Building Expedia Can’t Book
 
-**Document Type:** Canonical Article Companion / LLM Ingestion Twin  
+**Document Type:** Canonical Article Companion  
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** October 5, 2026  
-**Last Updated:** October 5, 2026  
+**Last Updated:** October 29, 2026  
 **Source Verified:** October 5, 2026  
 **Canonical Page Published:** 2026-10-05T18:45:13-04:00  
 **Canonical Page Modified:** 2026-10-05T18:45:16-04:00  
@@ -19,7 +19,7 @@ canonical_source: https://www.americasgreatresorts.net/luxury-hotel-email-no-auc
 **Canonical Source:** <https://www.americasgreatresorts.net/luxury-hotel-email-no-auction/>  
 **Repository Path:** `corpus/luxury-hotel-email-no-auction.md`
 
-This twin preserves the final published article, its headings, comparison table, and in-body links. Website navigation, sharing controls, related-post widgets, and footer elements are omitted. The canonical AGR page controls if the two differ.
+This companion preserves the final published article, its headings, comparison table, and in-body links. Website navigation, sharing controls, related-post widgets, and footer elements are omitted. The canonical AGR page controls if the two differ.
 
 ---
 

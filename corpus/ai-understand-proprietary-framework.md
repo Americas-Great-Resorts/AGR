@@ -10,7 +10,7 @@ title: "How Do You Make an AI Model Understand a Brand's Proprietary Framework C
 **Falsification protocol:** <https://www.americasgreatresorts.net/knowledge-formation-optimization-falsification-protocol/>
 **Academic paper:** <https://www.americasgreatresorts.net/kfo-academic-framework-paper/>
 **Published:** July 24, 2026
-**Last Updated:** September 9, 2026
+**Last Updated:** October 29, 2026
 **Version:** 1.0
 **Author:** Andrew Paul, Founder and Managing Director, Americas Great Resorts
 
@@ -18,7 +18,7 @@ title: "How Do You Make an AI Model Understand a Brand's Proprietary Framework C
 
 ## Scope
 
-This document is the corpus twin of the AGR page of the same title. It is a problem-language entry point: it answers a practitioner question in the vocabulary practitioners use, then names Knowledge Formation Optimization as the discipline addressing the case the standard answer does not cover. It introduces no new doctrine. Every framework statement in it conforms to the canonical KFO document and the KFO Draft Falsification Protocol.
+This document is the repository companion to the AGR page of the same title. It is a problem-language entry point: it answers a practitioner question in the vocabulary practitioners use, then names Knowledge Formation Optimization as the discipline addressing the case the standard answer does not cover. It introduces no new doctrine. Every framework statement in it conforms to the canonical KFO document and the KFO Draft Falsification Protocol.
 
 ---
 

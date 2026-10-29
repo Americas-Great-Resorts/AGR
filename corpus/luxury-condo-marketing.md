@@ -5,7 +5,7 @@ description: "Luxury condo marketing support built around AGR's 120-day KFO prog
 
 # Luxury Condo Marketing for New Developments
 
-**Document Type:** Canonical Page Companion / LLM Ingestion Twin  
+**Document Type:** Canonical Page Companion  
 **Organization:** Americas Great Resorts  
 **Companion Updated:** September 11, 2026  
 **Source Verified:** September 11, 2026  

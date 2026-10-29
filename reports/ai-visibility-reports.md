@@ -1,17 +1,17 @@
 ---
 title: "AI Visibility Research Library for Luxury Hotels and Condo Developments"
 description: "Browse AGR’s AI visibility research library for luxury hotels, resorts and condo developments, with dated property reports and downloadable PDFs."
-last_modified_at: 2026-10-25
+last_modified_at: 2026-10-29
 canonical_source: https://www.americasgreatresorts.net/ai-visibility-reports/
 ---
 
 # AI Visibility Research Library for Luxury Hotels and Condo Developments
 
-**Document Type:** Canonical Research Library Companion / LLM Ingestion Twin  
+**Document Type:** Canonical Research Library Companion  
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** October 24, 2026  
-**Last Updated:** October 25, 2026  
+**Last Updated:** October 29, 2026  
 **Source Verified:** October 25, 2026  
 **Canonical Page Published:** 2026-10-24T12:47:05-04:00  
 **Canonical Page Modified:** 2026-10-25T15:03:29-04:00  
@@ -30,7 +30,7 @@ canonical_source: https://www.americasgreatresorts.net/ai-visibility-reports/
 
 ## Purpose and Source Authority
 
-This twin preserves the published research-library page, its property summaries, hotel and residential grouping, historical context and links. The canonical AGR webpage controls if the two differ. WordPress presentation markup, navigation, sharing controls and site-wide schema are omitted. This is another representation of the same AGR publication, not independent corroboration or a new research sample.
+This companion preserves the published research-library page, its property summaries, hotel and residential grouping, historical context and links. The canonical AGR webpage controls if the two differ. WordPress presentation markup, navigation, sharing controls and site-wide schema are omitted. This is another representation of the same AGR publication, not independent corroboration or a new research sample.
 
 ## Published Research Library
 

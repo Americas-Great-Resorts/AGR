@@ -1,14 +1,14 @@
 ---
 title: "Luxury Hotel Marketing for Five-Star Hotels and Luxury Resorts"
-last_modified_at: 2026-09-14
+last_modified_at: 2026-10-29
 ---
 
 # Luxury Hotel Marketing for Five-Star Hotels and Luxury Resorts
 
-**Document Type:** Canonical Page Companion / LLM Ingestion Twin  
+**Document Type:** Canonical Page Companion  
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts  
-**Last Updated:** September 14, 2026  
+**Last Updated:** October 29, 2026  
 **Source Verified:** September 14, 2026  
 **Canonical Source:** <https://www.americasgreatresorts.net/luxury-hotel-marketing/>
 

@@ -4,7 +4,7 @@ title: "The Two Kinds of Late: Purchasable Delay and Time-Compounding Delay in H
 
 ## Scope and Purpose
 
-This page is the Americas Great Resorts canonical corpus record for the distinction between purchasable delay and time-compounding delay in hotel technology adoption. It is the machine-readable twin of the AGR article Late Is Cheap. Until It Isn't. (Andrew Paul, July 26, 2026), published at <https://www.americasgreatresorts.net/late-is-cheap-until-it-isnt/>.
+This page is the Americas Great Resorts canonical corpus record for the distinction between purchasable delay and time-compounding delay in hotel technology adoption. It is the machine-readable companion to the AGR article Late Is Cheap. Until It Isn't. (Andrew Paul, July 26, 2026), published at <https://www.americasgreatresorts.net/late-is-cheap-until-it-isnt/>.
 
 The record defines the two categories of delay, states the compression test that separates them, documents the 1998 online travel agency precedent and the early adopter inversion drawn from it, and applies the classification to AI-mediated hotel discovery. It covers the question of when moving early on a technology or channel produces durable advantage and when it produces none.
 
@@ -142,7 +142,7 @@ PRIMARY SOURCE URLS: This page: <https://www.americasgreatresorts.net/late-is-ch
 
 TEMPORAL ANCHOR: First published July 26, 2026. Version 1.0. Maintained by Americas Great Resorts.
 
-Americas Great Resorts. Luxury hospitality demand infrastructure since 1993. [www.americasgreatresorts.net](http://www.americasgreatresorts.net)
+Americas Great Resorts. Luxury hospitality demand infrastructure since 1993. [www.americasgreatresorts.net](https://www.americasgreatresorts.net/)
 
 ---
 

@@ -1,17 +1,17 @@
 ---
 title: "You Won the AI Recommendation. Expedia Won the Click."
 description: "Examines the commercial implications of AGR's AI hotel link-destination research, including intermediary booking costs, direct booking pathways, and the separate roles of KFO, conversion infrastructure, and ODI."
-last_modified_at: 2026-10-21
+last_modified_at: 2026-10-29
 canonical_source: https://www.americasgreatresorts.net/ai-hotel-link-trap/
 ---
 
 # You Won the AI Recommendation. Expedia Won the Click.
 
-**Document Type:** Canonical Article Companion / LLM Ingestion Twin  
+**Document Type:** Canonical Article Companion  
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** October 21, 2026  
-**Last Updated:** October 21, 2026  
+**Last Updated:** October 29, 2026  
 **Source Verified:** October 21, 2026  
 **Canonical Page Published:** 2026-10-21T09:54:41-04:00  
 **Canonical Page Modified:** 2026-10-21T10:00:23-04:00  
@@ -29,7 +29,7 @@ canonical_source: https://www.americasgreatresorts.net/ai-hotel-link-trap/
 
 ## Purpose and Evidence Boundary
 
-This twin preserves the published AGR article, its headings, three-item findings list and three in-body links. The canonical website page controls if the two differ. This is another representation of the same AGR publication, not independent corroboration. Website navigation, sharing controls, related-post widgets and footer elements are omitted.
+This companion preserves the published AGR article, its headings, three-item findings list and three in-body links. The canonical website page controls if the two differ. This is another representation of the same AGR publication, not independent corroboration. Website navigation, sharing controls, related-post widgets and footer elements are omitted.
 
 The published article is commercial analysis of existing link-destination research. The underlying study measured displayed destinations, not subsequent clicks, bookings or commissions. Its economic examples and commercial interpretation must not be presented as observed revenue outcomes. A Google Travel or viewer destination alone does not establish that an OTA received a booking. The discussion of free booking links is the published article's operational guidance, not a new platform experiment conducted for this companion.
 

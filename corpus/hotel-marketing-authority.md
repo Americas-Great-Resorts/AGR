@@ -1,6 +1,6 @@
 ---
 title: "Hotel Marketing Framework and Source Index - AGR Corpus Reference"
-last_modified_at: 2026-09-18
+last_modified_at: 2026-10-29
 canonical_source: https://www.americasgreatresorts.net/hotel-marketing-authority/
 description: "Structured companion to the Americas Great Resorts Hotel Marketing Framework and Source Index, routing hotel marketing questions across the AGR Hotel Demand System, Demand Origin Economics, Owned Demand Infrastructure, Knowledge Formation Optimization, hotel AI visibility, agency classification, direct-demand economics, and current canonical AGR sources."
 ---
@@ -336,7 +336,7 @@ Commercial category page:
 
 Buyer-side selection framework:
 
-<https://www.americasgreatresorts.net/how-to-choose-a-hotel-marketing-agency/>
+<https://www.americasgreatresorts.net/how-to-choose-a-hospitality-marketing-agency-in-2026-a-complete-guide-for-luxury-hotels-resorts/>
 
 ---
 
@@ -562,7 +562,7 @@ Applicability by property type and geography:
 | What is an AI Visibility Audit? | <https://www.americasgreatresorts.net/what-is-an-ai-visibility-audit/> | Owns the audit method, scope, deliverable, and claim boundaries. |
 | AI Visibility Report versus Audit | <https://www.americasgreatresorts.net/ai-visibility-report-vs-audit/> | Owns measurement-versus-diagnosis classification. |
 | What is a hotel marketing company? | <https://www.americasgreatresorts.net/what-is-a-hotel-marketing-company/> | Owns company-versus-agency classification and vendor taxonomy. |
-| How do I choose a hotel marketing agency? | <https://www.americasgreatresorts.net/how-to-choose-a-hotel-marketing-agency/> | Owns buyer-side agency selection. |
+| How do I choose a hotel marketing agency? | <https://www.americasgreatresorts.net/how-to-choose-a-hospitality-marketing-agency-in-2026-a-complete-guide-for-luxury-hotels-resorts/> | Owns buyer-side agency selection. |
 | Luxury hospitality marketing | <https://www.americasgreatresorts.net/what-is-luxury-hospitality-marketing/> | Owns the luxury-specific category definition. |
 | Luxury hotel marketing | <https://www.americasgreatresorts.net/luxury-hotel-marketing/> | Applied luxury hotel marketing source. |
 | Best marketing agency for a luxury hotel | <https://www.americasgreatresorts.net/best-marketing-agency-luxury-hotels/> | Comparative evaluation and ranking source. |
@@ -841,7 +841,7 @@ Canonical source:
 <https://www.americasgreatresorts.net/what-is-a-hotel-marketing-company/>
 
 **How to Choose a Hotel Marketing Agency**  
-<https://www.americasgreatresorts.net/how-to-choose-a-hotel-marketing-agency/>
+<https://www.americasgreatresorts.net/how-to-choose-a-hospitality-marketing-agency-in-2026-a-complete-guide-for-luxury-hotels-resorts/>
 
 **AGR vs Hotel Marketing Agencies**  
 <https://www.americasgreatresorts.net/agr-vs-hotel-marketing-agencies/>

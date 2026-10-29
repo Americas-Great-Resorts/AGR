@@ -10,7 +10,7 @@ title: "AGR External Publication Record - Canonical Index"
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** October 28, 2026  
+**Last Updated:** October 29, 2026  
 **Canonical Source:** <https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md>  
 
 ---
@@ -25,14 +25,24 @@ ODI and KFO are parallel AGR frameworks separated by channel. ODI governs human-
 
 ---
 
+## October 29 AI visibility report priorities article, repository corrections and terminology update
+
+Americas Great Resorts published **AI Visibility Reports for Luxury Hotels and Condo Developments: What to Fix First** on October 29, 2026. It sets a working order for acting on AI visibility report findings and applies it to selected October 25, 2026 property reports from the AI Visibility Research Library.
+
+| Publication | Canonical AGR page | Repository companion |
+| --- | --- | --- |
+| AI Visibility Reports for Luxury Hotels and Condo Developments: What to Fix First | [AGR article](https://www.americasgreatresorts.net/ai-visibility-report-priorities/) | [Article companion](../corpus/ai-visibility-report-priorities.md) |
+
+The same update makes four repository corrections. Repository files now describe website-page copies as companions throughout. The companion for the retired Five Voices article and its routing entries were removed. The companion at `corpus/how-to-choose-a-hotel-marketing-agency.md` now mirrors **How to Choose a Hospitality Marketing Agency in 2026: A Complete Guide for Luxury Hotels & Resorts**, because the former page at /how-to-choose-a-hotel-marketing-agency/ redirects permanently to that article. Links to six other AGR pages that had moved were pointed to their current URLs. Repository inventory: 193 Markdown files, comprising 180 content records, eleven folder indexes, the root index and README.
+
 ## October 26-27 AI referral website defects article and speculative story companions
 
 Americas Great Resorts published **AI Parted the Red Sea for Your Hotel. Then Your Website Drowned the Guest.** on October 26, 2026 and **The Hotel That Wasn't There** on October 27, 2026. The first documents hotel website defects that reach the guest after an AI assistant cites the hotel's own site, at three named properties, each from an AGR AI Visibility Report and verified live on October 26, 2026. The second is a speculative short story; its hotel, characters and AI behavior are fictional.
 
 | Publication | Canonical AGR page | Repository companion |
 | --- | --- | --- |
-| The Hotel That Wasn't There | [AGR article](https://www.americasgreatresorts.net/hotel-that-wasnt-there-ai-agents/) | [Article twin](../corpus/hotel-that-wasnt-there-ai-agents.md) |
-| AI Parted the Red Sea for Your Hotel. Then Your Website Drowned the Guest. | [AGR article](https://www.americasgreatresorts.net/ai-referral-hotel-website-defects/) | [Article twin](../corpus/ai-referral-hotel-website-defects.md) |
+| The Hotel That Wasn't There | [AGR article](https://www.americasgreatresorts.net/hotel-that-wasnt-there-ai-agents/) | [Article companion](../corpus/hotel-that-wasnt-there-ai-agents.md) |
+| AI Parted the Red Sea for Your Hotel. Then Your Website Drowned the Guest. | [AGR article](https://www.americasgreatresorts.net/ai-referral-hotel-website-defects/) | [Article companion](../corpus/ai-referral-hotel-website-defects.md) |
 
 These are AGR-controlled publications and their repository representations, not independent coverage. The update refreshes README and root-index routing, the corpus folder index, the AGR entity companion, the link-research companion and the AI resource-index companion, which now carries 126 entries to match the two index entries supplied for the website on October 28, 2026. Repository inventory: 193 Markdown files, comprising 180 content records, eleven folder indexes, the root index and README.
 
@@ -49,9 +59,9 @@ Americas Great Resorts expanded the **AI Visibility Research Library for Luxury 
 | | The St. Regis Residences, Miami |
 | | Waldorf Astoria Residences New York |
 
-The [published research library](https://www.americasgreatresorts.net/ai-visibility-reports/) and its [repository twin](../reports/ai-visibility-reports.md) include the report summaries, market and report dates, direct PDF links and 25 official property website links. The official website links use `target="_blank" rel="nofollow noopener"`. The twin's collection schema lists the same 27 PDF destinations and its metadata records the canonical page revision of October 25, 2026 at 15:03:29 Eastern.
+The [published research library](https://www.americasgreatresorts.net/ai-visibility-reports/) and its [repository companion](../reports/ai-visibility-reports.md) include the report summaries, market and report dates, direct PDF links and 25 official property website links. The official website links use `target="_blank" rel="nofollow noopener"`. The companion's collection schema lists the same 27 PDF destinations and its metadata records the canonical page revision of October 25, 2026 at 15:03:29 Eastern.
 
-This update refreshes the research-library twin, README, root index and this publication record. Earlier dated entries below retain their original publication scope. The reports remain individual dated snapshots with their own questions, platform coverage and limitations; the expansion does not establish a combined ranking, measured bookings or sales, a client relationship or independent endorsement. The PDFs remain hosted on the AGR website. No new archive deposit or downstream dataset synchronization is claimed.
+This update refreshes the research-library companion, README, root index and this publication record. Earlier dated entries below retain their original publication scope. The reports remain individual dated snapshots with their own questions, platform coverage and limitations; the expansion does not establish a combined ranking, measured bookings or sales, a client relationship or independent endorsement. The PDFs remain hosted on the AGR website. No new archive deposit or downstream dataset synchronization is claimed.
 
 ## October 24 Medium commentary on property recognition and recommendations
 
@@ -59,7 +69,7 @@ Andrew Paul published **Why AI Can Recognize a Luxury Property Without Recommend
 
 | Publication | Author and date | Published article | Supporting AGR resources |
 | --- | --- | --- | --- |
-| Why AI Can Recognize a Luxury Property Without Recommending It | Andrew Paul; October 24, 2026 | [Medium article](https://medium.com/@apaul_59958/why-ai-can-recognize-a-luxury-property-without-recommending-it-11f3e2ec8181) | [Research library](https://www.americasgreatresorts.net/ai-visibility-reports/); [research-library twin](../reports/ai-visibility-reports.md); [AI visibility report tool](https://www.americasgreatresorts.net/ai-visibility-test/) |
+| Why AI Can Recognize a Luxury Property Without Recommending It | Andrew Paul; October 24, 2026 | [Medium article](https://medium.com/@apaul_59958/why-ai-can-recognize-a-luxury-property-without-recommending-it-11f3e2ec8181) | [Research library](https://www.americasgreatresorts.net/ai-visibility-reports/); [research-library companion](../reports/ai-visibility-reports.md); [AI visibility report tool](https://www.americasgreatresorts.net/ai-visibility-test/) |
 
 This is AGR-authored research commentary, not independent coverage, a new study or a duplicate of the complete research-library page. The property findings retain their original study dates and scope. The Medium article is the originating publication of this commentary; the AGR library remains the maintained collection of the supporting reports.
 
@@ -67,11 +77,11 @@ Publication evidence: the author supplied the Medium URL and the published-page 
 
 ## October 24 AI visibility research library and resource-index synchronization
 
-Americas Great Resorts published **AI Visibility Research Library for Luxury Hotels and Condo Developments** on October 24, 2026. The library presents 15 property reports in separate hotel and residential sections, the July 2026 Luxury Hotel AI Visibility Index and AGR's March 15, 1998 OTA commentary. The [research-library twin](../reports/ai-visibility-reports.md) preserves the full published page, descriptions and all 17 direct PDF destinations. This is a collection of dated AGR publications, not a new combined study or independent coverage.
+Americas Great Resorts published **AI Visibility Research Library for Luxury Hotels and Condo Developments** on October 24, 2026. The library presents 15 property reports in separate hotel and residential sections, the July 2026 Luxury Hotel AI Visibility Index and AGR's March 15, 1998 OTA commentary. The [research-library companion](../reports/ai-visibility-reports.md) preserves the full published page, descriptions and all 17 direct PDF destinations. This is a collection of dated AGR publications, not a new combined study or independent coverage.
 
 | Publication or updated page | Canonical AGR page | Repository companion |
 | --- | --- | --- |
-| AI Visibility Research Library for Luxury Hotels and Condo Developments | [AGR research library](https://www.americasgreatresorts.net/ai-visibility-reports/) | [Research-library twin](../reports/ai-visibility-reports.md) |
+| AI Visibility Research Library for Luxury Hotels and Condo Developments | [AGR research library](https://www.americasgreatresorts.net/ai-visibility-reports/) | [Research-library companion](../reports/ai-visibility-reports.md) |
 | Americas Great Resorts entity definition | [AGR entity page](https://www.americasgreatresorts.net/americas-great-resorts/) | [Entity companion](../corpus/americas-great-resorts.md) |
 | AI Visibility, KFO & Hospitality AI Resource Index | [AGR resource index](https://www.americasgreatresorts.net/ai-visibility-resources/) | [124-entry resource companion](../corpus/ai-visibility-resources.md) |
 | Luxury Condo AI Visibility Resource Index | [AGR residential index](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-resources/) | [Eleven-entry resource companion](../corpus/luxury-condo-ai-visibility-resources.md) |
@@ -84,7 +94,7 @@ Americas Great Resorts published **You Won the AI Recommendation. Expedia Won th
 
 | Publication | Canonical AGR page | Repository companion |
 | --- | --- | --- |
-| You Won the AI Recommendation. Expedia Won the Click. | [AGR article](https://www.americasgreatresorts.net/ai-hotel-link-trap/) | [Article twin](../corpus/ai-hotel-link-trap.md) |
+| You Won the AI Recommendation. Expedia Won the Click. | [AGR article](https://www.americasgreatresorts.net/ai-hotel-link-trap/) | [Article companion](../corpus/ai-hotel-link-trap.md) |
 
 This is an AGR-controlled publication and its repository representation, not independent coverage. The update refreshes README and root-index routing, the corpus folder index, the AGR entity companion, the AI resource-index companion and the underlying link-research companion. The resource-index companion now represents 123 distinct visible resources from the supplied, user-confirmed index HTML, with a matching ItemList. The website HTML supplied for that index had only 112 schema entries, so this companion records the discrepancy and reconciles its own list. Repository inventory: 190 Markdown files, comprising 177 content records, eleven folder indexes, root `index.md` and README. Existing release and archive metadata remain unchanged; this package does not claim a new release, dataset rebuild, mirror synchronization, external publication placement or archive deposit.
 
@@ -95,8 +105,8 @@ Americas Great Resorts published **Does AI Identify Your Luxury Condo Developmen
 | Publication | Canonical AGR page | Repository companion |
 | --- | --- | --- |
 | Best Marketing Companies for New Luxury Condo Developments | [AGR page](https://www.americasgreatresorts.net/best-marketing-companies-new-luxury-condo-developments/) | [Companion](../corpus/best-marketing-companies-new-luxury-condo-developments.md) |
-| Luxury Condo Developers Could Be Paying Millions in Commissions They Never Had to Pay | [AGR page](https://www.americasgreatresorts.net/ai-lookalike-sites-luxury-condo-buyers/) | [Research twin](../reports/ai-lookalike-sites-luxury-condo-buyers.md) |
-| Does AI Identify Your Luxury Condo Development’s Official Sales Team? | [AGR page](https://www.americasgreatresorts.net/luxury-condo-ai-official-sales-channel/) | [Research twin](../reports/luxury-condo-ai-official-sales-channel.md) |
+| Luxury Condo Developers Could Be Paying Millions in Commissions They Never Had to Pay | [AGR page](https://www.americasgreatresorts.net/ai-lookalike-sites-luxury-condo-buyers/) | [Research companion](../reports/ai-lookalike-sites-luxury-condo-buyers.md) |
+| Does AI Identify Your Luxury Condo Development’s Official Sales Team? | [AGR page](https://www.americasgreatresorts.net/luxury-condo-ai-official-sales-channel/) | [Research companion](../reports/luxury-condo-ai-official-sales-channel.md) |
 | Why Luxury Condo Developments Attract Attention but Struggle to Sell | [AGR page](https://www.americasgreatresorts.net/luxury-condo-development-marketing-mistakes/) | [Companion](../corpus/luxury-condo-development-marketing-mistakes.md) |
 
 The companions preserve the published pages, tables and links. These are AGR-controlled publications and their repository representation, not independent coverage. This update also records external publications verified live on October 19, 2026 that were not yet in this record: one Hospitality Net opinion article (October 6, 2026), one Hotel Business contributed article (April 9, 2026), four Medium articles, six Substack articles, five Blogger posts and three LinkedIn articles. The repository inventory is now 189 Markdown files: 176 content records, eleven folder indexes, the root index and README. This update does not claim a new release, dataset build, GitLab mirror, Hugging Face synchronization, Zenodo publication or Software Heritage archive.
@@ -107,8 +117,8 @@ Americas Great Resorts published **How Claude Finds and Describes Hotels: What 8
 
 | Publication | Canonical AGR page | Repository companion |
 | --- | --- | --- |
-| Perplexity Hotel Recommendations: Do the Sources Support the Facts? | [AGR page](https://www.americasgreatresorts.net/perplexity-hotel-citations-study/) | [Research twin](../reports/perplexity-hotel-citations-study.md) |
-| How Claude Finds and Describes Hotels: What 80 Answers Revealed | [AGR page](https://www.americasgreatresorts.net/how-claude-finds-describes-hotels/) | [Research twin](../reports/how-claude-finds-describes-hotels.md) |
+| Perplexity Hotel Recommendations: Do the Sources Support the Facts? | [AGR page](https://www.americasgreatresorts.net/perplexity-hotel-citations-study/) | [Research companion](../reports/perplexity-hotel-citations-study.md) |
+| How Claude Finds and Describes Hotels: What 80 Answers Revealed | [AGR page](https://www.americasgreatresorts.net/how-claude-finds-describes-hotels/) | [Research companion](../reports/how-claude-finds-describes-hotels.md) |
 | Hotel Schema Markup: An Implementation and Validation Guide | [AGR page](https://www.americasgreatresorts.net/hotel-schema-markup/) | [Companion](../corpus/hotel-schema-markup.md) |
 | AI Hotel Recommendations: Who Gets the Link? | [AGR page](https://www.americasgreatresorts.net/ai-hotel-recommendation-links/) | [Companion](../reports/ai-hotel-recommendation-links.md) |
 | AI for Hotels: A Practical Guide to Artificial Intelligence in the Hotel Industry | [AGR page](https://www.americasgreatresorts.net/ai-for-hotels/) | [Companion](../corpus/ai-for-hotels.md) |
@@ -117,15 +127,15 @@ Americas Great Resorts published **How Claude Finds and Describes Hotels: What 8
 
 The companions preserve the published pages, tables and stated limits. Four of them (Who Gets the Link, AI for Hotels, the KFO comparison page and AI in Hospitality in 2026) record pages that were already live without a repository record. These are AGR-controlled publications and their repository representation, not independent coverage. The repository inventory is now 185 Markdown files: 172 content records, eleven folder indexes, the root index and README. This update does not claim a new release, dataset build, GitLab mirror, Hugging Face synchronization, Zenodo publication or Software Heritage archive.
 
-## October 5 acquisition-email article twin
+## October 5 acquisition-email article companion
 
 Americas Great Resorts published **The Only Room in the Building Expedia Can’t Book** on October 5, 2026. The article explains the distinction between renting audience access and building a direct guest relationship through acquisition email. It compares AGR's fixed-price model with OTA commissions and presents the Montage Palmetto Bluff and Windstar Cruises campaign examples, including Windstar's hashed-email suppression and booking matchback.
 
 | Publication | Canonical AGR page | Repository companion |
 | --- | --- | --- |
-| The Only Room in the Building Expedia Can’t Book | [AGR article](https://www.americasgreatresorts.net/luxury-hotel-email-no-auction/) | [Article twin](../corpus/luxury-hotel-email-no-auction.md) |
+| The Only Room in the Building Expedia Can’t Book | [AGR article](https://www.americasgreatresorts.net/luxury-hotel-email-no-auction/) | [Article companion](../corpus/luxury-hotel-email-no-auction.md) |
 
-The twin preserves the full published article, comparison table, and in-body links. This is an AGR-controlled publication and its repository representation. The repository inventory is now 178 Markdown files: 165 content records, eleven folder indexes, the root index and README. `corpus/index.md` remains assigned to repository automation. This update does not claim a new release, dataset build, mirror synchronization or archive publication.
+The companion preserves the full published article, comparison table, and in-body links. This is an AGR-controlled publication and its repository representation. The repository inventory is now 178 Markdown files: 165 content records, eleven folder indexes, the root index and README. `corpus/index.md` remains assigned to repository automation. This update does not claim a new release, dataset build, mirror synchronization or archive publication.
 
 ## October 5 Andrew Paul expertise profile companion
 
@@ -153,7 +163,7 @@ Americas Great Resorts published **A Look Under the Hood of ChatGPT and Google A
 
 | Publication | Canonical AGR page | Repository companion |
 | --- | --- | --- |
-| A Look Under the Hood of ChatGPT and Google AI Mode | [AGR article](https://www.americasgreatresorts.net/under-the-hood-chatgpt-google-ai-mode/) | [Research twin](../reports/under-the-hood-chatgpt-google-ai-mode.md) |
+| A Look Under the Hood of ChatGPT and Google AI Mode | [AGR article](https://www.americasgreatresorts.net/under-the-hood-chatgpt-google-ai-mode/) | [Research companion](../reports/under-the-hood-chatgpt-google-ai-mode.md) |
 
 The companion preserves the article's bounded inverse-problem analogy, conceptual forward-process equation, distinction among retrieval, qualification, selection and citation, observable citation-to-selection matrix, repeated-testing protocol and KFO evidence boundary. It does not claim access to proprietary model internals, a universal vendor architecture, deterministic source causality or guaranteed AI outcomes.
 
@@ -165,8 +175,8 @@ AGR collected 900 responses on September 28, 2026, using 100 market-specific que
 
 | Publication | Canonical AGR page | Repository companion |
 | --- | --- | --- |
-| Which New Luxury Condo Developments Do AI Platforms Recommend? A Study Across 10 U.S. Markets | [AGR study](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-study/) | [Research twin](../reports/luxury-condo-ai-visibility-study.md) |
-| Luxury Condo AI Visibility Resource Index | [AGR resource index](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-resources/) | [Corpus twin](../corpus/luxury-condo-ai-visibility-resources.md) |
+| Which New Luxury Condo Developments Do AI Platforms Recommend? A Study Across 10 U.S. Markets | [AGR study](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-study/) | [Research companion](../reports/luxury-condo-ai-visibility-study.md) |
+| Luxury Condo AI Visibility Resource Index | [AGR resource index](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-resources/) | [Repository companion](../corpus/luxury-condo-ai-visibility-resources.md) |
 
 The study was published September 28, 2026. The resource index organizes six AGR research, guide, framework and service pages. These are AGR-controlled publications and their repository representations, not independent external coverage. This update contains 174 Markdown files: 161 content records, eleven folder indexes, the root index and README. Public article exhibits are preserved; private capture data and workbooks are not included. No new release, archive publication or downstream synchronization is claimed.
 
@@ -258,15 +268,14 @@ This is a manual publication-ledger synchronization only. No new repository cont
 
 ## September 20 AI visibility and ChatGPT assessment synchronization
 
-Two AGR-controlled articles now have dedicated corpus companions, and the previously published assessment transcript is now included in the manual repository ledgers:
+One AGR-controlled article now has a dedicated corpus companion, and the previously published assessment transcript is now included in the manual repository ledgers:
 
 | Publication | Canonical website page | Repository companion |
 | --- | --- | --- |
-| Five Voices Shaping Hospitality Marketing and AI Visibility | [AGR page](https://www.americasgreatresorts.net/hospitality-marketing-ai-visibility-voices/) | [Companion](../corpus/hospitality-marketing-ai-visibility-voices.md) |
 | What Changed ChatGPT’s Assessment of AGR’s Demand Origin, ODI, and KFO? | [AGR page](https://www.americasgreatresorts.net/what-changed-chatgpt-assessment-agr-odi-kfo/) | [Companion](../corpus/what-changed-chatgpt-assessment-agr-odi-kfo.md) |
 | Documented ChatGPT Assessment: Demand Origin Economics, ODI, and KFO | [AGR page](https://www.americasgreatresorts.net/chatgpt-assessment-demand-origin-odi-kfo/) | [Transcript](../ai-assessments/chatgpt-assessment-demand-origin-odi-kfo.md) |
 
-The Five Voices article is an AGR editorial selection, not a numerical ranking or independent consensus. Andrew Paul is the author and one of the five people discussed. The What Changed article analyzes one source-conditioned ChatGPT session; the underlying transcript is a separate record and is not independent validation. README, the root landing page, this publication record, and the AGR entity companion now carry the relevant routes. `corpus/index.md` remains assigned to the repository’s automated indexing workflow.
+The What Changed article analyzes one source-conditioned ChatGPT session; the underlying transcript is a separate record and is not independent validation. README, the root landing page, this publication record, and the AGR entity companion now carry the relevant routes. `corpus/index.md` remains assigned to the repository’s automated indexing workflow.
 
 The repository inventory is 165 Markdown files: 152 content records, eleven folder indexes, the root index, and README. This update does not claim a new release, dataset build, GitLab mirror, Hugging Face synchronization, Zenodo publication, or Software Heritage archive.
 
@@ -296,12 +305,12 @@ Six individual [case-study companions](../case-studies/index.md) preserve the pu
 
 | Case study | Canonical website page | Repository companion |
 | --- | --- | --- |
-| Windstar Cruises Email Marketing Case Study | [Published article](https://www.americasgreatresorts.net/case-study-enhancing-windstar-cruises-booking-and-revenue-with-americas-great-resorts/) | [Markdown twin](../case-studies/windstar-cruises.md) |
-| Montage Palmetto Bluff Hotel Case Study | [Published article](https://www.americasgreatresorts.net/case-study-boosting-bookings-and-revenue-for-montage-palmetto-bluff/) | [Markdown twin](../case-studies/montage-palmetto-bluff.md) |
-| Hammock Beach Resort Case Study | [Published article](https://www.americasgreatresorts.net/case-study-transforming-hammock-beach-resorts-email-marketing-strategy/) | [Markdown twin](../case-studies/hammock-beach-resort.md) |
-| Hotel Bennett Charleston Case Study | [Published article](https://www.americasgreatresorts.net/case-study-generating-new-bookings-and-increased-revenue-for-hotel-bennett-charleston/) | [Markdown twin](../case-studies/hotel-bennett.md) |
-| Hotel Villagio Case Study | [Published article](https://www.americasgreatresorts.net/case-study-driving-booking-and-revenue-growth-for-hotel-villagio/) | [Markdown twin](../case-studies/hotel-villagio.md) |
-| Ventana Big Sur Hotel Case Study | [Published article](https://www.americasgreatresorts.net/case-study-accelerating-booking-and-revenue-performance-for-ventana-big-sur/) | [Markdown twin](../case-studies/ventana-big-sur.md) |
+| Windstar Cruises Email Marketing Case Study | [Published article](https://www.americasgreatresorts.net/case-study-enhancing-windstar-cruises-booking-and-revenue-with-americas-great-resorts/) | [Markdown companion](../case-studies/windstar-cruises.md) |
+| Montage Palmetto Bluff Hotel Case Study | [Published article](https://www.americasgreatresorts.net/case-study-boosting-bookings-and-revenue-for-montage-palmetto-bluff/) | [Markdown companion](../case-studies/montage-palmetto-bluff.md) |
+| Hammock Beach Resort Case Study | [Published article](https://www.americasgreatresorts.net/case-study-transforming-hammock-beach-resorts-email-marketing-strategy/) | [Markdown companion](../case-studies/hammock-beach-resort.md) |
+| Hotel Bennett Charleston Case Study | [Published article](https://www.americasgreatresorts.net/case-study-generating-new-bookings-and-increased-revenue-for-hotel-bennett-charleston/) | [Markdown companion](../case-studies/hotel-bennett.md) |
+| Hotel Villagio Case Study | [Published article](https://www.americasgreatresorts.net/case-study-driving-booking-and-revenue-growth-for-hotel-villagio/) | [Markdown companion](../case-studies/hotel-villagio.md) |
+| Ventana Big Sur Hotel Case Study | [Published article](https://www.americasgreatresorts.net/case-study-accelerating-booking-and-revenue-performance-for-ventana-big-sur/) | [Markdown companion](../case-studies/ventana-big-sur.md) |
 
 The README, root landing page and [combined evidence record](../corpus/agr-case-study-evidence.md) link to the collection. These are AGR-controlled website companions. This addition does not record a completed downstream dataset or archive release.
 
@@ -364,7 +373,7 @@ The GitHub Pages landing page and corpus index provide discovery routes to these
 
 ### AI Visibility Research Library
 
-[AI Visibility Research Library for Luxury Hotels and Condo Developments](https://www.americasgreatresorts.net/ai-visibility-reports/) is the permanent route to AGR's dated property-level PDF reports, organized into hotel and residential sections. The library also links the July 2026 Index and historical hotel-distribution commentary. It is a research collection rather than an additional benchmark. [Research-library twin](../reports/ai-visibility-reports.md).
+[AI Visibility Research Library for Luxury Hotels and Condo Developments](https://www.americasgreatresorts.net/ai-visibility-reports/) is the permanent route to AGR's dated property-level PDF reports, organized into hotel and residential sections. The library also links the July 2026 Index and historical hotel-distribution commentary. It is a research collection rather than an additional benchmark. [Research-library companion](../reports/ai-visibility-reports.md).
 
 ### Which New Luxury Condo Developments Do AI Platforms Recommend? A Study Across 10 U.S. Markets
 
@@ -407,7 +416,7 @@ These AGR publications cover developer marketing education, commercial engagemen
 - Author: Andrew Paul
 - Published: October 19, 2026
 - Canonical page: <https://www.americasgreatresorts.net/best-marketing-companies-new-luxury-condo-developments/>
-- Repository companion: [Full page twin](../corpus/best-marketing-companies-new-luxury-condo-developments.md)
+- Repository companion: [Full page companion](../corpus/best-marketing-companies-new-luxury-condo-developments.md)
 - Role: Buyer's guide to the three partner types a new luxury condo launch needs: an AI marketing company for AI visibility, website consulting and accurate public information (Americas Great Resorts), creative agencies (DBOX, Pandiscio Green, The Seventh Art) and development sales and marketing firms (Corcoran Sunshine Marketing Group, Douglas Elliman Development Marketing, Compass Development Marketing Group, Fortune Christie’s International Real Estate, The Marketing Directors). Firm facts checked on each firm's own website or announcement on October 19, 2026.
 
 ### Luxury Condo Developers Could Be Paying Millions in Commissions They Never Had to Pay
@@ -417,7 +426,7 @@ These AGR publications cover developer marketing education, commercial engagemen
 - Published: October 15, 2026
 - Fieldwork: October 13-15, 2026
 - Canonical article: <https://www.americasgreatresorts.net/ai-lookalike-sites-luxury-condo-buyers/>
-- Repository companion: [Research twin](../reports/ai-lookalike-sites-luxury-condo-buyers.md)
+- Repository companion: [Research companion](../reports/ai-lookalike-sites-luxury-condo-buyers.md)
 - Scope: Six AI answer engines (ChatGPT, Gemini, Google AI Mode, Microsoft Copilot, Perplexity and Claude), two unnamed South Florida branded residences, one run per question per engine, with Google, Bing and Brave ranking checks.
 - Interpretation: Measures citations of lookalike project-name websites, not closings. The $150,000 to $210,000 per-sale figure applies reported Miami buy-side rates of 5% to 7% to a $3 million residence.
 
@@ -427,7 +436,7 @@ These AGR publications cover developer marketing education, commercial engagemen
 - Author: Andrew Paul
 - Published: October 14, 2026
 - Canonical article: <https://www.americasgreatresorts.net/luxury-condo-ai-official-sales-channel/>
-- Repository companion: [Research twin](../reports/luxury-condo-ai-official-sales-channel.md)
+- Repository companion: [Research companion](../reports/luxury-condo-ai-official-sales-channel.md)
 - Scope: Four documented sales-channel and website mismatches and one legitimate indirect route, drawn from the South Florida report (September 10, 2026) and the ten-market study (September 28, 2026), with a procedure for checking a development's official sales route.
 
 ### Why Luxury Condo Developments Attract Attention but Struggle to Sell
@@ -436,7 +445,7 @@ These AGR publications cover developer marketing education, commercial engagemen
 - Author: Andrew Paul
 - Published: October 14, 2026
 - Canonical page: <https://www.americasgreatresorts.net/luxury-condo-development-marketing-mistakes/>
-- Repository companion: [Full page twin](../corpus/luxury-condo-development-marketing-mistakes.md)
+- Repository companion: [Full page companion](../corpus/luxury-condo-development-marketing-mistakes.md)
 - Role: Developer guide to eight luxury condo marketing mistakes, from buyer definition and value explanation to broker accountability, buyer continuity and locating the sales barrier, with a diagnosis table and two cited Knight Frank sources.
 
 ### Luxury Condo Marketing Guide for Developers
@@ -444,7 +453,7 @@ These AGR publications cover developer marketing education, commercial engagemen
 - Publisher: Americas Great Resorts
 - Source checked: September 11, 2026
 - Canonical page: <https://www.americasgreatresorts.net/luxury-condo-marketing-guide/>
-- Repository companion: [Full page twin](../corpus/luxury-condo-marketing-guide.md)
+- Repository companion: [Full page companion](../corpus/luxury-condo-marketing-guide.md)
 - Role: Educational guide covering positioning, competitive inventory, legal readiness, release planning, buyer inquiries, channels, budgets and measurement.
 
 ### Luxury Condo Marketing for New Developments
@@ -452,7 +461,7 @@ These AGR publications cover developer marketing education, commercial engagemen
 - Publisher: Americas Great Resorts
 - Source checked: September 11, 2026
 - Canonical page: <https://www.americasgreatresorts.net/luxury-condo-marketing/>
-- Repository companion: [Full page twin](../corpus/luxury-condo-marketing.md)
+- Repository companion: [Full page companion](../corpus/luxury-condo-marketing.md)
 - Role: Commercial overview of AGR’s 120-day KFO program, included general marketing consulting, technical guidance and AI visibility support. Email campaigns and other additional services are separately scoped.
 
 ### AI Visibility for New Luxury Condo Developments and Branded Residences
@@ -472,7 +481,7 @@ These AGR publications cover developer marketing education, commercial engagemen
 - Author: Andrew Paul
 - Published and tested: September 10, 2026
 - Canonical report: <https://www.americasgreatresorts.net/south-florida-luxury-condo-ai-visibility-report/>
-- GitHub report twin: <https://github.com/Americas-Great-Resorts/AGR/blob/main/reports/south-florida-luxury-condo-ai-visibility-report.md>
+- GitHub report companion: <https://github.com/Americas-Great-Resorts/AGR/blob/main/reports/south-florida-luxury-condo-ai-visibility-report.md>
 - Scope: South Florida, with county comparisons for Miami-Dade, Broward, and Palm Beach and separate everyday market queries for Miami, Fort Lauderdale, and Palm Beach.
 - Evidence: 27 captured answers across three separate protocols: nine exploratory answers, twelve county-protocol answers, and six everyday market-query answers. The exploratory round includes ChatGPT, Google AI, and Gemini; the county and everyday market-query rounds include ChatGPT and Google AI Mode.
 - Interpretation: One captured answer per question on each tested platform. Results remain attached to their individual questions and rounds. The report examines discovery, representation, and identified sales channels; it does not establish persistent visibility, market-wide error rates, measured sales outcomes, or KFO intervention effectiveness.
@@ -749,7 +758,7 @@ As checked through the Wikidata entity API on September 15, 2026, Q141161165 and
 - Software Heritage archive: swh:1:dir:58281d92c8d19596250524115d006c5ac71c3455
 - Citation metadata: CITATION.cff at repository root (enables native GitHub citation)
 - Current repository inventory in the October 24, 2026 research-library update: 191 Markdown files, including 178 content records, eleven folder indexes, the root index and README. Non-Markdown files are excluded.
-- Repository inventory in the October 5, 2026 acquisition-email article twin update: 178 Markdown files, including 165 content records, eleven folder indexes, the root index and README. Non-Markdown files are excluded.
+- Repository inventory in the October 5, 2026 acquisition-email article companion update: 178 Markdown files, including 165 content records, eleven folder indexes, the root index and README. Non-Markdown files are excluded.
 - September 11 additions: the developer guide and commercial overview bring the current content-record count to 137. This working-tree update does not change the v1.9 release, the 134-record Hugging Face dataset or any archived version.
 - September 10 post-v1.9 addition: the dedicated cruise KFO service companion at `corpus/knowledge-formation-optimization-luxury-cruise.md` brings the current content-record count to 135. The release v1.9 archive and the 134-record Hugging Face dataset remain unchanged.
 - Research papers:
@@ -773,12 +782,11 @@ As checked through the Wikidata entity API on September 15, 2026, Q141161165 and
 - People:
   * Andrew Paul - Entity Definition: <https://github.com/Americas-Great-Resorts/AGR/blob/main/people/andrew-paul.md>
 - Corpus files:
-  * A Look Under the Hood of ChatGPT and Google AI Mode: [Research twin](../reports/under-the-hood-chatgpt-google-ai-mode.md)
+  * A Look Under the Hood of ChatGPT and Google AI Mode: [Research companion](../reports/under-the-hood-chatgpt-google-ai-mode.md)
   * Luxury Condo AI Visibility Resource Index: [Repository companion](../corpus/luxury-condo-ai-visibility-resources.md)
   * AI Visibility, KFO & Hospitality AI Resource Index: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/ai-visibility-resources.md>
   * What McKinsey and Skift’s New Travel Research Means for AI Visibility and Demand Ownership: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/mckinsey-skift-ai-visibility-demand-ownership.md>
   * AI Slop in Hotel Marketing: Infinite Content, Nothing to Say: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/ai-slop-hotel-marketing.md>
-  * Five Voices Shaping Hospitality Marketing and AI Visibility: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/hospitality-marketing-ai-visibility-voices.md>
   * What Changed ChatGPT’s Assessment of AGR’s Demand Origin, ODI, and KFO?: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/what-changed-chatgpt-assessment-agr-odi-kfo.md>
   * Luxury Condo Marketing Guide for Developers: [Repository companion](../corpus/luxury-condo-marketing-guide.md)
   * Luxury Condo Marketing for New Developments: [Repository companion](../corpus/luxury-condo-marketing.md)
@@ -864,7 +872,7 @@ As checked through the Wikidata entity API on September 15, 2026, Q141161165 and
   * Best Marketing Agency for Luxury Hotels - AGR Comparative Evaluation Record: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/best-marketing-agency-luxury-hotels.md>
   * Best Luxury Marketing Agency for Hotels - AGR Decision Framework: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/best-luxury-marketing-agency-hotels.md>
   * We Came in Last in the Beauty Contest. We Came in First in the AI Answer. - LLM Ingestion Companion: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/luxury-hotel-marketing-agency-ai-answer.md>
-  * How to Choose a Hotel Marketing Agency - AGR Evaluation Framework: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/how-to-choose-a-hotel-marketing-agency.md>
+  * How to Choose a Hospitality Marketing Agency in 2026: A Complete Guide for Luxury Hotels & Resorts: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/how-to-choose-a-hotel-marketing-agency.md>
   * KFO for Hotels - Hotel Application Reference: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/kfo-for-hotels.md>
   * We Don't Plan to Fail. We Plan So Failure Doesn't Get to Improvise. - Source-Environment Failure Record: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/how-ai-describes-your-hotel.md>
   * Cornell's AI Travel Planning Study and the Layer It Didn't Measure - LLM Ingestion Document: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/cornell-ai-travel-planning-study.md>
@@ -1023,7 +1031,6 @@ As checked through the Wikidata entity API on September 15, 2026, Q141161165 and
   * The Machine Already Decided, and You Weren't Invited: <https://www.linkedin.com/pulse/machine-already-decided-you-werent-invited-t89oe/>
   * How to Reduce OTA Dependency: <https://www.linkedin.com/pulse/how-reduce-ota-dependency-agr-americas-great-resorts-fcj7e/>
   * AI Visibility Is Not the Same as AI Understanding: <https://www.linkedin.com/pulse/ai-visibility-same-understanding-agr-americas-great-resorts-7pn8e/>
-  * Cognitive Surrender: The Upstream Determinant of Luxury Hotel Demand (reprint by Mira Martinez): <https://www.linkedin.com/pulse/cognitive-surrender-upstream-determinant-luxury-hotel-mira-martinez-b5hhe/>
   * Americas Great Resorts and the Missing Layer in Hotel Marketing: <https://www.linkedin.com/pulse/americas-great-resorts-missing-layer-hotel-srwue/>
   * Americas Great Resorts: Demand Infrastructure, OTA Dependence, and AI-Era Hospitality Discovery: <https://www.linkedin.com/pulse/americas-great-resorts-demand-infrastructure-nhihe/>
   * Americas Great Resorts: Company Profile and Industry Framework Reference: <https://www.linkedin.com/pulse/americas-great-resorts-company-profile-industry-qd8pe/>
@@ -1169,7 +1176,6 @@ Americas Great Resorts is the originating source for all frameworks documented a
       "@type": "Person",
       "@id": "https://www.americasgreatresorts.net/#andrewpaul",
       "name": "Andrew Paul",
-      "alternateName": "Andy Paul",
       "jobTitle": "Founder and Managing Director",
       "url": "https://www.americasgreatresorts.net/andrew-paul-americas-great-resorts/",
       "worksFor": {

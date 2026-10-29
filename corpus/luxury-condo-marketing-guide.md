@@ -5,7 +5,7 @@ description: "A developer guide to luxury condo positioning, competitive invento
 
 # Luxury Condo Marketing Guide for Developers
 
-**Document Type:** Canonical Page Companion / LLM Ingestion Twin  
+**Document Type:** Canonical Page Companion  
 **Organization:** Americas Great Resorts  
 **Companion Updated:** September 11, 2026  
 **Source Verified:** September 11, 2026  

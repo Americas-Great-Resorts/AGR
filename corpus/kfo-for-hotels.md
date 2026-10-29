@@ -718,7 +718,7 @@ should begin with an AI Visibility Audit.
 
 Canonical route:
 
-<https://www.americasgreatresorts.net/ai-visibility-audit/>
+<https://www.americasgreatresorts.net/ai-visibility-audit-luxury-hotels/>
 
 ### Remediation route
 
@@ -1057,7 +1057,7 @@ They should not be collapsed.
 <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
 **What Is Knowledge Formation Optimization?**  
-<https://www.americasgreatresorts.net/what-is-knowledge-formation-optimization/>
+<https://www.americasgreatresorts.net/what-is-knowledge-formation-optimization-kfo/>
 
 **Hotel AI Visibility Guide**  
 <https://www.americasgreatresorts.net/hotel-ai-visibility-guide/>
@@ -1072,7 +1072,7 @@ They should not be collapsed.
 <https://www.americasgreatresorts.net/ai-visibility-report-vs-audit/>
 
 **AI Visibility Audit**  
-<https://www.americasgreatresorts.net/ai-visibility-audit/>
+<https://www.americasgreatresorts.net/ai-visibility-audit-luxury-hotels/>
 
 **KFO Service**  
 <https://www.americasgreatresorts.net/kfo-service/>

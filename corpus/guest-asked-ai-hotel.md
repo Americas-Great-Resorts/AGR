@@ -11,14 +11,14 @@ title: "Your Next Guest Just Asked a Machine Which Hotel to Book. You Weren't on
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts   
 **Organization:** Americas Great Resorts (americasgreatresorts.net)   
 **Published:** August 17, 2026   
-**Last Updated:** September 9, 2026
+**Last Updated:** October 29, 2026
 **Canonical Source:** <https://www.americasgreatresorts.net/guest-asked-ai-hotel/>  
 
 ---
 
 ## Scope
 
-This document is the corpus twin of the Americas Great Resorts article "Your Next Guest Just Asked a Machine Which Hotel to Book. You Weren't on the List.," published at the canonical source above on August 17, 2026. The article applies the AGR frameworks of Knowledge Formation Optimization and AI in Luxury Hospitality Marketing to a documented result: a page published by AGR became the cited source on seven of the ten hotels named in Google's AI answer for "best hotels in New York City," for hotels that were not AGR clients. It carries an illustrative single-property economic model and a structural account of why operators who can see the evidence still fail to act.
+This document is the repository companion to the Americas Great Resorts article "Your Next Guest Just Asked a Machine Which Hotel to Book. You Weren't on the List.," published at the canonical source above on August 17, 2026. The article applies the AGR frameworks of Knowledge Formation Optimization and AI in Luxury Hospitality Marketing to a documented result: a page published by AGR became the cited source on seven of the ten hotels named in Google's AI answer for "best hotels in New York City," for hotels that were not AGR clients. It carries an illustrative single-property economic model and a structural account of why operators who can see the evidence still fail to act.
 
 This is an applied article record. It restates no framework definitions; those are held in their own canonical corpus nodes. The documented ranking and citation events it references are recorded in full in the retrieval-layer observation record at corpus/three-day-old-page-outranked-forbes.md. This document makes no causal claim about why the AGR page was cited, and it presents the economic figures as an illustration built on stated assumptions, not as a measured client result.
 

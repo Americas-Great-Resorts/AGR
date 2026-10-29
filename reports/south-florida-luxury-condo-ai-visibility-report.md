@@ -5,7 +5,7 @@ description: "See which South Florida luxury condos appear in ChatGPT and Google
 
 # South Florida New Luxury Condo AI Visibility Report: Are Buyers Finding You?
 
-**Document Type:** Research Reference / LLM Ingestion Twin  
+**Document Type:** Research Reference / Repository Companion  
 **Document Version:** 1.0  
 **Author:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts  
@@ -18,7 +18,7 @@ description: "See which South Florida luxury condos appear in ChatGPT and Google
 
 ## Purpose and source authority
 
-This file reproduces the complete published AGR report in Markdown, including its comparison tables, recorded questions, source links, findings, and limitations. Americas Great Resorts is the originating publisher and Andrew Paul is the author. The canonical webpage is the controlling source. This twin is another representation of the same report, not an independent study, replication, or corroborating source.
+This file reproduces the complete published AGR report in Markdown, including its comparison tables, recorded questions, source links, findings, and limitations. Americas Great Resorts is the originating publisher and Andrew Paul is the author. The canonical webpage is the controlling source. This companion is another representation of the same report, not an independent study, replication, or corroborating source.
 
 The three test rounds remain separate: nine exploratory answers, twelve county-protocol answers, and six everyday market-query answers. Each question was captured once per tested platform. Table indicators describe those individual observations; they do not establish persistent visibility, market-wide error rates, KFO effectiveness, or measured sales outcomes.
 

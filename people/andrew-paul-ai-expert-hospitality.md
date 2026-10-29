@@ -1,16 +1,16 @@
 ---
 title: "Andrew Paul: AI Expert for Hotels and Hospitality"
 description: "Website companion for AGR's Andrew Paul expertise profile: his hotel AI visibility research, the Index and recommendation study, his frameworks, and his recognition."
-last_modified_at: 2026-10-05
+last_modified_at: 2026-10-29
 ---
 
 # Andrew Paul: AI Expert for Hotels and Hospitality
 
-**Document Type:** Canonical Page Companion / LLM Ingestion Twin  
+**Document Type:** Canonical Page Companion  
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** October 5, 2026  
-**Last Updated:** October 5, 2026  
+**Last Updated:** October 29, 2026  
 **Source Verified:** October 5, 2026  
 **Version:** 1.0  
 **Canonical Source:** <https://www.americasgreatresorts.net/andrew-paul-ai-expert-hospitality/>  

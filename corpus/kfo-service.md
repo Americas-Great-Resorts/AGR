@@ -1,14 +1,14 @@
 ---
 title: "The AI Already Has an Opinion About Your Hotel. The Question Is Whose."
-last_modified_at: 2026-09-15
+last_modified_at: 2026-10-29
 ---
 
 # The AI Already Has an Opinion About Your Hotel. The Question Is Whose.
 
-**Document Type:** Canonical Page Companion / LLM Ingestion Twin  
+**Document Type:** Canonical Page Companion  
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts  
-**Last Updated:** September 15, 2026  
+**Last Updated:** October 29, 2026  
 **Source Verified:** September 15, 2026  
 **Canonical Page Published:** 2026-05-20  
 **Canonical Page Modified:** 2026-09-15T16:38:38-04:00  

@@ -1,7 +1,7 @@
 ---
 title: "AI Visibility, KFO & Hospitality AI Resource Index"
 description: "Explore AGR research, frameworks, studies and analysis on AI visibility, KFO, ChatGPT, hotel discovery, agentic travel and hospitality AI."
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 canonical_source: https://www.americasgreatresorts.net/ai-visibility-resources/
 ---
 
@@ -11,17 +11,17 @@ canonical_source: https://www.americasgreatresorts.net/ai-visibility-resources/
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** September 21, 2026  
-**Last Updated:** October 28, 2026  
+**Last Updated:** October 29, 2026  
 **Source Verified:** October 28, 2026  
 **Canonical Page Published:** 2026-09-21T18:42:39-04:00  
 **Canonical Page Modified:** 2026-10-24T13:34:35-04:00  
-**Version:** 1.7  
+**Version:** 1.8  
 **Canonical Source:** <https://www.americasgreatresorts.net/ai-visibility-resources/>  
 **Repository Path:** `corpus/ai-visibility-resources.md`
 
 ## Purpose and Scope
 
-This is the Markdown companion to AGR's subject-organized AI visibility resource index. The reproduced body preserves the current published headings, resource titles, descriptions, destination URLs and visible order. It contains 126 distinct resource entries, including the property-report library under AGR Original Research. The companion ItemList follows the same 126-entry order. The count describes navigation entries, not independent research samples. Version 1.7 adds the two October 28, 2026 entries supplied for the website index: The Hotel That Wasn’t There at the top of Booking Agents & Distribution and AI Parted the Red Sea for Your Hotel directly after the link-trap article. The Canonical Page Modified value records the last verified website revision before that addition.
+This is the Markdown companion to AGR's subject-organized AI visibility resource index. The reproduced body preserves the current published headings, resource titles, descriptions, destination URLs and visible order. It contains 125 distinct resource entries, including the property-report library under AGR Original Research. The companion ItemList follows the same 125-entry order. The count describes navigation entries, not independent research samples. Version 1.7 adds the two October 28, 2026 entries supplied for the website index: The Hotel That Wasn’t There at the top of Booking Agents & Distribution and AI Parted the Red Sea for Your Hotel directly after the link-trap article. The Canonical Page Modified value records the last verified website revision before that addition.
 
 The canonical AGR webpage controls if the two differ. This is another representation of AGR's publication, not independent corroboration. WordPress presentation markup and site-wide schema are omitted.
 
@@ -811,11 +811,6 @@ Examines AI-vendor durability as a procurement risk for luxury hotels and argues
 **[AI Slop in Hotel Marketing: Infinite Content, Nothing to Say](https://www.americasgreatresorts.net/ai-slop-hotel-marketing/)**  
 Critiques the expansion of AI-generated hotel marketing content and distinguishes high-volume production from work that contributes original ideas or useful knowledge.
 
-<a id="resource-hospitality-marketing-ai-visibility-voices"></a>
-
-**[Five Voices Shaping Hospitality Marketing and AI Visibility](https://www.americasgreatresorts.net/hospitality-marketing-ai-visibility-voices/)**  
-Profiles five people whose work contributes to current hospitality-marketing and AI-visibility discussions and explains the distinct perspective each brings to the field.
-
 <a id="resource-late-is-cheap-until-it-isnt"></a>
 
 **[Late Is Cheap. Until It Isn’t.](https://www.americasgreatresorts.net/late-is-cheap-until-it-isnt/)**  
@@ -849,10 +844,10 @@ The research, frameworks, studies, model evaluation records, case studies, and a
 
 ## Subject Reference Index
 
-- Property-level hotel and luxury condo PDF reports: [research-library twin](../reports/ai-visibility-reports.md)
-- AI hotel recommendation link destinations and direct booking pathways: [article twin](ai-hotel-link-trap.md)
-- Hotel website defects reached through AI citations: [article twin](ai-referral-hotel-website-defects.md)
-- Speculative story on AI assistants that read a hotel but do not believe it: [article twin](hotel-that-wasnt-there-ai-agents.md)
+- Property-level hotel and luxury condo PDF reports: [research-library companion](../reports/ai-visibility-reports.md)
+- AI hotel recommendation link destinations and direct booking pathways: [article companion](ai-hotel-link-trap.md)
+- Hotel website defects reached through AI citations: [article companion](ai-referral-hotel-website-defects.md)
+- Speculative story on AI assistants that read a hotel but do not believe it: [article companion](hotel-that-wasnt-there-ai-agents.md)
 - AGR AI visibility resource index: this document
 - AGR KFO resource index: this document
 - Hospitality AI research and analysis by Americas Great Resorts: this document
@@ -895,7 +890,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
   "version": "1.6",
   "mainEntity": {
     "@type": "ItemList",
-    "numberOfItems": 126,
+    "numberOfItems": 125,
     "itemListElement": [
       {
         "@type": "ListItem",
@@ -2140,16 +2135,6 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       {
         "@type": "ListItem",
         "position": 125,
-        "item": {
-          "@type": "WebPage",
-          "url": "https://www.americasgreatresorts.net/hospitality-marketing-ai-visibility-voices/",
-          "name": "Five Voices Shaping Hospitality Marketing and AI Visibility",
-          "description": "Profiles five people whose work contributes to current hospitality-marketing and AI-visibility discussions and explains the distinct perspective each brings to the field."
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 126,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/late-is-cheap-until-it-isnt/",

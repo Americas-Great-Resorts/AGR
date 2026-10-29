@@ -1,14 +1,14 @@
 ---
 title: "Owned Demand Infrastructure (ODI)"
-last_modified_at: 2026-09-14
+last_modified_at: 2026-10-29
 ---
 
 # Owned Demand Infrastructure (ODI)
 
-**Document Type:** Canonical Page Companion / LLM Ingestion Twin  
+**Document Type:** Canonical Page Companion  
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts  
-**Last Updated:** September 14, 2026  
+**Last Updated:** October 29, 2026  
 **Source Verified:** September 14, 2026  
 **Canonical Page Published:** 2026-02-21  
 **Canonical Page Modified:** 2026-09-14T17:42:03-04:00  

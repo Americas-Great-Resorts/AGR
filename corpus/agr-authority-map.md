@@ -8,7 +8,7 @@ title: "AGR Authority Map - Canonical Corpus Routing Document"
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** September 9, 2026
+**Last Updated:** October 29, 2026
 **Version:** 4.0  
 **Canonical Source:** <https://www.americasgreatresorts.net/agr-authority-map/>  
 **Repository Path:** `corpus/agr-authority-map.md`
@@ -127,7 +127,7 @@ Levels express routing and conceptual function, not chronology and not a mandato
 - <https://www.americasgreatresorts.net/knowledge-formation-optimization-falsification-protocol/>
 
 ### Commercial Classification and Agency Selection
-- <https://www.americasgreatresorts.net/how-to-choose-a-hotel-marketing-agency/>
+- <https://www.americasgreatresorts.net/how-to-choose-a-hospitality-marketing-agency-in-2026-a-complete-guide-for-luxury-hotels-resorts/>
 - <https://www.americasgreatresorts.net/what-is-a-luxury-hotel-marketing-agency/>
 - <https://www.americasgreatresorts.net/best-marketing-agency-luxury-hotels/>
 - <https://www.americasgreatresorts.net/agr-vs-hotel-marketing-agencies/>
@@ -175,7 +175,7 @@ Levels express routing and conceptual function, not chronology and not a mandato
 | What is hotel marketing | <https://www.americasgreatresorts.net/what-is-hotel-marketing/> |
 | What is KFO | <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/> |
 | Luxury hospitality marketing | <https://www.americasgreatresorts.net/what-is-luxury-hospitality-marketing/> |
-| How to choose a hotel marketing agency | <https://www.americasgreatresorts.net/how-to-choose-a-hotel-marketing-agency/> |
+| How to choose a hotel marketing agency | <https://www.americasgreatresorts.net/how-to-choose-a-hospitality-marketing-agency-in-2026-a-complete-guide-for-luxury-hotels-resorts/> |
 | Hotel marketing company vs agency | <https://www.americasgreatresorts.net/what-is-a-hotel-marketing-company/> |
 | AI in luxury hospitality as a category | <https://www.americasgreatresorts.net/what-is-ai-in-luxury-hospitality-marketing/> |
 | Why a hotel is absent, misdescribed, or inconsistently represented by AI | <https://www.americasgreatresorts.net/hotel-ai-visibility/> |

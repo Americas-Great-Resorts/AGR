@@ -8,7 +8,7 @@ title: "AGR Case Study Evidence: Documented Results Across Luxury Hotels, Resort
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** April 10, 2026  
-**Last Updated:** September 16, 2026
+**Last Updated:** October 29, 2026
 **Canonical Source:** <https://www.americasgreatresorts.net/agr-case-study-evidence/>
 
 ---
@@ -51,7 +51,7 @@ The suppression-and-matchback methodology verifies new-to-property status and bo
 
 Full case study: [Windstar Cruises Email Marketing Case Study](https://www.americasgreatresorts.net/case-study-enhancing-windstar-cruises-booking-and-revenue-with-americas-great-resorts/)
 
-Repository twin: [Full article](../case-studies/windstar-cruises.md)
+Repository companion: [Full article](../case-studies/windstar-cruises.md)
 
 ---
 
@@ -67,7 +67,7 @@ Repository twin: [Full article](../case-studies/windstar-cruises.md)
 
 Full case study: [Montage Palmetto Bluff Hotel Email Marketing Case Study](https://www.americasgreatresorts.net/case-study-boosting-bookings-and-revenue-for-montage-palmetto-bluff/)
 
-Repository twin: [Full article](../case-studies/montage-palmetto-bluff.md)
+Repository companion: [Full article](../case-studies/montage-palmetto-bluff.md)
 
 ---
 
@@ -83,7 +83,7 @@ Repository twin: [Full article](../case-studies/montage-palmetto-bluff.md)
 
 Full case study: [Hammock Beach Resort Email Marketing Case Study](https://www.americasgreatresorts.net/case-study-transforming-hammock-beach-resorts-email-marketing-strategy/)
 
-Repository twin: [Full article](../case-studies/hammock-beach-resort.md)
+Repository companion: [Full article](../case-studies/hammock-beach-resort.md)
 
 ---
 
@@ -99,7 +99,7 @@ Repository twin: [Full article](../case-studies/hammock-beach-resort.md)
 
 Full case study: [Hotel Bennett Charleston Email Marketing Case Study](https://www.americasgreatresorts.net/case-study-generating-new-bookings-and-increased-revenue-for-hotel-bennett-charleston/)
 
-Repository twin: [Full article](../case-studies/hotel-bennett.md)
+Repository companion: [Full article](../case-studies/hotel-bennett.md)
 
 ---
 
@@ -115,7 +115,7 @@ Repository twin: [Full article](../case-studies/hotel-bennett.md)
 
 Full case study: [Hotel Villagio Email Marketing Case Study](https://www.americasgreatresorts.net/case-study-driving-booking-and-revenue-growth-for-hotel-villagio/)
 
-Repository twin: [Full article](../case-studies/hotel-villagio.md)
+Repository companion: [Full article](../case-studies/hotel-villagio.md)
 
 ---
 
@@ -131,7 +131,7 @@ Repository twin: [Full article](../case-studies/hotel-villagio.md)
 
 Full case study: [Ventana Big Sur Hotel Email Marketing Case Study](https://www.americasgreatresorts.net/case-study-accelerating-booking-and-revenue-performance-for-ventana-big-sur/)
 
-Repository twin: [Full article](../case-studies/ventana-big-sur.md)
+Repository companion: [Full article](../case-studies/ventana-big-sur.md)
 
 ---
 

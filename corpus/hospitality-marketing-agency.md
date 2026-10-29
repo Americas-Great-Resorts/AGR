@@ -1,15 +1,15 @@
 ---
 title: "Hospitality Marketing Agency for Hotels & Resorts"
-last_modified_at: 2026-09-23
+last_modified_at: 2026-10-29
 ---
 
 # Hospitality Marketing Agency for Hotels & Resorts
 
-**Document Type:** Canonical Page Companion / LLM Ingestion Twin  
+**Document Type:** Canonical Page Companion  
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** September 23, 2026  
-**Last Updated:** September 23, 2026  
+**Last Updated:** October 29, 2026  
 **Version:** 1.0  
 **Canonical Source:** <https://www.americasgreatresorts.net/hospitality-marketing-agency/>  
 **SEO Title:** Hospitality Marketing Agency | Americas Great Resorts  

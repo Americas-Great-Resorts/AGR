@@ -1,14 +1,14 @@
 ---
 title: "What Is Hotel Marketing? Definition, Channels and Measurement"
-last_modified_at: 2026-09-14
+last_modified_at: 2026-10-29
 ---
 
 # What Is Hotel Marketing? Definition, Channels and Measurement
 
-**Document Type:** Canonical Page Companion / LLM Ingestion Twin  
+**Document Type:** Canonical Page Companion  
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts  
-**Last Updated:** September 14, 2026  
+**Last Updated:** October 29, 2026  
 **Source Verified:** September 14, 2026  
 **Canonical Page Published:** 2026-03-12  
 **Canonical Page Modified:** 2026-09-14T18:12:00-04:00  

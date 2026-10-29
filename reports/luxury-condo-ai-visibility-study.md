@@ -1,12 +1,12 @@
 ---
 title: "Which New Luxury Condo Developments Do AI Platforms Recommend? A Study Across 10 U.S. Markets"
 description: "See how ChatGPT, Gemini and Copilot recommended luxury condos across 10 U.S. markets, with findings on discovery, accuracy and website destinations."
-last_modified_at: 2026-09-29
+last_modified_at: 2026-10-29
 ---
 
 # Which New Luxury Condo Developments Do AI Platforms Recommend? A Study Across 10 U.S. Markets
 
-**Document Type:** Research Reference / LLM Ingestion Twin  
+**Document Type:** Research Reference / Repository Companion  
 **Document Version:** 1.0  
 **Author:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts  

@@ -1,17 +1,17 @@
 ---
 title: "AI Parted the Red Sea for Your Hotel. Then Your Website Drowned the Guest."
 description: "AI recommended your hotel and cited your own website. Then the guest found a closed restaurant, a pet policy that argues with itself and Nashville dog parks."
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 canonical_source: https://www.americasgreatresorts.net/ai-referral-hotel-website-defects/
 ---
 
 # AI Parted the Red Sea for Your Hotel. Then Your Website Drowned the Guest.
 
-**Document Type:** Canonical Article Companion / LLM Ingestion Twin  
+**Document Type:** Canonical Article Companion  
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** October 26, 2026  
-**Last Updated:** October 28, 2026  
+**Last Updated:** October 29, 2026  
 **Source Verified:** October 28, 2026  
 **Canonical Page Published:** 2026-10-26T16:01:55-04:00  
 **Canonical Page Modified:** 2026-10-26T19:11:43-04:00  
@@ -30,7 +30,7 @@ canonical_source: https://www.americasgreatresorts.net/ai-referral-hotel-website
 
 ## Purpose and Evidence Boundary
 
-This twin preserves the published AGR article, its headings, in-body links, screenshot captions and capture-and-verification table. The canonical website page controls if the two differ. This is another representation of the same AGR publication, not independent corroboration. Screenshots, website navigation, sharing controls, related-post widgets and footer elements are omitted; each omitted screenshot is marked with its published caption.
+This companion preserves the published AGR article, its headings, in-body links, screenshot captions and capture-and-verification table. The canonical website page controls if the two differ. This is another representation of the same AGR publication, not independent corroboration. Screenshots, website navigation, sharing controls, related-post widgets and footer elements are omitted; each omitted screenshot is marked with its published caption.
 
 The travelers in the article are composites, as the article states. The hotels and the findings are real and were verified live on October 26, 2026; hotel websites change, and any finding may since have been corrected. The article does not establish lost bookings, revenue effects or how often travelers encounter these pages. Whether the Agave Azul reservation form would complete a booking was not tested; the article records only that the form loaded for a restaurant the resort's own page listed as closed. The Shutters observation records that the development site loaded publicly and that its Book Now telephone number reached the hotel; it does not establish who controls that site.
 
