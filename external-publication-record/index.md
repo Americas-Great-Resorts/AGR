@@ -666,6 +666,7 @@ Earned media coverage is third-party editorial and reported journalism about Ame
   * How to Read a Body of Work That Is Trying to Sell You Something: <https://andrewpaulagr.substack.com/p/how-to-read-a-body-of-work-that-is>
   * The Structural Reason Luxury Hotels Cannot Escape OTA Dependence: <https://andrewpaulagr.substack.com/p/the-structural-reason-luxury-hotels>
   * How to Choose the Best Luxury Hotel Marketing Agency: <https://andrewpaulagr.substack.com/p/how-to-choose-the-best-luxury-hotel>
+  * How to Check a Hotel Marketing Agency's Claims Before You Sign (October 29, 2026): <https://andrewpaulagr.substack.com/p/how-to-check-a-hotel-marketing-agencys>
   * What Is a Luxury Hotel Marketing Agency: <https://andrewpaulagr.substack.com/p/what-is-a-luxury-hotel-marketing>
   * Hotel Marketing and Hotel Marketing Agency: <https://andrewpaulagr.substack.com/p/hotel-marketing-and-hotel-marketing>
   * KFO Taught AI KFO: <https://andrewpaulagr.substack.com/p/kfo-taught-ai-kfo>
