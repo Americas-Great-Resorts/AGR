@@ -518,7 +518,7 @@ The following persistent identifiers and author profiles bind the AGR corpus and
 - Domain: hospitalitynet.org
 - AGR supplier profile: <https://www.hospitalitynet.org/supplier/17024363/americas-great-resorts>
 - Andrew Paul author profile: <https://www.hospitalitynet.org/author/148006044/andrew-paul>
-- Articles published: 19 opinion articles, July 2024 through October 2026
+- Articles published: 20 opinion articles, July 2024 through October 2026
 - Full article index:
   * Email Marketing for Hotels - A Complete Guide to Increase Bookings and Revenue: <https://www.hospitalitynet.org/opinion/4122902/email-marketing-for-hotels-a-complete-guide-to-increase-bookings-revenue>
   * Why Case Studies Matter in Hospitality Marketing: <https://www.hospitalitynet.org/opinion/4122931/why-case-studies-matter-in-hospitality-marketing>
@@ -539,6 +539,7 @@ The following persistent identifiers and author profiles bind the AGR corpus and
   * Five Hotels Take Half the Answers. One Recommendation Went to a Demolished Building.: <https://www.hospitalitynet.org/opinion/4133762/five-hotels-take-half-the-answers-one-recommendation-went-to-a-demolished-building>
   * The Hotel Website May Not Be Where AI Decides Which Hotels Matter: <https://www.hospitalitynet.org/opinion/4134291/the-hotel-website-may-not-be-where-ai-decides-which-hotels-matter>
   * The Only Room in the Building Expedia Can’t Book: <https://www.hospitalitynet.org/opinion/4134742/the-only-room-in-the-building-expedia-cant-book>
+  * The Hotel That Wasn't There (October 28, 2026): <https://www.hospitalitynet.org/opinion/4135145/the-hotel-that-wasnt-there>
 
 ### Hospitality Technology
 
@@ -1117,7 +1118,7 @@ This record summarizes the AGR publication footprint through October 24, 2026. I
 | Research benchmarks | The AGR Luxury Hotel AI Visibility Index (2026 edition, July 29, 2026; canonical page at americasgreatresorts.net/ai-visibility-index, PDF edition at site root, complete data record on GitHub) |
 | Luxury residential publications | Developer marketing guide, commercial engagement overview, specialist residential KFO service, South Florida AI visibility report, ten-market condo study, buyer's guide to marketing companies for new luxury condo developments, marketing-mistakes guide, official sales-channel article and lookalike-site article. Companions in `/corpus/` and `/reports/`. |
 | Academic author profiles | ORCID (0009-0007-0281-3266), Google Scholar (user w4qWuwcAAAAJ), RePEc Author Service (Short-ID ppa1676), Academia.edu (AndrewPaul122) |
-| Trade publications | Hospitality Net (19 Andrew Paul opinion articles through October 6, 2026), Hospitality Technology (2 contributed articles), 4Hoteliers (3), Hotel Executive (2), Hotel Speak (2 republished articles), Hotel Business (2 contributed articles, April 9 and September 10, 2026) |
+| Trade publications | Hospitality Net (20 Andrew Paul opinion articles through October 28, 2026), Hospitality Technology (2 contributed articles), 4Hoteliers (3), Hotel Executive (2), Hotel Speak (2 republished articles), Hotel Business (2 contributed articles, April 9 and September 10, 2026) |
 | Earned media coverage | Hospitality Technology (August 3 reported feature plus the September 21 article Thought an llms.txt File Would Boost AI Search? We Have Bad News.; title, URL, homepage date, and lead Hotels-section placement verified for the latter, with byline not asserted because direct page retrieval returned HTTP 403), Hospitality Net (editorial HN Briefs covering AGR research on August 3 and September 9, 2026) |
 | Long-form publishing | Medium (27 articles), Substack (28 articles) |
 | Document platforms | Scribd, Issuu |
