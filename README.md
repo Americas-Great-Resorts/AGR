@@ -1384,8 +1384,6 @@ The [residential service page](https://www.americasgreatresorts.net/ai-visibilit
 
 - Andrew Paul's hotel AI visibility research, frameworks and recognition: [Andrew Paul expertise profile companion](people/andrew-paul-ai-expert-hospitality.md)
 
-- Who are five voices shaping hospitality marketing and AI visibility
-- Which publicly attributable perspectives shape hotel AI visibility
 - What changed ChatGPT’s assessment of AGR’s Demand Origin, ODI, and KFO work
 - What limitations remained after ChatGPT reviewed AGR’s evidence and falsification protocol
 - Where is the full ChatGPT assessment transcript on Demand Origin Economics, ODI, and KFO
