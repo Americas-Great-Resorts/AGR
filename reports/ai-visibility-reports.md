@@ -12,10 +12,10 @@ canonical_source: https://www.americasgreatresorts.net/ai-visibility-reports/
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** October 24, 2026  
 **Last Updated:** October 29, 2026  
-**Source Verified:** October 25, 2026  
+**Source Verified:** October 29, 2026  
 **Canonical Page Published:** 2026-10-24T12:47:05-04:00  
-**Canonical Page Modified:** 2026-10-25T15:03:29-04:00  
-**Version:** 1.1  
+**Canonical Page Modified:** 2026-10-29T18:17:36-04:00  
+**Version:** 1.2  
 **Canonical Source:** <https://www.americasgreatresorts.net/ai-visibility-reports/>  
 **Repository Path:** `reports/ai-visibility-reports.md`
 
@@ -23,7 +23,7 @@ canonical_source: https://www.americasgreatresorts.net/ai-visibility-reports/
 
 - Research library for luxury hotels, resorts, luxury condo developments and branded residences.
 - Separate hotel and residential sections preserve each report's property, market, report date, findings and direct PDF link.
-- The collection links 25 property reports (15 hotel and resort reports and ten residential reports), the July 2026 Luxury Hotel AI Visibility Index and AGR's March 15, 1998 OTA commentary, for 27 unique PDF destinations.
+- The collection links 25 property reports (15 hotel and resort reports and ten residential reports), the July 2026 Luxury Hotel AI Visibility Index and AGR's March 15, 1998 OTA commentary, for 27 unique PDF destinations. The related-research section also links AGR's October 29, 2026 article on which findings to fix first.
 - Each property report also links to the official property website; those 25 links retain `target="_blank" rel="nofollow noopener"`.
 - Property recognition, recommendation inclusion, factual representation and inquiry-link destinations are separate observations.
 - Each report's questions, engines, methods and limitations define its scope. Counts across different reports are not a combined ranking or a measure of bookings, sales or revenue impact.
@@ -266,6 +266,14 @@ Frequent recommendations do not consistently preserve distinctions between the d
 
 ## Related research and historical context
 
+### AI Visibility Reports for Luxury Hotels and Condo Developments: What to Fix First
+
+**Published:** October 29, 2026
+
+A working order for acting on report findings: potential blockers first, then other consequential factual uncertainties, then discovery gaps on questions that fit the offer, then maintenance of documented strengths. The article applies that order to selected October 25, 2026 reports in this library and assigns each finding one decision owner, a named executor and a completion check.
+
+[Read what to fix first](https://www.americasgreatresorts.net/ai-visibility-report-priorities/)
+
 ### The AGR Luxury Hotel AI Visibility Index
 
 **Fieldwork and publication date:** July 29, 2026
@@ -346,7 +354,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
   "url": "https://americas-great-resorts.github.io/AGR/reports/ai-visibility-reports.html",
   "isBasedOn": "https://www.americasgreatresorts.net/ai-visibility-reports/",
   "datePublished": "2026-10-24T12:47:05-04:00",
-  "dateModified": "2026-10-25",
+  "dateModified": "2026-10-29",
   "inLanguage": "en-US",
   "author": {
     "@type": "Person",
@@ -356,11 +364,11 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
   "publisher": {
     "@id": "https://www.americasgreatresorts.net/#organization"
   },
-  "version": "1.1",
+  "version": "1.2",
   "mainEntity": {
     "@type": "ItemList",
     "name": "AGR AI Visibility Reports and Related Research",
-    "numberOfItems": 27,
+    "numberOfItems": 28,
     "itemListElement": [
       {
         "@type": "ListItem",
@@ -515,12 +523,18 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       {
         "@type": "ListItem",
         "position": 26,
+        "name": "AI Visibility Reports for Luxury Hotels and Condo Developments: What to Fix First",
+        "url": "https://www.americasgreatresorts.net/ai-visibility-report-priorities/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 27,
         "name": "The AGR Luxury Hotel AI Visibility Index",
         "url": "https://www.americasgreatresorts.net/ai-visibility-index-2026.pdf"
       },
       {
         "@type": "ListItem",
-        "position": 27,
+        "position": 28,
         "name": "Online Travel Agencies: A Short-Term Boon or Long-Term Threat to Hotel Independence?",
         "url": "https://www.americasgreatresorts.net/AGR_OTA_Warning-03151998.pdf"
       }
