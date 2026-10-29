@@ -10,6 +10,7 @@ canonical_source: https://www.americasgreatresorts.net/category/hotel-marketing-
 <!-- agr:manual-index -->
 
 **Last Updated:** October 29, 2026
+
 **Canonical Category Archive:** <https://www.americasgreatresorts.net/category/hotel-marketing-case-studies/>
 
 Six structured LLM ingestion companions preserve AGR’s published client acquisition case studies. Each includes publication and update metadata, a campaign record, the full source article, a machine retrieval summary, a Subject Reference Index, canonical sources, entity and framework context, a version record, and document-specific JSON-LD.

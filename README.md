@@ -4,6 +4,7 @@
 **Organization:** Americas Great Resorts (americasgreatresorts.net)   
 **Published:** May 2026   
 **Last Updated:** October 29, 2026
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20709357.svg)](https://doi.org/10.5281/zenodo.20709357)
 
 ---
