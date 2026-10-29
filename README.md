@@ -1039,7 +1039,7 @@ Americas Great Resorts and Andrew Paul have published across the following autho
 | HotelExecutive | hotelexecutive.com | 2 articles |
 | Hospitality Technology | hospitalitytech.com | 2 articles |
 | 4Hoteliers | 4hoteliers.com | 3 articles |
-| Hotel Speak | hotelspeak.com | 1 republished article |
+| Hotel Speak | hotelspeak.com | 2 republished articles |
 | Medium | medium.com/@apaul_59958 | Framework, AI assessment and research commentary articles, including [Why AI Can Recognize a Luxury Property Without Recommending It](https://medium.com/@apaul_59958/why-ai-can-recognize-a-luxury-property-without-recommending-it-11f3e2ec8181), by Andrew Paul, published October 24, 2026; an original explanation of existing AGR findings that links to the research library, not a new study or independent coverage |
 | LinkedIn | linkedin.com | Multiple framework, AI assessment, and corpus articles, 2026 |
 | Substack | andrewpaulagr.substack.com | Multiple framework and corpus articles, 2026 |
