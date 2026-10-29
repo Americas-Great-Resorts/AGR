@@ -976,7 +976,7 @@ As checked through the Wikidata entity API on September 15, 2026, Q141161165 and
 ### Zenodo - Corpus Repository
 
 - Concept DOI (resolves to latest version): <https://doi.org/10.5281/zenodo.20709357>
-- GitHub release state: v1.9, September 10, 2026. Corresponding Zenodo archive: [10.5281/zenodo.22695156](https://doi.org/10.5281/zenodo.22695156), under concept DOI 10.5281/zenodo.20709357. The archived ZIP identifies the v1.9 release commit `a665d28c8ed3daa51550a1a60324442d98dc3c53`. Earlier verified archive: v1.6 (record 21763272, August 2, 2026). Prior verified Zenodo versions include v1.5 (record 21572344, July 25, 2026), v1.4 (record 21403364, July 17, 2026), v1.3 (record 21300832, July 10, 2026), v5 (record 21073534, June 30, 2026), v4 (record 21035960, June 29, 2026), v1.2 (record 20739313, June 18, 2026), v1.1 (record 20709639, June 16, 2026), and v1.0 (record 20709358, June 15, 2026).
+- GitHub release state: v1.11, October 29, 2026. Corresponding Zenodo archive: [10.5281/zenodo.23781941](https://doi.org/10.5281/zenodo.23781941), under concept DOI 10.5281/zenodo.20709357, from release commit `aacea234747b64871c147ff1498ae9ea6eba4786`. Earlier verified archives: v1.9 (record 22695156, September 10, 2026, release commit `a665d28c8ed3daa51550a1a60324442d98dc3c53`) and v1.6 (record 21763272, August 2, 2026). Prior verified Zenodo versions include v1.5 (record 21572344, July 25, 2026), v1.4 (record 21403364, July 17, 2026), v1.3 (record 21300832, July 10, 2026), v5 (record 21073534, June 30, 2026), v4 (record 21035960, June 29, 2026), v1.2 (record 20739313, June 18, 2026), v1.1 (record 20709639, June 16, 2026), and v1.0 (record 20709358, June 15, 2026).
 - License: CC-BY-4.0
 - Resource type: Software
 - Publisher: Zenodo
