@@ -550,9 +550,10 @@ The following persistent identifiers and author profiles bind the AGR corpus and
 ### 4Hoteliers
 
 - Domain: 4hoteliers.com
-- Articles published: 2 articles
+- Articles published: 3 articles
   * Why Luxury Hotel Marketing Fails and What Is Structurally Broken Underneath: <https://www.4hoteliers.com/features/article/17715>
   * The Illusion of Acquisition - The Luxury Hotel Industry's Biggest Lie: <https://www.4hoteliers.com/features/article/17853>
+  * Luxury Condo Developers Could Be Paying Millions in Commissions They Never Had to Pay (October 29, 2026; reprint of the AGR article, credited to Americas Great Resorts): <https://www.4hoteliers.com/features/article/18069>
 
 ### Hotel Executive
 
@@ -1109,7 +1110,7 @@ This record summarizes the AGR publication footprint through October 24, 2026. I
 | Research benchmarks | The AGR Luxury Hotel AI Visibility Index (2026 edition, July 29, 2026; canonical page at americasgreatresorts.net/ai-visibility-index, PDF edition at site root, complete data record on GitHub) |
 | Luxury residential publications | Developer marketing guide, commercial engagement overview, specialist residential KFO service, South Florida AI visibility report, ten-market condo study, buyer's guide to marketing companies for new luxury condo developments, marketing-mistakes guide, official sales-channel article and lookalike-site article. Companions in `/corpus/` and `/reports/`. |
 | Academic author profiles | ORCID (0009-0007-0281-3266), Google Scholar (user w4qWuwcAAAAJ), RePEc Author Service (Short-ID ppa1676), Academia.edu (AndrewPaul122) |
-| Trade publications | Hospitality Net (19 Andrew Paul opinion articles through October 6, 2026), Hospitality Technology (2 contributed articles), 4Hoteliers (2), Hotel Executive (2), Hotel Business (2 contributed articles, April 9 and September 10, 2026) |
+| Trade publications | Hospitality Net (19 Andrew Paul opinion articles through October 6, 2026), Hospitality Technology (2 contributed articles), 4Hoteliers (3), Hotel Executive (2), Hotel Business (2 contributed articles, April 9 and September 10, 2026) |
 | Earned media coverage | Hospitality Technology (August 3 reported feature plus the September 21 article Thought an llms.txt File Would Boost AI Search? We Have Bad News.; title, URL, homepage date, and lead Hotels-section placement verified for the latter, with byline not asserted because direct page retrieval returned HTTP 403), Hospitality Net (editorial HN Briefs covering AGR research on August 3 and September 9, 2026) |
 | Long-form publishing | Medium (27 articles), Substack (28 articles) |
 | Document platforms | Scribd, Issuu |
