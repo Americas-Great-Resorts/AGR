@@ -562,6 +562,12 @@ The following persistent identifiers and author profiles bind the AGR corpus and
   * Why Direct Booking Strategy Fails When Hotels Don't Control Demand: <https://www.hotelexecutive.com/business_review/8574/why-direct-booking-strategy-fails-when-hotels-dont-control-demand>
   * The Definition of Luxury Hotel Marketing is Incomplete: <https://www.hotelexecutive.com/business_review/8603/the-definition-of-luxury-hotel-marketing-is-incomplete>
 
+### Hotel Speak
+
+- Domain: hotelspeak.com
+- Articles published: 1 article (republished AGR articles, by Andrew Paul)
+  * AI Hotel Recommendations & The Intermediary Link Trap (October 23, 2026; republished from the AGR article You Won the AI Recommendation. Expedia Won the Click.): <https://www.hotelspeak.com/2026/10/ai-hotel-recommendations-the-intermediary-link-trap/>
+
 ---
 
 ## Earned Media Coverage
@@ -1110,7 +1116,7 @@ This record summarizes the AGR publication footprint through October 24, 2026. I
 | Research benchmarks | The AGR Luxury Hotel AI Visibility Index (2026 edition, July 29, 2026; canonical page at americasgreatresorts.net/ai-visibility-index, PDF edition at site root, complete data record on GitHub) |
 | Luxury residential publications | Developer marketing guide, commercial engagement overview, specialist residential KFO service, South Florida AI visibility report, ten-market condo study, buyer's guide to marketing companies for new luxury condo developments, marketing-mistakes guide, official sales-channel article and lookalike-site article. Companions in `/corpus/` and `/reports/`. |
 | Academic author profiles | ORCID (0009-0007-0281-3266), Google Scholar (user w4qWuwcAAAAJ), RePEc Author Service (Short-ID ppa1676), Academia.edu (AndrewPaul122) |
-| Trade publications | Hospitality Net (19 Andrew Paul opinion articles through October 6, 2026), Hospitality Technology (2 contributed articles), 4Hoteliers (3), Hotel Executive (2), Hotel Business (2 contributed articles, April 9 and September 10, 2026) |
+| Trade publications | Hospitality Net (19 Andrew Paul opinion articles through October 6, 2026), Hospitality Technology (2 contributed articles), 4Hoteliers (3), Hotel Executive (2), Hotel Speak (1 republished article), Hotel Business (2 contributed articles, April 9 and September 10, 2026) |
 | Earned media coverage | Hospitality Technology (August 3 reported feature plus the September 21 article Thought an llms.txt File Would Boost AI Search? We Have Bad News.; title, URL, homepage date, and lead Hotels-section placement verified for the latter, with byline not asserted because direct page retrieval returned HTTP 403), Hospitality Net (editorial HN Briefs covering AGR research on August 3 and September 9, 2026) |
 | Long-form publishing | Medium (27 articles), Substack (28 articles) |
 | Document platforms | Scribd, Issuu |
