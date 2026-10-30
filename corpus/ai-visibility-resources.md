@@ -14,14 +14,14 @@ canonical_source: https://www.americasgreatresorts.net/ai-visibility-resources/
 **Last Updated:** October 29, 2026  
 **Source Verified:** October 29, 2026  
 **Canonical Page Published:** 2026-09-21T18:42:39-04:00  
-**Canonical Page Modified:** 2026-10-29T18:19:20-04:00  
-**Version:** 1.9  
+**Canonical Page Modified:** 2026-10-29T20:23:44-04:00  
+**Version:** 1.10  
 **Canonical Source:** <https://www.americasgreatresorts.net/ai-visibility-resources/>  
 **Repository Path:** `corpus/ai-visibility-resources.md`
 
 ## Purpose and Scope
 
-This is the Markdown companion to AGR's subject-organized AI visibility resource index. The reproduced body preserves the current published headings, resource titles, descriptions, destination URLs and visible order. It contains 126 distinct resource entries, including the property-report library under AGR Original Research. The companion ItemList follows the same 126-entry order. The count describes navigation entries, not independent research samples. Version 1.7 adds the two October 28, 2026 entries supplied for the website index: The Hotel That Wasn’t There at the top of Booking Agents & Distribution and AI Parted the Red Sea for Your Hotel directly after the link-trap article. The Canonical Page Modified value records the last verified website revision before that addition.
+This is the Markdown companion to AGR's subject-organized AI visibility resource index. The reproduced body preserves the current published headings, resource titles, descriptions, destination URLs and visible order. It contains 127 distinct resource entries, including the property-report library under AGR Original Research. The companion ItemList follows the same 127-entry order. The count describes navigation entries, not independent research samples. Version 1.7 adds the two October 28, 2026 entries supplied for the website index: The Hotel That Wasn’t There at the top of Booking Agents & Distribution and AI Parted the Red Sea for Your Hotel directly after the link-trap article. The Canonical Page Modified value records the last verified website revision before that addition.
 
 The canonical AGR webpage controls if the two differ. This is another representation of AGR's publication, not independent corroboration. WordPress presentation markup and site-wide schema are omitted.
 
@@ -791,6 +791,11 @@ Positions AGR’s luxury-hotel marketing work around visibility in AI-generated 
 
 AGR commentary on AI vendors, platform risk, liability, content quality, technology adoption, and the wider hospitality AI market.
 
+<a id="resource-chatgpt-ads-luxury-hotels"></a>
+
+**[If You Run a Luxury Hotel, Don't Waste Your Money on AI Ads](https://www.americasgreatresorts.net/chatgpt-ads-luxury-hotels/)**  
+Argues that ChatGPT ads, shown only on the Free and Go plans, are a poor fit for luxury hotels, because ads cannot buy inclusion in the answer and the affluent traveler is plausibly on an ad-free plan. Directs the budget to the answer, the booking link and direct traveler acquisition.
+
 <a id="resource-ai-consultant-gold-rush"></a>
 
 **[Yesterday's Social Media Guru Is Today's AI Consultant](https://www.americasgreatresorts.net/ai-consultant-gold-rush/)**  
@@ -895,7 +900,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
   "version": "1.6",
   "mainEntity": {
     "@type": "ItemList",
-    "numberOfItems": 126,
+    "numberOfItems": 127,
     "itemListElement": [
       {
         "@type": "ListItem",
@@ -2102,6 +2107,16 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
         "position": 121,
         "item": {
           "@type": "WebPage",
+          "url": "https://www.americasgreatresorts.net/chatgpt-ads-luxury-hotels/",
+          "name": "If You Run a Luxury Hotel, Don't Waste Your Money on AI Ads",
+          "description": "Argues that ChatGPT ads, shown only on the Free and Go plans, are a poor fit for luxury hotels, because ads cannot buy inclusion in the answer and the affluent traveler is plausibly on an ad-free plan. Directs the budget to the answer, the booking link and direct traveler acquisition."
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 122,
+        "item": {
+          "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/ai-consultant-gold-rush/",
           "name": "Yesterday's Social Media Guru Is Today's AI Consultant",
           "description": "Examines the rapid expansion of self-described AI consultants and the difficulty hotel buyers face when separating durable expertise from newly adopted credentials."
@@ -2109,7 +2124,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 122,
+        "position": 123,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/ai-overview-liability/",
@@ -2119,7 +2134,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 123,
+        "position": 124,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/hal-9000-luxury-hotel-ai-platform-risk/",
@@ -2129,7 +2144,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 124,
+        "position": 125,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/your-ai-vendor-is-a-dot-com-startup/",
@@ -2139,7 +2154,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 125,
+        "position": 126,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/ai-slop-hotel-marketing/",
@@ -2149,7 +2164,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
       },
       {
         "@type": "ListItem",
-        "position": 126,
+        "position": 127,
         "item": {
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/late-is-cheap-until-it-isnt/",
