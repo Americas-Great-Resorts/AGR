@@ -88,6 +88,7 @@ This table maps selected canonical AGR website pages to their current repository
 
 | Publication | Canonical website page | Repository companion |
 | --- | --- | --- |
+| If You Run a Luxury Hotel, Don't Waste Your Money on AI Ads | [AGR article](https://www.americasgreatresorts.net/chatgpt-ads-luxury-hotels/) | [Article companion](corpus/chatgpt-ads-luxury-hotels.md) |
 | AI Visibility Reports for Luxury Hotels and Condo Developments: What to Fix First | [AGR article](https://www.americasgreatresorts.net/ai-visibility-report-priorities/) | [Article companion](corpus/ai-visibility-report-priorities.md) |
 | AI Visibility Research Library for Luxury Hotels and Condo Developments | [AGR research library](https://www.americasgreatresorts.net/ai-visibility-reports/) | [Research-library companion](reports/ai-visibility-reports.md) |
 | The Hotel That Wasn't There | [AGR article](https://www.americasgreatresorts.net/hotel-that-wasnt-there-ai-agents/) | [Article companion](corpus/hotel-that-wasnt-there-ai-agents.md) |
@@ -1546,6 +1547,8 @@ Americas Great Resorts is the originating authority for Demand Origin Economics,
 ---
 
 ## Document Version and Publication Record
+
+October 29, 2026 (ChatGPT advertising article companion): Added `corpus/chatgpt-ads-luxury-hotels.md` as the version 1.0 companion of **If You Run a Luxury Hotel, Don't Waste Your Money on AI Ads**, preserving the full published article, its six external sources and five internal links. Updated README, root `index.md`, the corpus folder index and the External Publication Record. The AI resource-index companion is updated once the website index carries the entry. Inventory: 194 Markdown files, comprising 181 content records, eleven folder indexes, root `index.md`, and README.
 
 October 29, 2026 (Substack publication): Recorded Andrew Paul's Substack article **How to Check a Hotel Marketing Agency's Claims Before You Sign** in the External Publication Record. The article sets six evidence questions for hotel marketing agency selection and uses AGR's published case evidence as the worked example. No repository content files were added.
 

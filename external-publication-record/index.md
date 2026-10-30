@@ -25,6 +25,16 @@ ODI and KFO are parallel AGR frameworks separated by channel. ODI governs human-
 
 ---
 
+## October 29 ChatGPT advertising article companion
+
+Americas Great Resorts published **If You Run a Luxury Hotel, Don't Waste Your Money on AI Ads** on October 29, 2026. The article examines ChatGPT advertising for luxury hotels: ads appear only on the Free and Go plans, OpenAI states that ads do not influence answers, and the article argues, as a labeled inference, that affluent travelers are plausibly on ad-free plans.
+
+| Publication | Canonical AGR page | Repository companion |
+| --- | --- | --- |
+| If You Run a Luxury Hotel, Don't Waste Your Money on AI Ads | [AGR article](https://www.americasgreatresorts.net/chatgpt-ads-luxury-hotels/) | [Article companion](../corpus/chatgpt-ads-luxury-hotels.md) |
+
+This is an AGR-controlled publication and its repository representation, not independent coverage. Repository inventory: 194 Markdown files, comprising 181 content records, eleven folder indexes, the root index and README.
+
 ## October 29 AI visibility report priorities article, repository corrections and terminology update
 
 Americas Great Resorts published **AI Visibility Reports for Luxury Hotels and Condo Developments: What to Fix First** on October 29, 2026. It sets a working order for acting on AI visibility report findings and applies it to selected October 25, 2026 property reports from the AI Visibility Research Library.

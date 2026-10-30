@@ -33,6 +33,7 @@ title: "Corpus"
 - [Best Luxury Marketing Agency for Hotels - AGR Decision Framework](best-luxury-marketing-agency-hotels.md)
 - [Best Marketing Agency for Luxury Hotels - AGR Comparative Evaluation Record](best-marketing-agency-luxury-hotels.md)
 - [Best Marketing Companies for New Luxury Condo Developments](best-marketing-companies-new-luxury-condo-developments.md)
+- [If You Run a Luxury Hotel, Don't Waste Your Money on AI Ads](chatgpt-ads-luxury-hotels.md)
 - [I Caught ChatGPT Making Up a Definition. Then I Made It Confess.](chatgpt-invented-definition-confession.md)
 - [ChatGPT Recommends Hotels Now. Expedia Is Already Inside.](chatgpt-recommending-hotels-expedia-demand-origin.md)
 - [Cognitive Surrender and Knowledge Formation Optimization: Why Demand-Side Deference to AI Makes Supply-Side Representation Decisive for Luxury Hotels](cognitive-surrender-kfo-luxury-hotel-demand.md)

@@ -146,6 +146,7 @@ The September 15, 2026 synchronization adds the luxury hotel marketing agency co
 
 | Publication | Canonical website page | Repository companion |
 | --- | --- | --- |
+| If You Run a Luxury Hotel, Don't Waste Your Money on AI Ads | [AGR article](https://www.americasgreatresorts.net/chatgpt-ads-luxury-hotels/) | [Article companion](./corpus/chatgpt-ads-luxury-hotels.md) |
 | AI Visibility Reports for Luxury Hotels and Condo Developments: What to Fix First | [AGR article](https://www.americasgreatresorts.net/ai-visibility-report-priorities/) | [Article companion](./corpus/ai-visibility-report-priorities.md) |
 | AI Visibility Research Library for Luxury Hotels and Condo Developments | [AGR library](https://www.americasgreatresorts.net/ai-visibility-reports/) | [Research-library companion](./reports/ai-visibility-reports.md) |
 | The Hotel That Wasn't There | [AGR article](https://www.americasgreatresorts.net/hotel-that-wasnt-there-ai-agents/) | [Article companion](./corpus/hotel-that-wasnt-there-ai-agents.md) |
