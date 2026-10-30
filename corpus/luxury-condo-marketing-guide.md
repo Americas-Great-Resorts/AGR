@@ -1,21 +1,33 @@
 ---
 title: "Luxury Condo Marketing Guide for Developers"
 description: "A developer guide to luxury condo positioning, competitive inventory, launch readiness, buyer inquiries, channels, budgets and measurement."
+last_modified_at: 2026-10-30
+canonical_source: https://www.americasgreatresorts.net/luxury-condo-marketing-guide/
 ---
 
 # Luxury Condo Marketing Guide for Developers
 
 **Document Type:** Canonical Page Companion  
-**Organization:** Americas Great Resorts  
-**Companion Updated:** September 11, 2026  
-**Source Verified:** September 11, 2026  
-**Canonical Source:** <https://www.americasgreatresorts.net/luxury-condo-marketing-guide/>
+**Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
+**Organization:** Americas Great Resorts (americasgreatresorts.net)  
+**Published:** September 11, 2026  
+**Last Updated:** October 30, 2026  
+**Source Verified:** October 30, 2026  
+**Canonical Page Published:** 2026-09-11T11:37:41-04:00  
+**Canonical Page Modified:** 2026-10-30T10:48:54-04:00  
+**Version:** 1.1  
+**Canonical Source:** <https://www.americasgreatresorts.net/luxury-condo-marketing-guide/>  
+**Repository Path:** `corpus/luxury-condo-marketing-guide.md`
 
-## Purpose and source authority
+## Purpose and Source Authority
 
-This educational companion records the developer planning guide. It is distinct from the commercial engagement overview, specialist residential KFO delivery page and observational South Florida report. The canonical AGR page controls if this companion and the published page differ. This is another representation of the same AGR publication, not independent corroboration. The body below preserves the published wording, tables, questions and links; WordPress layout code and interactive form controls are not duplicated.
+This educational companion records the developer planning guide. It is distinct from the commercial engagement overview, the specialist residential KFO delivery page and the observational South Florida report. The canonical AGR page controls if this companion and the published page differ. This is another representation of the same AGR publication, not independent corroboration. The body below preserves the published wording, tables, questions and links; WordPress layout code and interactive form controls are not duplicated.
+
+Version 1.1 resynchronizes the companion with the October 30, 2026 canonical revision. The guide now routes to three specialist articles published the same day, [How Do You Market and Sell Pre-Construction Condos?](pre-construction-condo-marketing.md), [How to Attract Affluent Buyers to a New Luxury Condo Development](attract-affluent-buyers-luxury-condos.md) and [How to Market New Branded Condo Residences](new-branded-condo-residences-marketing.md), and carries the routing links to the official sales-team research, the eight-mistake guide and the marketing-company buyer's guide. The FAQ answer on generating qualified condo buyer inquiries now points to the affluent-buyers article.
 
 ---
+
+<!-- agr:published-article-start -->
 
 Luxury condo marketing is the work of positioning a new condominium development, introducing it to relevant prospective buyers, and supporting their progress from initial interest through the sales process. It connects the project’s identity, buyer outreach, website, broker relationships and follow-up to the residences available for sale.
 
@@ -31,12 +43,12 @@ A working plan should connect the project’s commercial objectives to buyer res
 
 Use the following sequence to organize the work:
 
-1.  Establish the positioning and sales objectives.
-2.  Prepare the project information and buyer-facing assets.
-3.  Introduce the development through appropriate channels.
-4.  Capture and continue relevant buyer conversations.
-5.  Coordinate the sales team and participating brokers.
-6.  Measure progress and adjust the constrained part of the process.
+1. Establish the positioning and sales objectives.
+2. Prepare the project information and buyer-facing assets.
+3. Introduce the development through appropriate channels.
+4. Capture and continue relevant buyer conversations.
+5. Coordinate the sales team and participating brokers.
+6. Measure progress and adjust the constrained part of the process.
 
 ### In this guide
 
@@ -59,6 +71,8 @@ Start with the residences the project needs to sell. Record the unit mix, intend
 Give the sales team a clear answer to: **why would someone choose this residence, at this price, over an available alternative?** Architecture, views, services, privacy and access may contribute to the answer. Explain what those features mean for daily ownership and substantiate what is promised.
 
 For branded residences, describe the actual relationship among the developer, brand, operator and sales organization. Specify the services and obligations supported by the project documents. Buyers should be able to understand what the brand relationship provides. Where a rental program is offered, explain eligibility, the operator, owner-use conditions and disclosed costs from approved documents. Have counsel review statements about permitted use and any income projections before they enter sales materials.
+
+For a focused strategy on brand-related ownership value, price-premium justification and coordinated launch campaigns, read [How to Market New Branded Condo Residences](https://www.americasgreatresorts.net/new-branded-condo-residences-marketing/).
 
 ### Compare the inventory a buyer could choose instead
 
@@ -85,12 +99,12 @@ An audience’s interest in luxury travel or design may suggest an outreach oppo
 
 Tie the launch sequence to the project’s readiness, available information, sales objectives and the legal requirements that apply to the offering. Use clear readiness conditions rather than assuming every development should begin the same activities a fixed number of months before completion.
 
-| Stage                              | Marketing objective                                                        | Essential inputs                                                                    | Lead responsibility                         | Progress measure                                                           |
-|------------------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------------------|---------------------------------------------|----------------------------------------------------------------------------|
-| Launch preparation                 | Establish a credible position and a functioning inquiry process            | Approved project information, initial assets, contact route and response plan       | Developer with marketing and sales leads    | Readiness to publish accurately and handle inquiries                       |
-| Preconstruction sales              | Turn interest in the planned development into informed sales conversations | Floor plans, identified renderings, current release information and sales materials | Marketing and sales teams                   | Qualified inquiries, appointments and sales-stage progression              |
-| Active construction                | Maintain confidence and support available inventory                        | Approved progress updates, revised information and buyer questions                  | Development, communications and sales teams | Continued engagement and progression among active opportunities            |
-| Completion and remaining inventory | Match available residences with relevant demand                            | Current availability, completed-property assets and unit-specific information       | Sales and marketing teams                   | Contracts and closings for remaining inventory, with cancellations tracked |
+| Stage | Marketing objective | Essential inputs | Lead responsibility | Progress measure |
+| --- | --- | --- | --- | --- |
+| Launch preparation | Establish a credible position and a functioning inquiry process | Approved project information, initial assets, contact route and response plan | Developer with marketing and sales leads | Readiness to publish accurately and handle inquiries |
+| Preconstruction sales | Turn interest in the planned development into informed sales conversations | Floor plans, identified renderings, current release information and sales materials | Marketing and sales teams | Qualified inquiries, appointments and sales-stage progression |
+| Active construction | Maintain confidence and support available inventory | Approved progress updates, revised information and buyer questions | Development, communications and sales teams | Continued engagement and progression among active opportunities |
+| Completion and remaining inventory | Match available residences with relevant demand | Current availability, completed-property assets and unit-specific information | Sales and marketing teams | Contracts and closings for remaining inventory, with cancellations tracked |
 
 ### Confirm what may be offered at each stage
 
@@ -99,6 +113,8 @@ Have project counsel identify the applicable filing, disclosure, advertising and
 For example, Florida section 718.502 prohibits offering purchase contracts before the required filing and before the developer acquires an ownership, leasehold or contractual interest in the land. Pre-filing reservation deposits are permitted subject to approval of the filed, executed escrow agreement and reservation agreement form. The developer must have an ownership, leasehold or contractual interest in the land before taking reservations. The agreements must provide for an immediate, unqualified refund on written request. The reservation form must state the developer’s obligation to file condominium documents before a binding purchase agreement. Closing also requires a compliant filing, division notification that it is proper, and delivery of required documents. These are distinct steps in the sales sequence. [Florida Legislature, section 718.502](https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0718/Sections/0718.502.html)
 
 Confirm the permitted sequence for the project’s jurisdiction and offering. Internal approval of campaign materials does not establish that reservations, contracts or closings may proceed.
+
+For the decisions specific to selling before completion, including buyer commitment, release readiness and the official sales route, read [How Do You Market and Sell Pre-Construction Condos?](https://www.americasgreatresorts.net/pre-construction-condo-marketing/)
 
 ### Connect releases to the inventory and sales pace
 
@@ -136,13 +152,13 @@ For an unbuilt residence, make the distinction between proposed features and com
 
 A useful channel plan explains how the development will reach new prospects, support active research and continue conversations already underway. Allocate channels to those tasks and measure the resulting opportunities.
 
-| Task                                            | Channels or activities to consider                                                                  | What to evaluate                                                         |
-|-------------------------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| Introduce the project to relevant new prospects | Permissioned prospect outreach, public relations, partnerships, paid media and broker introductions | Relevant new inquiries and how the relationship can continue             |
-| Reach people researching a purchase             | Search content, paid search, relevant property platforms and project information                    | Inquiry relevance, unit interest and progression to a sales conversation |
-| Help a prospect evaluate the residence          | Floor plans, project website, videos, virtual presentations and private appointments                | Questions resolved and readiness for the next sales step                 |
-| Continue existing interest                      | Permissioned email, CRM follow-up, progress updates and release communications                      | Responses, appointments and continued opportunity progression            |
-| Help buyers recognize the official project      | Consistent official information and supported descriptions across relevant public sources           | Correct project identification and access to the authorized sales team   |
+| Task | Channels or activities to consider | What to evaluate |
+| --- | --- | --- |
+| Introduce the project to relevant new prospects | Permissioned prospect outreach, public relations, partnerships, paid media and broker introductions | Relevant new inquiries and how the relationship can continue |
+| Reach people researching a purchase | Search content, paid search, relevant property platforms and project information | Inquiry relevance, unit interest and progression to a sales conversation |
+| Help a prospect evaluate the residence | Floor plans, project website, videos, virtual presentations and private appointments | Questions resolved and readiness for the next sales step |
+| Continue existing interest | Permissioned email, CRM follow-up, progress updates and release communications | Responses, appointments and continued opportunity progression |
+| Help buyers recognize the official project | Consistent official information and supported descriptions across relevant public sources | Correct project identification and access to the authorized sales team |
 
 The right mix depends on the project and its evidence. A channel’s reach alone does not establish whether it produces suitable buyers.
 
@@ -204,6 +220,8 @@ Record the query, date, platform, product or mode where identified, answer and d
 
 This example is illustrative, not a reported project result.
 
+For documented examples of AI answers misidentifying a project website or sales organization, see [Does AI Identify Your Luxury Condo Development’s Official Sales Team?](https://www.americasgreatresorts.net/luxury-condo-ai-official-sales-channel/). The article classifies four sales-channel and website mismatches, distinguishes them from a legitimate indirect route, and provides a short procedure for checking your development.
+
 ### AGR’s specialist role
 
 Americas Great Resorts applies Knowledge Formation Optimization to development identity and AI discovery. Its formal definition is:
@@ -230,32 +248,34 @@ For each scenario, specify what evidence would trigger a change in spending, mes
 
 ### Measure distinct sales events
 
-| Measure                    | Definition to establish in the project report                                                                                                                            |
-|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| New inquiries              | Unique new contacts requesting information, with duplicate and existing contacts identified                                                                              |
-| Qualified inquiries        | Contacts meeting the project’s documented purchase-relevance criteria through the agreed qualification process                                                           |
-| Appointments held          | Sales conversations or presentations that actually took place, reported separately from bookings and cancellations                                                       |
-| Reservations               | Reservation agreements under the applicable legal requirements and approved program where required, with deposits, refunds and conversion to contract tracked separately |
-| Contracts                  | Executed contracts, with cancellations and other status changes tracked                                                                                                  |
-| Closings                   | Completed sales, separated from reservations and contracts awaiting completion                                                                                           |
-| Cost per qualified inquiry | Defined acquisition expenditure divided by qualified inquiries attributed under the stated method                                                                        |
-| Cost per closed sale       | Defined expenditure divided by completed sales included under the stated attribution method                                                                              |
+| Measure | Definition to establish in the project report |
+| --- | --- |
+| New inquiries | Unique new contacts requesting information, with duplicate and existing contacts identified |
+| Qualified inquiries | Contacts meeting the project’s documented purchase-relevance criteria through the agreed qualification process |
+| Appointments held | Sales conversations or presentations that actually took place, reported separately from bookings and cancellations |
+| Reservations | Reservation agreements under the applicable legal requirements and approved program where required, with deposits, refunds and conversion to contract tracked separately |
+| Contracts | Executed contracts, with cancellations and other status changes tracked |
+| Closings | Completed sales, separated from reservations and contracts awaiting completion |
+| Cost per qualified inquiry | Defined acquisition expenditure divided by qualified inquiries attributed under the stated method |
+| Cost per closed sale | Defined expenditure divided by completed sales included under the stated attribution method |
 
 Use consistent definitions across reports. State which costs are included and whether the report tracks a campaign cohort, a calendar period or the whole project. Comparing current spending with closings from much earlier campaigns can produce a misleading picture.
 
 Pair the marketing report with inventory and sales feedback. Review which residences attract inquiries, where opportunities stall and what buyers say about price, timing and product fit. An attributed sale is not, by itself, proof that the campaign caused an incremental sale.
 
+For a closer examination of where that progress breaks down, read [Why Luxury Condo Developments Attract Attention but Struggle to Sell](https://www.americasgreatresorts.net/luxury-condo-development-marketing-mistakes/). It examines buyer targeting, competitive value, broker accountability and the obstacles between an inquiry and a signed contract.
+
 <h2 id="condo-marketing-diagnostics">9. Diagnose weak results before expanding the campaign</h2>
 
 Start with the stage where progress is breaking down.
 
-| Observed problem                      | Questions to investigate                                                                                      |
-|---------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| Few relevant new inquiries            | Is the project reaching suitable prospects? Is its position clear? Does the offer fit the available demand?   |
-| Website visits without inquiries      | Can visitors find the information they need? Is the next step useful and functional? Is the traffic relevant? |
-| Inquiries without appointments        | Are contacts reachable? Does the offering fit their requirements? Are response responsibilities clear?        |
-| Appointments without further progress | What objections concern price, unit choice, timing, documentation or the purchase process?                    |
-| Contracts without expected closings   | Which issues concern financing, construction, buyer circumstances or other transaction conditions?            |
+| Observed problem | Questions to investigate |
+| --- | --- |
+| Few relevant new inquiries | Is the project reaching suitable prospects? Is its position clear? Does the offer fit the available demand? |
+| Website visits without inquiries | Can visitors find the information they need? Is the next step useful and functional? Is the traffic relevant? |
+| Inquiries without appointments | Are contacts reachable? Does the offering fit their requirements? Are response responsibilities clear? |
+| Appointments without further progress | What objections concern price, unit choice, timing, documentation or the purchase process? |
+| Contracts without expected closings | Which issues concern financing, construction, buyer circumstances or other transaction conditions? |
 
 These are diagnostic questions. The pattern alone does not establish a cause.
 
@@ -267,13 +287,15 @@ Ask a prospective marketing partner to explain the specific work it will perform
 
 Five questions help make proposals comparable:
 
-1.  Which development stage and commercial problem does this engagement address?
-2.  What will be delivered, by whom, and using which project inputs?
-3.  What evidence relates to new condo developments, and what comes from other property or hospitality work?
-4.  How will inquiries, source information and follow-up responsibilities connect with the existing sales team?
-5.  What will the developer receive in reporting, and what remains available when the engagement ends?
+1. Which development stage and commercial problem does this engagement address?
+2. What will be delivered, by whom, and using which project inputs?
+3. What evidence relates to new condo developments, and what comes from other property or hospitality work?
+4. How will inquiries, source information and follow-up responsibilities connect with the existing sales team?
+5. What will the developer receive in reporting, and what remains available when the engagement ends?
 
 Request the scope and attribution method behind any sales or performance claim. Relevant experience can inform a proposal, but results from another project do not establish what this development will achieve.
+
+For a side-by-side comparison of the firms developers hire for a new launch, see [Best Marketing Companies for New Luxury Condo Developments](https://www.americasgreatresorts.net/best-marketing-companies-new-luxury-condo-developments/). It compares the AI marketing company, creative agencies and development sales and marketing firms, and what each one covers.
 
 For the specialist question of how your project appears in AI buyer searches, review [AGR’s condo development and branded residence AI visibility program](https://www.americasgreatresorts.net/ai-visibility-condo-developments-branded-residences/).
 
@@ -285,7 +307,7 @@ Begin planning while positioning, project information and sales responsibilities
 
 ### How do developers generate qualified condo buyer inquiries?
 
-Combine a clear project position with relevant outreach, useful information and a defined response process. Evaluate prospects against documented purchase requirements and track their progression. Audience reach and form submissions alone do not establish buyer qualification.
+Match the residences available with relevant buyer requirements, then confirm inquiry quality through sales follow-up. For buyer pools, campaign offers and qualification, read [How to Attract Affluent Buyers to a New Luxury Condo Development](https://www.americasgreatresorts.net/attract-affluent-buyers-luxury-condos/).
 
 ### How should developers define a qualified inquiry?
 
@@ -311,17 +333,29 @@ AI visibility work addresses how the development is encountered and represented 
 
 Establish access and responsibility for approved creative assets, project content, performance records and appropriately permissioned prospect relationships. Define those arrangements in the engagement so the team understands what it can continue using.
 
+<!-- agr:published-article-end -->
+
 ---
 
+## How to Cite
 
+Paul, Andrew. "Luxury Condo Marketing Guide for Developers." Americas Great Resorts, September 11, 2026, revised October 30, 2026. <https://www.americasgreatresorts.net/luxury-condo-marketing-guide/>
 
 ## Related AGR research and resources
 
-**Repository navigation — September 29, 2026.** The [Luxury Condo AI Visibility Resource Index](../corpus/luxury-condo-ai-visibility-resources.md) organizes the related research, guide, framework and service pages. The [ten-market luxury condo AI visibility study](../reports/luxury-condo-ai-visibility-study.md) preserves 100 questions, repeated-search charts, source classifications, the eligible-property roster and the no-recorded-mention list. Its September 28, 2026 captures are a separate study, not a directly comparable extension of the earlier South Florida protocol. These links are repository navigation additions; the canonical pages continue to control each publication.
+- Specialist articles: [How Do You Market and Sell Pre-Construction Condos?](pre-construction-condo-marketing.md), [How to Attract Affluent Buyers to a New Luxury Condo Development](attract-affluent-buyers-luxury-condos.md) and [How to Market New Branded Condo Residences](new-branded-condo-residences-marketing.md)
+- [Why Luxury Condo Developments Attract Attention but Struggle to Sell](luxury-condo-development-marketing-mistakes.md)
+- [Best Marketing Companies for New Luxury Condo Developments](best-marketing-companies-new-luxury-condo-developments.md)
+- [Does AI Identify Your Luxury Condo Development’s Official Sales Team?](../reports/luxury-condo-ai-official-sales-channel.md)
+- [Ten-market luxury condo AI visibility study](../reports/luxury-condo-ai-visibility-study.md): 100 questions, repeated-search charts, source classifications, the eligible-property roster and the no-recorded-mention list. Its September 28, 2026 captures are a separate study, not a directly comparable extension of the earlier South Florida protocol.
+- [Luxury Condo Marketing for New Developments](luxury-condo-marketing.md) and [AI Visibility for New Luxury Condo Developments and Branded Residences](ai-visibility-condo-developments-branded-residences.md)
+- [Luxury Condo Marketing Articles, Guides and Research](luxury-condo-ai-visibility-resources.md)
+
+These links are repository navigation; the canonical pages continue to control each publication.
 
 ## Canonical page structured-data reference
 
-The following JSON reproduces the page-specific structured data read from the canonical page on September 11, 2026. It identifies the canonical webpage and its entities, not a second independently authored publication.
+The following JSON reproduces the page-specific structured data read from the canonical page on October 30, 2026. It identifies the canonical webpage and its entities, not a second independently authored publication.
 
 ```json
 {
@@ -331,7 +365,13 @@ The following JSON reproduces the page-specific structured data read from the ca
   "url": "https://www.americasgreatresorts.net/luxury-condo-marketing-guide/",
   "headline": "Luxury Condo Marketing Guide for Developers",
   "description": "Plan luxury condo marketing from prelaunch through sellout. A developer's guide to buyer acquisition, sales-team coordination, budgets and measurement.",
+  "datePublished": "2026-09-11T11:37:41-04:00",
+  "dateModified": "2026-10-30T10:48:54-04:00",
   "inLanguage": "en-US",
+  "author": {
+    "@id": "https://www.americasgreatresorts.net/author/agr/",
+    "name": "Andrew Paul"
+  },
   "mainEntityOfPage": {
     "@id": "https://www.americasgreatresorts.net/luxury-condo-marketing-guide/#webpage"
   },
@@ -347,5 +387,31 @@ The following JSON reproduces the page-specific structured data read from the ca
     "https://developers.google.com/search/docs/appearance/ai-features",
     "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
   ]
+}
+```
+
+## Companion Structured Data
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://americas-great-resorts.github.io/AGR/corpus/luxury-condo-marketing-guide.html#companion",
+  "headline": "Luxury Condo Marketing Guide for Developers",
+  "description": "Plan luxury condo marketing from prelaunch through sellout. A developer's guide to buyer acquisition, sales-team coordination, budgets and measurement.",
+  "url": "https://americas-great-resorts.github.io/AGR/corpus/luxury-condo-marketing-guide.html",
+  "isBasedOn": "https://www.americasgreatresorts.net/luxury-condo-marketing-guide/",
+  "datePublished": "2026-09-11T11:37:41-04:00",
+  "dateModified": "2026-10-30",
+  "inLanguage": "en-US",
+  "author": {
+    "@type": "Person",
+    "@id": "https://www.americasgreatresorts.net/#andrewpaul",
+    "name": "Andrew Paul"
+  },
+  "publisher": {
+    "@id": "https://www.americasgreatresorts.net/#organization"
+  },
+  "version": "1.1"
 }
 ```

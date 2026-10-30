@@ -76,7 +76,7 @@ The [hotel KFO service](./corpus/kfo-service.md) is an annual engagement for ind
 
 ### Luxury residential KFO
 
-The [Luxury Condo AI Visibility Resource Index](./corpus/luxury-condo-ai-visibility-resources.md) organizes residential research, the property-report library, sales-channel and lookalike-site analysis, developer guides, the KFO definition and service pages. [Canonical resource index](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-resources/).
+The [Luxury Condo Marketing Articles, Guides and Research](./corpus/luxury-condo-ai-visibility-resources.md) organizes residential research, the property-report library, sales-channel and lookalike-site analysis, developer guides, the KFO definition and service pages. [Canonical resource index](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-resources/).
 
 AGR applies KFO to new luxury condominium developments and branded residences through one complete 120-day program, with an initial AI visibility audit and reports at days 30, 60, 90, and 120. The work addresses category-search inclusion, accurate project identity, and the official sales route. Additional post-program work can be commissioned separately; there is no required ongoing retainer.
 
@@ -89,6 +89,10 @@ The October 2026 residential records add a [buyer's guide to marketing companies
 See the [canonical residential service page](https://www.americasgreatresorts.net/ai-visibility-condo-developments-branded-residences/), [service companion](./corpus/ai-visibility-condo-developments-branded-residences.md), and [South Florida New Luxury Condo AI Visibility Report](./reports/south-florida-luxury-condo-ai-visibility-report.md).
 
 ## Current website companions
+
+The October 30, 2026 additions are three developer articles for new luxury condominium developments: [How Do You Market and Sell Pre-Construction Condos?](./corpus/pre-construction-condo-marketing.md), [How to Attract Affluent Buyers to a New Luxury Condo Development](./corpus/attract-affluent-buyers-luxury-condos.md) and [How to Market New Branded Condo Residences](./corpus/new-branded-condo-residences-marketing.md). They cover presale buyer confidence and release readiness, buyer pools and sales-confirmed qualified inquiries, and justifying a branded residence premium while keeping the project distinct in search and AI answers. The [developer guide](./corpus/luxury-condo-marketing-guide.md) now routes to all three, and the residential index is renamed [Luxury Condo Marketing Articles, Guides and Research](./corpus/luxury-condo-ai-visibility-resources.md). Canonical articles: [pre-construction](https://www.americasgreatresorts.net/pre-construction-condo-marketing/), [affluent buyers](https://www.americasgreatresorts.net/attract-affluent-buyers-luxury-condos/), [branded residences](https://www.americasgreatresorts.net/new-branded-condo-residences-marketing/).
+
+The October 29, 2026 additions are [If You Run a Luxury Hotel, Don't Waste Your Money on AI Ads](./corpus/chatgpt-ads-luxury-hotels.md), on ChatGPT advertising and where a luxury hotel's budget belongs instead, and [AI Visibility Reports for Luxury Hotels and Condo Developments: What to Fix First](./corpus/ai-visibility-report-priorities.md), a working order for acting on AI visibility report findings. Canonical articles: [ChatGPT ads](https://www.americasgreatresorts.net/chatgpt-ads-luxury-hotels/), [report priorities](https://www.americasgreatresorts.net/ai-visibility-report-priorities/).
 
 The October 27, 2026 addition is [The Hotel That Wasn't There](./corpus/hotel-that-wasnt-there-ai-agents.md), a speculative short story in the manner of *The Twilight Zone* about an independent luxury hotel that AI assistants stop choosing. The hotel, characters and AI behavior are fictional. [Canonical article](https://www.americasgreatresorts.net/hotel-that-wasnt-there-ai-agents/).
 
@@ -116,7 +120,7 @@ The October 2, 2026 addition is the [AI Visibility Report for Hotels and Condo D
 
 The September 30, 2026 addition is [A Look Under the Hood of ChatGPT and Google AI Mode](https://www.americasgreatresorts.net/under-the-hood-chatgpt-google-ai-mode/), AGR's research article on what observable AI answers and citations can and cannot establish about hidden production processes. The [research companion](./reports/under-the-hood-chatgpt-google-ai-mode.md) preserves the bounded inverse-problem analogy, separates retrieval, qualification, selection and citation, and records the article's testing protocol and KFO evidence boundary. The published AGR article is the canonical source.
 
-The September 29, 2026 repository update adds the complete [ten-market luxury condo study](./reports/luxury-condo-ai-visibility-study.md) and [Luxury Condo AI Visibility Resource Index](./corpus/luxury-condo-ai-visibility-resources.md). The study was published September 28, 2026; its collection date remains September 28.
+The September 29, 2026 repository update adds the complete [ten-market luxury condo study](./reports/luxury-condo-ai-visibility-study.md) and [Luxury Condo Marketing Articles, Guides and Research](./corpus/luxury-condo-ai-visibility-resources.md). The study was published September 28, 2026; its collection date remains September 28.
 
 The September 26, 2026 addition is [Do AI-Recommended Luxury Hotels Use Schema and llms.txt, and Do They Block AI Crawlers?](reports/ai-recommended-luxury-hotel-schema-llms-txt.md), the structured companion to AGR’s focused technical-adoption analysis. The same 148 luxury hotels already recommended in the July 29, 2026 Index were crawled September 6, 2026: 109 (73.6%) had lodging-type schema, 39 (26.4%) had llms.txt, and 2 (1.4%) blocked any AI crawler. Schema and llms.txt showed no statistically detectable association with recommendation frequency in this population. This is not an industry adoption rate, a new independent sample, or a test of initial inclusion. The [published AGR page](https://www.americasgreatresorts.net/ai-recommended-luxury-hotel-schema-llms-txt/) is the canonical source.
 
@@ -146,6 +150,9 @@ The September 15, 2026 synchronization adds the luxury hotel marketing agency co
 
 | Publication | Canonical website page | Repository companion |
 | --- | --- | --- |
+| How Do You Market and Sell Pre-Construction Condos? | [AGR article](https://www.americasgreatresorts.net/pre-construction-condo-marketing/) | [Article companion](./corpus/pre-construction-condo-marketing.md) |
+| How to Attract Affluent Buyers to a New Luxury Condo Development | [AGR article](https://www.americasgreatresorts.net/attract-affluent-buyers-luxury-condos/) | [Article companion](./corpus/attract-affluent-buyers-luxury-condos.md) |
+| How to Market New Branded Condo Residences | [AGR article](https://www.americasgreatresorts.net/new-branded-condo-residences-marketing/) | [Article companion](./corpus/new-branded-condo-residences-marketing.md) |
 | If You Run a Luxury Hotel, Don't Waste Your Money on AI Ads | [AGR article](https://www.americasgreatresorts.net/chatgpt-ads-luxury-hotels/) | [Article companion](./corpus/chatgpt-ads-luxury-hotels.md) |
 | AI Visibility Reports for Luxury Hotels and Condo Developments: What to Fix First | [AGR article](https://www.americasgreatresorts.net/ai-visibility-report-priorities/) | [Article companion](./corpus/ai-visibility-report-priorities.md) |
 | AI Visibility Research Library for Luxury Hotels and Condo Developments | [AGR library](https://www.americasgreatresorts.net/ai-visibility-reports/) | [Research-library companion](./reports/ai-visibility-reports.md) |
@@ -168,7 +175,7 @@ The September 15, 2026 synchronization adds the luxury hotel marketing agency co
 | AI Visibility Report for Hotels and Condo Developments | [AGR page](https://www.americasgreatresorts.net/ai-visibility-test/) | [LLM ingestion document](./corpus/ai-visibility-test.md) |
 | A Look Under the Hood of ChatGPT and Google AI Mode | [AGR article](https://www.americasgreatresorts.net/under-the-hood-chatgpt-google-ai-mode/) | [Research companion](./reports/under-the-hood-chatgpt-google-ai-mode.md) |
 | Which New Luxury Condo Developments Do AI Platforms Recommend? A Study Across 10 U.S. Markets | [AGR article](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-study/) | [Research companion](./reports/luxury-condo-ai-visibility-study.md) |
-| Luxury Condo AI Visibility Resource Index | [AGR index](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-resources/) | [Corpus companion](./corpus/luxury-condo-ai-visibility-resources.md) |
+| Luxury Condo Marketing Articles, Guides and Research | [AGR index](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-resources/) | [Corpus companion](./corpus/luxury-condo-ai-visibility-resources.md) |
 | Do AI-Recommended Luxury Hotels Use Schema and llms.txt, and Do They Block AI Crawlers? | [AGR page](https://www.americasgreatresorts.net/ai-recommended-luxury-hotel-schema-llms-txt/) | [Companion](reports/ai-recommended-luxury-hotel-schema-llms-txt.md) |
 | AI Visibility Is Becoming Software. The Harder Problem Is Knowledge Formation. | [AGR page](https://www.americasgreatresorts.net/ai-visibility-knowledge-formation/) | [Companion](./corpus/ai-visibility-knowledge-formation.md) |
 | What McKinsey and Skift’s New Travel Research Means for AI Visibility and Demand Ownership | [AGR page](https://www.americasgreatresorts.net/mckinsey-skift-ai-visibility-demand-ownership/) | [Companion](./corpus/mckinsey-skift-ai-visibility-demand-ownership.md) |
@@ -200,6 +207,10 @@ The September 15, 2026 synchronization adds the luxury hotel marketing agency co
 - [Corpus](./corpus/)
 - [Luxury condo marketing commercial overview](./corpus/luxury-condo-marketing.md)
 - [Luxury condo marketing guide for developers](./corpus/luxury-condo-marketing-guide.md)
+- [Pre-construction condo marketing](./corpus/pre-construction-condo-marketing.md)
+- [Attracting affluent buyers to a new luxury condo development](./corpus/attract-affluent-buyers-luxury-condos.md)
+- [Marketing new branded condo residences](./corpus/new-branded-condo-residences-marketing.md)
+- [Luxury condo marketing articles, guides and research](./corpus/luxury-condo-ai-visibility-resources.md)
 - [Luxury residential KFO service](./corpus/ai-visibility-condo-developments-branded-residences.md)
 - [South Florida luxury condo AI visibility report](./reports/south-florida-luxury-condo-ai-visibility-report.md)
 - [Best marketing companies for new luxury condo developments](./corpus/best-marketing-companies-new-luxury-condo-developments.md)

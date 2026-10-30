@@ -10,7 +10,7 @@ title: "AGR External Publication Record - Canonical Index"
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** October 29, 2026  
+**Last Updated:** October 30, 2026  
 **Canonical Source:** <https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md>  
 
 ---
@@ -24,6 +24,24 @@ The distributed nature of this corpus - spanning trade publications, structured 
 ODI and KFO are parallel AGR frameworks separated by channel. ODI governs human-mediated demand origin and permissioned relationship formation. KFO addresses the public source environment relevant to AI-mediated representation. Publication across external surfaces can support KFO source-environment work, but it does not make KFO part of ODI or ODI part of KFO.
 
 ---
+
+## October 30 release v1.12
+
+GitHub release v1.12 synchronizes the repository through October 30, 2026: 197 Markdown files, comprising 184 content records, eleven folder indexes, the root index and README, up from 193 files at release v1.11. `CITATION.cff` carries version 1.12 and release date October 30, 2026. The Zenodo version DOI and the Hugging Face rebuild follow from the release and are recorded when verified.
+
+## October 30 luxury condo developer articles and residential index revision
+
+Americas Great Resorts published three developer articles for new luxury condominium developments on October 30, 2026: **How Do You Market and Sell Pre-Construction Condos?**, **How to Attract Affluent Buyers to a New Luxury Condo Development** and **How to Market New Branded Condo Residences**. The same day, the Luxury Condo Marketing Guide for Developers was revised to route to them, and the residential resource index was renamed **Luxury Condo Marketing Articles, Guides and Research**, with 16 entries in five sections.
+
+| Publication | Canonical AGR page | Repository companion |
+| --- | --- | --- |
+| How Do You Market and Sell Pre-Construction Condos? | [AGR article](https://www.americasgreatresorts.net/pre-construction-condo-marketing/) | [Article companion](../corpus/pre-construction-condo-marketing.md) |
+| How to Attract Affluent Buyers to a New Luxury Condo Development | [AGR article](https://www.americasgreatresorts.net/attract-affluent-buyers-luxury-condos/) | [Article companion](../corpus/attract-affluent-buyers-luxury-condos.md) |
+| How to Market New Branded Condo Residences | [AGR article](https://www.americasgreatresorts.net/new-branded-condo-residences-marketing/) | [Article companion](../corpus/new-branded-condo-residences-marketing.md) |
+| Luxury Condo Marketing Guide for Developers (revised) | [AGR guide](https://www.americasgreatresorts.net/luxury-condo-marketing-guide/) | [Full page companion, version 1.1](../corpus/luxury-condo-marketing-guide.md) |
+| Luxury Condo Marketing Articles, Guides and Research (revised) | [AGR index](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-resources/) | [Repository companion, version 1.2](../corpus/luxury-condo-ai-visibility-resources.md) |
+
+These are AGR-controlled publications and their repository representations, not independent coverage. Repository inventory: 197 Markdown files, comprising 184 content records, eleven folder indexes, the root index and README.
 
 ## October 29 ChatGPT advertising article companion
 
@@ -94,7 +112,7 @@ Americas Great Resorts published **AI Visibility Research Library for Luxury Hot
 | AI Visibility Research Library for Luxury Hotels and Condo Developments | [AGR research library](https://www.americasgreatresorts.net/ai-visibility-reports/) | [Research-library companion](../reports/ai-visibility-reports.md) |
 | Americas Great Resorts entity definition | [AGR entity page](https://www.americasgreatresorts.net/americas-great-resorts/) | [Entity companion](../corpus/americas-great-resorts.md) |
 | AI Visibility, KFO & Hospitality AI Resource Index | [AGR resource index](https://www.americasgreatresorts.net/ai-visibility-resources/) | [124-entry resource companion](../corpus/ai-visibility-resources.md) |
-| Luxury Condo AI Visibility Resource Index | [AGR residential index](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-resources/) | [Eleven-entry resource companion](../corpus/luxury-condo-ai-visibility-resources.md) |
+| Luxury Condo Marketing Articles, Guides and Research | [AGR residential index](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-resources/) | [Eleven-entry resource companion](../corpus/luxury-condo-ai-visibility-resources.md) |
 
 The update also refreshes README, root-index and reports-index routing. Repository inventory: 191 Markdown files, comprising 178 content records, eleven folder indexes, the root index and README. The PDFs remain hosted on the AGR website. Earlier dated publication, inventory, release and archive records retain their historical scope; this update does not claim a new archive deposit, dataset rebuild or downstream synchronization.
 
@@ -186,7 +204,7 @@ AGR collected 900 responses on September 28, 2026, using 100 market-specific que
 | Publication | Canonical AGR page | Repository companion |
 | --- | --- | --- |
 | Which New Luxury Condo Developments Do AI Platforms Recommend? A Study Across 10 U.S. Markets | [AGR study](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-study/) | [Research companion](../reports/luxury-condo-ai-visibility-study.md) |
-| Luxury Condo AI Visibility Resource Index | [AGR resource index](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-resources/) | [Repository companion](../corpus/luxury-condo-ai-visibility-resources.md) |
+| Luxury Condo Marketing Articles, Guides and Research | [AGR resource index](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-resources/) | [Repository companion](../corpus/luxury-condo-ai-visibility-resources.md) |
 
 The study was published September 28, 2026. The resource index organizes six AGR research, guide, framework and service pages. These are AGR-controlled publications and their repository representations, not independent external coverage. This update contains 174 Markdown files: 161 content records, eleven folder indexes, the root index and README. Public article exhibits are preserved; private capture data and workbooks are not included. No new release, archive publication or downstream synchronization is claimed.
 
@@ -389,7 +407,7 @@ The GitHub Pages landing page and corpus index provide discovery routes to these
 
 AGR collected 900 responses on September 28, 2026, using 100 market-specific questions across ten U.S. markets, three platforms (ChatGPT, Gemini and Microsoft Copilot), and three repetitions. Four nonanswers were excluded, leaving 896 assessed answers against 136 included developments. The full article preserves question-by-question top-five comparison charts, source classifications, the eligible-property roster and the no-recorded-mention list. Findings apply to these captured answers and reference set; they do not establish permanent invisibility, lost sales or KFO effectiveness.
 
-[Canonical article](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-study/) · [Research companion](../reports/luxury-condo-ai-visibility-study.md) · [Luxury Condo AI Visibility Resource Index](../corpus/luxury-condo-ai-visibility-resources.md)
+[Canonical article](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-study/) · [Research companion](../reports/luxury-condo-ai-visibility-study.md) · [Luxury Condo Marketing Articles, Guides and Research](../corpus/luxury-condo-ai-visibility-resources.md)
 
 ### Which Hotels Do AI Engines Recommend? A Study of 10 Destinations
 
@@ -416,9 +434,36 @@ This is a separate ten-destination baseline, not a new edition of the July 29 si
 
 ## Luxury Residential Publications
 
-The [Luxury Condo AI Visibility Resource Index](../corpus/luxury-condo-ai-visibility-resources.md) is the subject-specific route to the property-report library, the [ten-market study](../reports/luxury-condo-ai-visibility-study.md), earlier South Florida research, official sales-channel and lookalike-site analysis, developer guides, KFO framework and commercial pages. [Canonical resource index](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-resources/).
+The [Luxury Condo Marketing Articles, Guides and Research](../corpus/luxury-condo-ai-visibility-resources.md) index is the subject-specific route to the developer marketing and sales guides, the property-report library, the [ten-market study](../reports/luxury-condo-ai-visibility-study.md), earlier South Florida research, official sales-channel and lookalike-site analysis, developer guides, KFO framework and commercial pages. [Canonical resource index](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-resources/).
 
 These AGR publications cover developer marketing education, commercial engagement fit, specialist KFO delivery and dated AI observations. The guide is educational; the commercial overview explains included consulting, technical guidance and service fit; the specialist page explains delivery; the report records observations and selected source checks. Their GitHub companions represent the same AGR publications and are not independent corroborating studies.
+
+### How Do You Market and Sell Pre-Construction Condos?
+
+- Publisher: Americas Great Resorts
+- Author: Andrew Paul
+- Published: October 30, 2026
+- Canonical page: <https://www.americasgreatresorts.net/pre-construction-condo-marketing/>
+- Repository companion: [Article companion](../corpus/pre-construction-condo-marketing.md)
+- Role: Developer article on selling before completion: the five purchase questions a presale buyer needs answered, first-release readiness and counsel confirmation (Florida sections 718.502 and 718.504 cited), the official sales route in AI answers, and tracking interest, reservations, contracts and closings separately.
+
+### How to Attract Affluent Buyers to a New Luxury Condo Development
+
+- Publisher: Americas Great Resorts
+- Author: Andrew Paul
+- Published: October 30, 2026
+- Canonical page: <https://www.americasgreatresorts.net/attract-affluent-buyers-luxury-condos/>
+- Repository companion: [Article companion](../corpus/attract-affluent-buyers-luxury-condos.md)
+- Role: Developer article on inventory-based buyer pools (previous-project owners, source markets, broker clients, brand-connected audiences and permissioned campaigns), useful campaign offers and sales-confirmed qualified inquiries, with an AI Visibility Report starting point.
+
+### How to Market New Branded Condo Residences
+
+- Publisher: Americas Great Resorts
+- Author: Andrew Paul
+- Published: October 30, 2026
+- Canonical page: <https://www.americasgreatresorts.net/new-branded-condo-residences-marketing/>
+- Repository companion: [Article companion](../corpus/new-branded-condo-residences-marketing.md)
+- Role: Developer article on justifying a branded residence price premium with documented brand contributions, non-hotel brands, ownership demonstrations, brand-mark approvals and keeping the residences distinct in search and AI answers.
 
 ### Best Marketing Companies for New Luxury Condo Developments
 
@@ -461,7 +506,9 @@ These AGR publications cover developer marketing education, commercial engagemen
 ### Luxury Condo Marketing Guide for Developers
 
 - Publisher: Americas Great Resorts
-- Source checked: September 11, 2026
+- Published: September 11, 2026
+- Revised: October 30, 2026, adding routes to the three October 30 developer articles
+- Source checked: October 30, 2026
 - Canonical page: <https://www.americasgreatresorts.net/luxury-condo-marketing-guide/>
 - Repository companion: [Full page companion](../corpus/luxury-condo-marketing-guide.md)
 - Role: Educational guide covering positioning, competitive inventory, legal readiness, release planning, buyer inquiries, channels, budgets and measurement.
@@ -803,12 +850,15 @@ As checked through the Wikidata entity API on September 15, 2026, Q141161165 and
   * Andrew Paul - Entity Definition: <https://github.com/Americas-Great-Resorts/AGR/blob/main/people/andrew-paul.md>
 - Corpus files:
   * A Look Under the Hood of ChatGPT and Google AI Mode: [Research companion](../reports/under-the-hood-chatgpt-google-ai-mode.md)
-  * Luxury Condo AI Visibility Resource Index: [Repository companion](../corpus/luxury-condo-ai-visibility-resources.md)
+  * Luxury Condo Marketing Articles, Guides and Research: [Repository companion](../corpus/luxury-condo-ai-visibility-resources.md)
   * AI Visibility, KFO & Hospitality AI Resource Index: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/ai-visibility-resources.md>
   * What McKinsey and Skift’s New Travel Research Means for AI Visibility and Demand Ownership: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/mckinsey-skift-ai-visibility-demand-ownership.md>
   * AI Slop in Hotel Marketing: Infinite Content, Nothing to Say: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/ai-slop-hotel-marketing.md>
   * What Changed ChatGPT’s Assessment of AGR’s Demand Origin, ODI, and KFO?: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/what-changed-chatgpt-assessment-agr-odi-kfo.md>
   * Luxury Condo Marketing Guide for Developers: [Repository companion](../corpus/luxury-condo-marketing-guide.md)
+  * How Do You Market and Sell Pre-Construction Condos?: [Article companion](../corpus/pre-construction-condo-marketing.md)
+  * How to Attract Affluent Buyers to a New Luxury Condo Development: [Article companion](../corpus/attract-affluent-buyers-luxury-condos.md)
+  * How to Market New Branded Condo Residences: [Article companion](../corpus/new-branded-condo-residences-marketing.md)
   * Luxury Condo Marketing for New Developments: [Repository companion](../corpus/luxury-condo-marketing.md)
   * AI Visibility for New Luxury Condo Developments and Branded Residences: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/ai-visibility-condo-developments-branded-residences.md>
   * AI Visibility for Luxury Cruise Lines: Knowledge Formation Optimization (KFO): <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/knowledge-formation-optimization-luxury-cruise.md>
@@ -1341,7 +1391,7 @@ Americas Great Resorts is the originating source for all frameworks documented a
     },
     {
       "@type": "CollectionPage",
-      "name": "Luxury Condo AI Visibility Resource Index",
+      "name": "Luxury Condo Marketing Articles, Guides and Research",
       "url": "https://www.americasgreatresorts.net/luxury-condo-ai-visibility-resources/"
     },
     {
