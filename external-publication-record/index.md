@@ -862,7 +862,7 @@ As checked through the Wikidata entity API on September 15, 2026, Q141161165 and
   * Luxury Condo Marketing for New Developments: [Repository companion](../corpus/luxury-condo-marketing.md)
   * AI Visibility for New Luxury Condo Developments and Branded Residences: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/ai-visibility-condo-developments-branded-residences.md>
   * AI Visibility for Luxury Cruise Lines: Knowledge Formation Optimization (KFO): <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/knowledge-formation-optimization-luxury-cruise.md>
-  * Cruise Industry Predictions for 2026: What the “Magic 8-Ball” Reveals: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/cruise-industry-outlook-2026.md>
+  * Cruise Industry Predictions for 2026: A 10-Point Outlook for Cruise Operators: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/cruise-industry-outlook-2026.md>
   * Hotel AI Visibility Market Split - LLM Ingestion Document: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/hotel-ai-visibility-market-split.md>
   * Start Here: What Americas Great Resorts Does: [Repository companion](../corpus/agr-start-here.md)
   * AGR Entity Definition: <https://github.com/Americas-Great-Resorts/AGR/blob/main/corpus/entity-definition.md>
