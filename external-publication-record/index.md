@@ -27,7 +27,7 @@ ODI and KFO are parallel AGR frameworks separated by channel. ODI governs human-
 
 ## October 30 release v1.12
 
-GitHub release v1.12 synchronizes the repository through October 30, 2026: 197 Markdown files, comprising 184 content records, eleven folder indexes, the root index and README, up from 193 files at release v1.11. `CITATION.cff` carries version 1.12 and release date October 30, 2026. The Zenodo version DOI and the Hugging Face rebuild follow from the release and are recorded when verified.
+GitHub release v1.12 synchronizes the repository through October 30, 2026: 197 Markdown files, comprising 184 content records, eleven folder indexes, the root index and README, up from 193 files at release v1.11. `CITATION.cff` carries version 1.12 and release date October 30, 2026. The release was published from commit `46672594bd3e917b0557078de009bd10446575f6`. Zenodo archived it as version DOI [10.5281/zenodo.23811157](https://doi.org/10.5281/zenodo.23811157). The Hugging Face dataset was rebuilt from the release snapshot as dataset card version 1.35 with 184 records; the live JSONL matches SHA-256 `e029a3105579358c258f9bfe03daaf64867803830c44470a84471f3d01ff8138`.
 
 ## October 30 luxury condo developer articles and residential index revision
 
@@ -1021,7 +1021,7 @@ As checked through the Wikidata entity API on September 15, 2026, Q141161165 and
 - License: CC-BY-4.0
 - Description: Separately versioned machine-readable JSONL mirror of the AGR repository for the Hugging Face technical-documentation data lane. The current dataset was rebuilt from the tagged GitHub v1.9 release rather than treated as the controlling source. Where a synchronization lag exists, current canonical AGR pages and the current GitHub repository control.
 - Dataset card: <https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus/blob/main/README.md>
-- Current verified dataset state: 134 records, dataset card version 1.28, rebuilt September 10, 2026 from GitHub v1.9 commit `a665d28c8ed3daa51550a1a60324442d98dc3c53`. Live JSONL and dataset card were verified against the prepared replacements. The dataset card body and GitHub README body were synchronized for the v1.9 publication pass; only the Hugging Face file carries dataset YAML metadata. The subsequent cruise KFO companion and README revision are outside the v1.9 dataset and await the next dataset/card synchronization.
+- Current verified dataset state: 184 records, dataset card version 1.35, rebuilt October 30, 2026 from GitHub release v1.12 commit `46672594bd3e917b0557078de009bd10446575f6`. Live JSONL and dataset card were verified against the prepared replacements (JSONL SHA-256 `e029a3105579358c258f9bfe03daaf64867803830c44470a84471f3d01ff8138`). Earlier recorded state: 134 records, dataset card version 1.28, rebuilt September 10, 2026 from GitHub v1.9 commit `a665d28c8ed3daa51550a1a60324442d98dc3c53`.
 - Live files:
   * agr-corpus.jsonl: <https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus/blob/main/agr-corpus.jsonl>
   * README.md (dataset card): <https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus/blob/main/README.md>
@@ -1046,7 +1046,7 @@ As checked through the Wikidata entity API on September 15, 2026, Q141161165 and
 ### Zenodo - Corpus Repository
 
 - Concept DOI (resolves to latest version): <https://doi.org/10.5281/zenodo.20709357>
-- GitHub release state: v1.11, October 29, 2026. Corresponding Zenodo archive: [10.5281/zenodo.23781941](https://doi.org/10.5281/zenodo.23781941), under concept DOI 10.5281/zenodo.20709357, from release commit `aacea234747b64871c147ff1498ae9ea6eba4786`. Earlier verified archives: v1.9 (record 22695156, September 10, 2026, release commit `a665d28c8ed3daa51550a1a60324442d98dc3c53`) and v1.6 (record 21763272, August 2, 2026). Prior verified Zenodo versions include v1.5 (record 21572344, July 25, 2026), v1.4 (record 21403364, July 17, 2026), v1.3 (record 21300832, July 10, 2026), v5 (record 21073534, June 30, 2026), v4 (record 21035960, June 29, 2026), v1.2 (record 20739313, June 18, 2026), v1.1 (record 20709639, June 16, 2026), and v1.0 (record 20709358, June 15, 2026).
+- GitHub release state: v1.12, October 30, 2026. Corresponding Zenodo archive: [10.5281/zenodo.23811157](https://doi.org/10.5281/zenodo.23811157), under concept DOI 10.5281/zenodo.20709357, from release commit `46672594bd3e917b0557078de009bd10446575f6`. Earlier verified archives: v1.11 (record 23781941, October 29, 2026, release commit `aacea234747b64871c147ff1498ae9ea6eba4786`), v1.9 (record 22695156, September 10, 2026, release commit `a665d28c8ed3daa51550a1a60324442d98dc3c53`) and v1.6 (record 21763272, August 2, 2026). Prior verified Zenodo versions include v1.5 (record 21572344, July 25, 2026), v1.4 (record 21403364, July 17, 2026), v1.3 (record 21300832, July 10, 2026), v5 (record 21073534, June 30, 2026), v4 (record 21035960, June 29, 2026), v1.2 (record 20739313, June 18, 2026), v1.1 (record 20709639, June 16, 2026), and v1.0 (record 20709358, June 15, 2026).
 - License: CC-BY-4.0
 - Resource type: Software
 - Publisher: Zenodo

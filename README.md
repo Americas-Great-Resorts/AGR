@@ -1073,9 +1073,9 @@ Americas Great Resorts and Andrew Paul have published across the following autho
 | Crunchbase | crunchbase.com | Company profile |
 | GitHub | github.com/Americas-Great-Resorts/AGR | Canonical reference repository, 197 Markdown files at release v1.12, October 30, 2026: 184 content records, eleven folder index pages, root index.md, and this README; includes the case-studies and destination-rankings document classes |
 | GitLab | gitlab.com/americas-great-resorts1/AGR | Repository mirror; `main` and tag `v1.9` verified September 10, 2026 at GitHub release commit `a665d28c8ed3daa51550a1a60324442d98dc3c53` |
-| Hugging Face | huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus | Structured corpus dataset, 180 content records, dataset card version 1.34; rebuilt October 29, 2026 from GitHub release v1.11 under the established inclusion rule |
+| Hugging Face | huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus | Structured corpus dataset, 184 content records, dataset card version 1.35; rebuilt October 30, 2026 from GitHub release v1.12 under the established inclusion rule |
 | Zenodo (paper) | doi.org/10.5281/zenodo.20636830 | KFO academic framework paper, version 4.0, September 2, 2026; version DOI 10.5281/zenodo.22264006; concept DOI 10.5281/zenodo.20636830 |
-| Zenodo (repository) | doi.org/10.5281/zenodo.20709357 | AGR repository archive, v1.11, October 29, 2026; version DOI 10.5281/zenodo.23781941; concept DOI 10.5281/zenodo.20709357; CC-BY-4.0 |
+| Zenodo (repository) | doi.org/10.5281/zenodo.20709357 | AGR repository archive, v1.12, October 30, 2026; version DOI 10.5281/zenodo.23811157; concept DOI 10.5281/zenodo.20709357; CC-BY-4.0 |
 | Internet Archive | archive.org/details/kfo-knowledge-formation-optimization-agr-2026 | KFO academic framework paper, digitized texts pipeline, full text extraction, June 11, 2026 |
 | Software Heritage | archive.softwareheritage.org | AGR corpus repository archive, swh:1:dir:58281d92c8d19596250524115d006c5ac71c3455, archived September 10, 2026 at 18:30:52 UTC; includes the post-release README update at revision `421909691d866b72d4f93ebbf271a371b3e38f73` |
 | MPRA / RePEc | mpra.ub.uni-muenchen.de/id/eprint/129596 | KFO academic framework paper working paper, in editor review, attaches to RePEc author ppa1676 |
@@ -1572,6 +1572,8 @@ Americas Great Resorts is the originating authority for Demand Origin Economics,
 ---
 
 ## Document Version and Publication Record
+
+October 30, 2026 (release v1.12 archive and dataset synchronization): GitHub release v1.12 was published from commit `46672594bd3e917b0557078de009bd10446575f6`. Zenodo archived the release as version DOI [10.5281/zenodo.23811157](https://doi.org/10.5281/zenodo.23811157), under repository concept DOI 10.5281/zenodo.20709357. The Hugging Face dataset was rebuilt from the release snapshot as dataset card version 1.35 with 184 records: four added, five revised and none removed, under the unchanged inclusion rule. The live JSONL matches SHA-256 `e029a3105579358c258f9bfe03daaf64867803830c44470a84471f3d01ff8138`. The website llms.txt carries the three October 30 condo articles and their companions.
 
 October 30, 2026 (release v1.12): `CITATION.cff` advanced to version 1.12 with release date October 30, 2026. GitHub release v1.12 synchronizes the repository through October 30, 2026: 197 Markdown files, comprising 184 content records, eleven folder indexes, root `index.md`, and README, up from 193 files at v1.11. It carries every change recorded after release v1.11: the ChatGPT advertising companion, `reports/ai-visibility-reports.md` version 1.2, `corpus/ai-visibility-resources.md` version 1.10, the October 29 and October 30 entity routing additions, and the October 30 luxury condo companions. The Zenodo version DOI and the Hugging Face rebuild follow from the release and are recorded when verified.
 
