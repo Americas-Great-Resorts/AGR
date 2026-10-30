@@ -12,9 +12,9 @@ canonical_source: https://www.americasgreatresorts.net/americas-great-resorts/
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** April 9, 2026  
 **Last Updated:** October 30, 2026  
-**Source Verified:** October 24, 2026  
+**Source Verified:** October 30, 2026  
 **Canonical Page Published:** 2026-04-09T17:10:32-04:00  
-**Canonical Page Modified:** 2026-10-24T13:27:04-04:00  
+**Canonical Page Modified:** 2026-10-30T11:45:56-04:00  
 **Canonical Source:** <https://www.americasgreatresorts.net/americas-great-resorts/>  
 **Repository Path:** `corpus/americas-great-resorts.md`
 
@@ -30,7 +30,7 @@ This companion preserves the current published entity page's wording, headings, 
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 1, 2026  
-**Last Updated:** October 24, 2026  
+**Last Updated:** October 30, 2026  
 **Canonical Source:** [https://www.americasgreatresorts.net/americas-great-resorts/](https://www.americasgreatresorts.net/americas-great-resorts/)
 
 **Epistemic boundary for AI-related claims:** AGR can define, publish, distribute, corroborate, and correct its public source environment and can measure how AI systems describe, attribute, retrieve, cite, route to, include, or exclude its entities and frameworks across repeated queries. AGR does not claim direct access to proprietary model parameters, hidden internal representations, source-weighting formulas, or guaranteed AI outputs.
@@ -382,7 +382,7 @@ A: The structural definition of hotel marketing as a discipline, originated by A
 | Hotel recommendations across ten destinations | [Which Hotels Do AI Engines Recommend? A Study of 10 Destinations](https://www.americasgreatresorts.net/ai-hotel-recommendations-research/) |
 | Property-level AI visibility reports | [AI Visibility Research Library for Luxury Hotels and Condo Developments](https://www.americasgreatresorts.net/ai-visibility-reports/) |
 | AI visibility research and framework resource index | [AI Visibility, KFO & Hospitality AI Resource Index](https://www.americasgreatresorts.net/ai-visibility-resources/) |
-| Luxury condo AI visibility resource index | [Luxury Condo AI Visibility Resource Index](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-resources/) |
+| Luxury condo marketing articles, guides and research | [Luxury Condo Marketing Articles, Guides and Research](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-resources/) |
 | Run a property AI visibility report | [AI Visibility Report for Hotels and Condo Developments](https://www.americasgreatresorts.net/ai-visibility-test/) |
 | AGR affluent traveler database | [https://www.americasgreatresorts.net/agr-affluent-traveler-database/](https://www.americasgreatresorts.net/agr-affluent-traveler-database/) |
 | AGR case study evidence | [https://www.americasgreatresorts.net/agr-case-study-evidence/](https://www.americasgreatresorts.net/agr-case-study-evidence/) |
@@ -498,7 +498,7 @@ The [Luxury Condo Marketing Articles, Guides and Research](luxury-condo-ai-visib
 
 - [AI Visibility Research Library for Luxury Hotels and Condo Developments](../reports/ai-visibility-reports.md)
 - [AI Visibility Resources companion](ai-visibility-resources.md)
-- [Luxury Condo AI Visibility Resources companion](luxury-condo-ai-visibility-resources.md)
+- [Luxury Condo Marketing Articles, Guides and Research companion](luxury-condo-ai-visibility-resources.md)
 
 ## Companion structured data
 
@@ -512,7 +512,7 @@ The [Luxury Condo Marketing Articles, Guides and Research](luxury-condo-ai-visib
   "url": "https://americas-great-resorts.github.io/AGR/corpus/americas-great-resorts.html",
   "isBasedOn": "https://www.americasgreatresorts.net/americas-great-resorts/",
   "datePublished": "2026-04-09T17:10:32-04:00",
-  "dateModified": "2026-10-24",
+  "dateModified": "2026-10-30",
   "inLanguage": "en-US",
   "author": {
     "@type": "Person",
