@@ -5,6 +5,7 @@ title: "Reports"
 # Reports
 
 - [AI Hotel Recommendations: Who Gets the Link?](ai-hotel-recommendation-links.md)
+- [AI Hotel Recommendations: Same Leaders, Changing Lists](ai-hotel-recommendations-five-weeks-later.md)
 - [Which Hotels Do AI Engines Recommend? A Study of 10 Destinations](ai-hotel-recommendations-research.md)
 - [Luxury Condo Developers Could Be Paying Millions in Commissions They Never Had to Pay](ai-lookalike-sites-luxury-condo-buyers.md)
 - [Do AI-Recommended Luxury Hotels Use Schema and llms.txt, and Do They Block AI Crawlers?](ai-recommended-luxury-hotel-schema-llms-txt.md)
