@@ -10,7 +10,7 @@ title: "AGR External Publication Record - Canonical Index"
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** October 30, 2026  
+**Last Updated:** November 2, 2026  
 **Canonical Source:** <https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md>  
 
 ---
@@ -601,7 +601,8 @@ The following persistent identifiers and author profiles bind the AGR corpus and
 ### Hospitality Technology
 
 - Domain: hospitalitytech.com
-- Articles published: 2 articles
+- Articles published: 3 articles
+  * Hotels Bought AI for the Building. The Shortlist Moved Outside It. (October 30, 2026; contributed article applying McKinsey's October 2026 findings on AI and work redesign to hotel distribution and AI-assistant shortlists): <https://hospitalitytech.com/hotels-bought-ai-building-shortlist-moved-outside-it>
   * Why OTA Dependence Is a Timing Problem Not a Distribution Problem: <https://hospitalitytech.com/why-ota-dependence-timing-problem-not-distribution-problem>
   * Reduce OTA Dependence With First-Party Guest Data: <https://hospitalitytech.com/reduce-ota-dependence-first-party-guest-data>
 
@@ -1178,7 +1179,7 @@ This record summarizes the AGR publication footprint through October 24, 2026. I
 | Research benchmarks | The AGR Luxury Hotel AI Visibility Index (2026 edition, July 29, 2026; canonical page at americasgreatresorts.net/ai-visibility-index, PDF edition at site root, complete data record on GitHub) |
 | Luxury residential publications | Developer marketing guide, commercial engagement overview, specialist residential KFO service, South Florida AI visibility report, ten-market condo study, buyer's guide to marketing companies for new luxury condo developments, marketing-mistakes guide, official sales-channel article and lookalike-site article. Companions in `/corpus/` and `/reports/`. |
 | Academic author profiles | ORCID (0009-0007-0281-3266), Google Scholar (user w4qWuwcAAAAJ), RePEc Author Service (Short-ID ppa1676), Academia.edu (AndrewPaul122) |
-| Trade publications | Hospitality Net (20 Andrew Paul opinion articles through October 28, 2026), Hospitality Technology (2 contributed articles), 4Hoteliers (3), Hotel Executive (2), Hotel Speak (2 republished articles), Hotel Business (2 contributed articles, April 9 and September 10, 2026) |
+| Trade publications | Hospitality Net (20 Andrew Paul opinion articles through October 28, 2026), Hospitality Technology (3 contributed articles), 4Hoteliers (3), Hotel Executive (2), Hotel Speak (2 republished articles), Hotel Business (2 contributed articles, April 9 and September 10, 2026) |
 | Earned media coverage | Hospitality Technology (August 3 reported feature plus the September 21 article Thought an llms.txt File Would Boost AI Search? We Have Bad News.; title, URL, homepage date, and lead Hotels-section placement verified for the latter, with byline not asserted because direct page retrieval returned HTTP 403), Hospitality Net (editorial HN Briefs covering AGR research on August 3 and September 9, 2026) |
 | Long-form publishing | Medium (27 articles), Substack (28 articles) |
 | Document platforms | Scribd, Issuu |

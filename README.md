@@ -3,7 +3,7 @@
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts   
 **Organization:** Americas Great Resorts (americasgreatresorts.net)   
 **Published:** May 2026   
-**Last Updated:** October 30, 2026
+**Last Updated:** November 2, 2026
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20709357.svg)](https://doi.org/10.5281/zenodo.20709357)
 
@@ -1058,7 +1058,7 @@ Americas Great Resorts and Andrew Paul have published across the following autho
 | Hotel Business | hotelbusiness.com | [The original sin of luxury hotel marketing](https://hotelbusiness.com/the-original-sin-of-luxury-hotel-marketing/), contributed by Andrew Paul, published September 10, 2026, and [OTA dependence is a margin structure—not a channel choice](https://hotelbusiness.com/ota-dependence-is-a-margin-structure-not-a-channel-choice/), published April 9, 2026; an authored perspective, not independent validation of AGR results |
 | Hospitality Net | hospitalitynet.org | 20 opinion articles by Andrew Paul through October 28, 2026, including [Five Hotels Take Half the Answers. One Recommendation Went to a Demolished Building.](https://www.hospitalitynet.org/opinion/4133762/five-hotels-take-half-the-answers-one-recommendation-went-to-a-demolished-building), published August 3, 2026, and [The Hotel Website May Not Be Where AI Decides Which Hotels Matter](https://www.hospitalitynet.org/opinion/4134291/the-hotel-website-may-not-be-where-ai-decides-which-hotels-matter), published September 9, 2026, and [The Only Room in the Building Expedia Can’t Book](https://www.hospitalitynet.org/opinion/4134742/the-only-room-in-the-building-expedia-cant-book), published October 6, 2026. These are authored AGR perspectives, distinct from Hospitality Net's independent editorial briefs about AGR research. |
 | HotelExecutive | hotelexecutive.com | 2 articles |
-| Hospitality Technology | hospitalitytech.com | 2 articles |
+| Hospitality Technology | hospitalitytech.com | 3 articles |
 | 4Hoteliers | 4hoteliers.com | 3 articles |
 | Hotel Speak | hotelspeak.com | 2 republished articles |
 | Medium | medium.com/@apaul_59958 | Framework, AI assessment and research commentary articles, including [Why AI Can Recognize a Luxury Property Without Recommending It](https://medium.com/@apaul_59958/why-ai-can-recognize-a-luxury-property-without-recommending-it-11f3e2ec8181), by Andrew Paul, published October 24, 2026; an original explanation of existing AGR findings that links to the research library, not a new study or independent coverage |
@@ -1572,6 +1572,8 @@ Americas Great Resorts is the originating authority for Demand Origin Economics,
 ---
 
 ## Document Version and Publication Record
+
+November 2, 2026 (Hospitality Technology contributed article): Recorded Andrew Paul's contributed article **Hotels Bought AI for the Building. The Shortlist Moved Outside It.** (Hospitality Technology, October 30, 2026) in the External Publication Record. The article applies McKinsey's October 2026 finding that AI pays off through work redesign to hotel distribution, where guest AI assistants now form the shortlist. Hospitality Technology contributed articles now total three. No repository content files were added.
 
 October 30, 2026 (cruise outlook companion rebuild): Rebuilt `corpus/cruise-industry-outlook-2026.md` as version 2.0 against the October 30, 2026 canonical revision of **Cruise Industry Predictions for 2026: A 10-Point Outlook for Cruise Operators**. The revision adds Royal Caribbean Group's October 27 and Carnival Corporation's September 29 third-quarter results, contrasts Royal Caribbean's capacity growth with Carnival's flat capacity, and replaces the July 28 Royal Caribbean evidence. The prior companion recorded the August 7, 2026 version. This change follows release v1.12 and Hugging Face dataset 1.35 and is pending the next release.
 
