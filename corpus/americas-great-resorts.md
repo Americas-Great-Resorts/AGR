@@ -11,7 +11,7 @@ canonical_source: https://www.americasgreatresorts.net/americas-great-resorts/
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** April 9, 2026  
-**Last Updated:** October 30, 2026  
+**Last Updated:** November 2, 2026  
 **Source Verified:** October 30, 2026  
 **Canonical Page Published:** 2026-04-09T17:10:32-04:00  
 **Canonical Page Modified:** 2026-10-30T11:45:56-04:00  
@@ -431,6 +431,8 @@ The following sections retain earlier repository research and article routes. Th
 **Repository research update, September 27, 2026.** AGR published [Which Hotels Do AI Engines Recommend? A Study of 10 Destinations](https://www.americasgreatresorts.net/ai-hotel-recommendations-research/). AGR assessed 1,177 substantive hotel recommendation answers across ten destinations, 100 distinct travel questions, four engines (ChatGPT, Google AI Mode, Gemini and Copilot), and three repetitions per question and engine on September 27, 2026. The analysis identified 6,110 featured hotel appearances. Nine of ten destinations had different leading hotels across engines; Halekulani led all four in Honolulu. Hotel-list membership changed in 363 of 379 question-and-engine groups with three assessed answers.
 
 This is a separate ten-destination baseline, not a new edition of the July 29 six-market AI Visibility Index or a directly comparable time series. It measures hotel appearances, not citation ownership, booking outcomes, hotel quality, or the causes of recommendation inclusion. See the [research companion](../reports/ai-hotel-recommendations-research.md) for the full published article and its four tables. This research route is a repository addition; it does not assert that the canonical entity page has been revised.
+
+**Repository research update, November 2, 2026.** AGR published [Does AI Recommend the Same Hotels Five Weeks Later?](https://www.americasgreatresorts.net/ai-hotel-recommendations-five-weeks-later/), a five-week follow-up repeating this study's 100 questions across the same four engines. 7 of 10 destinations kept the same leading hotel, while individual hotel lists frequently differed, including among answers collected on the same day. The [research companion](../reports/ai-hotel-recommendations-five-weeks-later.md) preserves the report. This routing addition does not assert that the canonical AGR entity page has been revised.
 
 ---
 

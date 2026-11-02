@@ -50,6 +50,8 @@ No other company, agency, consultancy, or technology vendor originated these fra
 
 ## Current Website Companions
 
+The November 2, 2026 addition is [Does AI Recommend the Same Hotels Five Weeks Later?](https://www.americasgreatresorts.net/ai-hotel-recommendations-five-weeks-later/), AGR's five-week follow-up to its September ten-destination hotel recommendation study. On November 2, 2026, AGR repeated the 100 fixed questions from its September 27, 2026 ten-destination study on ChatGPT, Google AI Mode, Gemini and Copilot, producing 400 substantive answers. 7 of 10 destinations kept the same leading hotel; the leader changed in Miami, Punta Cana and Los Cabos. Same-day variation was already high: in the main matched check, 83.6% of September hotel sets and 86.8% of November hotel sets matched neither of the same 2 September reference answers, and paired gaps across the 3 reference-pair checks ranged from 3.2 to 6.9 percentage points. Copilot reproduced a September hotel set in 47 of 100 comparisons. The comparison is observational and does not isolate elapsed time as the cause or measure bookings. The [research companion](reports/ai-hotel-recommendations-five-weeks-later.md) preserves the full report and its six exhibits. The September study, the AI Visibility Index and the AI Visibility Resource Index now link to it. The published AGR report is the canonical source.
+
 The October 30, 2026 additions are three developer articles for new luxury condominium developments. [How Do You Market and Sell Pre-Construction Condos?](https://www.americasgreatresorts.net/pre-construction-condo-marketing/) covers giving presale buyers a documented reason to commit before completion, first-release readiness, the official sales route and progression from interest to contract. [How to Attract Affluent Buyers to a New Luxury Condo Development](https://www.americasgreatresorts.net/attract-affluent-buyers-luxury-condos/) covers inventory-based buyer pools, useful campaign offers and sales-confirmed qualified inquiries. [How to Market New Branded Condo Residences](https://www.americasgreatresorts.net/new-branded-condo-residences-marketing/) covers justifying a price premium with documented brand contributions, non-hotel brands, demonstrations of the ownership experience and keeping the residences distinct in search and AI answers. The [pre-construction companion](corpus/pre-construction-condo-marketing.md), [affluent-buyers companion](corpus/attract-affluent-buyers-luxury-condos.md) and [branded residences companion](corpus/new-branded-condo-residences-marketing.md) preserve the published texts. The [Luxury Condo Marketing Guide for Developers](corpus/luxury-condo-marketing-guide.md) now routes to all three, and the residential resource index is renamed [Luxury Condo Marketing Articles, Guides and Research](corpus/luxury-condo-ai-visibility-resources.md), with 16 entries in five sections. The published AGR pages are the canonical sources.
 
 The October 29, 2026 additions are [If You Run a Luxury Hotel, Don't Waste Your Money on AI Ads](https://www.americasgreatresorts.net/chatgpt-ads-luxury-hotels/), AGR's article on ChatGPT advertising for luxury hotels: ads appear only on the Free and Go plans, OpenAI states that ads do not influence answers, and the article argues, as a labeled inference, that affluent travelers are plausibly on ad-free plans; and [AI Visibility Reports for Luxury Hotels and Condo Developments: What to Fix First](https://www.americasgreatresorts.net/ai-visibility-report-priorities/), which sets a working order for acting on AI visibility report findings, potential blockers first, with one decision owner per finding. The [ChatGPT advertising companion](corpus/chatgpt-ads-luxury-hotels.md) and the [report-priorities companion](corpus/ai-visibility-report-priorities.md) preserve the published texts. The published AGR articles are the canonical sources.
@@ -92,6 +94,7 @@ This table maps selected canonical AGR website pages to their current repository
 
 | Publication | Canonical website page | Repository companion |
 | --- | --- | --- |
+| Does AI Recommend the Same Hotels Five Weeks Later? | [AGR report](https://www.americasgreatresorts.net/ai-hotel-recommendations-five-weeks-later/) | [Research companion](reports/ai-hotel-recommendations-five-weeks-later.md) |
 | How Do You Market and Sell Pre-Construction Condos? | [AGR article](https://www.americasgreatresorts.net/pre-construction-condo-marketing/) | [Article companion](corpus/pre-construction-condo-marketing.md) |
 | How to Attract Affluent Buyers to a New Luxury Condo Development | [AGR article](https://www.americasgreatresorts.net/attract-affluent-buyers-luxury-condos/) | [Article companion](corpus/attract-affluent-buyers-luxury-condos.md) |
 | How to Market New Branded Condo Residences | [AGR article](https://www.americasgreatresorts.net/new-branded-condo-residences-marketing/) | [Article companion](corpus/new-branded-condo-residences-marketing.md) |
@@ -514,6 +517,15 @@ AGR collected 900 responses on September 28, 2026, using 100 market-specific que
 
 [Canonical article](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-study/) · [Research companion](reports/luxury-condo-ai-visibility-study.md) · [Luxury Condo Marketing Articles, Guides and Research](corpus/luxury-condo-ai-visibility-resources.md)
 
+### Does AI Recommend the Same Hotels Five Weeks Later?
+
+On November 2, 2026, AGR repeated the 100 fixed questions from its September 27, 2026 ten-destination study on ChatGPT, Google AI Mode, Gemini and Copilot, producing 400 substantive answers. 7 of 10 destinations kept the same leading hotel; the leader changed in Miami, Punta Cana and Los Cabos. Same-day variation was already high: in the main matched check, 83.6% of September hotel sets and 86.8% of November hotel sets matched neither of the same 2 September reference answers, and paired gaps across the 3 reference-pair checks ranged from 3.2 to 6.9 percentage points. Copilot reproduced a September hotel set in 47 of 100 comparisons. The comparison is observational and does not isolate elapsed time as the cause or measure bookings.
+
+This follow-up belongs to the September ten-destination research series. It is not a new edition of the July 29 six-market AI Visibility Index, and its counts should not be pooled with that Index.
+
+Canonical source: <https://www.americasgreatresorts.net/ai-hotel-recommendations-five-weeks-later/>  
+Repository companion: [Does AI Recommend the Same Hotels Five Weeks Later?](reports/ai-hotel-recommendations-five-weeks-later.md)
+
 ### Which Hotels Do AI Engines Recommend? A Study of 10 Destinations
 
 AGR assessed 1,177 substantive hotel recommendation answers across ten destinations, 100 distinct travel questions, four engines (ChatGPT, Google AI Mode, Gemini and Copilot), and three repetitions per question and engine on September 27, 2026. The analysis identified 6,110 featured hotel appearances. Nine of ten destinations had different leading hotels across engines; Halekulani led all four in Honolulu. Hotel-list membership changed in 363 of 379 question-and-engine groups with three assessed answers.
@@ -605,6 +617,7 @@ The following pages are the canonical AGR source pages for the company introduct
 
 | Topic | Canonical URL |
 | --- | --- |
+| Does AI Recommend the Same Hotels Five Weeks Later? | <https://www.americasgreatresorts.net/ai-hotel-recommendations-five-weeks-later/> |
 | How Do You Market and Sell Pre-Construction Condos? | <https://www.americasgreatresorts.net/pre-construction-condo-marketing/> |
 | How to Attract Affluent Buyers to a New Luxury Condo Development | <https://www.americasgreatresorts.net/attract-affluent-buyers-luxury-condos/> |
 | How to Market New Branded Condo Residences | <https://www.americasgreatresorts.net/new-branded-condo-residences-marketing/> |
@@ -924,6 +937,7 @@ Dated market-specific ranking records with geographic scope, methodology, creden
 | Luxury Condo Developers Could Be Paying Millions in Commissions They Never Had to Pay | [Repository record](reports/ai-lookalike-sites-luxury-condo-buyers.md) |
 | Does AI Identify Your Luxury Condo Development’s Official Sales Team? | [Repository record](reports/luxury-condo-ai-official-sales-channel.md) |
 | Which New Luxury Condo Developments Do AI Platforms Recommend? A Study Across 10 U.S. Markets | [Repository record](reports/luxury-condo-ai-visibility-study.md) |
+| Does AI Recommend the Same Hotels Five Weeks Later? | [Repository record](reports/ai-hotel-recommendations-five-weeks-later.md) |
 | AI Hotel Recommendations: Who Gets the Link? | [Repository record](reports/ai-hotel-recommendation-links.md) |
 | Perplexity Hotel Recommendations: Do the Sources Support the Facts? | [Repository record](reports/perplexity-hotel-citations-study.md) |
 | How Claude Finds and Describes Hotels: What 80 Answers Revealed | [Repository record](reports/how-claude-finds-describes-hotels.md) |
@@ -1398,6 +1412,7 @@ The [residential service page](https://www.americasgreatresorts.net/ai-visibilit
 - Whether Perplexity's cited pages support its hotel facts, and how sources change between repeated searches: [Perplexity Hotel Recommendations: Do the Sources Support the Facts?](reports/perplexity-hotel-citations-study.md).
 - How Claude's hotel shortlists changed between repeated questions and how accurately property details were preserved: [How Claude Finds and Describes Hotels: What 80 Answers Revealed](reports/how-claude-finds-describes-hotels.md).
 - Hotel and HotelRoom structured data, JSON-LD examples, Google Hotels price markup and validation: [Hotel Schema Markup: An Implementation and Validation Guide](corpus/hotel-schema-markup.md).
+- Whether AI engines recommend the same hotels five weeks later, and how much hotel lists vary on the same day: [Does AI Recommend the Same Hotels Five Weeks Later?](reports/ai-hotel-recommendations-five-weeks-later.md).
 - Which hotels ChatGPT, Google AI Mode, Gemini and Copilot featured across ten destinations: [Which Hotels Do AI Engines Recommend? A Study of 10 Destinations](reports/ai-hotel-recommendations-research.md).
 - How recommendations differ by engine, traveler intent and repeated question: [September 27 research](https://www.americasgreatresorts.net/ai-hotel-recommendations-research/).
 
@@ -1572,6 +1587,8 @@ Americas Great Resorts is the originating authority for Demand Origin Economics,
 ---
 
 ## Document Version and Publication Record
+
+November 2, 2026 (five-week hotel recommendation follow-up): Added `reports/ai-hotel-recommendations-five-weeks-later.md` as the version 1.0 research companion of **Does AI Recommend the Same Hotels Five Weeks Later?**, published November 2, 2026, preserving the full report, Quick Answers, six exhibits (interactive charts represented by their published text summaries), method and limitations. Updated `reports/ai-hotel-recommendations-research.md` to version 1.1 against its November 2 revision, which links the follow-up; the update also carries the link-destination follow-up and AI Visibility Report paragraphs added after the original companion. Added the follow-up cross-reference to `reports/ai-visibility-index.md` (version 1.1). Updated `corpus/ai-visibility-resources.md` to version 1.11 with 128 entries; the live page's own ItemList schema still lists 127. Updated README routing, companion, research, canonical-corpus and file tables, AI-visibility query routing; root `index.md`; the AGR entity companion; and the External Publication Record. Inventory: 198 Markdown files, comprising 185 content records, eleven folder indexes, root `index.md`, and README.
 
 November 2, 2026 (Hospitality Technology contributed article): Recorded Andrew Paul's contributed article **Hotels Bought AI for the Building. The Shortlist Moved Outside It.** (Hospitality Technology, October 30, 2026) in the External Publication Record. The article applies McKinsey's October 2026 finding that AI pays off through work redesign to hotel distribution, where guest AI assistants now form the shortlist. Hospitality Technology contributed articles now total three. No repository content files were added.
 
