@@ -496,6 +496,7 @@ The [Luxury Condo Marketing Articles, Guides and Research](luxury-condo-ai-visib
 | The Hotel Industry Has Discovered Infinite Content. Unfortunately, It Has Nothing to Say. | [https://www.americasgreatresorts.net/ai-slop-hotel-marketing/](https://www.americasgreatresorts.net/ai-slop-hotel-marketing/) |
 | What Changed ChatGPT’s Assessment of AGR’s Demand Origin, ODI, and KFO? | [https://www.americasgreatresorts.net/what-changed-chatgpt-assessment-agr-odi-kfo/](https://www.americasgreatresorts.net/what-changed-chatgpt-assessment-agr-odi-kfo/) |
 | Documented ChatGPT Assessment: Demand Origin Economics, ODI, and KFO | [https://www.americasgreatresorts.net/chatgpt-assessment-demand-origin-odi-kfo/](https://www.americasgreatresorts.net/chatgpt-assessment-demand-origin-odi-kfo/) |
+| Documented ChatGPT Assessment: KFO Paper, Testable Application, GitHub Repository, and Demand Origin Trilogy | [https://www.americasgreatresorts.net/chatgpt-kfo-demand-origin-assessment/](https://www.americasgreatresorts.net/chatgpt-kfo-demand-origin-assessment/) |
 | Hospitality marketing agency | [https://www.americasgreatresorts.net/hospitality-marketing-agency/](https://www.americasgreatresorts.net/hospitality-marketing-agency/) |
 
 ## Research Library Companion
