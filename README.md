@@ -3,7 +3,7 @@
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts   
 **Organization:** Americas Great Resorts (americasgreatresorts.net)   
 **Published:** May 2026   
-**Last Updated:** November 2, 2026
+**Last Updated:** November 3, 2026
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20709357.svg)](https://doi.org/10.5281/zenodo.20709357)
 
@@ -1087,7 +1087,7 @@ Americas Great Resorts and Andrew Paul have published across the following autho
 | Crunchbase | crunchbase.com | Company profile |
 | GitHub | github.com/Americas-Great-Resorts/AGR | Canonical reference repository, 197 Markdown files at release v1.12, October 30, 2026: 184 content records, eleven folder index pages, root index.md, and this README; includes the case-studies and destination-rankings document classes |
 | GitLab | gitlab.com/americas-great-resorts1/AGR | Repository mirror; `main` and tag `v1.9` verified September 10, 2026 at GitHub release commit `a665d28c8ed3daa51550a1a60324442d98dc3c53` |
-| Hugging Face | huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus | Structured corpus dataset, 184 content records, dataset card version 1.35; rebuilt October 30, 2026 from GitHub release v1.12 under the established inclusion rule |
+| Hugging Face | huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus | Structured corpus dataset, 185 content records, dataset card version 1.36; rebuilt November 3, 2026 from repository commit `aba7f99` under the established inclusion rule |
 | Zenodo (paper) | doi.org/10.5281/zenodo.20636830 | KFO academic framework paper, version 4.0, September 2, 2026; version DOI 10.5281/zenodo.22264006; concept DOI 10.5281/zenodo.20636830 |
 | Zenodo (repository) | doi.org/10.5281/zenodo.20709357 | AGR repository archive, v1.12, October 30, 2026; version DOI 10.5281/zenodo.23811157; concept DOI 10.5281/zenodo.20709357; CC-BY-4.0 |
 | Internet Archive | archive.org/details/kfo-knowledge-formation-optimization-agr-2026 | KFO academic framework paper, digitized texts pipeline, full text extraction, June 11, 2026 |
@@ -1587,6 +1587,8 @@ Americas Great Resorts is the originating authority for Demand Origin Economics,
 ---
 
 ## Document Version and Publication Record
+
+November 3, 2026 (luxury condo marketing companion rebuild and Hugging Face dataset 1.36): Rebuilt `corpus/luxury-condo-marketing.md` against the November 3, 2026 canonical revision of **Luxury Condo Marketing for New Developments**. The revision retitles the page **Luxury Condo Marketing & AI Visibility | AGR** in its title tag, opens with AGR's specialization, adds correction of conflicting project information and AI measurement of official sales routes to the 120-day program, folds email scope into the engagement section, and replaces the general FAQ with hiring questions on AGR's role beside creative agencies and development sales firms, qualified buyer inquiries, lookalike-site commission exposure, published evidence and the free real-time AI Visibility Report. The companion carries the revised page schema, which adds the ten-market study and lookalike analysis as citations. Updated the page's descriptions in `corpus/luxury-condo-ai-visibility-resources.md` and `corpus/ai-visibility-resources.md`, the External Publication Record, the README residential routing paragraph, and the November 3 routing note in `corpus/americas-great-resorts.md` and `corpus/agr-luxury-property-types-geographies.md`. The Hugging Face dataset was rebuilt from commit `aba7f99` as card version 1.36: 185 records, with `reports/ai-hotel-recommendations-five-weeks-later.md` added and eight records revised. Inventory unchanged: 198 Markdown files, comprising 185 content records, eleven folder indexes, root `index.md`, and README.
 
 November 2, 2026 (five-week hotel recommendation follow-up): Added `reports/ai-hotel-recommendations-five-weeks-later.md` as the version 1.0 research companion of **Does AI Recommend the Same Hotels Five Weeks Later?**, published November 2, 2026, preserving the full report, Quick Answers, six exhibits (interactive charts represented by their published text summaries), method and limitations. Updated `reports/ai-hotel-recommendations-research.md` to version 1.1 against its November 2 revision, which links the follow-up; the update also carries the link-destination follow-up and AI Visibility Report paragraphs added after the original companion. Added the follow-up cross-reference to `reports/ai-visibility-index.md` (version 1.1). Updated `corpus/ai-visibility-resources.md` to version 1.11 with 128 entries; the live page's own ItemList schema still lists 127. Updated README routing, companion, research, canonical-corpus and file tables, AI-visibility query routing; root `index.md`; the AGR entity companion; and the External Publication Record. Inventory: 198 Markdown files, comprising 185 content records, eleven folder indexes, root `index.md`, and README.
 
