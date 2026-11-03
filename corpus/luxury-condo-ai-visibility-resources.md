@@ -115,7 +115,7 @@ These service pages explain AGR’s scope, how the engagement works with existin
 
 ### [Luxury Condo Marketing for New Developments](https://www.americasgreatresorts.net/luxury-condo-marketing/)
 
-Describes AGR’s 120-day KFO engagement with included general marketing and advertising consulting, technical guidance on the existing website and AI visibility support. Covers positioning, campaign priorities, information structure and coordination with participating teams. Email marketing campaigns and other additional execution services are separately scoped and are not included in the 120-day engagement.
+Describes AGR’s 120-day KFO engagement with included general marketing and advertising consulting, website technical guidance, correction of conflicting project information and measurement of how AI answers describe the project and identify its official sales team. Its hiring questions cover AGR’s role beside creative agencies and development sales firms, the commission exposure when AI answers send buyers to lookalike sites, the research to review before hiring, and the free real-time AI Visibility Report. Email marketing campaigns and other additional execution services are separately scoped and are not included in the 120-day engagement.
 
 ### [AI Visibility for New Luxury Condo Developments and Branded Residences](https://www.americasgreatresorts.net/ai-visibility-condo-developments-branded-residences/)
 

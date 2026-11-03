@@ -733,7 +733,7 @@ Defines AGR’s luxury-cruise marketing approach across AI visibility, affluent 
 <a id="resource-luxury-condo-marketing"></a>
 
 **[Luxury Condo Marketing for New Developments](https://www.americasgreatresorts.net/luxury-condo-marketing/)**  
-Describes AGR’s luxury-condo marketing support for new developments, including the 120-day KFO program, general consulting, technical guidance, and AI-visibility work.
+Describes AGR’s 120-day KFO engagement for new luxury condo developments and branded residences, combining marketing and advertising consulting, website technical guidance, correction of conflicting project information and measurement of how AI answers describe the project and identify its official sales team.
 
 <a id="resource-best-marketing-companies-new-luxury-condo-developments"></a>
 
@@ -2010,7 +2010,7 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
           "@type": "WebPage",
           "url": "https://www.americasgreatresorts.net/luxury-condo-marketing/",
           "name": "Luxury Condo Marketing for New Developments",
-          "description": "Describes AGR’s luxury-condo marketing support for new developments, including the 120-day KFO program, general consulting, technical guidance, and AI-visibility work."
+          "description": "Describes AGR’s 120-day KFO engagement for new luxury condo developments and branded residences, combining marketing and advertising consulting, website technical guidance, correction of conflicting project information and measurement of how AI answers describe the project and identify its official sales team."
         }
       },
       {

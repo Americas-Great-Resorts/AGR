@@ -533,10 +533,10 @@ These AGR publications cover developer marketing education, commercial engagemen
 ### Luxury Condo Marketing for New Developments
 
 - Publisher: Americas Great Resorts
-- Source checked: September 11, 2026
+- Source checked: November 3, 2026
 - Canonical page: <https://www.americasgreatresorts.net/luxury-condo-marketing/>
 - Repository companion: [Full page companion](../corpus/luxury-condo-marketing.md)
-- Role: Commercial overview of AGR’s 120-day KFO program, included general marketing consulting, technical guidance and AI visibility support. Email campaigns and other additional services are separately scoped.
+- Role: Commercial overview of AGR’s 120-day KFO program, included general marketing consulting, website technical guidance, correction of conflicting project information and AI visibility measurement, with hiring questions on AGR’s role, lookalike-site commission exposure and published evidence. Email campaigns and other additional services are separately scoped.
 
 ### AI Visibility for New Luxury Condo Developments and Branded Residences
 
