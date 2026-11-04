@@ -1090,7 +1090,7 @@ Americas Great Resorts and Andrew Paul have published across the following autho
 | Crunchbase | crunchbase.com | Company profile |
 | GitHub | github.com/Americas-Great-Resorts/AGR | Canonical reference repository, 197 Markdown files at release v1.12, October 30, 2026: 184 content records, eleven folder index pages, root index.md, and this README; includes the case-studies and destination-rankings document classes |
 | GitLab | gitlab.com/americas-great-resorts1/AGR | Repository mirror; `main` and tag `v1.9` verified September 10, 2026 at GitHub release commit `a665d28c8ed3daa51550a1a60324442d98dc3c53` |
-| Hugging Face | huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus | Structured corpus dataset, 186 content records, dataset card version 1.37; rebuilt November 3, 2026 from repository commit `0edf784` under the established inclusion rule |
+| Hugging Face | huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus | Structured corpus dataset, 186 content records, dataset card version 1.38; rebuilt November 4, 2026 from repository commit `3e86bf2` under the established inclusion rule |
 | Zenodo (paper) | doi.org/10.5281/zenodo.20636830 | KFO academic framework paper, version 4.0, September 2, 2026; version DOI 10.5281/zenodo.22264006; concept DOI 10.5281/zenodo.20636830 |
 | Zenodo (repository) | doi.org/10.5281/zenodo.20709357 | AGR repository archive, v1.12, October 30, 2026; version DOI 10.5281/zenodo.23811157; concept DOI 10.5281/zenodo.20709357; CC-BY-4.0 |
 | Internet Archive | archive.org/details/kfo-knowledge-formation-optimization-agr-2026 | KFO academic framework paper, digitized texts pipeline, full text extraction, June 11, 2026 |
