@@ -1,17 +1,22 @@
 ---
-title: "South Florida New Luxury Condo AI Visibility Report: Are Buyers Finding You?"
-description: "See which South Florida luxury condos appear in ChatGPT and Google AI, where answers go wrong, and whether buyers reach the development’s sales team."
+title: "South Florida Luxury Condo AI Visibility Report: Absent, Misrepresented, or Found?"
+description: "An analysis of 27 AI answers documenting omissions, conflicting project details, and misidentified sales channels for South Florida luxury condo developments."
+last_modified_at: 2026-11-04
+canonical_source: https://www.americasgreatresorts.net/south-florida-luxury-condo-ai-visibility-report/
 ---
 
-# South Florida New Luxury Condo AI Visibility Report: Are Buyers Finding You?
+# South Florida Luxury Condo AI Visibility Report: Absent, Misrepresented, or Found?
 
 **Document Type:** Research Reference / Repository Companion  
-**Document Version:** 1.0  
+**Document Version:** 2.0  
 **Author:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts  
 **Canonical Article Published:** September 10, 2026  
-**Source Verified:** September 10, 2026  
+**Canonical Article Updated:** November 4, 2026  
+**Canonical Page Modified:** 2026-11-04T13:04:39-04:00  
+**Source Verified:** November 4, 2026  
 **Companion Prepared:** September 10, 2026  
+**Companion Updated:** November 4, 2026  
 **Testing Date:** September 10, 2026  
 **Canonical Source:** <https://www.americasgreatresorts.net/south-florida-luxury-condo-ai-visibility-report/>  
 **Repository Location:** `reports/south-florida-luxury-condo-ai-visibility-report.md`
@@ -22,41 +27,37 @@ This file reproduces the complete published AGR report in Markdown, including it
 
 The three test rounds remain separate: nine exploratory answers, twelve county-protocol answers, and six everyday market-query answers. Each question was captured once per tested platform. Table indicators describe those individual observations; they do not establish persistent visibility, market-wide error rates, KFO effectiveness, or measured sales outcomes.
 
+Version 2.0 (November 4, 2026) replaces the reproduced text with the current published report. The canonical page now carries the H1 above, a revised opening, a Key findings section, a Study scope and limits section, a paragraph linking the November 4, 2026 two-month follow-up, and a cross-reference from the Ritz-Carlton Fort Lauderdale finding to Does AI Identify Your Luxury Condo Development’s Official Sales Team? The September 10, 2026 test data, tables and findings are unchanged. The follow-up has its own companion: [Does AI Recommend the Same South Florida Luxury Condos Two Months Later?](south-florida-luxury-condos-two-months-later.md)
+
 The article text follows. The JSON-LD at the end identifies this companion and its canonical source.
 
 ---
 
-Luxury property discovery can begin before a buyer knows a development’s name. A question about where to buy a luxury condominium in a particular city can produce an AI-generated shortlist that shapes which properties the buyer considers, how those properties are understood, and whom the buyer contacts.
+**Three of nine selected South Florida luxury condo developments were entirely absent from both ChatGPT and Google AI Mode’s county-level discovery answers.** Other answers misstated project details or presented independent websites as official sales channels.
 
-Appearing in that answer is only the first step. A recommended development may be described with outdated or irrelevant information, confused with another property, or paired with a telephone number or website belonging to an independent agent, brokerage, or unofficial project site. When that destination is presented as the official sales channel, a buyer seeking the development’s sales team may instead establish the relationship elsewhere. That intermediary may introduce competing properties, changing the buyer’s consideration set before the development has an opportunity to present its own offering.
+For developers, the concern starts before the first inquiry. If a project does not appear when a prospective buyer asks AI for recommendations, it misses that opportunity to be considered. If it appears with inaccurate information or a misidentified sales website, the buyer’s next decision may be shaped by a description or contact route the developer never intended.
 
-This report examines that path from discovery to inquiry: which developments appear without being named, whether AI represents them accurately, and whether it correctly identifies their official or authorized sales channels. The distinction matters because visibility alone does not establish an accurate presentation or a direct buyer relationship. The findings help developers identify where public information and AI responses may misrepresent their offering or redirect an intended direct inquiry.
+Americas Great Resorts examined 27 AI answers captured on September 10, 2026, across South Florida. The research investigated three questions: **Which developments appear without being named? How accurately are they represented? Where do the answers direct prospective buyers?**
 
-**A key finding:** Google’s named comparison presented an independently operated Bahia Mar website as a developer portal, even though that site’s footer disclaims official developer status. The development appeared in the answer, but the identified sales destination belonged to a different organization. [See the Bahia Mar finding](#finding-bahia-mar).
+The findings reveal specific gaps in discovery, accuracy, and sales-channel identification. Results varied by question: all nine selected developments appeared when named, and separate market searches produced different shortlists. This study documents the captured answers. It does not establish persistent invisibility or measure lost sales.
 
-## What this study examined
+On November 4, 2026, Americas Great Resorts asked ChatGPT and Google AI Mode the same six county-level questions used in the September study. None of the 17 complete November shortlists contained the same set of developments as its September counterpart. The [two-month follow-up](https://www.americasgreatresorts.net/does-ai-recommend-the-same-south-florida-luxury-condos-two-months-later/) also examines how the answers described specific developments and where their sales links led.
 
-The study began with an exploratory South Florida-wide search and two named-project follow-ups. Americas Great Resorts then recorded twelve responses in the county comparison on September 10, 2026: six from ChatGPT and six from Google AI Mode. The same six county prompts covered Miami-Dade, Broward, and Palm Beach counties. Each county search used Firefox incognito, logged out, with a fresh session.
+## Key findings from the captured answers
 
-Three questions asked for up to five developments suitable for a full-time primary residence without naming any projects. Three subsequent questions named three developments within each county and requested a comparison of developer and brand responsibilities, hotel presence, privacy and services, construction status, expected move-in timing, and official sales websites.
+- **Discovery varied with the question.** Developments absent from an unnamed county search could appear when named or when the geography and buyer criteria changed. The study does not attribute those differences to any single prompt element.
+- **Recommendation did not establish accuracy.** The captured answers included conflicts involving project size, residence counts, timing, addresses, place labels, and whether a property was directly oceanfront.
+- **Sales-channel attribution could fail.** Google presented an independently operated Bahia Mar website as a developer portal even though the site disclaims official developer status. In another answer, a link labeled Douglas Elliman Development Marketing opened a different brokerage’s page. [See the Bahia Mar finding](#finding-bahia-mar).
+- **Official public sources could also conflict.** The Perigon and South Flagler House had different residence counts across project or developer-controlled pages, leaving AI systems and buyers with competing records.
+- **The results did not show uniform failure.** Both platforms returned supported information in multiple answers. The observed problem was variation across discovery, project representation, and source attribution.
 
-The nine comparison developments were deliberately selected to examine different locations, development stages, and residential service models. They are a comparison sample, not a market census. The county charts also include fifteen other developments recommended by at least one platform.
+## Study scope and limits
 
-A separate round on the same date added six responses to shorter questions about Miami, Fort Lauderdale, and Palm Beach. Its [separate market-query charts](#natural-market-queries) record all 33 developments discussed in those answers. The earlier charts retain their original results. Findings and inclusion indicators are assigned to individual questions and rounds, not carried from one answer to another.
+Americas Great Resorts captured 27 answers on September 10, 2026, across three separate protocols: nine exploratory answers from ChatGPT, Google AI, and Gemini; twelve county-level answers from ChatGPT and Google AI Mode; and six shorter market-query answers from ChatGPT and Google AI Mode. The exploratory South Florida-wide answers included developments beyond Miami, so that round did not show that Broward and Palm Beach counties were entirely missing.
 
-**Scope of verification:** All three rounds were conducted on September 10, 2026, with one captured answer per question on each tested platform: nine exploratory answers, twelve county answers, and six market-query answers, totaling 27 across separate protocols. Absence means absence from that individual answer, not persistent invisibility. Differences between answers may reflect both prompt differences and ordinary answer variability; the study does not measure how often the same question would produce the same result.
+The county comparison used three unnamed discovery questions and three named-project comparisons covering Miami-Dade, Broward, and Palm Beach counties. Its nine selected developments were a comparison sample, not a market census. The county charts also record fifteen other developments recommended by at least one platform. The separate market-query charts record all 33 developments discussed in the six shorter answers about Miami, Fort Lauderdale, and Palm Beach.
 
-This report records the captured answers and selected source checks. It does not certify every statement in those answers. Construction targets, inventory, prices, and operational arrangements can change. The findings distinguish supported facts, documented discrepancies, and assertions not fully verified.
-
-<a id="initial-regional-search"></a>
-
-## The initial South Florida-wide search
-
-Before selecting the county comparison groups, the initial discovery question asked: **What are the best new luxury condominium developments and branded residences currently selling in South Florida, and why should I consider them?** It did not name a development or restrict the answer to a particular county.
-
-That question and two follow-ups were run across Google AI, Gemini, and ChatGPT, producing nine exploratory answers. The follow-ups named Cipriani, Bentley, and Four Seasons Coconut Grove to examine project descriptions and authorized sales contacts. The regional answers included developments beyond Miami, so they did not support a claim that Broward and Palm Beach County were entirely missing.
-
-The later county questions gave each county its own discovery test using the same primary-residence buyer need. Their twelve responses form the charts below. The earlier nine answers are a separate exploratory record, with different prompts and less complete session metadata; they are not added to the county totals. The [original three questions](#initial-test-questions) and the six county questions appear in the method section.
+Each question was run once on each tested platform. Absence means absence from that individual answer, not persistent invisibility. Differences may reflect prompt changes, geography, buyer criteria, list limits, or ordinary answer variability. The study does not measure repeatability, platform-wide error rates, conversions, lost inquiries, or lost sales. It records the captured answers and selected source checks; it does not certify every statement in those answers.
 
 <a id="county-comparison"></a>
 
@@ -84,6 +85,8 @@ Discovery question 1; named comparison question 4.
 | Bentley Residences, Sunny Isles Beach | 🔴 Absent | 🔴 Absent | ⚪ Not fully verified | ⚪ Not fully verified |
 | Four Seasons Private Residences Coconut Grove | 🟡 Mentioned only | 🟢 Recommended (1) | ⚪ Not fully verified | ⚪ Not fully verified |
 
+Miami-Dade County discovery and answer review for three selected developments, September 10, 2026.
+
 - **Cipriani:** Both platforms recommended it. Google’s floor count conflicts with the current official description, and its two answers give different occupancy expectations. See [Finding 1](#finding-cipriani).
 - **Bentley:** Neither platform included it in the county discovery answer, but both described it when named. ChatGPT distinguished the older 2027 forecast from a later Q1 2028 forecast supported by Bentley’s own announcement. [Bentley: February 5, 2025 project announcement](https://www.bentleymedia.com/en/newsitem/1670-unrivalled-amenities-unveiled-where-even-pets-get-a-five-star-stay-at-bentley-residences-sunny-isles-beach-miami).
 - **Four Seasons Coconut Grove:** Google placed it first. ChatGPT mentioned it but explicitly excluded it from the top five, favoring a completed alternative despite no move-in deadline in the prompt. Both named comparisons identified 70 residences, consistent with Four Seasons’ own description. [Four Seasons: Coconut Grove residences](https://www.fourseasons.com/residences/private_residences/coconut-grove/).
@@ -100,6 +103,8 @@ Discovery question 2; named comparison question 5.
 | Waldorf Astoria Residences Pompano Beach | 🟢 Recommended (3) | 🟢 Recommended (4) | ⚪ Not fully verified | 🟡 Discrepancy recorded |
 | The St. Regis Resort & Residences, Bahia Mar | 🔴 Absent | 🔴 Absent | ⚪ Not fully verified | 🟡 Discrepancy recorded |
 
+Broward County discovery and answer review for three selected developments, September 10, 2026.
+
 - **Ritz-Carlton Fort Lauderdale Beach:** Absent from both discovery answers, but addressed when named. Google’s comparison contains a mismatched sales-link label and place labels referring to Naples. The Ritz-Carlton development recommended by ChatGPT in its discovery answer was the separate Pompano Beach project. See [Finding 3](#finding-ritz) and [Finding 5](#finding-place-labels).
 - **Waldorf Astoria Pompano Beach:** Recommended by both. Google uses the sales-gallery address as the building location in discovery, then gives the building address in comparison. A later place label in the comparison says Miami. See [Finding 4](#finding-waldorf) and [Finding 5](#finding-place-labels).
 - **St. Regis Bahia Mar:** Absent from both discovery answers, but addressed when named. Google’s comparison presents an independent site as a developer portal and gives a hotel-room count conflicting with the official project site. See [Finding 2](#finding-bahia-mar).
@@ -115,6 +120,8 @@ Discovery question 3; named comparison question 6.
 | Mr. C Hotel & Residences West Palm Beach | 🟡 Mentioned only | 🟢 Recommended (4) | ⚪ Not fully verified | ⚪ Not fully verified |
 | The Ritz-Carlton Residences, Palm Beach Gardens | 🟢 Recommended (1) | 🟢 Recommended (3) | 🟡 Discrepancy recorded | ⚪ Not fully verified |
 | South Flagler House | 🟢 Recommended (2) | 🟢 Recommended (1) | ⚪ Not fully verified | ⚪ Not fully verified |
+
+Palm Beach County discovery and answer review for three selected developments, September 10, 2026.
 
 - **Mr. C:** Google recommended it; ChatGPT mentioned it in the development pipeline outside its main five. Both named comparisons recognized the hotel component. Google’s returned official sales domain is supported by the site’s developer and exclusive sales disclosures. [Mr. C West Palm Beach: official project site](https://www.mrcresidenceswpb.com/); [Mr. C: developer disclosure](https://www.mrcresidenceswpb.com/legal-disclaimer/).
 - **Ritz-Carlton Palm Beach Gardens:** Recommended by both. ChatGPT’s narrative distinguishes it from West Palm Beach, but a West Palm Beach place label appears above the recommendation. Google’s statements about initial occupancy and its historical delivery target do not establish a current closing date. See [Finding 5](#finding-place-labels) and [Verification limits](#verification-limits).
@@ -136,6 +143,8 @@ The following fifteen developments appeared in at least one platform’s main fi
 | Vita at Grove Isle | 🟢 Recommended (5) | 🔴 Absent |
 | The Residences at Mandarin Oriental, Miami | 🟡 Mentioned only | 🟢 Recommended (2) |
 
+Additional Miami-Dade County developments appearing in at least one county discovery answer, September 10, 2026.
+
 ### Broward County
 
 | Development | ChatGPT discovery | Google AI Mode discovery |
@@ -147,6 +156,8 @@ The following fifteen developments appeared in at least one platform’s main fi
 | Pier Sixty-Six Residences | 🟡 Mentioned only | 🟢 Recommended (3) |
 | Viceroy Residences Fort Lauderdale | 🔴 Absent | 🟢 Recommended (5) |
 
+Additional Broward County developments appearing in at least one county discovery answer, September 10, 2026.
+
 ### Palm Beach County
 
 | Development | ChatGPT discovery | Google AI Mode discovery |
@@ -155,6 +166,8 @@ The following fifteen developments appeared in at least one platform’s main fi
 | Olara | 🟢 Recommended (4) | 🟢 Recommended (2) |
 | Caretta, Juno Beach | 🟢 Recommended (5) | 🔴 Absent |
 | The Residences at Mandarin Oriental, Boca Raton | 🔴 Absent | 🟢 Recommended (5) |
+
+Additional Palm Beach County developments appearing in at least one county discovery answer, September 10, 2026.
 
 Shorecrest also appeared as a substituted place label and in ChatGPT’s Palm Beach narrative, but not in its final five recommendations. Each county received geographically relevant recommendations. Because the prompts explicitly named each county, this round does not measure whether an unrestricted South Florida search favors one county over another.
 
@@ -193,6 +206,8 @@ All 33 distinct developments discussed across these six answers are shown, inclu
 | The Perigon | 🔴 Absent | 🟢 Recommended | ⚪ Not fully verified | 🟡 [Discrepancy recorded](#natural-perigon) |
 | Roble One Coconut Grove | 🔴 Absent | 🟢 Recommended | ⚪ Not fully verified | ⚪ Not fully verified |
 
+Developments discussed in the separate Miami market-query answers, September 10, 2026.
+
 Both answers interpreted Miami broadly enough to include Miami Beach, and Google also included Sunny Isles Beach. ChatGPT listed eight main choices and separately raised Nobu and EDITION. Google’s eight choices were grouped by lifestyle and location. St. Regis Miami and St. Regis Sunny Isles Beach are distinct developments and occupy separate rows.
 
 <a id="natural-fort-lauderdale"></a>
@@ -212,6 +227,8 @@ Both answers interpreted Miami broadly enough to include Miami Beach, and Google
 | Viceroy Residences Fort Lauderdale | 🔴 Absent | 🟢 Recommended | ⚪ Not fully verified | ⚪ Not fully verified |
 | Selene Oceanfront Residences | 🔴 Absent | 🟢 Recommended | ⚪ Not fully verified | ⚪ Not fully verified |
 | Sixth & Rio | 🔴 Absent | 🟢 Recommended | ⚪ Not fully verified | ⚪ Not fully verified |
+
+Developments discussed in the separate Fort Lauderdale market-query answers, September 10, 2026.
 
 ChatGPT returned six main choices and Google returned seven. ChatGPT explicitly acknowledged that its completed Four Seasons alternative was no longer a new-construction purchase. Neither answer included Waldorf Astoria Pompano Beach. That observation does not alter its appearance in the earlier Broward County search, which asked a different geographic question.
 
@@ -233,6 +250,8 @@ ChatGPT returned six main choices and Google returned seven. ChatGPT explicitly 
 | Maison d’Or South Flagler | 🔴 Absent | 🟢 Recommended | ⚪ Not fully verified | ⚪ Not fully verified |
 | The Ritz-Carlton Residences, Palm Beach Gardens | 🔴 Absent | 🟢 Recommended | ⚪ Not fully verified | ⚪ Not fully verified |
 | Proposed Aman Palm Beach Residences | 🔴 Absent | 🟢 Recommended | ⚪ Not fully verified | ⚪ Not fully verified |
+
+Developments discussed in the separate Palm Beach market-query answers, September 10, 2026.
 
 ChatGPT expressly interpreted Palm Beach as the Palm Beach/West Palm Beach market, returned five main choices, and added Mr. C and Banyan Tree as further options. Google included seven choices across its main groups, extending to Palm Beach Gardens and a proposed Aman project on Palm Beach Island. The proposed project is recorded as returned, without treating the answer as confirmation of an active sales offering.
 
@@ -271,6 +290,8 @@ Google labels a link Douglas Elliman Development Marketing but directs it to a M
 The official project site identifies Douglas Elliman as exclusive sales and marketing partner and provides the project’s inquiry channel. [Ritz-Carlton Fort Lauderdale Beach: official project site](https://www.theresidencesfortlauderdalebeach.com/).
 
 Naming the authorized sales organization correctly is not sufficient if the link opens a different organization’s page. This is a verified mismatch between link label and destination identity. An authorized exclusive sales brokerage is part of the development’s official sales channel; its involvement is not itself a discrepancy.
+
+For a framework that distinguishes source-role errors, mislabeled sales links, different-property destinations, and legitimate indirect routes, see [Does AI Identify Your Luxury Condo Development’s Official Sales Team?](https://www.americasgreatresorts.net/luxury-condo-ai-official-sales-channel/). The article brings the documented cases together and provides a short procedure for checking your own project.
 
 <a id="finding-waldorf"></a>
 
@@ -354,7 +375,7 @@ ChatGPT’s new Palm Beach answer ranks Alba first, but displays a Mandarin Orie
 
 ### The Perigon: the earlier source conflict remains visible in a separate answer
 
-Google’s new Miami answer again gives 72 residences. The official homepage states 73, while May 2026 coverage featured on the project’s news page gives 72. This answer is a separate observation of the same public-source conflict described in Finding 6. Neither publication recency nor agreement with one page, by itself, resolves the competing counts. [The Perigon: official project site](https://theperigonmiamibeach.com/); [official news page](https://theperigonmiamibeach.com/news).
+Google’s new Miami answer again gives 72 residences. The official homepage states 73, while May 2026 coverage featured on the project’s news page gives 72. This answer is a separate observation of the same public-source conflict described in [Finding 6](#finding-perigon). Neither publication recency nor agreement with one page, by itself, resolves the competing counts. [The Perigon: official project site](https://theperigonmiamibeach.com/); [official news page](https://theperigonmiamibeach.com/news).
 
 Other claims in these new answers, including sales percentages, completion forecasts, prices, rental terms, privacy guarantees, and investment rankings, have not all been verified. Descriptions such as safest purchase or best risk-adjusted choice are the platforms’ judgments, not findings adopted by this report.
 
@@ -407,7 +428,7 @@ The main county comparison used six prompts, each run once on ChatGPT and once o
 
 The subsequent market-query round contains three different questions run once on each of ChatGPT and Google AI Mode, producing six additional responses. The user confirmed September 10, 2026, fresh sessions, Firefox incognito, and logged-out access. Exact run times and displayed model versions were not supplied. Its exact prompts appear above each [market-query chart](#natural-market-queries). These questions and their results are separate from the earlier county protocol.
 
-The earlier exploratory round used three different questions on Google AI, Gemini, and ChatGPT. The reported conditions were Firefox private browsing, logged out, on September 10, 2026 at 8:35 a.m. Its timezone, exact Google surface, model versions, and fresh-session practice were not confirmed. Its nine responses are kept separate from the twelve-answer county comparison.
+The earlier exploratory round used [three different questions](#initial-test-questions) on Google AI, Gemini, and ChatGPT. The reported conditions were Firefox private browsing, logged out, on September 10, 2026 at 8:35 a.m. Its timezone, exact Google surface, model versions, and fresh-session practice were not confirmed. Its nine responses are kept separate from the twelve-answer county comparison.
 
 The separate research responses from ChatGPT, Claude, and Gemini were used as leads for source checking, not as additional ordinary-search observations. Gemini’s later response acknowledged supplied corrections and is excluded from the discovery chart.
 
@@ -431,27 +452,27 @@ The sample does not establish persistent visibility, an error rate for a platfor
 
 ### Earlier county round: the six original questions
 
-### Question 1: Miami-Dade discovery
+**Question 1: Miami-Dade discovery**
 
 > I’m looking for a new luxury condominium for a full-time primary residence in Miami-Dade County, Florida. Which developments should I consider, and why? Recommend up to five projects currently selling new developer inventory, including projects under construction or recently completed. Please include sources.
 
-### Question 2: Broward discovery
+**Question 2: Broward discovery**
 
 > I’m looking for a new luxury condominium for a full-time primary residence in Broward County, Florida. Which developments should I consider, and why? Recommend up to five projects currently selling new developer inventory, including projects under construction or recently completed. Please include sources.
 
-### Question 3: Palm Beach County discovery
+**Question 3: Palm Beach County discovery**
 
 > I’m looking for a new luxury condominium for a full-time primary residence in Palm Beach County, Florida. Which developments should I consider, and why? Recommend up to five projects currently selling new developer inventory, including projects under construction or recently completed. Please include sources.
 
-### Question 4: Miami-Dade comparison
+**Question 4: Miami-Dade comparison**
 
 > I’m comparing Cipriani Residences Miami, Bentley Residences in Sunny Isles Beach, and Four Seasons Private Residences Coconut Grove for a full-time primary residence. How do they differ in developer and brand responsibilities, whether a hotel is part of the development, privacy and services, and current construction status and expected move-in timing? What are the main trade-offs, and what is each project’s official sales website? Please include supporting sources.
 
-### Question 5: Broward comparison
+**Question 5: Broward comparison**
 
 > I’m comparing The Ritz-Carlton Residences, Fort Lauderdale Beach at 551 Bayshore Drive, Waldorf Astoria Residences Pompano Beach, and The St. Regis Resort & Residences, Bahia Mar in Fort Lauderdale for a full-time primary residence. How do they differ in developer and brand responsibilities, whether a hotel is part of the development, privacy and services, and current construction status and expected move-in timing? What are the main trade-offs, and what is each project’s official sales website? Please include supporting sources.
 
-### Question 6: Palm Beach County comparison
+**Question 6: Palm Beach County comparison**
 
 > I’m comparing Mr. C Hotel & Residences West Palm Beach, The Ritz-Carlton Residences, Palm Beach Gardens, and South Flagler House in West Palm Beach for a full-time primary residence. How do they differ in developer and brand responsibilities, whether a hotel is part of the development, privacy and services, and current construction status and expected move-in timing? What are the main trade-offs, and what is each project’s official sales website? Please include supporting sources.
 
@@ -469,25 +490,22 @@ Tell us about your development, its location and sales stage, and any AI answers
 
 ---
 
-
-
 ## Related AGR research and resources
 
-**Repository navigation — September 29, 2026.** The [Luxury Condo AI Visibility Resource Index](../corpus/luxury-condo-ai-visibility-resources.md) organizes the related research, guide, framework and service pages. The [ten-market luxury condo AI visibility study](../reports/luxury-condo-ai-visibility-study.md) preserves 100 questions, repeated-search charts, source classifications, the eligible-property roster and the no-recorded-mention list. Its September 28, 2026 captures are a separate study, not a directly comparable extension of the earlier South Florida protocol. These links are repository navigation additions; the canonical pages continue to control each publication.
+**Repository navigation — September 29, 2026.** The [Luxury Condo AI Visibility Resource Index](../corpus/luxury-condo-ai-visibility-resources.md) organizes the related research, guide, framework and service pages. The [ten-market luxury condo AI visibility study](../reports/luxury-condo-ai-visibility-study.md) preserves 100 questions, repeated-search charts, source classifications, the eligible-property roster and the no-recorded-mention list. Its September 28, 2026 captures are a separate study, not a directly comparable extension of the earlier South Florida protocol. The [two-month follow-up](../reports/south-florida-luxury-condos-two-months-later.md) repeats this report's six county-level questions on November 4, 2026. These links are repository navigation additions; the canonical pages continue to control each publication.
 
 ## Structured data (JSON-LD)
 
-```json
-{
+```json{
   "@context": "https://schema.org",
   "@type": "Report",
   "@id": "https://github.com/Americas-Great-Resorts/AGR/blob/main/reports/south-florida-luxury-condo-ai-visibility-report.md#report",
   "url": "https://github.com/Americas-Great-Resorts/AGR/blob/main/reports/south-florida-luxury-condo-ai-visibility-report.md",
-  "headline": "South Florida New Luxury Condo AI Visibility Report: Are Buyers Finding You?",
-  "description": "See which South Florida luxury condos appear in ChatGPT and Google AI, where answers go wrong, and whether buyers reach the development’s sales team.",
-  "version": "1.0",
+  "headline": "South Florida Luxury Condo AI Visibility Report: Absent, Misrepresented, or Found?",
+  "description": "An analysis of 27 AI answers documenting omissions, conflicting project details, and misidentified sales channels for South Florida luxury condo developments.",
+  "version": "2.0",
   "dateCreated": "2026-09-10",
-  "dateModified": "2026-09-10",
+  "dateModified": "2026-11-04",
   "inLanguage": "en-US",
   "author": {
     "@type": "Person",
@@ -508,9 +526,9 @@ Tell us about your development, its location and sales stage, and any AI answers
     ],
     "@id": "https://www.americasgreatresorts.net/south-florida-luxury-condo-ai-visibility-report/#richSnippet",
     "url": "https://www.americasgreatresorts.net/south-florida-luxury-condo-ai-visibility-report/",
-    "headline": "South Florida New Luxury Condo AI Visibility Report: Are Buyers Finding You?",
+    "headline": "South Florida New Luxury Condo AI Visibility Report | 2026",
     "datePublished": "2026-09-10T12:25:24-04:00",
-    "dateModified": "2026-09-10T12:41:05-04:00"
+    "dateModified": "2026-11-04T13:04:39-04:00"
   },
   "about": {
     "@type": "Thing",

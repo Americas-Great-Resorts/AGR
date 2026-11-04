@@ -1,7 +1,7 @@
 ---
 title: "Luxury Condo Marketing Articles, Guides and Research"
 description: "Browse AGR's articles, guides and research on marketing and selling new luxury condos, attracting buyers, branded residences and AI visibility."
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-04
 canonical_source: https://www.americasgreatresorts.net/luxury-condo-ai-visibility-resources/
 ---
 
@@ -11,17 +11,17 @@ canonical_source: https://www.americasgreatresorts.net/luxury-condo-ai-visibilit
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** September 28, 2026  
-**Last Updated:** October 30, 2026  
-**Source Verified:** October 30, 2026  
+**Last Updated:** November 4, 2026  
+**Source Verified:** November 4, 2026  
 **Canonical Page Published:** 2026-09-28T23:52:04-04:00  
-**Canonical Page Modified:** 2026-10-30T11:04:14-04:00  
-**Version:** 1.2  
+**Canonical Page Modified:** 2026-11-04T13:28:37-04:00  
+**Version:** 1.3  
 **Canonical Source:** <https://www.americasgreatresorts.net/luxury-condo-ai-visibility-resources/>  
 **Repository Path:** `corpus/luxury-condo-ai-visibility-resources.md`
 
 ## Purpose and Source Authority
 
-This Markdown companion preserves the current published resource-index text and ordering. The October 30, 2026 revision renames the page from Luxury Condo AI Visibility Resource Index to **Luxury Condo Marketing Articles, Guides and Research**, makes marketing and selling new luxury condos its subject, and organizes 16 entries across five sections: Marketing and Sales Guides, Research and Reports, AI Discovery and Official Sales Routes, AI Visibility Tool and KFO Framework, and Work With AGR. It adds the pre-construction, affluent-buyers and branded residences articles and the Luxury Hotel Residences background article. The file path is unchanged so existing links resolve. WordPress presentation markup is omitted.
+This Markdown companion preserves the current published resource-index text and ordering. The October 30, 2026 revision renames the page from Luxury Condo AI Visibility Resource Index to **Luxury Condo Marketing Articles, Guides and Research**, makes marketing and selling new luxury condos its subject, and organizes 17 entries across five sections: Marketing and Sales Guides, Research and Reports, AI Discovery and Official Sales Routes, AI Visibility Tool and KFO Framework, and Work With AGR. It adds the pre-construction, affluent-buyers and branded residences articles and the Luxury Hotel Residences background article. The November 4, 2026 revision adds Does AI Recommend the Same South Florida Luxury Condos Two Months Later? under Research and Reports, directly after the September South Florida report, and updates the Luxury Condo Marketing for New Developments description. The file path is unchanged so existing links resolve. WordPress presentation markup is omitted.
 
 The canonical AGR webpage remains the controlling source. This index is a navigation resource, not a new study or independent corroboration of the publications it links.
 
@@ -81,6 +81,10 @@ Examines 900 responses collected September 28, 2026, from ChatGPT, Gemini and Mi
 
 Records 27 AI answers captured September 10, 2026, across three South Florida research protocols. A county comparison examined nine selected developments in ChatGPT and Google AI Mode. The report documents omissions, conflicting project facts and sales-source mismatches. Each question was run once per platform; the findings do not establish persistent invisibility or lost sales.
 
+### [Does AI Recommend the Same South Florida Luxury Condos Two Months Later?](https://www.americasgreatresorts.net/does-ai-recommend-the-same-south-florida-luxury-condos-two-months-later/)
+
+On November 4, 2026, Americas Great Resorts repeated the September study’s six county-level questions on ChatGPT and Google AI Mode. None of the 17 complete November shortlists contained the same set of developments as the corresponding September answer. The follow-up also documents conflicting project details and differences in where the sales links led.
+
 ### [AI Visibility Research Library for Luxury Hotels and Condo Developments](https://www.americasgreatresorts.net/ai-visibility-reports/)
 
 Browse downloadable property-level reports, with a separate luxury residential section. The reports examine whether properties appear in the questions tested, how accurately they are described and where displayed links lead. Use the individual reports to examine the recorded findings for a particular development within its stated date and scope.
@@ -115,7 +119,7 @@ These service pages explain AGR’s scope, how the engagement works with existin
 
 ### [Luxury Condo Marketing for New Developments](https://www.americasgreatresorts.net/luxury-condo-marketing/)
 
-Describes AGR’s 120-day KFO engagement with included general marketing and advertising consulting, website technical guidance, correction of conflicting project information and measurement of how AI answers describe the project and identify its official sales team. Its hiring questions cover AGR’s role beside creative agencies and development sales firms, the commission exposure when AI answers send buyers to lookalike sites, the research to review before hiring, and the free real-time AI Visibility Report. Email marketing campaigns and other additional execution services are separately scoped and are not included in the 120-day engagement.
+Describes AGR’s 120-day KFO engagement with included general marketing and advertising consulting, technical guidance on the existing website and AI visibility support. Covers positioning, campaign priorities, information structure and coordination with participating teams. Email marketing campaigns and other additional execution services are separately scoped and are not included in the 120-day engagement.
 
 ### [AI Visibility for New Luxury Condo Developments and Branded Residences](https://www.americasgreatresorts.net/ai-visibility-condo-developments-branded-residences/)
 
@@ -137,6 +141,7 @@ Tell AGR about your development, its location, sales stage and the marketing que
 - [Best Marketing Companies for New Luxury Condo Developments](best-marketing-companies-new-luxury-condo-developments.md)
 - [Ten-market luxury condo AI visibility study](../reports/luxury-condo-ai-visibility-study.md)
 - [South Florida luxury condo AI visibility report](../reports/south-florida-luxury-condo-ai-visibility-report.md)
+- [South Florida luxury condo AI recommendations two months later](../reports/south-florida-luxury-condos-two-months-later.md)
 - [Property-level AI visibility research library](../reports/ai-visibility-reports.md)
 - [Luxury Condo Developers Could Be Paying Millions in Commissions They Never Had to Pay](../reports/ai-lookalike-sites-luxury-condo-buyers.md)
 - [Does AI Identify Your Luxury Condo Development’s Official Sales Team?](../reports/luxury-condo-ai-official-sales-channel.md)
@@ -150,8 +155,7 @@ The Luxury Hotel Residences background article has no repository companion; its 
 
 ## Companion Structured Data
 
-```json
-{
+```json{
   "@context": "https://schema.org",
   "@type": "CollectionPage",
   "@id": "https://americas-great-resorts.github.io/AGR/corpus/luxury-condo-ai-visibility-resources.html#companion",
@@ -160,7 +164,7 @@ The Luxury Hotel Residences background article has no repository companion; its 
   "url": "https://americas-great-resorts.github.io/AGR/corpus/luxury-condo-ai-visibility-resources.html",
   "isBasedOn": "https://www.americasgreatresorts.net/luxury-condo-ai-visibility-resources/",
   "datePublished": "2026-09-28T23:52:04-04:00",
-  "dateModified": "2026-10-30",
+  "dateModified": "2026-11-04",
   "inLanguage": "en-US",
   "author": {
     "@type": "Person",
@@ -170,10 +174,10 @@ The Luxury Hotel Residences background article has no repository companion; its 
   "publisher": {
     "@id": "https://www.americasgreatresorts.net/#organization"
   },
-  "version": "1.2",
+  "version": "1.3",
   "mainEntity": {
     "@type": "ItemList",
-    "numberOfItems": 16,
+    "numberOfItems": 17,
     "itemListElement": [
       {
         "@type": "ListItem",
@@ -232,42 +236,48 @@ The Luxury Hotel Residences background article has no repository companion; its 
       {
         "@type": "ListItem",
         "position": 10,
+        "name": "Does AI Recommend the Same South Florida Luxury Condos Two Months Later?",
+        "url": "https://www.americasgreatresorts.net/does-ai-recommend-the-same-south-florida-luxury-condos-two-months-later/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 11,
         "name": "AI Visibility Research Library for Luxury Hotels and Condo Developments",
         "url": "https://www.americasgreatresorts.net/ai-visibility-reports/"
       },
       {
         "@type": "ListItem",
-        "position": 11,
+        "position": 12,
         "name": "Luxury Condo Developers Could Be Paying Millions in Commissions They Never Had to Pay",
         "url": "https://www.americasgreatresorts.net/ai-lookalike-sites-luxury-condo-buyers/"
       },
       {
         "@type": "ListItem",
-        "position": 12,
+        "position": 13,
         "name": "Does AI Identify Your Luxury Condo Development’s Official Sales Team?",
         "url": "https://www.americasgreatresorts.net/luxury-condo-ai-official-sales-channel/"
       },
       {
         "@type": "ListItem",
-        "position": 13,
+        "position": 14,
         "name": "AI Visibility Report for Hotels and Condo Developments",
         "url": "https://www.americasgreatresorts.net/ai-visibility-test/"
       },
       {
         "@type": "ListItem",
-        "position": 14,
+        "position": 15,
         "name": "Knowledge Formation Optimization (KFO)",
         "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
       },
       {
         "@type": "ListItem",
-        "position": 15,
+        "position": 16,
         "name": "Luxury Condo Marketing for New Developments",
         "url": "https://www.americasgreatresorts.net/luxury-condo-marketing/"
       },
       {
         "@type": "ListItem",
-        "position": 16,
+        "position": 17,
         "name": "AI Visibility for New Luxury Condo Developments and Branded Residences",
         "url": "https://www.americasgreatresorts.net/ai-visibility-condo-developments-branded-residences/"
       }

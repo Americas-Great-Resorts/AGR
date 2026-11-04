@@ -25,6 +25,16 @@ ODI and KFO are parallel AGR frameworks separated by channel. ODI governs human-
 
 ---
 
+## November 4 South Florida luxury condo two-month follow-up
+
+Americas Great Resorts published **Does AI Recommend the Same South Florida Luxury Condos Two Months Later?** on November 4, 2026. On November 4, 2026, AGR repeated the six county-level questions from its September 10, 2026 South Florida luxury condo study on ChatGPT and Google AI Mode, covering Miami-Dade, Broward and Palm Beach counties. 0 of 17 complete November discovery shortlists contained the same projects as the corresponding September list, and 1 of 16 same-day pairs matched. Bentley Residences, The Ritz-Carlton Residences, Fort Lauderdale Beach and St. Regis Bahia Mar missed every complete county-level shortlist for their counties in both rounds, though both platforms discussed them when named. Google AI Mode's three Bahia Mar comparisons gave three different sales destinations, including a brokerage page that disclaims official developer status, and three hotel sizes (256, 122 and 200). South Flagler House was given as 105 and 108 residences. A manual ChatGPT answer labeled a brokerage inquiry form the Viceroy Residences sales website. The two collections were 55 days apart and used different capture procedures, so the study does not isolate elapsed time; it does not measure clicks, inquiries or sales.
+
+| Publication | Canonical AGR page | Repository companion |
+| --- | --- | --- |
+| Does AI Recommend the Same South Florida Luxury Condos Two Months Later? | [AGR report](https://www.americasgreatresorts.net/does-ai-recommend-the-same-south-florida-luxury-condos-two-months-later/) | [Research companion](../reports/south-florida-luxury-condos-two-months-later.md) |
+
+The September South Florida report, the AI Visibility Resource Index and the Luxury Condo Marketing Articles, Guides and Research index were revised the same day to link the follow-up. This is an AGR-controlled publication and its repository representation, not independent coverage. Repository inventory: 200 Markdown files, comprising 187 content records, eleven folder indexes, the root index and README.
+
 ## November 2 five-week hotel recommendation follow-up
 
 Americas Great Resorts published **Does AI Recommend the Same Hotels Five Weeks Later?** on November 2, 2026. On November 2, 2026, AGR repeated the 100 fixed questions from its September 27, 2026 ten-destination study on ChatGPT, Google AI Mode, Gemini and Copilot, producing 400 substantive answers. 7 of 10 destinations kept the same leading hotel; the leader changed in Miami, Punta Cana and Los Cabos. Same-day variation was already high: in the main matched check, 83.6% of September hotel sets and 86.8% of November hotel sets matched neither of the same 2 September reference answers, and paired gaps across the 3 reference-pair checks ranged from 3.2 to 6.9 percentage points. Copilot reproduced a September hotel set in 47 of 100 comparisons. The comparison is observational and does not isolate elapsed time as the cause or measure bookings.
@@ -419,6 +429,13 @@ The GitHub Pages landing page and corpus index provide discovery routes to these
 AGR collected 900 responses on September 28, 2026, using 100 market-specific questions across ten U.S. markets, three platforms (ChatGPT, Gemini and Microsoft Copilot), and three repetitions. Four nonanswers were excluded, leaving 896 assessed answers against 136 included developments. The full article preserves question-by-question top-five comparison charts, source classifications, the eligible-property roster and the no-recorded-mention list. Findings apply to these captured answers and reference set; they do not establish permanent invisibility, lost sales or KFO effectiveness.
 
 [Canonical article](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-study/) · [Research companion](../reports/luxury-condo-ai-visibility-study.md) · [Luxury Condo Marketing Articles, Guides and Research](../corpus/luxury-condo-ai-visibility-resources.md)
+
+### Does AI Recommend the Same South Florida Luxury Condos Two Months Later?
+
+On November 4, 2026, AGR repeated the six county-level questions from its September 10, 2026 South Florida luxury condo study on ChatGPT and Google AI Mode, covering Miami-Dade, Broward and Palm Beach counties. 0 of 17 complete November discovery shortlists contained the same projects as the corresponding September list, and 1 of 16 same-day pairs matched. Bentley Residences, The Ritz-Carlton Residences, Fort Lauderdale Beach and St. Regis Bahia Mar missed every complete county-level shortlist for their counties in both rounds, though both platforms discussed them when named. Google AI Mode's three Bahia Mar comparisons gave three different sales destinations, including a brokerage page that disclaims official developer status, and three hotel sizes (256, 122 and 200). South Flagler House was given as 105 and 108 residences. A manual ChatGPT answer labeled a brokerage inquiry form the Viceroy Residences sales website. The two collections were 55 days apart and used different capture procedures, so the study does not isolate elapsed time; it does not measure clicks, inquiries or sales.
+
+- Canonical publication: <https://www.americasgreatresorts.net/does-ai-recommend-the-same-south-florida-luxury-condos-two-months-later/>
+- Repository record: [Research companion](../reports/south-florida-luxury-condos-two-months-later.md)
 
 ### Does AI Recommend the Same Hotels Five Weeks Later?
 
@@ -852,12 +869,13 @@ As checked through the Wikidata entity API on September 15, 2026, Q141161165 and
   * Knowledge Formation Optimization (Academia.edu deposit): <https://www.academia.edu/168802488/Knowledge_Formation_Optimization_A_Framework_for_Shaping_AI_Conceptual_Representations_in_Advance_of_Retrieval>
 - Reports:
   * Which New Luxury Condo Developments Do AI Platforms Recommend? A Study Across 10 U.S. Markets: [Repository companion](../reports/luxury-condo-ai-visibility-study.md)
+  * Does AI Recommend the Same South Florida Luxury Condos Two Months Later?: [Repository companion](../reports/south-florida-luxury-condos-two-months-later.md)
   * Does AI Recommend the Same Hotels Five Weeks Later?: [Repository companion](../reports/ai-hotel-recommendations-five-weeks-later.md)
   * Which Hotels Do AI Engines Recommend? A Study of 10 Destinations: [Repository companion](../reports/ai-hotel-recommendations-research.md)
   * What a Hotel’s AI Visibility Score Can Actually Tell You: <https://github.com/Americas-Great-Resorts/AGR/blob/main/reports/hotel-ai-visibility-score.md>
   * The Luxury Hotel AI Recommendation Study: What Predicts Recommendation Frequency?: <https://github.com/Americas-Great-Resorts/AGR/blob/main/reports/luxury-hotel-ai-recommendation-study.md>
   * Do AI-Recommended Luxury Hotels Use Schema and llms.txt, and Do They Block AI Crawlers?: [Repository companion](../reports/ai-recommended-luxury-hotel-schema-llms-txt.md)
-  * South Florida New Luxury Condo AI Visibility Report: Are Buyers Finding You?: <https://github.com/Americas-Great-Resorts/AGR/blob/main/reports/south-florida-luxury-condo-ai-visibility-report.md>
+  * South Florida Luxury Condo AI Visibility Report: Absent, Misrepresented, or Found?: <https://github.com/Americas-Great-Resorts/AGR/blob/main/reports/south-florida-luxury-condo-ai-visibility-report.md>
   * The AGR Luxury Hotel AI Visibility Index 2026 - Complete Findings, Data, and Methodology: <https://github.com/Americas-Great-Resorts/AGR/blob/main/reports/ai-visibility-index.md>
   * Which Hotels Do AI Systems Actually Recommend? 824 Recommendations Measured: <https://github.com/Americas-Great-Resorts/AGR/blob/main/reports/which-hotels-ai-recommends.md>
   * The Top Luxury Hotel AI Visibility Agencies of 2026 - Scored Vendor Evaluation, Rubric, and Claim Tests: <https://github.com/Americas-Great-Resorts/AGR/blob/main/reports/top-luxury-hotel-ai-visibility-agencies.md>
@@ -1377,7 +1395,7 @@ Americas Great Resorts is the originating source for all frameworks documented a
     {
       "@type": "Report",
       "@id": "https://www.americasgreatresorts.net/south-florida-luxury-condo-ai-visibility-report/#richSnippet",
-      "name": "South Florida New Luxury Condo AI Visibility Report: Are Buyers Finding You?",
+      "name": "South Florida Luxury Condo AI Visibility Report: Absent, Misrepresented, or Found?",
       "url": "https://www.americasgreatresorts.net/south-florida-luxury-condo-ai-visibility-report/"
     },
     {

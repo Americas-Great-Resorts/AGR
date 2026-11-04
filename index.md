@@ -50,6 +50,8 @@ The [combined evidence record](./corpus/agr-case-study-evidence.md) provides the
 
 [Which New Luxury Condo Developments Do AI Platforms Recommend? A Study Across 10 U.S. Markets](./reports/luxury-condo-ai-visibility-study.md). AGR collected 900 responses on September 28, 2026, using 100 market-specific questions across ten U.S. markets, three platforms (ChatGPT, Gemini and Microsoft Copilot), and three repetitions. Four nonanswers were excluded, leaving 896 assessed answers against 136 included developments. The full article preserves question-by-question top-five comparison charts, source classifications, the eligible-property roster and the no-recorded-mention list. Findings apply to these captured answers and reference set; they do not establish permanent invisibility, lost sales or KFO effectiveness. [Canonical article](https://www.americasgreatresorts.net/luxury-condo-ai-visibility-study/).
 
+[Does AI Recommend the Same South Florida Luxury Condos Two Months Later?](./reports/south-florida-luxury-condos-two-months-later.md) is the November 4, 2026 follow-up that repeats the September 10, 2026 South Florida report's six county-level questions on ChatGPT and Google AI Mode. [Canonical report](https://www.americasgreatresorts.net/does-ai-recommend-the-same-south-florida-luxury-condos-two-months-later/).
+
 [Does AI Recommend the Same Hotels Five Weeks Later?](./reports/ai-hotel-recommendations-five-weeks-later.md) is the November 2, 2026 follow-up that repeats the September questions across the same four engines.
 
 [Which Hotels Do AI Engines Recommend? A Study of 10 Destinations](./reports/ai-hotel-recommendations-research.md) is the September 27, 2026 ten-destination baseline. AGR assessed 1,177 substantive hotel recommendation answers across ten destinations, 100 distinct travel questions, four engines (ChatGPT, Google AI Mode, Gemini and Copilot), and three repetitions per question and engine on September 27, 2026. The analysis identified 6,110 featured hotel appearances. Nine of ten destinations had different leading hotels across engines; Halekulani led all four in Honolulu. Hotel-list membership changed in 363 of 379 question-and-engine groups with three assessed answers. This is a separate ten-destination baseline, not a new edition of the July 29 six-market AI Visibility Index or a directly comparable time series. It measures hotel appearances, not citation ownership, booking outcomes, hotel quality, or the causes of recommendation inclusion. [Canonical article](https://www.americasgreatresorts.net/ai-hotel-recommendations-research/).
@@ -91,6 +93,8 @@ The October 2026 residential records add a [buyer's guide to marketing companies
 See the [canonical residential service page](https://www.americasgreatresorts.net/ai-visibility-condo-developments-branded-residences/), [service companion](./corpus/ai-visibility-condo-developments-branded-residences.md), and [South Florida New Luxury Condo AI Visibility Report](./reports/south-florida-luxury-condo-ai-visibility-report.md).
 
 ## Current website companions
+
+The November 4, 2026 addition is [Does AI Recommend the Same South Florida Luxury Condos Two Months Later?](./reports/south-florida-luxury-condos-two-months-later.md), AGR's two-month follow-up to the September South Florida luxury condo report. 0 of 17 complete November discovery shortlists contained the same projects as the corresponding September list, and answers gave conflicting project facts and different sales destinations for the same development. [Canonical report](https://www.americasgreatresorts.net/does-ai-recommend-the-same-south-florida-luxury-condos-two-months-later/).
 
 The November 2, 2026 addition is [Does AI Recommend the Same Hotels Five Weeks Later?](./reports/ai-hotel-recommendations-five-weeks-later.md), AGR's five-week follow-up to the September ten-destination study. 7 of 10 destinations kept the same leading hotel, while individual hotel lists frequently differed, including on the same day. [Canonical report](https://www.americasgreatresorts.net/ai-hotel-recommendations-five-weeks-later/).
 
@@ -154,6 +158,7 @@ The September 15, 2026 synchronization adds the luxury hotel marketing agency co
 
 | Publication | Canonical website page | Repository companion |
 | --- | --- | --- |
+| Does AI Recommend the Same South Florida Luxury Condos Two Months Later? | [AGR report](https://www.americasgreatresorts.net/does-ai-recommend-the-same-south-florida-luxury-condos-two-months-later/) | [Research companion](./reports/south-florida-luxury-condos-two-months-later.md) |
 | Does AI Recommend the Same Hotels Five Weeks Later? | [AGR report](https://www.americasgreatresorts.net/ai-hotel-recommendations-five-weeks-later/) | [Research companion](./reports/ai-hotel-recommendations-five-weeks-later.md) |
 | How Do You Market and Sell Pre-Construction Condos? | [AGR article](https://www.americasgreatresorts.net/pre-construction-condo-marketing/) | [Article companion](./corpus/pre-construction-condo-marketing.md) |
 | How to Attract Affluent Buyers to a New Luxury Condo Development | [AGR article](https://www.americasgreatresorts.net/attract-affluent-buyers-luxury-condos/) | [Article companion](./corpus/attract-affluent-buyers-luxury-condos.md) |
@@ -219,6 +224,7 @@ The September 15, 2026 synchronization adds the luxury hotel marketing agency co
 - [Luxury condo marketing articles, guides and research](./corpus/luxury-condo-ai-visibility-resources.md)
 - [Luxury residential KFO service](./corpus/ai-visibility-condo-developments-branded-residences.md)
 - [South Florida luxury condo AI visibility report](./reports/south-florida-luxury-condo-ai-visibility-report.md)
+- [South Florida luxury condo AI recommendations two months later](./reports/south-florida-luxury-condos-two-months-later.md)
 - [Best marketing companies for new luxury condo developments](./corpus/best-marketing-companies-new-luxury-condo-developments.md)
 - [Luxury condo development marketing mistakes](./corpus/luxury-condo-development-marketing-mistakes.md)
 - [Luxury condo AI official sales channel](./reports/luxury-condo-ai-official-sales-channel.md)
