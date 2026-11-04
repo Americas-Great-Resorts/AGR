@@ -18,7 +18,7 @@ title: "Reports"
 - [The Luxury Hotel AI Recommendation Study: What Predicts Recommendation Frequency?](luxury-hotel-ai-recommendation-study.md)
 - [Perplexity Hotel Recommendations: Do the Sources Support the Facts?](perplexity-hotel-citations-study.md)
 - [South Florida Luxury Condo AI Visibility Report: Absent, Misrepresented, or Found?](south-florida-luxury-condo-ai-visibility-report.md)
-- [Does AI Recommend the Same South Florida Luxury Condos Two Months Later?](south-florida-luxury-condos-two-months-later.md)
+- [South Florida Luxury Condo AI Visibility: 2 Months Later](south-florida-luxury-condos-two-months-later.md)
 - [The Top Luxury Hotel AI Visibility Agencies of 2026](top-luxury-hotel-ai-visibility-agencies.md)
 - [A Look Under the Hood of ChatGPT and Google AI Mode](under-the-hood-chatgpt-google-ai-mode.md)
 - [Which Hotels Do AI Systems Actually Recommend? 824 Recommendations Measured](which-hotels-ai-recommends.md)
