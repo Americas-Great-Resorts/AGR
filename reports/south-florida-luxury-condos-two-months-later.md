@@ -1,6 +1,6 @@
 ---
-title: "Does AI Recommend the Same South Florida Luxury Condos Two Months Later?"
-description: "AGR repeated six South Florida luxury condo questions on ChatGPT and Google AI Mode two months later. No complete November shortlist matched September."
+title: "South Florida Luxury Condo AI Visibility: 2 Months Later"
+description: "AGR asked ChatGPT and Google AI Mode the same South Florida condo questions 55 days later. None of 17 shortlists matched, and the sales links changed."
 last_modified_at: 2026-11-04
 canonical_source: https://www.americasgreatresorts.net/does-ai-recommend-the-same-south-florida-luxury-condos-two-months-later/
 ---
@@ -15,7 +15,7 @@ canonical_source: https://www.americasgreatresorts.net/does-ai-recommend-the-sam
 **Source Verified:** November 4, 2026  
 **Fieldwork:** September 10 and November 4, 2026  
 **Canonical Page Published:** 2026-11-04T12:56:28-04:00  
-**Canonical Page Modified:** 2026-11-04T12:56:31-04:00  
+**Canonical Page Modified:** 2026-11-04T13:42:22-04:00  
 **Version:** 1.0  
 **Canonical Source:** <https://www.americasgreatresorts.net/does-ai-recommend-the-same-south-florida-luxury-condos-two-months-later/>  
 **Repository Path:** `reports/south-florida-luxury-condos-two-months-later.md`
@@ -212,14 +212,13 @@ Paul, Andrew. "Does AI Recommend the Same South Florida Luxury Condos Two Months
 
 ## Companion Structured Data
 
-```json
-{
+```json{
   "@context": "https://schema.org",
   "@type": "Report",
   "@id": "https://americas-great-resorts.github.io/AGR/reports/south-florida-luxury-condos-two-months-later.html#companion",
   "headline": "Does AI Recommend the Same South Florida Luxury Condos Two Months Later?",
-  "name": "Does AI Recommend the Same South Florida Luxury Condos Two Months Later?",
-  "description": "AGR repeated six South Florida luxury condo questions on ChatGPT and Google AI Mode two months later. No complete November shortlist matched September.",
+  "name": "South Florida Luxury Condo AI Visibility: 2 Months Later",
+  "description": "AGR asked ChatGPT and Google AI Mode the same South Florida condo questions 55 days later. None of 17 shortlists matched, and the sales links changed.",
   "url": "https://americas-great-resorts.github.io/AGR/reports/south-florida-luxury-condos-two-months-later.html",
   "isBasedOn": "https://www.americasgreatresorts.net/does-ai-recommend-the-same-south-florida-luxury-condos-two-months-later/",
   "datePublished": "2026-11-04T12:56:28-04:00",
