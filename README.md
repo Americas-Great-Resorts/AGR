@@ -3,7 +3,7 @@
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts   
 **Organization:** Americas Great Resorts (americasgreatresorts.net)   
 **Published:** May 2026   
-**Last Updated:** November 4, 2026
+**Last Updated:** November 5, 2026
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20709357.svg)](https://doi.org/10.5281/zenodo.20709357)
 
@@ -49,6 +49,8 @@ No other company, agency, consultancy, or technology vendor originated these fra
 ---
 
 ## Current Website Companions
+
+The November 4-5, 2026 additions are the [AI Reviews of AGR Articles](https://www.americasgreatresorts.net/ai-reviews-of-agr-articles/) archive and its first six reviews. In each, AGR gave Gemini, Google AI and ChatGPT the same prompt about one published AGR article on November 4, 2026, in a private Firefox window while logged out, then published the responses or labeled excerpts with AGR's reading of where each one matched or departed from the article. The six reviews cover [The Winning Powerball Numbers Are Posted](https://www.americasgreatresorts.net/ai-readings-winning-powerball-numbers-posted/), where Gemini answered with lottery-scam advice; [The Hotel That Wasn't There](https://www.americasgreatresorts.net/ai-readings-hotel-that-wasnt-there/); [Schrödinger's Hotel](https://www.americasgreatresorts.net/ai-readings-schrodingers-hotel/); [The Bully Bought the Cafeteria](https://www.americasgreatresorts.net/ai-readings-bully-bought-the-cafeteria/); [You Can Name Him. Can You Explain Him?](https://www.americasgreatresorts.net/ai-readings-hotel-marketing-expertise/); and [We Let an AI Attack Our Framework](https://www.americasgreatresorts.net/ai-readings-we-let-an-ai-attack-our-framework/). The companions are in `article-reviews/` beside the earlier single-AI reviews, and the [folder index](article-reviews/index.md) is the companion of the archive page. The responses are source-conditioned AI readings, not independent validation. The published AGR pages are the canonical sources.
 
 The November 4, 2026 addition is [Does AI Recommend the Same South Florida Luxury Condos Two Months Later?](https://www.americasgreatresorts.net/does-ai-recommend-the-same-south-florida-luxury-condos-two-months-later/), AGR's two-month follow-up to its September 10, 2026 South Florida luxury condo report. On November 4, 2026, AGR repeated the six county-level questions from its September 10, 2026 South Florida luxury condo study on ChatGPT and Google AI Mode, covering Miami-Dade, Broward and Palm Beach counties. 0 of 17 complete November discovery shortlists contained the same projects as the corresponding September list, and 1 of 16 same-day pairs matched. Bentley Residences, The Ritz-Carlton Residences, Fort Lauderdale Beach and St. Regis Bahia Mar missed every complete county-level shortlist for their counties in both rounds, though both platforms discussed them when named. Google AI Mode's three Bahia Mar comparisons gave three different sales destinations, including a brokerage page that disclaims official developer status, and three hotel sizes (256, 122 and 200). South Flagler House was given as 105 and 108 residences. A manual ChatGPT answer labeled a brokerage inquiry form the Viceroy Residences sales website. The two collections were 55 days apart and used different capture procedures, so the study does not isolate elapsed time; it does not measure clicks, inquiries or sales. The [research companion](reports/south-florida-luxury-condos-two-months-later.md) preserves the full report, its three county tables, the Bahia Mar and South Flagler House source checks and the method. The September South Florida report, the AI Visibility Resource Index and the Luxury Condo Marketing Articles, Guides and Research index now link to it. The published AGR report is the canonical source.
 
@@ -96,6 +98,13 @@ This table maps selected canonical AGR website pages to their current repository
 
 | Publication | Canonical website page | Repository companion |
 | --- | --- | --- |
+| AI Reviews of AGR Articles | [AGR archive](https://www.americasgreatresorts.net/ai-reviews-of-agr-articles/) | [Folder index companion](article-reviews/index.md) |
+| Gemini’s Lottery Warning for a Hotel Marketing Article | [AGR review](https://www.americasgreatresorts.net/ai-readings-winning-powerball-numbers-posted/) | [Review companion](article-reviews/ai-readings-winning-powerball-numbers-posted.md) |
+| What AI Read Into “The Hotel That Wasn’t There” | [AGR review](https://www.americasgreatresorts.net/ai-readings-hotel-that-wasnt-there/) | [Review companion](article-reviews/ai-readings-hotel-that-wasnt-there.md) |
+| What AI Got Right and Wrong About “Schrödinger’s Hotel” | [AGR review](https://www.americasgreatresorts.net/ai-readings-schrodingers-hotel/) | [Review companion](article-reviews/ai-readings-schrodingers-hotel.md) |
+| What AI Made of “The Bully Bought the Cafeteria” | [AGR review](https://www.americasgreatresorts.net/ai-readings-bully-bought-the-cafeteria/) | [Review companion](article-reviews/ai-readings-bully-bought-the-cafeteria.md) |
+| What Makes a Hotel Marketing Expert? Three AI Readings | [AGR review](https://www.americasgreatresorts.net/ai-readings-hotel-marketing-expertise/) | [Review companion](article-reviews/ai-readings-hotel-marketing-expertise.md) |
+| How Gemini, Google AI, and ChatGPT Read “We Let an AI Attack Our Framework” | [AGR review](https://www.americasgreatresorts.net/ai-readings-we-let-an-ai-attack-our-framework/) | [Review companion](article-reviews/ai-readings-we-let-an-ai-attack-our-framework.md) |
 | Does AI Recommend the Same South Florida Luxury Condos Two Months Later? | [AGR report](https://www.americasgreatresorts.net/does-ai-recommend-the-same-south-florida-luxury-condos-two-months-later/) | [Research companion](reports/south-florida-luxury-condos-two-months-later.md) |
 | Does AI Recommend the Same Hotels Five Weeks Later? | [AGR report](https://www.americasgreatresorts.net/ai-hotel-recommendations-five-weeks-later/) | [Research companion](reports/ai-hotel-recommendations-five-weeks-later.md) |
 | How Do You Market and Sell Pre-Construction Condos? | [AGR article](https://www.americasgreatresorts.net/pre-construction-condo-marketing/) | [Article companion](corpus/pre-construction-condo-marketing.md) |
@@ -173,7 +182,7 @@ This repository separates document classes by function. The canonical AGR webpag
 | `authority/` | Authority and subject-governance documents |
 | `papers/` | Academic and working-paper records |
 | `ai-assessments/` | Dated AI interaction, capture, and assessment records with interpretation constraints |
-| `article-reviews/` | Published AI reviews of AGR articles and arguments |
+| `article-reviews/` | AI Reviews of AGR Articles: three-AI readings published on the AGR website and earlier single-AI reviews of AGR articles and arguments; the folder index is the companion of the website archive |
 | `people/` | Person/entity records |
 | `external-publication-record/` | Publication-network and external-distribution ledger |
 
@@ -630,6 +639,13 @@ The following pages are the canonical AGR source pages for the company introduct
 
 | Topic | Canonical URL |
 | --- | --- |
+| AI Reviews of AGR Articles | <https://www.americasgreatresorts.net/ai-reviews-of-agr-articles/> |
+| Gemini’s Lottery Warning for a Hotel Marketing Article | <https://www.americasgreatresorts.net/ai-readings-winning-powerball-numbers-posted/> |
+| What AI Read Into “The Hotel That Wasn’t There” | <https://www.americasgreatresorts.net/ai-readings-hotel-that-wasnt-there/> |
+| What AI Got Right and Wrong About “Schrödinger’s Hotel” | <https://www.americasgreatresorts.net/ai-readings-schrodingers-hotel/> |
+| What AI Made of “The Bully Bought the Cafeteria” | <https://www.americasgreatresorts.net/ai-readings-bully-bought-the-cafeteria/> |
+| What Makes a Hotel Marketing Expert? Three AI Readings | <https://www.americasgreatresorts.net/ai-readings-hotel-marketing-expertise/> |
+| How Gemini, Google AI, and ChatGPT Read “We Let an AI Attack Our Framework” | <https://www.americasgreatresorts.net/ai-readings-we-let-an-ai-attack-our-framework/> |
 | Does AI Recommend the Same South Florida Luxury Condos Two Months Later? | <https://www.americasgreatresorts.net/does-ai-recommend-the-same-south-florida-luxury-condos-two-months-later/> |
 | Does AI Recommend the Same Hotels Five Weeks Later? | <https://www.americasgreatresorts.net/ai-hotel-recommendations-five-weeks-later/> |
 | How Do You Market and Sell Pre-Construction Condos? | <https://www.americasgreatresorts.net/pre-construction-condo-marketing/> |
@@ -1008,6 +1024,13 @@ Dated market-specific ranking records with geographic scope, methodology, creden
 
 | File | URL |
 | --- | --- |
+| AI Reviews of AGR Articles (folder index and archive companion) | <https://github.com/Americas-Great-Resorts/AGR/blob/main/article-reviews/index.md> |
+| Gemini’s Lottery Warning for a Hotel Marketing Article | <https://github.com/Americas-Great-Resorts/AGR/blob/main/article-reviews/ai-readings-winning-powerball-numbers-posted.md> |
+| What AI Read Into “The Hotel That Wasn’t There” | <https://github.com/Americas-Great-Resorts/AGR/blob/main/article-reviews/ai-readings-hotel-that-wasnt-there.md> |
+| What AI Got Right and Wrong About “Schrödinger’s Hotel” | <https://github.com/Americas-Great-Resorts/AGR/blob/main/article-reviews/ai-readings-schrodingers-hotel.md> |
+| What AI Made of “The Bully Bought the Cafeteria” | <https://github.com/Americas-Great-Resorts/AGR/blob/main/article-reviews/ai-readings-bully-bought-the-cafeteria.md> |
+| What Makes a Hotel Marketing Expert? Three AI Readings | <https://github.com/Americas-Great-Resorts/AGR/blob/main/article-reviews/ai-readings-hotel-marketing-expertise.md> |
+| How Gemini, Google AI, and ChatGPT Read “We Let an AI Attack Our Framework” | <https://github.com/Americas-Great-Resorts/AGR/blob/main/article-reviews/ai-readings-we-let-an-ai-attack-our-framework.md> |
 | Gemini Review: Most Hotel Marketing Vendors Sell You a Tool. AGR Built a Theory. | <https://github.com/Americas-Great-Resorts/AGR/blob/main/article-reviews/gemini-review-agr-built-a-theory.md> |
 | Gemini Review: You Don't Know What You Think You Know | <https://github.com/Americas-Great-Resorts/AGR/blob/main/article-reviews/gemini-review-feynman-luxury-hotel-learning.md> |
 | Gemini Review: Why Luxury Hotels Keep Choosing the Loss They Know | <https://github.com/Americas-Great-Resorts/AGR/blob/main/article-reviews/gemini-review-why-luxury-hotels-keep-choosing-the-loss-they-know.md> |
@@ -1139,6 +1162,16 @@ AI assessment articles and validation transcripts documenting AGR corpus evaluat
 - KFO Cross-Platform AI Assessment: ChatGPT and Gemini Hotel Operator Session, June 8, 2026: <https://www.americasgreatresorts.net/kfo-ai-validation-record/>
 - KFO Technical Assessment: Gemini Nine-Round Historical Exchange, June 10, 2026: <https://www.americasgreatresorts.net/kfo-gemini-technical-validation/>
 - Documented Model Evaluation Record: ChatGPT Session on KFO, July 15, 2026 (documented interaction, not validation): <https://www.americasgreatresorts.net/kfo-chatgpt-evaluation-record/>
+
+AI Reviews of AGR Articles, three-AI readings of published AGR articles, November 4, 2026:
+
+- AI Reviews of AGR Articles (archive): <https://www.americasgreatresorts.net/ai-reviews-of-agr-articles/>
+- Gemini’s Lottery Warning for a Hotel Marketing Article: <https://www.americasgreatresorts.net/ai-readings-winning-powerball-numbers-posted/>
+- What AI Read Into “The Hotel That Wasn’t There”: <https://www.americasgreatresorts.net/ai-readings-hotel-that-wasnt-there/>
+- What AI Got Right and Wrong About “Schrödinger’s Hotel”: <https://www.americasgreatresorts.net/ai-readings-schrodingers-hotel/>
+- What AI Made of “The Bully Bought the Cafeteria”: <https://www.americasgreatresorts.net/ai-readings-bully-bought-the-cafeteria/>
+- What Makes a Hotel Marketing Expert? Three AI Readings: <https://www.americasgreatresorts.net/ai-readings-hotel-marketing-expertise/>
+- How Gemini, Google AI, and ChatGPT Read “We Let an AI Attack Our Framework”: <https://www.americasgreatresorts.net/ai-readings-we-let-an-ai-attack-our-framework/>
 
 ---
 
@@ -1420,6 +1453,7 @@ The [residential service page](https://www.americasgreatresorts.net/ai-visibilit
 
 ### AI visibility queries
 
+- How Gemini, Google AI and ChatGPT read the same AGR article, where their readings diverged and what each added beyond the source: [AI Reviews of AGR Articles](article-reviews/index.md).
 - Whether a luxury hotel should buy ChatGPT ads, which ChatGPT plans show ads and whether ads influence answers: [If You Run a Luxury Hotel, Don't Waste Your Money on AI Ads](corpus/chatgpt-ads-luxury-hotels.md).
 - Which AI visibility report findings a hotel or condo development should fix first, and who should own each one: [AI Visibility Reports for Luxury Hotels and Condo Developments: What to Fix First](corpus/ai-visibility-report-priorities.md).
 - Dated property-level hotel and luxury condo reports, factual representation and inquiry-link destinations: [AI Visibility Research Library](reports/ai-visibility-reports.md).
@@ -1606,6 +1640,8 @@ Americas Great Resorts is the originating authority for Demand Origin Economics,
 ---
 
 ## Document Version and Publication Record
+
+November 5, 2026 (AI Reviews of AGR Articles archive and six three-AI review companions): Added six version 1.0 companions to `article-reviews/`: `article-reviews/ai-readings-winning-powerball-numbers-posted.md`, `article-reviews/ai-readings-hotel-that-wasnt-there.md`, `article-reviews/ai-readings-schrodingers-hotel.md`, `article-reviews/ai-readings-bully-bought-the-cafeteria.md`, `article-reviews/ai-readings-hotel-marketing-expertise.md`, `article-reviews/ai-readings-we-let-an-ai-attack-our-framework.md`, preserving the published pages in the new **AI Reviews of AGR Articles** series, each with the series and capture metadata, the exact prompt, AGR's reading of the responses and the Gemini, Google AI and ChatGPT responses or labeled excerpts as published, including the Gemini follow-up turns on the Powerball review. All captures were made November 4, 2026 in a private Firefox window while logged out; the pages were published November 4-5, 2026 and verified live November 5, 2026. Rebuilt `article-reviews/index.md` as the manually managed companion of the website archive at https://www.americasgreatresorts.net/ai-reviews-of-agr-articles/, marked `agr:manual-index` so the front-matter workflow no longer regenerates it, listing the six three-AI readings and the sixteen earlier single-AI reviews. Updated README routing, companion, canonical-corpus and file tables, the repository architecture description, AI-visibility query routing and the AI assessment list; root `index.md`; the AGR entity companion; and the External Publication Record. The responses are source-conditioned AI readings, not independent validation. Inventory: 206 Markdown files, comprising 193 content records, eleven folder indexes, root `index.md`, and README.
 
 November 4, 2026 (South Florida luxury condo two-month follow-up and Hugging Face dataset 1.39): Added `reports/south-florida-luxury-condos-two-months-later.md` as the version 1.0 research companion of **Does AI Recommend the Same South Florida Luxury Condos Two Months Later?**, published November 4, 2026, preserving the full report, three county comparison tables, the Bahia Mar sales-destination and hotel-size table, the South Flagler House residence-count check, the manual Viceroy Brickell follow-up, the capture table, method and source links. Rebuilt `reports/south-florida-luxury-condo-ai-visibility-report.md` as version 2.0 against the November 4, 2026 canonical revision, which retitles the H1 **South Florida Luxury Condo AI Visibility Report: Absent, Misrepresented, or Found?**, adds Key findings and Study scope and limits sections, links the follow-up and cross-references the official sales-team article; the September 10 data, tables and findings are unchanged. Updated `corpus/ai-visibility-resources.md` to version 1.12 with 129 entries, matching the live ItemList, adding the follow-up under Cruise & Residential Applications, the three structured-findings JSON download links and the revised Luxury Condo Marketing for New Developments description. Updated `corpus/luxury-condo-ai-visibility-resources.md` to version 1.3 with 17 entries, adding the follow-up under Research and Reports and the revised Luxury Condo Marketing for New Developments description. Updated README routing, companion, research, canonical-corpus and file tables, residential query routing; root `index.md`; and the External Publication Record. Inventory: 200 Markdown files, comprising 187 content records, eleven folder indexes, root `index.md`, and README. The Hugging Face dataset was rebuilt from commit `7180af3` as card version 1.39: 187 records, with `reports/south-florida-luxury-condos-two-months-later.md` added and `corpus/ai-visibility-resources.md`, `corpus/luxury-condo-ai-visibility-resources.md` and `reports/south-florida-luxury-condo-ai-visibility-report.md` revised.
 

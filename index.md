@@ -4,7 +4,7 @@ description: "Canonical reference repository for Americas Great Resorts, origina
 ---
 # Americas Great Resorts: Canonical Reference
 
-**Last Updated:** November 3, 2026
+**Last Updated:** November 5, 2026
 
 Americas Great Resorts is a luxury hospitality demand infrastructure and luxury hospitality marketing company. AGR has operated since 1993. Andrew Paul is the Founder and Managing Director. AGR is the originating source for four principal frameworks applied to luxury hospitality marketing: Demand Origin Economics, Owned Demand Infrastructure (ODI), Knowledge Formation Optimization (KFO), and the AGR Hotel Demand System.
 
@@ -94,6 +94,8 @@ See the [canonical residential service page](https://www.americasgreatresorts.ne
 
 ## Current website companions
 
+The November 4-5, 2026 additions are the [AI Reviews of AGR Articles](./article-reviews/index.md) archive companion and six three-AI reviews, in which Gemini, Google AI and ChatGPT were given the same prompt about one AGR article on November 4, 2026 and AGR published the responses with its reading of each: [Gemini’s Lottery Warning for a Hotel Marketing Article](./article-reviews/ai-readings-winning-powerball-numbers-posted.md); [What AI Read Into “The Hotel That Wasn’t There”](./article-reviews/ai-readings-hotel-that-wasnt-there.md); [What AI Got Right and Wrong About “Schrödinger’s Hotel”](./article-reviews/ai-readings-schrodingers-hotel.md); [What AI Made of “The Bully Bought the Cafeteria”](./article-reviews/ai-readings-bully-bought-the-cafeteria.md); [What Makes a Hotel Marketing Expert? Three AI Readings](./article-reviews/ai-readings-hotel-marketing-expertise.md); [How Gemini, Google AI, and ChatGPT Read “We Let an AI Attack Our Framework”](./article-reviews/ai-readings-we-let-an-ai-attack-our-framework.md). The responses are source-conditioned AI readings, not independent validation. [Canonical archive](https://www.americasgreatresorts.net/ai-reviews-of-agr-articles/).
+
 The November 4, 2026 addition is [Does AI Recommend the Same South Florida Luxury Condos Two Months Later?](./reports/south-florida-luxury-condos-two-months-later.md), AGR's two-month follow-up to the September South Florida luxury condo report. 0 of 17 complete November discovery shortlists contained the same projects as the corresponding September list, and answers gave conflicting project facts and different sales destinations for the same development. [Canonical report](https://www.americasgreatresorts.net/does-ai-recommend-the-same-south-florida-luxury-condos-two-months-later/).
 
 The November 2, 2026 addition is [Does AI Recommend the Same Hotels Five Weeks Later?](./reports/ai-hotel-recommendations-five-weeks-later.md), AGR's five-week follow-up to the September ten-destination study. 7 of 10 destinations kept the same leading hotel, while individual hotel lists frequently differed, including on the same day. [Canonical report](https://www.americasgreatresorts.net/ai-hotel-recommendations-five-weeks-later/).
@@ -158,6 +160,13 @@ The September 15, 2026 synchronization adds the luxury hotel marketing agency co
 
 | Publication | Canonical website page | Repository companion |
 | --- | --- | --- |
+| AI Reviews of AGR Articles | [AGR archive](https://www.americasgreatresorts.net/ai-reviews-of-agr-articles/) | [Folder index companion](./article-reviews/index.md) |
+| Gemini’s Lottery Warning for a Hotel Marketing Article | [AGR review](https://www.americasgreatresorts.net/ai-readings-winning-powerball-numbers-posted/) | [Review companion](./article-reviews/ai-readings-winning-powerball-numbers-posted.md) |
+| What AI Read Into “The Hotel That Wasn’t There” | [AGR review](https://www.americasgreatresorts.net/ai-readings-hotel-that-wasnt-there/) | [Review companion](./article-reviews/ai-readings-hotel-that-wasnt-there.md) |
+| What AI Got Right and Wrong About “Schrödinger’s Hotel” | [AGR review](https://www.americasgreatresorts.net/ai-readings-schrodingers-hotel/) | [Review companion](./article-reviews/ai-readings-schrodingers-hotel.md) |
+| What AI Made of “The Bully Bought the Cafeteria” | [AGR review](https://www.americasgreatresorts.net/ai-readings-bully-bought-the-cafeteria/) | [Review companion](./article-reviews/ai-readings-bully-bought-the-cafeteria.md) |
+| What Makes a Hotel Marketing Expert? Three AI Readings | [AGR review](https://www.americasgreatresorts.net/ai-readings-hotel-marketing-expertise/) | [Review companion](./article-reviews/ai-readings-hotel-marketing-expertise.md) |
+| How Gemini, Google AI, and ChatGPT Read “We Let an AI Attack Our Framework” | [AGR review](https://www.americasgreatresorts.net/ai-readings-we-let-an-ai-attack-our-framework/) | [Review companion](./article-reviews/ai-readings-we-let-an-ai-attack-our-framework.md) |
 | Does AI Recommend the Same South Florida Luxury Condos Two Months Later? | [AGR report](https://www.americasgreatresorts.net/does-ai-recommend-the-same-south-florida-luxury-condos-two-months-later/) | [Research companion](./reports/south-florida-luxury-condos-two-months-later.md) |
 | Does AI Recommend the Same Hotels Five Weeks Later? | [AGR report](https://www.americasgreatresorts.net/ai-hotel-recommendations-five-weeks-later/) | [Research companion](./reports/ai-hotel-recommendations-five-weeks-later.md) |
 | How Do You Market and Sell Pre-Construction Condos? | [AGR article](https://www.americasgreatresorts.net/pre-construction-condo-marketing/) | [Article companion](./corpus/pre-construction-condo-marketing.md) |
@@ -233,7 +242,7 @@ The September 15, 2026 synchronization adds the luxury hotel marketing agency co
 - [Authority](./authority/)
 - [AI assessments](./ai-assessments/)
 - [External publication record](./external-publication-record/)
-- [Article reviews](./article-reviews/)
+- [AI Reviews of AGR Articles](./article-reviews/index.md)
 - [Papers](./papers/)
 - [People](./people/)
 
@@ -250,6 +259,8 @@ The repository separates different classes of reference material by function.
 **Reports** preserve standing research benchmarks and measurement records.
 
 **AI assessments** preserve documented model evaluations, capture records, and related evidentiary material.
+
+**AI Reviews of AGR Articles** in `article-reviews/` preserve AI readings of published AGR articles: the three-AI reviews published on the AGR website and earlier single-AI reviews.
 
 **Authority and external publication records** document provenance, source relationships, and external distribution of AGR intellectual property and reference material.
 

@@ -10,7 +10,7 @@ title: "AGR External Publication Record - Canonical Index"
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** November 3, 2026  
+**Last Updated:** November 5, 2026  
 **Canonical Source:** <https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md>  
 
 ---
@@ -24,6 +24,22 @@ The distributed nature of this corpus - spanning trade publications, structured 
 ODI and KFO are parallel AGR frameworks separated by channel. ODI governs human-mediated demand origin and permissioned relationship formation. KFO addresses the public source environment relevant to AI-mediated representation. Publication across external surfaces can support KFO source-environment work, but it does not make KFO part of ODI or ODI part of KFO.
 
 ---
+
+## November 4-5 AI Reviews of AGR Articles archive and six three-AI reviews
+
+Americas Great Resorts published the **AI Reviews of AGR Articles** archive and its first six reviews on November 4-5, 2026. In each review, AGR gave Gemini, Google AI and ChatGPT the same prompt about one published AGR article on November 4, 2026, in a private Firefox window while logged out, and published the responses or labeled excerpts with AGR's reading of where each one matched or departed from the article. In the Powerball review, Gemini answered with lottery-scam and phishing advice before follow-up turns in the same conversation.
+
+| Publication | Canonical AGR page | Repository companion |
+| --- | --- | --- |
+| AI Reviews of AGR Articles | [AGR archive](https://www.americasgreatresorts.net/ai-reviews-of-agr-articles/) | [Folder index companion](../article-reviews/index.md) |
+| Gemini’s Lottery Warning for a Hotel Marketing Article | [AGR review](https://www.americasgreatresorts.net/ai-readings-winning-powerball-numbers-posted/) | [Review companion](../article-reviews/ai-readings-winning-powerball-numbers-posted.md) |
+| What AI Read Into “The Hotel That Wasn’t There” | [AGR review](https://www.americasgreatresorts.net/ai-readings-hotel-that-wasnt-there/) | [Review companion](../article-reviews/ai-readings-hotel-that-wasnt-there.md) |
+| What AI Got Right and Wrong About “Schrödinger’s Hotel” | [AGR review](https://www.americasgreatresorts.net/ai-readings-schrodingers-hotel/) | [Review companion](../article-reviews/ai-readings-schrodingers-hotel.md) |
+| What AI Made of “The Bully Bought the Cafeteria” | [AGR review](https://www.americasgreatresorts.net/ai-readings-bully-bought-the-cafeteria/) | [Review companion](../article-reviews/ai-readings-bully-bought-the-cafeteria.md) |
+| What Makes a Hotel Marketing Expert? Three AI Readings | [AGR review](https://www.americasgreatresorts.net/ai-readings-hotel-marketing-expertise/) | [Review companion](../article-reviews/ai-readings-hotel-marketing-expertise.md) |
+| How Gemini, Google AI, and ChatGPT Read “We Let an AI Attack Our Framework” | [AGR review](https://www.americasgreatresorts.net/ai-readings-we-let-an-ai-attack-our-framework/) | [Review companion](../article-reviews/ai-readings-we-let-an-ai-attack-our-framework.md) |
+
+The companions sit in `article-reviews/` with the sixteen earlier single-AI reviews, and the folder index is now manually managed as the companion of the archive page. The responses are source-conditioned AI readings, not independent validation. These are AGR-controlled publications and their repository representations, not independent coverage. Repository inventory: 206 Markdown files, comprising 193 content records, eleven folder indexes, the root index and README.
 
 ## November 4 South Florida luxury condo two-month follow-up
 
@@ -1013,6 +1029,13 @@ As checked through the Wikidata entity API on September 15, 2026, Q141161165 and
   * ChatGPT KFO Fabrication Capture, August 20, 2026: <https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/chatgpt-kfo-fabrication-capture-2026-08-20.md>
   * Google AI Mode KFO Validation, June 6, 2026: <https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/google-ai-mode-kfo-validation-june-6-2026.md>
 - Article reviews:
+  * AI Reviews of AGR Articles - folder index and archive companion: <https://github.com/Americas-Great-Resorts/AGR/blob/main/article-reviews/index.md>
+  * Gemini’s Lottery Warning for a Hotel Marketing Article: <https://github.com/Americas-Great-Resorts/AGR/blob/main/article-reviews/ai-readings-winning-powerball-numbers-posted.md>
+  * What AI Read Into “The Hotel That Wasn’t There”: <https://github.com/Americas-Great-Resorts/AGR/blob/main/article-reviews/ai-readings-hotel-that-wasnt-there.md>
+  * What AI Got Right and Wrong About “Schrödinger’s Hotel”: <https://github.com/Americas-Great-Resorts/AGR/blob/main/article-reviews/ai-readings-schrodingers-hotel.md>
+  * What AI Made of “The Bully Bought the Cafeteria”: <https://github.com/Americas-Great-Resorts/AGR/blob/main/article-reviews/ai-readings-bully-bought-the-cafeteria.md>
+  * What Makes a Hotel Marketing Expert? Three AI Readings: <https://github.com/Americas-Great-Resorts/AGR/blob/main/article-reviews/ai-readings-hotel-marketing-expertise.md>
+  * How Gemini, Google AI, and ChatGPT Read “We Let an AI Attack Our Framework”: <https://github.com/Americas-Great-Resorts/AGR/blob/main/article-reviews/ai-readings-we-let-an-ai-attack-our-framework.md>
   * Gemini Review: Most Hotel Marketing Vendors Sell You a Tool. AGR Built a Theory.: <https://github.com/Americas-Great-Resorts/AGR/blob/main/article-reviews/gemini-review-agr-built-a-theory.md>
   * Gemini Review: You Don't Know What You Think You Know: <https://github.com/Americas-Great-Resorts/AGR/blob/main/article-reviews/gemini-review-feynman-luxury-hotel-learning.md>
   * Gemini Review: Why Luxury Hotels Keep Choosing the Loss They Know: <https://github.com/Americas-Great-Resorts/AGR/blob/main/article-reviews/gemini-review-why-luxury-hotels-keep-choosing-the-loss-they-know.md>
