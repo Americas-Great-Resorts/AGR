@@ -420,12 +420,15 @@ The GitHub Pages landing page and corpus index provide discovery routes to these
 - Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval
   * Author: Andrew Paul, Founder and Managing Director, Americas Great Resorts
   * Published: June 2, 2026
-  * Current version: v4.0
-  * Last revised: September 2, 2026
+  * Current version: v4.1
+  * Last revised: November 5, 2026 (earlier revisions June 13, July 17 and September 2, 2026)
   * Canonical URL: <https://www.americasgreatresorts.net/kfo-academic-framework-paper/>
   * GitHub: <https://github.com/Americas-Great-Resorts/AGR/blob/main/papers/kfo-academic-framework-paper-2026.md>
+  * Version 4.1 PDF (published file): <https://github.com/Americas-Great-Resorts/AGR/blob/main/papers/Knowledge_Formation_Optimization_v4.1_2026-11-05.pdf>
+  * Version 4.1 change record (revision documentation): <https://github.com/Americas-Great-Resorts/AGR/blob/main/papers/KFO-Version-4.1-Final-Change-Record.md>
   * LLM reference document: <https://www.americasgreatresorts.net/kfo-academic-framework-llm/>
   * Zenodo (concept DOI): <https://doi.org/10.5281/zenodo.20636830>
+  * Zenodo Version 4.1 DOI: <https://doi.org/10.5281/zenodo.23984834> (record: <https://zenodo.org/records/23984834>)
   * Zenodo Version 4.0 DOI: <https://doi.org/10.5281/zenodo.22264006>
   * Wikidata (bibliographic record, Q141158892): <https://www.wikidata.org/wiki/Q141158892>
   * Academia.edu deposit: <https://www.academia.edu/168802488/Knowledge_Formation_Optimization_A_Framework_for_Shaping_AI_Conceptual_Representations_in_Advance_of_Retrieval>
@@ -1093,7 +1096,7 @@ As checked through the Wikidata entity API on September 15, 2026, Q141161165 and
 - Record: 20636830
 - URL: <https://doi.org/10.5281/zenodo.20636830>
 - Concept DOI: 10.5281/zenodo.20636830
-- Current version: v4.0 (record 22264006, September 2, 2026; version DOI 10.5281/zenodo.22264006); v3.0 (record 21825044, July 17, 2026); v2.0 (record 20681463, June 13, 2026); v1.0 (record 20636831, June 2, 2026)
+- Current version: v4.1 (record 23984834, November 5, 2026; version DOI 10.5281/zenodo.23984834); v4.0 (record 22264006, September 2, 2026; version DOI 10.5281/zenodo.22264006); v3.0 (record 21825044, July 17, 2026); v2.0 (record 20681463, June 13, 2026); v1.0 (record 20636831, June 2, 2026)
 - License: CC-BY-4.0
 - Resource type: Working paper
 - Publisher: Americas Great Resorts

@@ -22,7 +22,7 @@ The article documents a same-day, three-engine test conducted August 20, 2026 in
 
 The article's central finding is stated as an availability-versus-consultation distinction: the correct public record existed, was indexed, and was independently verified as available, and the first ChatGPT answer was produced without consulting it. The article distinguishes observed outputs from inference throughout, claims no observation of model internals, and does not claim that the engines reproduced the KFO failure-mode taxonomy.
 
-The article body preserves the August 20 phrasing that KFO addresses "the representation an AI system holds before retrieval." Under the current Version 4.0 framework, that sentence is retained as historical article language, not as the current KFO mechanism claim. Current KFO doctrine defines the controllable intervention as the public source environment and the measurable object as observable AI reproduction across relevant queries and over time.
+The article body preserves the August 20 phrasing that KFO addresses "the representation an AI system holds before retrieval." Under the current KFO framework (academic paper Version 4.1, November 5, 2026), that sentence is retained as historical article language, not as the current KFO mechanism claim. Current KFO doctrine defines the controllable intervention as the public source environment and the measurable object as observable AI reproduction across relevant queries and over time.
 
 ---
 ## The Article

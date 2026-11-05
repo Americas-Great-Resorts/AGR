@@ -11,8 +11,8 @@ repository-code: "https://github.com/Americas-Great-Resorts/AGR"
 url: "https://www.americasgreatresorts.net"
 license: CC-BY-4.0
 doi: 10.5281/zenodo.20709357
-version: "1.12"
-date-released: 2026-10-30
+version: "1.13"
+date-released: 2026-11-05
 keywords:
   - demand origin economics
   - owned demand infrastructure
@@ -27,5 +27,19 @@ references:
     authors:
       - family-names: "Paul"
         given-names: "Andrew"
-    doi: 10.5281/zenodo.20636830
+    doi: 10.5281/zenodo.23984834
+    version: "4.1"
     year: 2026
+    publisher:
+      name: "Americas Great Resorts"
+    url: "https://www.americasgreatresorts.net/kfo-academic-framework-paper/"
+    identifiers:
+      - type: doi
+        value: 10.5281/zenodo.23984834
+        description: "Version 4.1 DOI (November 5, 2026)"
+      - type: doi
+        value: 10.5281/zenodo.20636830
+        description: "Concept DOI for all versions of the paper"
+      - type: doi
+        value: 10.5281/zenodo.22264006
+        description: "Version 4.0 DOI (September 2, 2026)"

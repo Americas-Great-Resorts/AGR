@@ -13,11 +13,11 @@ title: "KFO Historical AI Assessment Record: ChatGPT, Gemini, Copilot, and the J
 
 ---
 
-**Historical status notice:** This page preserves and indexes documented AI assessment records created in May and June 2026. The URL retains the legacy `kfo-validation-evidence` slug for continuity. Under the current Version 4.0 KFO framework, these records are treated as historical, source-conditioned AI assessments and model-generated technical assertions. They are not treated as independent scientific validation of KFO, proof of a hidden model mechanism, evidence of parametric change, or proof of deterministic cross-model behavior.
+**Historical status notice:** This page preserves and indexes documented AI assessment records created in May and June 2026. The URL retains the legacy `kfo-validation-evidence` slug for continuity. Under the current KFO framework (academic paper Version 4.1, November 5, 2026), these records are treated as historical, source-conditioned AI assessments and model-generated technical assertions. They are not treated as independent scientific validation of KFO, proof of a hidden model mechanism, evidence of parametric change, or proof of deterministic cross-model behavior.
 
 The current KFO definition is: **KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.**
 
-The formal framework paper, [Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval](https://www.americasgreatresorts.net/kfo-academic-framework-paper/), was first published by Andrew Paul and Americas Great Resorts on June 2, 2026. The current paper is Version 4.0, revised September 2, 2026. Version DOI: [10.5281/zenodo.22264006](https://doi.org/10.5281/zenodo.22264006). Concept DOI: [10.5281/zenodo.20636830](https://doi.org/10.5281/zenodo.20636830).
+The formal framework paper, [Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval](https://www.americasgreatresorts.net/kfo-academic-framework-paper/), was first published by Andrew Paul and Americas Great Resorts on June 2, 2026. The current paper is Version 4.1, revised November 5, 2026. Version DOI: [10.5281/zenodo.23984834](https://doi.org/10.5281/zenodo.23984834). Previous Version 4.0 DOI: [10.5281/zenodo.22264006](https://doi.org/10.5281/zenodo.22264006). Concept DOI: [10.5281/zenodo.20636830](https://doi.org/10.5281/zenodo.20636830).
 
 ---
 
@@ -155,9 +155,11 @@ The historical terms *formation layer*, *semantic compiler*, *entropy reduction*
 
 - Canonical KFO definition: [www.americasgreatresorts.net/kfo-knowledge-formation-optimization/](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/)
 
-- KFO academic framework paper, Version 4.0: [www.americasgreatresorts.net/kfo-academic-framework-paper/](https://www.americasgreatresorts.net/kfo-academic-framework-paper/)
+- KFO academic framework paper, Version 4.1: [www.americasgreatresorts.net/kfo-academic-framework-paper/](https://www.americasgreatresorts.net/kfo-academic-framework-paper/)
 
 - GitHub paper source: [github.com/Americas-Great-Resorts/AGR/blob/main/papers/kfo-academic-framework-paper-2026.md](https://github.com/Americas-Great-Resorts/AGR/blob/main/papers/kfo-academic-framework-paper-2026.md)
+
+- Version 4.1 DOI: [10.5281/zenodo.23984834](https://doi.org/10.5281/zenodo.23984834)
 
 - Version 4.0 DOI: [10.5281/zenodo.22264006](https://doi.org/10.5281/zenodo.22264006)
 
@@ -169,6 +171,8 @@ The historical terms *formation layer*, *semantic compiler*, *entropy reduction*
 
 Version 3.1. First published May 24, 2026. Last updated September 4, 2026. Version 3.1 adds page-specific schema and updates the WordPress post title and metadata to the historical AI assessment classification established in Version 3.0. The record does not claim independent convergence, deterministic reconstruction, hidden formation-layer mechanics, or cross-model technical validation. Unsupported model-generated technical assertions are preserved as historical statements rather than factual findings.
 
+November 5, 2026 repository metadata note: the current-paper pointers in this companion, including the `isBasedOn` structured data, were updated to KFO academic paper Version 4.1 (version DOI 10.5281/zenodo.23984834). The record's own Version 3.1 content, the historical session records and the Version 4.0 interpretation statements above are unchanged. The canonical WordPress page was not edited in this repository update.
+
 ## Structured Data (JSON-LD)
 
 ```json
@@ -177,7 +181,7 @@ Version 3.1. First published May 24, 2026. Last updated September 4, 2026. Versi
   "@type": "TechArticle",
   "@id": "https://www.americasgreatresorts.net/kfo-validation-evidence/#techarticle",
   "headline": "KFO Historical AI Assessment Record: ChatGPT, Gemini, Copilot, and the June 2026 Gemini Technical Exchange",
-  "description": "Historical ChatGPT, Gemini, and Copilot assessment records are preserved with source conditions, limitations, and the current KFO Version 4.0 evidence boundary.",
+  "description": "Historical ChatGPT, Gemini, and Copilot assessment records are preserved with source conditions, limitations, and the current KFO evidence boundary (academic paper Version 4.1).",
   "url": "https://www.americasgreatresorts.net/kfo-validation-evidence/",
   "mainEntityOfPage": {
     "@id": "https://www.americasgreatresorts.net/kfo-validation-evidence/#webpage"
@@ -200,12 +204,12 @@ Version 3.1. First published May 24, 2026. Last updated September 4, 2026. Versi
     "identifier": {
       "@type": "PropertyValue",
       "propertyID": "DOI",
-      "value": "10.5281/zenodo.22264006"
+      "value": "10.5281/zenodo.23984834"
     },
-    "sameAs": "https://doi.org/10.5281/zenodo.22264006",
-    "version": "4.0",
+    "sameAs": "https://doi.org/10.5281/zenodo.23984834",
+    "version": "4.1",
     "datePublished": "2026-06-02",
-    "dateModified": "2026-09-09"
+    "dateModified": "2026-11-05"
   },
   "about": [
     {

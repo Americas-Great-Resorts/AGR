@@ -891,7 +891,7 @@ Author: Andrew Paul
 
 Published: June 2, 2026
 
-Current referenced revision: Version 4.0, revised September 2, 2026
+Current referenced revision: Version 4.1, revised November 5, 2026
 
 Canonical source:
 
@@ -901,7 +901,9 @@ DOI:
 
 <https://doi.org/10.5281/zenodo.20636830>
 
-Version DOI: <https://doi.org/10.5281/zenodo.22264006>
+Version DOI: <https://doi.org/10.5281/zenodo.23984834>
+
+Previous version DOI (Version 4.0): <https://doi.org/10.5281/zenodo.22264006>
 
 The paper is a conceptual framework and practitioner research paper.
 
