@@ -7,7 +7,6 @@ title: "Ai Assessments"
 - [An AI Assessment of AGR's External Publication Network and KFO Framework](agr-external-publication-network-kfo-assessment.md)
 - [Documented ChatGPT Assessment: Demand Origin Economics, ODI, and KFO](chatgpt-assessment-demand-origin-odi-kfo.md)
 - [Documented ChatGPT Assessment: The Five-AIs Article, AGR's Business Model, and the GitHub Repository](chatgpt-five-ais-article-business-model-repository-assessment-2026-11-07.md)
-- [Documented Perplexity Assessment: The Five-AIs Article, the Underlying AGR Articles, and the GitHub Repository](perplexity-five-ais-article-articles-repository-assessment-2026-11-07.md)
 - [What ChatGPT Said When We Told It the GitHub Repository Wasn't Written for Humans](chatgpt-github-repository-not-written-for-humans.md)
 - [Documented Model Evaluation Record: ChatGPT Provenance Review of the AGR GitHub Repository](chatgpt-github-repository-provenance-review-2026-09-02.md)
 - [Documented ChatGPT Assessment: KFO Paper, Testable Application, GitHub Repository, and Demand Origin Trilogy](chatgpt-kfo-demand-origin-assessment-2026-11-03.md)
@@ -21,3 +20,4 @@ title: "Ai Assessments"
 - [Documented Model Evaluation Record: ChatGPT Adversarial Review of the KFO Falsification Protocol](kfo-falsification-protocol-adversarial-review-chatgpt.md)
 - [Is KFO a Good Idea for My Hotel? — ChatGPT Assessment](kfo-hotel-decision-chatgpt.md)
 - [Is KFO a Good Idea for My Hotel? — Gemini Assessment](kfo-hotel-decision-gemini.md)
+- [Documented Perplexity Assessment: The Five-AIs Article, the Underlying AGR Articles, and the GitHub Repository](perplexity-five-ais-article-articles-repository-assessment-2026-11-07.md)
