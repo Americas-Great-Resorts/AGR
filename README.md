@@ -3,7 +3,7 @@
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts   
 **Organization:** Americas Great Resorts (americasgreatresorts.net)   
 **Published:** May 2026   
-**Last Updated:** November 5, 2026
+**Last Updated:** November 7, 2026
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20709357.svg)](https://doi.org/10.5281/zenodo.20709357)
 
