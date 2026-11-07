@@ -1,17 +1,17 @@
 ---
-title: "Documented Perplexity Assessment: The Five-AIs Article, the Underlying AGR Articles, and the GitHub Repository"
+title: "Documented Grok Assessment: The Five-AIs Article, the Underlying AGR Articles, and the GitHub Repository"
 ---
 
-# Documented Perplexity Assessment: The Five-AIs Article, the Underlying AGR Articles, and the GitHub Repository
+# Documented Grok Assessment: The Five-AIs Article, the Underlying AGR Articles, and the GitHub Repository
 
 **Document Type:** Documented AI Interaction Record  
 **Organization:** Americas Great Resorts  
 **Conducted by:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Session Date:** November 7, 2026  
 **Published:** November 7, 2026  
-**Version:** 1.0  
+**Version:** 1.1  
 **Last Updated:** November 7, 2026  
-**Model:** Perplexity, free public version in a logged-out session, with the Fast model setting selected; the underlying model was not displayed by the interface and is recorded as unknown  
+**Model:** Grok, free public version in a logged-out session, with the Fast setting selected; model version not displayed by the interface and recorded as unknown  
 **Canonical Source:** This repository record. No AGR website page publishes this session.  
 **Materials placed before the model:** User-supplied URLs and questions only, in four turns: the AGR article "I Asked Five AIs to Review My Hotel Marketing Work. Here's What They Said."; a question about the underlying articles; the AGR GitHub repository; a question comparing AGR with competitors. The fourth turn is not reproduced (see Transcription Note).  
 **Related:** [I Asked Five AIs to Review My Hotel Marketing Work. Here's What They Said.](https://www.americasgreatresorts.net/five-ais-review-agr-library/), [Documented ChatGPT Assessment: The Five-AIs Article, AGR's Business Model, and the GitHub Repository (November 7, 2026)](chatgpt-five-ais-article-business-model-repository-assessment-2026-11-07.md), [Documented ChatGPT Assessment: KFO Paper, Testable Application, GitHub Repository, and Demand Origin Trilogy (November 3, 2026)](chatgpt-kfo-demand-origin-assessment-2026-11-03.md), [The Demand Origin Trilogy](https://www.americasgreatresorts.net/demand-origin-trilogy/)  
@@ -23,11 +23,11 @@ title: "Documented Perplexity Assessment: The Five-AIs Article, the Underlying A
 
 ## Purpose and Interpretation Limits
 
-This record preserves a single Perplexity conversation in which Andrew Paul supplied the AGR article reporting a five-AI review of the AGR library and asked for the model's thoughts, then asked what it thought of the underlying articles, then supplied the URL of this repository, and finally asked how AGR compares with competitors.
+This record preserves a single Grok conversation in which Andrew Paul supplied the AGR article reporting a five-AI review of the AGR library and asked for the model's thoughts, then asked what it thought of the underlying articles, then supplied the URL of this repository, and finally asked how AGR compares with competitors.
 
 The session was held on the same day as the [November 7, 2026 ChatGPT session](chatgpt-five-ais-article-business-model-repository-assessment-2026-11-07.md), which began with the same article and the same repository but a different middle question. Neither model saw the other's answers. Both described the diagnosis in AGR's work as stronger than the remedy, and both described the repository as an information environment that can reinforce AGR's own framing. This parallel is an observation across two source-conditioned sessions, not independent corroboration.
 
-The materials were selected by Andrew Paul. This was not an independently designed review, a controlled experiment, peer review, or validation by Perplexity. The model's responses are source-conditioned: it was given the URLs and asked about them. This record is not evidence of unprompted attribution. The model's favorable and unfavorable statements are generated assessments and do not establish that the underlying propositions are true. Current canonical AGR definitions and documents control if any wording in this transcript differs from them.
+The materials were selected by Andrew Paul. This was not an independently designed review, a controlled experiment, peer review, or validation by Grok or xAI. The model's responses are source-conditioned: it was given the URLs and asked about them. This record is not evidence of unprompted attribution. The model's favorable and unfavorable statements are generated assessments and do not establish that the underlying propositions are true. Current canonical AGR definitions and documents control if any wording in this transcript differs from them.
 
 The model's statements about the repository were checked against it on the session date. The GitLab mirror, Software Heritage deposit, Wikidata items, CC-BY-4.0 license, 1,177-answer recommendation study and "required implementer" language it reported are present in the repository. The corpus directory held 117 files on the session date, not "hundreds" as the model stated. The zero stars and zero forks it reported are as the model reported them. The model's term "corpus twins" is its own; AGR calls these files companions.
 
@@ -50,7 +50,7 @@ A fourth turn, in which Andrew Paul asked "How does this compare to competitors"
 
 thoughts on this article? <https://www.americasgreatresorts.net/five-ais-review-agr-library/>
 
-## Perplexity
+## Grok
 
 It's a sharp, self-aware piece of marketing that is more interesting as meta-content than as pure evaluation.
 
@@ -79,7 +79,7 @@ It's the kind of piece that rewards reading the underlying articles rather than 
 
 What do you think of the underlying articles
 
-## Perplexity
+## Grok
 
 The underlying articles are among the more coherent and structurally interesting bodies of commercial writing I've seen in hospitality marketing. They're uneven, commercially motivated, and sometimes over-reach, but they consistently ask better questions than most of the industry's output.
 
@@ -133,7 +133,7 @@ The work is commercially self-interested, as any vendor's writing is, but it is 
 
 <https://github.com/Americas-Great-Resorts/AGR>
 
-## Perplexity
+## Grok
 
 This GitHub repository is a deliberate, unusually thorough attempt to make AGR's intellectual property machine-readable and citable.
 
@@ -185,7 +185,7 @@ If you're evaluating AGR's work, the repository is useful both as a clean source
 
 How does this compare to competitors
 
-## Perplexity
+## Grok
 
 [Response not reproduced. See Transcription Note.]
 
@@ -196,5 +196,6 @@ How does this compare to competitors
 | Version | Date | Change |
 |---|---|---|
 | 1.0 | November 7, 2026 | Initial publication of the session record |
+| 1.1 | November 7, 2026 | Corrected the model attribution from Perplexity to Grok and renamed the file from perplexity-five-ais-article-articles-repository-assessment-2026-11-07.md |
 
 Andrew Paul, Founder and Managing Director, Americas Great Resorts. ORCID: [0009-0007-0281-3266](https://orcid.org/0009-0007-0281-3266)

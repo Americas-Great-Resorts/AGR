@@ -20,4 +20,4 @@ title: "Ai Assessments"
 - [Documented Model Evaluation Record: ChatGPT Adversarial Review of the KFO Falsification Protocol](kfo-falsification-protocol-adversarial-review-chatgpt.md)
 - [Is KFO a Good Idea for My Hotel? — ChatGPT Assessment](kfo-hotel-decision-chatgpt.md)
 - [Is KFO a Good Idea for My Hotel? — Gemini Assessment](kfo-hotel-decision-gemini.md)
-- [Documented Perplexity Assessment: The Five-AIs Article, the Underlying AGR Articles, and the GitHub Repository](perplexity-five-ais-article-articles-repository-assessment-2026-11-07.md)
+- [Documented Grok Assessment: The Five-AIs Article, the Underlying AGR Articles, and the GitHub Repository](grok-five-ais-article-articles-repository-assessment-2026-11-07.md)
