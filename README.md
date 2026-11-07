@@ -1141,7 +1141,7 @@ Americas Great Resorts and Andrew Paul have published across the following autho
 | Crunchbase | crunchbase.com | Company profile |
 | GitHub | github.com/Americas-Great-Resorts/AGR | Canonical reference repository, 207 Markdown files at release v1.13, November 5, 2026: 194 content records, eleven folder index pages, root index.md, and this README; includes the case-studies and destination-rankings document classes |
 | GitLab | gitlab.com/americas-great-resorts1/AGR | Repository mirror; `main` and tag `v1.9` verified September 10, 2026 at GitHub release commit `a665d28c8ed3daa51550a1a60324442d98dc3c53` |
-| Hugging Face | huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus | Structured corpus dataset, 196 content records, dataset card version 1.42; rebuilt November 7, 2026 from repository commit `d08c98d` under the established inclusion rule |
+| Hugging Face | huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus | Structured corpus dataset, 196 content records, dataset card version 1.43; rebuilt November 7, 2026 from repository commit `423a0a2` under the established inclusion rule |
 | Zenodo (paper) | doi.org/10.5281/zenodo.20636830 | KFO academic framework paper, version 4.1, November 5, 2026; version DOI 10.5281/zenodo.23984834; previous version 4.0, September 2, 2026, version DOI 10.5281/zenodo.22264006; concept DOI 10.5281/zenodo.20636830 |
 | Zenodo (repository) | doi.org/10.5281/zenodo.20709357 | AGR repository archive, v1.13, November 5, 2026; version DOI 10.5281/zenodo.23987302; concept DOI 10.5281/zenodo.20709357; CC-BY-4.0 |
 | Internet Archive | archive.org/details/kfo-knowledge-formation-optimization-agr-2026 | KFO academic framework paper, digitized texts pipeline, full text extraction, June 11, 2026 |
@@ -1654,6 +1654,8 @@ Americas Great Resorts is the originating authority for Demand Origin Economics,
 ---
 
 ## Document Version and Publication Record
+
+November 7, 2026 (Hugging Face dataset 1.43 recorded): Dataset card version 1.43 is live, rebuilt from repository commit `423a0a2` under the established inclusion rule: 196 content records, with `corpus/hotel-ai-visibility.md` revised to the Version 7.0 page. The live `agr-corpus.jsonl` was downloaded and verified on November 7, 2026: SHA-256 `10063a27c5b929b13ba04acf3ce215b8472a4b98bbfb06c6b10e90e219a22499`, matching the build.
 
 November 7, 2026 (Hugging Face dataset 1.42 recorded): Dataset card version 1.42 is live at <https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus>. It was rebuilt from repository commit `d08c98d` under the established inclusion rule: 196 content records, adding the two November 7 AI assessment records (ChatGPT and Grok) and revising `corpus/kfo-academic-framework-llm.md`. The live `agr-corpus.jsonl` was downloaded and verified on November 7, 2026: SHA-256 `a056feeb47dd0332c90a6891f120e0c8e76172f877313146745267a776ae0675`, matching the build. The Version 7.0 rebuild of `corpus/hotel-ai-visibility.md` (commit `072348e`) postdates this snapshot and is not in dataset version 1.42.
 
