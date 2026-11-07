@@ -48,7 +48,7 @@ title: "Corpus"
 - [Hospitality Marketing Agency for Hotels & Resorts](hospitality-marketing-agency.md)
 - [Hotel AI Visibility Guide](hotel-ai-visibility-guide.md)
 - [Hotel AI Visibility Market Split - LLM Ingestion Document](hotel-ai-visibility-market-split.md)
-- [What Is Hotel AI Visibility?](hotel-ai-visibility.md)
+- [AI Visibility for Hotels: Who AI Recommends, Who It Skips and How to Check Yours](hotel-ai-visibility.md)
 - [The Hotel With Infinite Rooms Just Ran Out of Rooms](hotel-infinite-rooms-ran-out.md)
 - [Hotel Marketing Framework and Source Index - AGR Corpus Reference](hotel-marketing-authority.md)
 - [Hotel Marketing FAQ: The AGR Canonical Question and Answer Resource](hotel-marketing-faq-llm.md)
