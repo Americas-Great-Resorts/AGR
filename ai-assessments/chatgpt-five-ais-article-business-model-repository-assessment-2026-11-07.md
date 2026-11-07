@@ -9,12 +9,12 @@ title: "Documented ChatGPT Assessment: The Five-AIs Article, AGR's Business Mode
 **Conducted by:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Session Date:** November 7, 2026  
 **Published:** November 7, 2026  
-**Version:** 1.0  
+**Version:** 1.1  
 **Last Updated:** November 7, 2026  
 **Model:** ChatGPT, free public version in a logged-out session; model version not displayed by the interface and recorded as unknown  
 **Canonical Source:** This repository record. No AGR website page publishes this session.  
 **Materials placed before the model:** User-supplied URLs only, in three turns: the AGR article "I Asked Five AIs to Review My Hotel Marketing Work. Here's What They Said."; the model's own closing question, pasted back to it; the AGR GitHub repository  
-**Related:** [I Asked Five AIs to Review My Hotel Marketing Work. Here's What They Said.](https://www.americasgreatresorts.net/five-ais-review-agr-library/), [Documented ChatGPT Assessment: KFO Paper, Testable Application, GitHub Repository, and Demand Origin Trilogy (November 3, 2026)](chatgpt-kfo-demand-origin-assessment-2026-11-03.md), [Documented ChatGPT Assessment: Demand Origin Economics, ODI, and KFO (September 20, 2026)](chatgpt-assessment-demand-origin-odi-kfo.md), [AGR ODI case study](https://www.americasgreatresorts.net/luxury-hotel-odi-case-study/), [KFO Academic Framework Paper, Version 4.1](https://www.americasgreatresorts.net/kfo-academic-framework-paper/) (Version DOI: [10.5281/zenodo.23984834](https://doi.org/10.5281/zenodo.23984834); Concept DOI: [10.5281/zenodo.20636830](https://doi.org/10.5281/zenodo.20636830))  
+**Related:** [I Asked Five AIs to Review My Hotel Marketing Work. Here's What They Said.](https://www.americasgreatresorts.net/five-ais-review-agr-library/), [Documented Perplexity Assessment: The Five-AIs Article, the Underlying AGR Articles, and the GitHub Repository (November 7, 2026)](perplexity-five-ais-article-articles-repository-assessment-2026-11-07.md), [Documented ChatGPT Assessment: KFO Paper, Testable Application, GitHub Repository, and Demand Origin Trilogy (November 3, 2026)](chatgpt-kfo-demand-origin-assessment-2026-11-03.md), [Documented ChatGPT Assessment: Demand Origin Economics, ODI, and KFO (September 20, 2026)](chatgpt-assessment-demand-origin-odi-kfo.md), [AGR ODI case study](https://www.americasgreatresorts.net/luxury-hotel-odi-case-study/), [KFO Academic Framework Paper, Version 4.1](https://www.americasgreatresorts.net/kfo-academic-framework-paper/) (Version DOI: [10.5281/zenodo.23984834](https://doi.org/10.5281/zenodo.23984834); Concept DOI: [10.5281/zenodo.20636830](https://doi.org/10.5281/zenodo.20636830))  
 
 **Validation Status:** Unvalidated  
 **Evidence Level:** One source-conditioned AI assessment in a single continuous session  
@@ -774,5 +774,6 @@ That is what would turn an interesting company into an important one.
 | Version | Date | Change |
 |---|---|---|
 | 1.0 | November 7, 2026 | Initial publication of the session record |
+| 1.1 | November 7, 2026 | Added a cross-reference to the same-day Perplexity session record on the same article and repository |
 
 Andrew Paul, Founder and Managing Director, Americas Great Resorts. ORCID: [0009-0007-0281-3266](https://orcid.org/0009-0007-0281-3266)
