@@ -1022,6 +1022,7 @@ As checked through the Wikidata entity API on September 15, 2026, Q141161165 and
 - AI assessments:
   * Documented ChatGPT Assessment: Demand Origin Economics, ODI, and KFO: <https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/chatgpt-assessment-demand-origin-odi-kfo.md>
   * Documented ChatGPT Assessment: KFO Paper, Testable Application, GitHub Repository, and Demand Origin Trilogy: <https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/chatgpt-kfo-demand-origin-assessment-2026-11-03.md>
+  * Documented ChatGPT Assessment: The Five-AIs Article, AGR's Business Model, and the GitHub Repository: <https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/chatgpt-five-ais-article-business-model-repository-assessment-2026-11-07.md>
   * Documented Model Evaluation Record: ChatGPT Provenance Review of the AGR GitHub Repository: <https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/chatgpt-github-repository-provenance-review-2026-09-02.md>
   * AI Assessment of AGR External Publication Network and KFO Framework: <https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/agr-external-publication-network-kfo-assessment.md>
   * What ChatGPT Said When We Told It the GitHub Repository Wasn't Written for Humans: <https://github.com/Americas-Great-Resorts/AGR/blob/main/ai-assessments/chatgpt-github-repository-not-written-for-humans.md>

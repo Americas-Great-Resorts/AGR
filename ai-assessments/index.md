@@ -9,6 +9,7 @@ title: "Ai Assessments"
 - [What ChatGPT Said When We Told It the GitHub Repository Wasn't Written for Humans](chatgpt-github-repository-not-written-for-humans.md)
 - [Documented Model Evaluation Record: ChatGPT Provenance Review of the AGR GitHub Repository](chatgpt-github-repository-provenance-review-2026-09-02.md)
 - [Documented ChatGPT Assessment: KFO Paper, Testable Application, GitHub Repository, and Demand Origin Trilogy](chatgpt-kfo-demand-origin-assessment-2026-11-03.md)
+- [Documented ChatGPT Assessment: The Five-AIs Article, AGR's Business Model, and the GitHub Repository](chatgpt-five-ais-article-business-model-repository-assessment-2026-11-07.md)
 - [Session Transcript: ChatGPT Evaluation of Knowledge Formation Optimization (KFO)](chatgpt-kfo-evaluation-session-2026-07-15.md)
 - [Documented Capture Record: ChatGPT KFO Fabrication and Correction, with Gemini and Google AI Controls](chatgpt-kfo-fabrication-capture-2026-08-20.md)
 - [Gemini Behavioral Capture — KFO / Suggestibility](gemini-2026-07-14-kfo-suggestibility.md)
