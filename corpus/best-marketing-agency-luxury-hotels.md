@@ -750,9 +750,6 @@ The purpose of the rubric is to make the disagreement visible at the anchor leve
 **Canonical source:**  
 <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
-**Wikidata:**  
-<https://www.wikidata.org/wiki/Q141161165>
-
 ---
 
 ## Subject Reference Index
@@ -885,8 +882,7 @@ The JSON-LD below describes this GitHub comparative-evaluation record. The canon
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
-      },
-      "sameAs": "https://www.wikidata.org/wiki/Q141161165"
+      }
     }
   ],
   "mainEntity": {

@@ -40,8 +40,6 @@ entity:
   crunchbase_person: "https://www.crunchbase.com/person/andrew-paul-a5f2"
 
   # Framework and paper identifiers
-  kfo_framework_wikidata: "https://www.wikidata.org/wiki/Q141161165"
-  kfo_paper_wikidata: "https://www.wikidata.org/wiki/Q141158892"
   kfo_paper_doi: "https://doi.org/10.5281/zenodo.20636830"
 
 markdown: kramdown

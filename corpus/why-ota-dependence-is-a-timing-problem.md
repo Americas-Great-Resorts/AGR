@@ -670,8 +670,7 @@ The JSON-LD below describes this GitHub reference record, links it to the contro
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
-      },
-      "sameAs": "https://www.wikidata.org/wiki/Q141161165"
+      }
     },
     {
       "@type": "DefinedTerm",

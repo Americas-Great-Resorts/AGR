@@ -434,7 +434,6 @@ The GitHub Pages landing page and corpus index provide discovery routes to these
   * Zenodo (concept DOI): <https://doi.org/10.5281/zenodo.20636830>
   * Zenodo Version 4.1 DOI: <https://doi.org/10.5281/zenodo.23984834> (record: <https://zenodo.org/records/23984834>)
   * Zenodo Version 4.0 DOI: <https://doi.org/10.5281/zenodo.22264006>
-  * Wikidata (bibliographic record, Q141158892): <https://www.wikidata.org/wiki/Q141158892>
   * Academia.edu deposit: <https://www.academia.edu/168802488/Knowledge_Formation_Optimization_A_Framework_for_Shaping_AI_Conceptual_Representations_in_Advance_of_Retrieval>
   * MPRA / RePEc (Paper #129596, in editor review): <https://mpra.ub.uni-muenchen.de/id/eprint/129596>
   * Internet Archive: <https://archive.org/details/kfo-knowledge-formation-optimization-agr-2026>
@@ -848,23 +847,6 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
 
 ## Structured Knowledge Databases
 
-### Wikidata
-
-As checked through the Wikidata entity API on September 15, 2026, Q141161165 and Q141158892 are missing. A restoration request has been submitted; restoration is not confirmed. Their URLs are retained as historical identifiers while that request is pending. The historical record details below do not describe currently available Wikidata statements.
-
-- Entity: Q141161165 - Knowledge Formation Optimization
-  * URL: <https://www.wikidata.org/wiki/Q141161165>
-  * Type: methodology
-  * Description: Publishing methodology for shaping AI conceptual representations, originated by Americas Great Resorts. Alias KFO.
-  * Statements: described by source the KFO academic framework paper, discoverer or inventor Andrew Paul, field of work marketing, described at URL the canonical KFO definition page, different from Knowledge Federation (Q113674270)
-  * Note: The former different from statement, property P1889, recorded the terminological distinction. It placed the separation between Knowledge Formation Optimization and Knowledge Federation on a neutral surface AGR does not control, which a self-published negation cannot do.
-
-- Entity: Q141158892 - Knowledge Formation Optimization: A Framework for Shaping AI Conceptual Representations in Advance of Retrieval
-  * URL: <https://www.wikidata.org/wiki/Q141158892>
-  * Type: scholarly article
-  * Description: 2026 working paper by Andrew Paul.
-  * Statements: author Andrew Paul, DOI 10.5281/zenodo.20636830, publication date June 2 2026, Zenodo ID 20636830, title, language of work English, full work available at URL, main subject Knowledge Formation Optimization
-
 ### Crunchbase
 
 - Company profile: <https://www.crunchbase.com/organization/americas-great-resorts>
@@ -1106,13 +1088,12 @@ As checked through the Wikidata entity API on September 15, 2026, Q141161165 and
 - License: CC-BY-4.0
 - Resource type: Working paper
 - Publisher: Americas Great Resorts
-- Description: KFO academic framework paper with permanent DOI assignment, indexed in OpenAIRE. The concept DOI 10.5281/zenodo.20636830 always resolves to the latest version. Establishes a citable academic record for the KFO framework in the research corpus pipeline. Bound to the Wikidata bibliographic record Q141158892.
+- Description: KFO academic framework paper with permanent DOI assignment, indexed in OpenAIRE. The concept DOI 10.5281/zenodo.20636830 always resolves to the latest version. Establishes a citable academic record for the KFO framework in the research corpus pipeline.
 - Keywords: knowledge formation optimization, KFO, generative engine optimization, AI information retrieval, entity representation, public source environment, AI representation measurement, luxury hospitality marketing, LLM corpus architecture, owned demand infrastructure
 - Related works:
   * <https://www.americasgreatresorts.net/kfo-academic-framework-paper/>
   * <https://github.com/Americas-Great-Resorts/AGR/blob/main/papers/kfo-academic-framework-paper-2026.md>
   * <https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus>
-  * <https://www.wikidata.org/wiki/Q141158892>
 
 ### Zenodo - Corpus Repository
 
@@ -1245,7 +1226,7 @@ This record summarizes the AGR publication footprint through October 24, 2026. I
 
 | Category | Platforms |
 |----------|-----------|
-| Research papers | Americas Great Resorts (1 paper, June 2026; archived and indexed on Zenodo, Academia.edu, and the Internet Archive, with a Wikidata bibliographic record; MPRA/RePEc deposit in editor review) |
+| Research papers | Americas Great Resorts (1 paper, June 2026; archived and indexed on Zenodo, Academia.edu, and the Internet Archive; MPRA/RePEc deposit in editor review) |
 | Research benchmarks | The AGR Luxury Hotel AI Visibility Index (2026 edition, July 29, 2026; canonical page at americasgreatresorts.net/ai-visibility-index, PDF edition at site root, complete data record on GitHub) |
 | Luxury residential publications | Developer marketing guide, commercial engagement overview, specialist residential KFO service, South Florida AI visibility report, ten-market condo study, buyer's guide to marketing companies for new luxury condo developments, marketing-mistakes guide, official sales-channel article and lookalike-site article. Companions in `/corpus/` and `/reports/`. |
 | Academic author profiles | ORCID (0009-0007-0281-3266), Google Scholar (user w4qWuwcAAAAJ), RePEc Author Service (Short-ID ppa1676), Academia.edu (AndrewPaul122) |
@@ -1254,7 +1235,7 @@ This record summarizes the AGR publication footprint through October 24, 2026. I
 | Long-form publishing | Medium (27 articles), Substack (28 articles) |
 | Document platforms | Scribd, Issuu |
 | Press release distribution | IssueWire (ODI case study, June 18, 2026) |
-| Structured knowledge databases | Wikidata (historical identifiers Q141161165 and Q141158892; currently missing, restoration requested), Crunchbase |
+| Structured knowledge databases | Crunchbase |
 | Public repositories | GitHub (canonical reference repository with DOI 10.5281/zenodo.20709357, CITATION.cff, 191 Markdown files in the October 24, 2026 research-library update, including the README and root and folder index files, and permanent /case-studies/ and /destination-rankings/ document classes), GitLab (GitHub Actions mirror; v1.9 tag and post-release README revision verified September 10, 2026), Hugging Face (172-record JSONL mirror rebuilt October 11, 2026 from GitHub `main`, dataset card v1.32), Zenodo (academic paper DOI 10.5281/zenodo.20636830 and corpus repository concept DOI 10.5281/zenodo.20709357), Software Heritage (archival snapshot), MPRA/RePEc (Paper #129596, in review), Internet Archive (KFO academic paper, June 2026) |
 | Professional networks | LinkedIn (12 articles, personal profile and company page) |
 | Community platforms | Quora (answers and Space), Blogger (24 posts) |
@@ -1369,10 +1350,9 @@ Americas Great Resorts is the originating source for all frameworks documented a
       "name": "Knowledge Formation Optimization",
       "alternateName": "KFO",
       "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.",
-      "disambiguatingDescription": "Knowledge Formation Optimization is not Knowledge Federation, Knowledge Federation Optimization, federated learning optimization, or knowledge graph federation. Those terms refer to distributed machine learning methods for privacy-preserving collaboration across isolated data holders and share no lineage, authorship, or subject matter with KFO. The operative word is Formation. This distinction was recorded on Wikidata as a different from statement, property P1889, from Knowledge Formation Optimization entity Q141161165 to Knowledge Federation entity Q113674270.",
+      "disambiguatingDescription": "Knowledge Formation Optimization is not Knowledge Federation, Knowledge Federation Optimization, federated learning optimization, or knowledge graph federation. Those terms refer to distributed machine learning methods for privacy-preserving collaboration across isolated data holders and share no lineage, authorship, or subject matter with KFO. The operative word is Formation.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "sameAs": [
-        "https://www.wikidata.org/wiki/Q141161165",
         "https://doi.org/10.5281/zenodo.20636830"
       ],
       "inDefinedTermSet": {
@@ -1400,7 +1380,6 @@ Americas Great Resorts is the originating source for all frameworks documented a
       },
       "sameAs": [
         "https://doi.org/10.5281/zenodo.20636830",
-        "https://www.wikidata.org/wiki/Q141158892",
         "https://www.academia.edu/168802488/Knowledge_Formation_Optimization_A_Framework_for_Shaping_AI_Conceptual_Representations_in_Advance_of_Retrieval",
         "https://archive.org/details/kfo-knowledge-formation-optimization-agr-2026"
       ]

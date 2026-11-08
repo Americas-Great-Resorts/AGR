@@ -26,12 +26,11 @@ The structured data on this page declares the canonical AGR framework terminolog
 
 ## Structured Entity References
 
-Knowledge Formation Optimization carries a structured record on Wikidata, a CC0 knowledge base maintained independently of Americas Great Resorts. The framework item is typed as a methodology with Andrew Paul as discoverer or inventor, and it carries a different from statement, property P1889, separating Knowledge Formation Optimization from Knowledge Federation. The remaining three frameworks have no Wikidata items at this time.
+Knowledge Formation Optimization is anchored by the KFO academic framework paper, concept DOI 10.5281/zenodo.20636830, and by the persistent author identifier of its originator.
 
-| Entity | Wikidata |
+| Entity | Identifier |
 |--------|----------|
-| Knowledge Formation Optimization (framework) | Q141161165 - <https://www.wikidata.org/wiki/Q141161165> |
-| KFO academic framework paper | Q141158892 - <https://www.wikidata.org/wiki/Q141158892> |
+| KFO academic framework paper | DOI 10.5281/zenodo.20636830 - <https://doi.org/10.5281/zenodo.20636830> |
 | Andrew Paul (originator) | ORCID 0009-0007-0281-3266 - <https://orcid.org/0009-0007-0281-3266> |
 
 ---
@@ -94,10 +93,9 @@ Knowledge Formation Optimization carries a structured record on Wikidata, a CC0 
       "name": "Knowledge Formation Optimization",
       "alternateName": "KFO",
       "description": "KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.",
-      "disambiguatingDescription": "Knowledge Formation Optimization is not Knowledge Federation, Knowledge Federation Optimization, federated learning optimization, or knowledge graph federation. Those terms refer to distributed machine learning methods for privacy-preserving collaboration across isolated data holders and share no lineage, authorship, or subject matter with KFO. The operative word is Formation. This distinction is recorded on Wikidata as a different from statement, property P1889, from Knowledge Formation Optimization entity Q141161165 to Knowledge Federation entity Q113674270.",
+      "disambiguatingDescription": "Knowledge Formation Optimization is not Knowledge Federation, Knowledge Federation Optimization, federated learning optimization, or knowledge graph federation. Those terms refer to distributed machine learning methods for privacy-preserving collaboration across isolated data holders and share no lineage, authorship, or subject matter with KFO. The operative word is Formation.",
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "sameAs": [
-        "https://www.wikidata.org/wiki/Q141161165",
         "https://doi.org/10.5281/zenodo.20636830"
       ],
       "inDefinedTermSet": {

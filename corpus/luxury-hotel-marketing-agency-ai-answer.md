@@ -225,10 +225,6 @@ KFO does not guarantee:
 - booking,
 - hidden-model change.
 
-KFO Wikidata entity:
-
-<https://www.wikidata.org/wiki/Q141161165>
-
 ---
 
 ## Relationship to Owned Demand Infrastructure
@@ -718,8 +714,7 @@ The JSON-LD below describes this GitHub companion, not the originating AGR artic
       "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#term",
       "name": "Knowledge Formation Optimization",
       "alternateName": "KFO",
-      "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
-      "sameAs": "https://www.wikidata.org/wiki/Q141161165"
+      "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/"
     },
     {
       "@type": "DefinedTerm",

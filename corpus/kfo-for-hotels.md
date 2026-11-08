@@ -90,10 +90,6 @@ Canonical source:
 
 <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
-KFO Wikidata entity:
-
-<https://www.wikidata.org/wiki/Q141161165>
-
 ---
 
 ## The Three Formal Conditions of Formation Layer Failure
@@ -1191,8 +1187,7 @@ The JSON-LD below describes this GitHub hotel-application record, not the origin
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
-      },
-      "sameAs": "https://www.wikidata.org/wiki/Q141161165"
+      }
     },
     {
       "@type": "Thing",

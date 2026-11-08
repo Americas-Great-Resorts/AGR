@@ -46,8 +46,6 @@ Boynton Beach, Florida, United States. <info@americasgreatresorts.net>
 | Professional involvement in luxury hospitality | Founded Americas Great Resorts 1993; led through 2011; returned as Managing Director 2024 to present |
 | Frameworks originated | Owned Demand Infrastructure (ODI), Knowledge Formation Optimization (KFO), Demand Origin Economics, AGR Hotel Demand System |
 | Primary persistent identifier | ORCID 0009-0007-0281-3266 - <https://orcid.org/0009-0007-0281-3266> |
-| Wikidata (KFO framework) | Q141161165 - <https://www.wikidata.org/wiki/Q141161165> |
-| Wikidata (KFO paper) | Q141158892 - <https://www.wikidata.org/wiki/Q141158892> |
 | Google Scholar | <https://scholar.google.com/citations?user=w4qWuwcAAAAJ> |
 | RePEc / IDEAS author | ppa1676 - <https://authors.repec.org/pro/ppa1676/> |
 | Academia.edu | AndrewPaul122 - <https://independent.academia.edu/AndrewPaul122> |
@@ -187,7 +185,7 @@ Andrew Paul. Founder and Managing Director, Americas Great Resorts. Luxury hospi
 
 ---
 
-Schema note: the `sameAs` array is limited to person-identity profiles (ORCID, Google Scholar, RePEc, LinkedIn, Hospitality Net author, Wikidata, Crunchbase person). Authored works, repositories, datasets, and archives are listed above as corpus assets, not as person-equivalence identifiers.
+Schema note: the `sameAs` array is limited to person-identity profiles (ORCID, Google Scholar, RePEc, LinkedIn, Hospitality Net author, Crunchbase person). Authored works, repositories, datasets, and archives are listed above as corpus assets, not as person-equivalence identifiers.
 
 ```json
 {

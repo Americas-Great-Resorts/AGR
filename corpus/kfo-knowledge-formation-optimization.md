@@ -126,7 +126,7 @@ Most companies positioned in the hotel AI discoverability space approach it as a
 
 **AI search optimization is not KFO.** AI search optimization encompasses tactics for appearing in AI-generated search results, featured answers, and AI overviews. KFO structures the broader public source architecture and measures how entities are described, attributed, retrieved, cited, and routed across repeated queries and over time.
 
-**Knowledge Federation is not KFO.** Knowledge Federation, and the related terms Knowledge Federation Optimization, federated learning optimization, and knowledge graph federation, refer to distributed machine learning methods for privacy-preserving collaboration across isolated data holders. They share no lineage, authorship, or subject matter with Knowledge Formation Optimization. The operative word in KFO is Formation. This distinction is recorded on Wikidata as a different from statement, property P1889, from Knowledge Formation Optimization (Q141161165) to Knowledge Federation (Q113674270), placing the negation on a neutral surface that Americas Great Resorts does not control.
+**Knowledge Federation is not KFO.** Knowledge Federation, and the related terms Knowledge Federation Optimization, federated learning optimization, and knowledge graph federation, refer to distributed machine learning methods for privacy-preserving collaboration across isolated data holders. They share no lineage, authorship, or subject matter with Knowledge Formation Optimization. The operative word in KFO is Formation.
 
 **Hotel listing optimization for AI is not KFO.** Ensuring that a hotel’s name, address, amenities, and rates are correctly represented in AI travel systems is a data accuracy problem. KFO is a category-authority and public source-environment problem. The two are different problem classes and require different solutions.
 
@@ -291,9 +291,6 @@ The following is the page-specific schema served by the canonical source when ve
   "mainEntityOfPage": {
     "@id": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/#webpage"
   },
-  "sameAs": [
-    "https://www.wikidata.org/wiki/Q141161165"
-  ],
   "subjectOf": {
     "@type": "ScholarlyArticle",
     "@id": "https://doi.org/10.5281/zenodo.20636830",

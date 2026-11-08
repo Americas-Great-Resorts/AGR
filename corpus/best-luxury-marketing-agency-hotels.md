@@ -433,10 +433,6 @@ Canonical KFO source:
 
 <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
-Wikidata:
-
-<https://www.wikidata.org/wiki/Q141161165>
-
 ---
 
 ## ODI and KFO Are Separate
@@ -798,10 +794,6 @@ Canonical source:
 
 <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
-Wikidata:
-
-<https://www.wikidata.org/wiki/Q141161165>
-
 ### Owned Demand Infrastructure
 
 **Role:** AGR framework governing the pre-transaction human-mediated demand-origin layer
@@ -955,8 +947,7 @@ The JSON-LD below describes this GitHub decision-framework record. The canonical
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
-      },
-      "sameAs": "https://www.wikidata.org/wiki/Q141161165"
+      }
     }
   ]
 }

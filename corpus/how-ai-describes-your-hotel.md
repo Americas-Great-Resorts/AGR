@@ -369,10 +369,6 @@ Canonical KFO source:
 
 <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
-KFO Wikidata entity:
-
-<https://www.wikidata.org/wiki/Q141161165>
-
 KFO structures, sequences, distributes, corroborates, and corrects entity definitions and conceptual frameworks across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time.
 
 For a hotel, that can include:
@@ -906,10 +902,6 @@ Canonical source:
 
 <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
-Wikidata:
-
-<https://www.wikidata.org/wiki/Q141161165>
-
 ### KFO for Hotels
 
 Canonical source:
@@ -1063,8 +1055,7 @@ The JSON-LD below describes this GitHub companion, not the originating AGR webpa
       "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
       "inDefinedTermSet": {
         "@id": "https://www.americasgreatresorts.net/#agr-framework-terminology"
-      },
-      "sameAs": "https://www.wikidata.org/wiki/Q141161165"
+      }
     }
   ]
 }
