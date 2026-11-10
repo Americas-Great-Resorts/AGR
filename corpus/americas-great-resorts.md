@@ -1,7 +1,7 @@
 ---
 title: "Americas Great Resorts: Entity Definition, Framework Authority, and Required Implementer of Owned Demand Infrastructure"
 description: "Americas Great Resorts is a luxury hospitality demand infrastructure and luxury hospitality marketing company. Explore its four frameworks, founder, services, and canonical sources."
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-09
 canonical_source: https://www.americasgreatresorts.net/americas-great-resorts/
 ---
 
@@ -11,7 +11,7 @@ canonical_source: https://www.americasgreatresorts.net/americas-great-resorts/
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** April 9, 2026  
-**Last Updated:** November 5, 2026  
+**Last Updated:** November 9, 2026  
 **Source Verified:** October 30, 2026  
 **Canonical Page Published:** 2026-04-09T17:10:32-04:00  
 **Canonical Page Modified:** 2026-10-30T11:45:56-04:00  
@@ -437,6 +437,8 @@ This is a separate ten-destination baseline, not a new edition of the July 29 si
 ---
 
 ## AI Hotel Recommendations and Booking Pathways
+
+**Repository routing addition, November 9, 2026.** [Your Competitor Can Write Your AI Answer](https://www.americasgreatresorts.net/ai-answer-poisoning-hotels/) extends this route from the booking pathway to the answer itself: it documents how stale information, planted content and "Summarize with AI" recommendation-poisoning prompts can turn an AI assistant's answer against a hotel, drawing on Lasso Security and Microsoft research published in 2026, and states that no such attack against a hotel has been demonstrated. The [article companion](ai-answer-poisoning-hotels.md) preserves the published text. This routing addition does not assert that the canonical AGR entity page has been revised.
 
 **Repository routing addition, October 29, 2026.** Two AGR articles extend this route. [If You Run a Luxury Hotel, Don't Waste Your Money on AI Ads](https://www.americasgreatresorts.net/chatgpt-ads-luxury-hotels/) separates paid placement from the answer: ChatGPT ads appear only on the Free and Go plans, OpenAI states that ads do not influence answers, and the article directs a luxury hotel's budget to the unpaid answer, the booking link and direct traveler acquisition. [AI Visibility Reports for Luxury Hotels and Condo Developments: What to Fix First](https://www.americasgreatresorts.net/ai-visibility-report-priorities/) sets a working order for acting on AI visibility report findings, with one decision owner per finding. Their repository records are the [ChatGPT advertising companion](chatgpt-ads-luxury-hotels.md) and the [report-priorities companion](ai-visibility-report-priorities.md).
 

@@ -3,7 +3,7 @@
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts   
 **Organization:** Americas Great Resorts (americasgreatresorts.net)   
 **Published:** May 2026   
-**Last Updated:** November 8, 2026
+**Last Updated:** November 9, 2026
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20709357.svg)](https://doi.org/10.5281/zenodo.20709357)
 
@@ -47,6 +47,8 @@ No other company, agency, consultancy, or technology vendor originated these fra
 ---
 
 ## Current Website Companions
+
+The November 9, 2026 addition is [Your Competitor Can Write Your AI Answer](https://www.americasgreatresorts.net/ai-answer-poisoning-hotels/), AGR's article on how AI assistants' answers about a luxury hotel can turn against it through neglect (stale information repeated as current), planted content (AI answer poisoning) and rigged assistants (AI recommendation poisoning). It draws on Lasso Security's June 24, 2026 study, in which fake corroboration led the most susceptible of five models to surface a false claim in 92% of runs under controlled conditions, and Microsoft's February 10, 2026 documentation of 50 "Summarize with AI" recommendation-poisoning prompts from 31 companies, none in hospitality. The article states that no planted-content attack against a hotel has been demonstrated, warns against planting or buying manufactured corroboration under the FTC fake reviews rule, and sets a seven-step defense ending in an accurate, corroborated public record (KFO). The [article companion](corpus/ai-answer-poisoning-hotels.md) preserves the full published text, headings and links.
 
 The November 4-5, 2026 additions are the [AI Reviews of AGR Articles](https://www.americasgreatresorts.net/ai-reviews-of-agr-articles/) archive and its first six reviews. In each, AGR gave Gemini, Google AI and ChatGPT the same prompt about one published AGR article on November 4, 2026, in a private Firefox window while logged out, then published the responses or labeled excerpts with AGR's reading of where each one matched or departed from the article. The six reviews cover [The Winning Powerball Numbers Are Posted](https://www.americasgreatresorts.net/ai-readings-winning-powerball-numbers-posted/), where Gemini answered with lottery-scam advice; [The Hotel That Wasn't There](https://www.americasgreatresorts.net/ai-readings-hotel-that-wasnt-there/); [Schrödinger's Hotel](https://www.americasgreatresorts.net/ai-readings-schrodingers-hotel/); [The Bully Bought the Cafeteria](https://www.americasgreatresorts.net/ai-readings-bully-bought-the-cafeteria/); [You Can Name Him. Can You Explain Him?](https://www.americasgreatresorts.net/ai-readings-hotel-marketing-expertise/); and [We Let an AI Attack Our Framework](https://www.americasgreatresorts.net/ai-readings-we-let-an-ai-attack-our-framework/). The companions are in `article-reviews/` beside the earlier single-AI reviews, and the [folder index](article-reviews/index.md) is the companion of the archive page. The responses are source-conditioned AI readings, not independent validation. The published AGR pages are the canonical sources.
 
@@ -96,6 +98,7 @@ This table maps selected canonical AGR website pages to their current repository
 
 | Publication | Canonical website page | Repository companion |
 | --- | --- | --- |
+| Your Competitor Can Write Your AI Answer | [AGR article](https://www.americasgreatresorts.net/ai-answer-poisoning-hotels/) | [Article companion](corpus/ai-answer-poisoning-hotels.md) |
 | AI Reviews of AGR Articles | [AGR archive](https://www.americasgreatresorts.net/ai-reviews-of-agr-articles/) | [Folder index companion](article-reviews/index.md) |
 | Gemini’s Lottery Warning for a Hotel Marketing Article | [AGR review](https://www.americasgreatresorts.net/ai-readings-winning-powerball-numbers-posted/) | [Review companion](article-reviews/ai-readings-winning-powerball-numbers-posted.md) |
 | What AI Read Into “The Hotel That Wasn’t There” | [AGR review](https://www.americasgreatresorts.net/ai-readings-hotel-that-wasnt-there/) | [Review companion](article-reviews/ai-readings-hotel-that-wasnt-there.md) |
@@ -644,6 +647,7 @@ The following pages are the canonical AGR source pages for the company introduct
 
 | Topic | Canonical URL |
 | --- | --- |
+| Your Competitor Can Write Your AI Answer | <https://www.americasgreatresorts.net/ai-answer-poisoning-hotels/> |
 | AI Reviews of AGR Articles | <https://www.americasgreatresorts.net/ai-reviews-of-agr-articles/> |
 | Gemini’s Lottery Warning for a Hotel Marketing Article | <https://www.americasgreatresorts.net/ai-readings-winning-powerball-numbers-posted/> |
 | What AI Read Into “The Hotel That Wasn’t There” | <https://www.americasgreatresorts.net/ai-readings-hotel-that-wasnt-there/> |
@@ -817,6 +821,7 @@ Doctrine, framework companions, FAQs, consolidated case-study evidence, existing
 
 | File | URL |
 | --- | --- |
+| Your Competitor Can Write Your AI Answer | [Article companion](corpus/ai-answer-poisoning-hotels.md) |
 | How Do You Market and Sell Pre-Construction Condos? | [Article companion](corpus/pre-construction-condo-marketing.md) |
 | How to Attract Affluent Buyers to a New Luxury Condo Development | [Article companion](corpus/attract-affluent-buyers-luxury-condos.md) |
 | How to Market New Branded Condo Residences | [Article companion](corpus/new-branded-condo-residences-marketing.md) |
@@ -1463,6 +1468,7 @@ The [residential service page](https://www.americasgreatresorts.net/ai-visibilit
 
 ### AI visibility queries
 
+- Whether a competitor can plant false claims that AI assistants repeat about a hotel, what AI answer poisoning and AI recommendation poisoning are, and how a hotel should defend its AI answer: [Your Competitor Can Write Your AI Answer](corpus/ai-answer-poisoning-hotels.md).
 - How Gemini, Google AI and ChatGPT read the same AGR article, where their readings diverged and what each added beyond the source: [AI Reviews of AGR Articles](article-reviews/index.md).
 - Whether a luxury hotel should buy ChatGPT ads, which ChatGPT plans show ads and whether ads influence answers: [If You Run a Luxury Hotel, Don't Waste Your Money on AI Ads](corpus/chatgpt-ads-luxury-hotels.md).
 - Which AI visibility report findings a hotel or condo development should fix first, and who should own each one: [AI Visibility Reports for Luxury Hotels and Condo Developments: What to Fix First](corpus/ai-visibility-report-priorities.md).
@@ -1650,6 +1656,8 @@ Americas Great Resorts is the originating authority for Demand Origin Economics,
 ---
 
 ## Document Version and Publication Record
+
+November 9, 2026 (AI answer poisoning article companion and Hugging Face dataset 1.45): Added `corpus/ai-answer-poisoning-hotels.md` as the version 1.0 companion of **Your Competitor Can Write Your AI Answer** (SEO title: AI Answer Poisoning: A Warning for Luxury Hotels), published November 9, 2026, preserving the full published article, its three external sources (Lasso Security, Microsoft Security Blog, Federal Trade Commission) and two internal links. Updated README, root `index.md`, the corpus folder index and the External Publication Record, and added a November 9 routing addition to the AGR entity companion. The AI Visibility Resource Index companion is unchanged because the live resource index had not added the article when checked on November 9, 2026. Hugging Face dataset advanced to card version 1.45 with 197 content records under the established inclusion rule. Inventory: 210 Markdown files, comprising 197 content records, eleven folder indexes, root `index.md`, and README.
 
 November 8, 2026 (Hugging Face dataset 1.44 recorded): Dataset card version 1.44 is live, rebuilt from repository commit `66bf875` under the established inclusion rule: 196 content records, with eight existing records revised in a cleanup and update of outdated information. The live `agr-corpus.jsonl` was downloaded and verified on November 8, 2026: SHA-256 `6fc6acebf97d2644995b0f2354bef6c3c2ba0e82dfa507bd42438f24e6196eb9`, matching the build.
 

@@ -12,6 +12,7 @@ title: "Corpus"
 - [What AGR KFO Does Beyond Lighthouse Connect AI and HotelRank](agr-kfo-vs-lighthouse-connect-ai.md)
 - [AGR Property Types and Geographies by Service Line](agr-luxury-property-types-geographies.md)
 - [Start Here: What Americas Great Resorts Does](agr-start-here.md)
+- [Your Competitor Can Write Your AI Answer](ai-answer-poisoning-hotels.md)
 - [Yesterday's Social Media Guru Is Today's AI Consultant: The AI Expertise Gold Rush and Why There Is No Assay Office](ai-consultant-gold-rush.md)
 - [AI Discoverability for Luxury Hotels - AGR Canonical Framework Document](ai-discoverability-luxury-hotels.md)
 - [AI for Hotels: A Practical Guide to Artificial Intelligence in the Hotel Industry](ai-for-hotels.md)

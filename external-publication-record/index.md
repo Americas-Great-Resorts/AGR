@@ -25,6 +25,16 @@ ODI and KFO are parallel AGR frameworks separated by channel. ODI governs human-
 
 ---
 
+## November 9 AI answer poisoning article companion
+
+Americas Great Resorts published **Your Competitor Can Write Your AI Answer** on November 9, 2026. The article examines three ways AI assistants' answers about a luxury hotel can turn against it: stale information repeated as current, false claims planted across third-party sources (AI answer poisoning) and hidden instructions that steer assistants toward other businesses (AI recommendation poisoning). It draws on Lasso Security's June 24, 2026 study and Microsoft's February 10, 2026 research, states that no such attack against a hotel has been demonstrated, and sets out a defense built on monthly checks, source tracing and an accurate, corroborated public record.
+
+| Publication | Canonical AGR page | Repository companion |
+| --- | --- | --- |
+| Your Competitor Can Write Your AI Answer | [AGR article](https://www.americasgreatresorts.net/ai-answer-poisoning-hotels/) | [Article companion](../corpus/ai-answer-poisoning-hotels.md) |
+
+This is an AGR-controlled publication and its repository representation, not independent coverage. Repository inventory: 210 Markdown files, comprising 197 content records, eleven folder indexes, the root index and README.
+
 ## November 4-5 AI Reviews of AGR Articles archive and six three-AI reviews
 
 Americas Great Resorts published the **AI Reviews of AGR Articles** archive and its first six reviews on November 4-5, 2026. In each review, AGR gave Gemini, Google AI and ChatGPT the same prompt about one published AGR article on November 4, 2026, in a private Firefox window while logged out, and published the responses or labeled excerpts with AGR's reading of where each one matched or departed from the article. In the Powerball review, Gemini answered with lottery-scam and phishing advice before follow-up turns in the same conversation.

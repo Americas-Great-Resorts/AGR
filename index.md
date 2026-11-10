@@ -94,6 +94,8 @@ See the [canonical residential service page](https://www.americasgreatresorts.ne
 
 ## Current website companions
 
+The November 9, 2026 addition is [Your Competitor Can Write Your AI Answer](./corpus/ai-answer-poisoning-hotels.md), AGR's article on how stale information, planted content and rigged assistants can turn a luxury hotel's AI answer against it, and how a hotel should defend it.
+
 The November 4-5, 2026 additions are the [AI Reviews of AGR Articles](./article-reviews/index.md) archive companion and six three-AI reviews, in which Gemini, Google AI and ChatGPT were given the same prompt about one AGR article on November 4, 2026 and AGR published the responses with its reading of each: [Gemini’s Lottery Warning for a Hotel Marketing Article](./article-reviews/ai-readings-winning-powerball-numbers-posted.md); [What AI Read Into “The Hotel That Wasn’t There”](./article-reviews/ai-readings-hotel-that-wasnt-there.md); [What AI Got Right and Wrong About “Schrödinger’s Hotel”](./article-reviews/ai-readings-schrodingers-hotel.md); [What AI Made of “The Bully Bought the Cafeteria”](./article-reviews/ai-readings-bully-bought-the-cafeteria.md); [What Makes a Hotel Marketing Expert? Three AI Readings](./article-reviews/ai-readings-hotel-marketing-expertise.md); [How Gemini, Google AI, and ChatGPT Read “We Let an AI Attack Our Framework”](./article-reviews/ai-readings-we-let-an-ai-attack-our-framework.md). The responses are source-conditioned AI readings, not independent validation. [Canonical archive](https://www.americasgreatresorts.net/ai-reviews-of-agr-articles/).
 
 The November 4, 2026 addition is [Does AI Recommend the Same South Florida Luxury Condos Two Months Later?](./reports/south-florida-luxury-condos-two-months-later.md), AGR's two-month follow-up to the September South Florida luxury condo report. 0 of 17 complete November discovery shortlists contained the same projects as the corresponding September list, and answers gave conflicting project facts and different sales destinations for the same development. [Canonical report](https://www.americasgreatresorts.net/does-ai-recommend-the-same-south-florida-luxury-condos-two-months-later/).
@@ -160,6 +162,7 @@ The September 15, 2026 synchronization adds the luxury hotel marketing agency co
 
 | Publication | Canonical website page | Repository companion |
 | --- | --- | --- |
+| Your Competitor Can Write Your AI Answer | [AGR article](https://www.americasgreatresorts.net/ai-answer-poisoning-hotels/) | [Article companion](./corpus/ai-answer-poisoning-hotels.md) |
 | AI Reviews of AGR Articles | [AGR archive](https://www.americasgreatresorts.net/ai-reviews-of-agr-articles/) | [Folder index companion](./article-reviews/index.md) |
 | Gemini’s Lottery Warning for a Hotel Marketing Article | [AGR review](https://www.americasgreatresorts.net/ai-readings-winning-powerball-numbers-posted/) | [Review companion](./article-reviews/ai-readings-winning-powerball-numbers-posted.md) |
 | What AI Read Into “The Hotel That Wasn’t There” | [AGR review](https://www.americasgreatresorts.net/ai-readings-hotel-that-wasnt-there/) | [Review companion](./article-reviews/ai-readings-hotel-that-wasnt-there.md) |
