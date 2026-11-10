@@ -1,296 +1,214 @@
 ---
-title: "What Is Hotel Marketing? Definition, Channels and Measurement"
+title: "What Is Hotel Marketing?"
 last_modified_at: 2026-11-10
 ---
 
-# What Is Hotel Marketing? Definition, Channels and Measurement
+# What Is Hotel Marketing?
 
 **Document Type:** Canonical Page Companion  
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts  
 **Last Updated:** November 10, 2026  
-**Source Verified:** September 14, 2026  
+**Source Verified:** November 10, 2026  
 **Canonical Page Published:** 2026-03-12  
-**Canonical Page Modified:** 2026-09-14T18:12:00-04:00  
+**Canonical Page Modified:** 2026-11-10T11:50:12-04:00  
 **Canonical Source:** <https://www.americasgreatresorts.net/what-is-hotel-marketing/>
 
 This companion preserves the current published page's wording, headings, qualifications, tables and links. WordPress layout code and interactive forms are omitted. The canonical AGR page controls if the two differ. This is another representation of the same AGR publication, not independent corroboration.
 
 ---
 
-Hotel marketing is the governed system through which a hotel introduces itself to qualified travelers, converts that interest into direct bookings, and develops guest relationships that produce repeat demand. Americas Great Resorts formalizes those jobs as three operating Functions of the AGR Hotel Demand System: Demand Introduction, Conversion Infrastructure, and Guest Relationship Development.
+Hotel marketing is the process of attracting guests, generating bookings, and building relationships that bring guests back. It combines brand positioning, promotion, the hotel website and booking experience, and ongoing guest communication to support the property’s revenue goals.
 
-In practice, hotel marketing includes brand positioning, the hotel website, SEO, paid advertising, social media, email, public relations, metasearch, OTA distribution, guest reviews, loyalty and AI discovery. A useful strategy connects each activity to a defined audience, a booking objective and a way to measure the result.
+The main hotel marketing channels include search, social media, advertising, email, metasearch, and online travel agencies. Reviews, the booking engine, CRM, and loyalty programs help travelers assess a property, complete a reservation, and return.
 
-This guide explains the main strategies and channels, how to build a marketing plan, and how to decide whether the next investment should attract new travelers, improve conversion or increase repeat stays. The category guidance applies broadly; AGR specializes in independent luxury hotels, resorts and cruise lines.
+A useful hotel marketing strategy connects those activities to a specific business need. That might be reaching suitable new guests, filling quieter dates, improving direct booking conversion, or encouraging previous guests to stay again. The right mix depends on the property, its audience, its budget, and the problem it needs to solve.
 
-<h2 id="hotel-marketing-at-a-glance">Hotel marketing at a glance</h2>
+## Hotel marketing at a glance
 
-- **Know the guest:** identify the traveler, trip purpose, booking window and reason to choose your property.
-- **Make discovery useful:** answer real traveler questions through search, social, public relations and accurate public property information.
-- **Make direct booking clear:** connect the offer, room details, total price, policies and booking path.
-- **Separate acquisition from retention:** prospect email and past-guest email serve different commercial jobs.
-- **Measure commercial outcomes:** track completed bookings, acquisition cost, direct share and direct repeat behavior alongside campaign results.
+- **Attract suitable guests.** Define whom the property serves and give those travelers a reason to consider it.
+- **Make booking straightforward.** Keep room information, availability, prices, and terms clear across the research and reservation journey.
+- **Build repeat business.** Deliver the promised experience and maintain relevant communication with guests who have given appropriate permission.
+- **Choose channels for their job.** Reaching a new prospect and encouraging a previous guest to return require different audiences and messages.
+- **Measure commercial results.** Examine completed stays, revenue, acquisition costs, and continuing guest relationships alongside traffic and engagement.
 
-**On this page**
+## How does hotel marketing work?
 
-- [10 practical hotel marketing strategies](#hotel-marketing-strategies)
-- [The channel and discipline map](#hotel-marketing-channels)
-- [How to build a strategy and plan](#hotel-marketing-plan)
-- [The three AGR operating Functions](#hotel-demand-system)
-- [OTA dependence and the billboard effect](#reduce-ota-dependence)
-- [Measurement and documented results](#hotel-marketing-roi)
-- [Frequently asked questions](#hotel-marketing-faq)
+Hotel marketing connects discovery, consideration, booking, and the relationship after the stay. A traveler might first encounter a property through a search result, an AI answer, a recommendation, an advertisement, or an OTA. They may then compare several properties and booking channels before making a reservation.
 
-<h2 id="hotel-marketing-strategies">10 practical hotel marketing strategies</h2>
+The hotel’s task changes at each point. An unfamiliar traveler needs a reason to consider the property. An interested traveler needs reliable information and a clear booking path. A previous guest needs a relevant reason to return.
 
-Start with the commercial problem the hotel needs to solve. The strategies below cover introduction, conversion and repeat demand. Their priority depends on the property, its guests and the constraint in its current performance.
+For example, a resort seeking more midweek business could introduce a dated offer to couples able to travel during the week, explain the stay clearly on its website, and make the advertised dates easy to book. It could run a separate return-stay message for eligible past guests. This is an illustrative planning example, not a reported campaign result.
 
-<h3 id="target-guest">1. Define the target guest and the reason to choose your hotel</h3>
+The [hotel marketing funnel](https://www.americasgreatresorts.net/hotel-marketing-funnel/) explains how travelers move through those stages. A campaign’s effectiveness depends on both the audience it reaches and what happens after that audience responds.
 
-Group prospective guests by trip purpose, geography, season, booking window and the experiences they value. Use booking records, inquiries and guest feedback to test those segments. A resort filling weekday stays may need a different audience and offer from a city hotel seeking conference business.
+## What are the main hotel marketing channels?
 
-**Put it into practice:** write one clear proposition for each priority segment: who the stay is for, why this property fits, and what makes the offer credible. Use the same promise in the campaign and on its destination page. Measure qualified inquiries and completed bookings by segment.
+Hotel marketing combines channels with the capabilities that turn interest into bookings and repeat stays. A property can use several channels at once, each contributing differently to discovery, booking, or repeat demand. No single activity covers the whole journey.
 
-<h3 id="website-and-booking-path">2. Build a website and booking path that answer the decision</h3>
+Base positioning on guest research: reservation patterns, reviews, inquiries, and defined guest types. Use that evidence to decide whom the property serves and what those travelers need to understand.
 
-The hotel website should explain the stay before asking someone to reserve it. Show current room photography, meaningful room differences, location, amenities, availability, total price and cancellation terms. Check the journey from a campaign landing page to a completed reservation on a phone as well as a desktop.
-
-**Put it into practice:** send an offer to the relevant room, package or experience page. Remove mismatches between the advertised offer and the booking engine. Track booking starts and completed reservations to locate where interested travelers stop.
-
-<h3 id="seo-and-local-discovery">3. Use SEO and local discovery to answer traveler questions</h3>
-
-Build useful content around the searches a suitable guest makes: the destination, neighborhood, travel purpose and property experience. Explain actual location, transport, accessibility, room options and nearby activities with specific, current information. Keep the property details on your website and Google Business Profile accurate.
-
-**Put it into practice:** answer a question your reservations team hears repeatedly, then connect that answer to the relevant stay or room information. Review search queries, qualified organic visits and completed bookings rather than judging the content by traffic alone.
-
-<h3 id="new-audience-development">4. Give new audiences a direct relationship path</h3>
-
-Search, paid social, public relations, partnerships and prospect email can introduce a hotel to travelers beyond its existing guest base. The next question is what the property retains from that introduction. Awareness, an anonymous visit, a permissioned inquiry and a reservation are different outcomes.
-
-**Put it into practice:** connect acquisition activity to a relevant opening update, event inquiry, offer request or direct booking path. Record the source and the permission associated with the relationship. Measure qualified new contacts and subsequent booking activity. A paid introduction can still produce a direct relationship the hotel can continue.
-
-<h3 id="paid-search-and-metasearch">5. Give paid search and metasearch distinct objectives</h3>
-
-Branded search addresses travelers looking for the hotel by name. Nonbrand search can introduce the property against destination and category searches. Metasearch presents rates within a comparison environment. Evaluate those activities separately because they encounter different levels of existing intent.
-
-**Put it into practice:** separate branded and nonbrand reporting, align landing pages with the search, and assess results after cancellations and acquisition costs. An attributed booking alone does not establish that the traveler would otherwise have booked elsewhere.
-
-<h3 id="social-pr-and-partnerships">6. Use social media, public relations and partnerships to demonstrate the stay</h3>
-
-Show the experience a suitable traveler can expect: a room walkthrough, the setting, a local itinerary, a dining experience or an event. Match the story to the audience and keep its claims consistent with the property. Guest reviews provide additional evidence about the experience; respond to feedback and correct recurring operational problems.
-
-**Put it into practice:** give each collaboration or campaign an appropriate next step, such as viewing the experience, making an inquiry or booking a package. Distinguish exposure and engagement from visits, inquiries and reservations. Publisher coverage remains a third-party account, even when the hotel supplied the story.
-
-<h3 id="hotel-email-marketing">7. Run separate email programs for prospects and past guests</h3>
-
-Email to a qualified prospect audience can introduce the hotel. Email to past guests can develop an existing relationship into a repeat stay. Pre-arrival communication can support the booked experience and relevant additional purchases. These programs share a channel but should have different audiences, objectives and reporting.
-
-**Put it into practice:** separate prospect acquisition from past-guest reactivation. Use relevant trip interests, stay history and timing where those data are available and appropriate to use. Compare completed bookings, net revenue and unsubscribes as well as engagement. A larger database is useful only when its relationships remain relevant and permissioned.
-
-<h3 id="ai-discovery">8. Make the hotel accurately represented in AI discovery</h3>
-
-AI-generated answers can introduce a hotel or help a traveler evaluate it. Publish clear, current answers about the property and check whether important facts agree across the hotel website and relevant third-party sources. Distinguish being named in an answer, being described accurately, being cited and receiving a referral visit.
-
-**Put it into practice:** record the answers to a consistent set of relevant traveler questions, including the query, platform, date, sources and property descriptions. Correct demonstrable source errors and repeat the observations. For a page to be eligible as a supporting link in Google AI Overviews or AI Mode, it must be indexed and eligible to appear in Google Search with a snippet. Existing SEO practices still apply; any structured data should match the visible content, and no special AI schema is required. Eligibility does not guarantee inclusion. See the Google Search Central source below.
-
-**Illustrative example:** a family-friendly resort appears as adults-only in a recorded AI answer. Verify its age policy, state it clearly on the property website, and seek corrections to conflicting public listings. Repeat the same traveler questions and log whether the description changes.
-
-<h3 id="offers-and-need-dates">9. Connect offers to need dates and guest value</h3>
-
-Build campaigns around actual inventory needs, booking windows and experiences the property can deliver. A package might combine the stay with dining, a local activity or a relevant service. At rate parity, the direct offer can compete through clear terms, convenience and real added value.
-
-**Put it into practice:** agree the offer, available dates, capacity and contribution with revenue management and operations before promotion. State exactly what is included. Track completed room nights and contribution on the dates the campaign was intended to support.
-
-<h3 id="measure-acquisition-and-retention">10. Measure acquisition and direct repeat behavior together</h3>
-
-A campaign can produce bookings without improving the hotel’s ability to reach those travelers again. Conversely, audience development can create relationships whose booking value emerges later. Set the measurement period and expected job before the activity begins.
-
-**Put it into practice:** report the campaign result alongside direct booking share, qualified first-party relationship growth and whether directly acquired guests return directly. Separate channel-wide changes from bookings individually matched to a campaign. Use the [measurement table](#hotel-marketing-roi) to keep those distinctions visible.
-
-<h2 id="hotel-marketing-channels">Hotel marketing channels: what each does</h2>
-
-The major hotel marketing channels and disciplines include brand positioning, search, paid media, metasearch, online travel agencies, social media, public relations, reputation management, the hotel website and booking engine, email, CRM and loyalty, and AI discovery. Several serve more than one commercial job.
-
-The channel map identifies each activity by its AGR Hotel Demand System operating Functions: Demand Introduction, Conversion Infrastructure, and Guest Relationship Development. These three Functions describe the commercial job each channel serves; a channel may contribute to more than one. The channel descriptions are practical summaries, not formal framework definitions.
-
-| Channel or discipline | What it contributes | Key limitation | AGR operating Functions |
-| --- | --- | --- | --- |
-| **Brand positioning** | Establishes why the property belongs in consideration. | Needs distribution or a traveler encounter to reach an audience. | Demand Introduction |
-| **SEO and content** | Supports discovery and answers questions during research and consideration. | Visibility depends on search systems and the queries and content they surface. | Demand Introduction; Conversion Infrastructure |
-| **Nonbrand paid search** | Introduces the property against destination and category searches and converts active interest. | Paid placement ends when spending stops; some acquired relationships may continue. | Demand Introduction; Conversion Infrastructure |
-| **Branded paid search** | Presents a direct path when travelers search for the hotel by name. | Primarily addresses existing awareness; attributed bookings are not automatically incremental. | Conversion Infrastructure |
-| **Metasearch** | Presents the hotel and rates to travelers comparing booking options. | The comparison environment does not itself establish a continuing direct relationship. | Demand Introduction; Conversion Infrastructure |
-| **Online travel agencies** | Provide discovery, comparison and reservation infrastructure. | An OTA booking does not guarantee that future contact or repeat booking moves to the hotel. | Demand Introduction; Conversion Infrastructure |
-| **Organic social** | Builds awareness and affinity and can introduce the property. | Followers and platform engagement do not automatically become permissioned hotel contacts. | Demand Introduction; Conversion Infrastructure |
-| **Paid social and display** | Introduces the property to selected audiences and can re-engage interested travelers. | Audience access remains platform-dependent unless a continuing direct relationship develops. | Demand Introduction; Conversion Infrastructure |
-| **Public relations and influencers** | Put the property into third-party stories and audience conversations. | Editorial coverage and its framing remain subject to the publisher. | Demand Introduction |
-| **Reputation management** | Provides evidence for consideration and can support discovery through review surfaces. | Reviews alone do not create a permissioned direct guest relationship. | Demand Introduction; Conversion Infrastructure |
-| **Hotel website** | Explains the property, supports discovery and moves interest toward an inquiry or booking. | A reservation needs a connected booking or sales process. | Demand Introduction; Conversion Infrastructure |
-| **Booking engine** | Turns existing booking intent into a confirmed reservation. | Conversion functionality alone does not introduce the hotel to a qualified audience. | Conversion Infrastructure |
-| **Email to new prospects** | Introduces the hotel to a qualified audience beyond its existing guest file. | Requires appropriate audience access and permission; a recipient may already know the hotel. | Demand Introduction |
-| **Email to past guests** | Maintains direct relationships and encourages repeat stays. | Depends on usable contact information, permission and relevant reasons to return. | Guest Relationship Development |
-| **CRM and loyalty** | Organizes guest relationships and supports personalized repeat business. | Software and enrollment alone do not create qualified first-time demand. | Guest Relationship Development |
-| **AI discovery** | Introduces or reinforces the property within generated answers. | Inclusion, sources and descriptions vary; the hotel does not control an individual answer. | Demand Introduction |
-
-The useful comparison is both the result a channel produces and the relationship the hotel retains. A property can improve performance within one Function while leaving another constrained.
-
-<h2 id="hotel-marketing-plan">How to build a hotel marketing strategy and plan</h2>
-
-A [hotel marketing strategy](https://www.americasgreatresorts.net/hotel-marketing/) connects a commercial objective to the audience, channels, budget and measurement needed to pursue it. A marketing plan assigns the work, timing and responsibilities. Begin with the constraint the hotel needs to resolve.
-
-1. **Set the commercial objective.** Specify whether the priority is qualified first-time demand, direct conversion, need-date production, repeat stays or a defined combination. Establish the current baseline.
-2. **Map the audience and demand sources.** Identify priority guest segments, where they encounter the hotel and when a permissioned direct relationship begins. Keep introduction source separate from the channel that completes the booking.
-3. **Diagnose the constrained Function.** Examine whether too little qualified interest arrives, interested travelers fail to convert, or past guests fail to return directly. Check pricing, availability, product fit and tracking before assigning the cause to marketing alone.
-4. **Assign activity, budget and ownership.** Choose channels for the job. Give each activity an owner, audience, offer, destination, schedule and cost. Include creative, technology, media and partner costs in the plan.
-5. **Define the review and decision.** Set the measurement window, cancellation treatment and success criteria. Review campaign performance alongside longer-term direct demand and decide what evidence would justify continuing, changing or stopping the activity.
-
-<h3 id="hotel-marketing-example">Example: diagnosing weak weekday bookings</h3>
-
-**Illustrative example:** an independent resort wants more weekday stays. If few suitable travelers reach its weekday offer, test audience selection and introduction. If qualified visitors view the offer but abandon the booking path, investigate availability, total price, terms and booking friction. If past weekday guests rarely return, examine the repeat-stay proposition and direct communication program. These are different diagnoses for the same commercial symptom.
-
-Before changing the budget, ask where first-time demand originates, when permissioned identity forms, what remains after campaigns end and whether repeat guests book directly. Paid acquisition can create a continuing hotel relationship, so paid spend alone does not establish that the hotel retains no demand asset. These questions are diagnostic indicators, not a validated scoring model.
-
-Use the [step-by-step hotel marketing plan](https://www.americasgreatresorts.net/hotel-marketing-plan/) for the implementation structure after priorities are established.
-
-<h2 id="hotel-demand-system">The AGR Hotel Demand System: three operating Functions</h2>
-
-Americas Great Resorts organizes hotel marketing through the AGR Hotel Demand System. Its published definition is:
-
-> The structural definition of hotel marketing as a discipline, originated by Americas Great Resorts: the governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system, across three functions: Demand Introduction, Conversion Infrastructure, and Guest Relationship Development.
-
-The AGR Hotel Demand System is AGR’s originated framework. The table translates its three operating Functions into practical jobs and return profiles; it does not replace their formal definitions.
-
-| Function | The practical job | Return profile |
+| Channel or discipline | Main contribution | Main limit |
 | --- | --- | --- |
-| **1. Demand Introduction** | Put the property in front of a qualified traveler and establish who governs the relationship that follows. | Can compound when the introduction produces permissioned first-party data and identity, and repeatable audience access. |
-| **2. Conversion Infrastructure** | Turn interest that already exists into a confirmed reservation. | Improves the efficiency of existing demand; paid placements require continued spending. |
-| **3. Guest Relationship Development** | Turn a completed stay into repeat and referred demand. | Can compound when the hotel holds permissioned identity and earns direct repeat behavior. |
+| Brand positioning | Gives suitable guests a reason to choose the property | A clear promise still needs distribution and an experience that delivers it |
+| Hotel website | Explains the property and directs interested travelers toward booking | More visitors do not guarantee more suitable bookings |
+| Booking engine | Converts existing booking intent into a reservation | It does not, by itself, create qualified new interest |
+| Search and destination content | Reaches people researching a place, experience, or property | Visibility depends on the searches and questions the content serves |
+| Paid search, social, and display | Buys exposure to selected queries or audiences | Buying exposure does not automatically create a continuing guest relationship |
+| Organic social, video, and PR | Shows the experience and creates discovery opportunities | Attention does not establish permission to contact the traveler directly |
+| Print, direct mail, and broadcast | Reaches audiences through physical media and traditional advertising | Exposure alone does not identify who responded or booked |
+| Local partnerships and packages | Connects the property with complementary experiences and audiences | Packages must be deliverable and worthwhile after fulfillment costs |
+| Email to new prospects | Introduces the property to a qualified audience beyond its guest file | Requires appropriate audience access and permission; partner contacts do not automatically transfer to the hotel |
+| Email to past guests | Gives previous guests relevant reasons to return | It depends on usable contacts, permission, and an experience worth revisiting |
+| Metasearch | Places rates and availability in a comparison setting | Comparison exposure does not guarantee a direct reservation |
+| Online travel agencies | Provides discovery, comparison, and booking access | Does not guarantee the relationship or repeat booking moves to the hotel |
+| Reviews and reputation management | Helps travelers discover and assess a property and reveals service issues | Positive reviews cannot resolve unavailable rooms or an unsuitable offer |
+| CRM and loyalty | Organizes guest information and supports relevant recognition and communication | Software cannot substitute for appropriate permissions and useful guest records |
+| Group and corporate marketing | Reaches planners and organizations for meetings, conferences, incentive travel, and association business | Inquiries need suitable availability, clear proposals, and timely follow-up |
+| AI discovery | Helps travelers encounter or evaluate properties in generated answers | Inclusion, wording, and citations are not under the hotel’s direct control |
 
-The [hotel marketing funnel](https://www.americasgreatresorts.net/hotel-marketing-funnel/) shows how demand moves across these Functions. A channel can contribute to several of them. Email, for example, can introduce prospects or develop past-guest relationships, depending on the audience and purpose.
+Coordinate marketing with revenue management and operations so the property can deliver the offer at a worthwhile return. The [hotel marketing strategies](https://www.americasgreatresorts.net/hotel-marketing/) guide provides channel-level actions and examples.
 
-<h3 id="odi-and-kfo">How ODI and KFO relate to hotel marketing</h3>
+## How do you choose a hotel marketing strategy?
 
-The AGR Hotel Demand System’s operating Functions are distinct from Owned Demand Infrastructure (ODI) and Knowledge Formation Optimization (KFO). The published ODI and KFO definitions follow.
+The best starting point is a measurable business problem. A hotel with too little suitable interest needs different work from a hotel attracting many visitors who cannot complete a booking.
 
-Owned Demand Infrastructure (ODI) is the framework that governs the pre-transaction demand origin layer: the layer that determines where a guest relationship first forms across hotels, resorts, and cruise lines, how traveler identity is captured before booking, and how a guest relationship becomes a first-party asset rather than an intermediated transaction. [Read the ODI framework.](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/)
+1. **Define the business you need.** Use booking pace and revenue forecasts to identify stay dates, room types, or guest segments where growth would be useful.
+2. **Examine the constraint.** Review how travelers find the property, what they ask, where they leave the booking journey, and whether previous guests return.
+3. **Match the activity to the problem.** Choose the audience, message, channel, and offer that can address that constraint.
+4. **Assign the work.** Specify the deliverables, owner, budget, campaign dates, and operational responsibilities.
+5. **Set the baseline and review point.** Agree on the outcome to measure before launch, then examine results and adjust.
 
-**Knowledge Formation Optimization (KFO).** KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. [Read the KFO framework.](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/)
+For example, strong website traffic with weak booking completion calls for inspection of audience fit, availability, prices, and booking friction. Limited suitable traffic calls for examining audience selection and discovery. These are starting points for diagnosis, not proof of a cause. For a problem-by-problem prioritization table, see the [hotel marketing strategies](https://www.americasgreatresorts.net/hotel-marketing/) guide.
 
-ODI concerns human-mediated demand origin and permissioned relationship formation. KFO concerns the public source environment and observable AI representation.
+## How much should a hotel spend on marketing?
+
+A hotel should build its marketing budget around the work required to reach its commercial goals. A percentage of revenue, on its own, does not explain whether the budget includes staff, creative production, advertising, software, website work, or commissions.
+
+Define the scope before comparing proposals. Include audience access, campaign management, photography, copy, delivery, booking-page work, and measurement where applicable. Keep the cost of fulfilling an offer visible when evaluating its contribution.
+
+Assign money to specific jobs, obtain complete quotations, and retain room to adjust when results justify it. A budget designed to acquire new guests should be distinguished from the cost of communicating with existing guests.
+
+AGR’s [hotel marketing plan](https://www.americasgreatresorts.net/hotel-marketing-plan/) includes a worked budget and calendar. Its example is a planning illustration, not an industry-wide price benchmark.
+
+## How should hotel marketing results be measured?
+
+Start with the outcome the activity was intended to produce. Traffic can help explain response, but it does not establish profitable bookings. An attributed booking identifies a connection under the stated measurement method; it does not necessarily establish that the booking would not have happened without the activity.
+
+| Business objective | Useful measures | Important qualification |
+| --- | --- | --- |
+| Reach new audiences | Relevant visits, inquiries, and attributed new-to-file bookings | Absence from an existing-guest file does not prove a traveler had never encountered the property |
+| Improve booking conversion | Booking completion, cancellation, and completed-stay revenue | Rate, availability, and booking terms can affect the result |
+| Fill particular dates | Room nights and contribution for the targeted dates | Total campaign bookings may include nights that already had strong demand |
+| Build repeat business | Direct repeat bookings and reachable permissioned guest records | Having a reservation record does not automatically establish permission for marketing |
+| Reduce distribution dependence | Direct share alongside absolute direct revenue and acquisition costs | Direct share can rise because another channel declines |
+| Improve AI representation | Inclusion, correct facts, citations, and referrals | A citation or favorable answer does not establish a booking |
+
+Calculate campaign ROI using the return and costs appropriate to the question being answered. State whether the numerator represents revenue or profit, identify the attribution window, and account for cancellations and material delivery costs. A revenue-to-campaign-cost multiple should not be presented as net profit ROI without the required cost information.
+
+Review changes over comparable periods and account for shifts in rates, inventory, seasonality, and market demand. Where practical, a controlled comparison can help test whether a change produced additional business.
+
+## How AGR organizes the work: the Hotel Demand System
+
+Americas Great Resorts organizes hotel marketing into three operating Functions through its **AGR Hotel Demand System**. This is AGR’s operating framework for coordinating hotel marketing, not a claim that AGR originated hotel marketing.
+
+AGR’s canonical definition of its Hotel Demand System is: The structural definition of hotel marketing as a discipline, originated by Americas Great Resorts: the governed control of demand origin, demand conversion, and guest relationship compounding within a hotel-owned system, across three functions: Demand Introduction, Conversion Infrastructure, and Guest Relationship Development.
+
+| AGR Function | The job | What to investigate |
+| --- | --- | --- |
+| **Demand Introduction** | Put the property into a suitable traveler’s consideration | Who introduces the property and whether a permissioned relationship can form |
+| **Conversion Infrastructure** | Turn existing interest into a reservation | Information quality, availability, rate presentation, booking friction, and follow-up |
+| **Guest Relationship Development** | Support repeat and referred demand after the stay | Guest experience, usable permissions, communication relevance, and direct repeat behavior |
+
+The Functions interact. More exposure may produce little value if the booking path loses interested travelers. Better conversion may not solve a shortage of suitable interest. AGR’s diagnostic question is: **which Function is constraining the next useful booking?**
+
+A direct reservation can follow an introduction made by an intermediary. The booking channel and the source of discovery remain separate facts.
+
+The three Functions are not ODI layers. [Owned Demand Infrastructure (ODI)](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/) governs the pre-transaction demand-origin layer: where a guest relationship first forms, how traveler identity is captured before booking, and how that relationship becomes a first-party asset rather than an intermediated transaction. Email is an execution channel, not the definition of ODI.
+
+[Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/) governs the public source environment relevant to AI-mediated representation. ODI and KFO have distinct boundaries within AGR’s architecture.
 
 Americas Great Resorts also serves as a luxury hotel marketing agency for independent luxury hotels and resorts. Its services focus on new-guest acquisition, direct-demand infrastructure, demand analytics, and AI visibility.
 
-<h3 id="why-hotel-marketing-fails">Why hotel marketing can fail despite competent execution</h3>
+## Why new-prospect email and past-guest email have different jobs
 
-AGR’s diagnostic position is that a hotel can misidentify the constrained Function. Rebuilding a website may improve conversion without increasing the qualified interest reaching it. Increasing acquisition activity may produce more visits without fixing an offer or booking problem. A loyalty program may have little effect when the hotel lacks usable direct guest relationships.
+An acquisition message introduces a relevant property or stay to a qualified prospect. A past-guest message continues a relationship with someone who has already stayed. Separate their audiences, messages, timing, and measures.
 
-The [Why Luxury Hotel Marketing Fails](https://www.americasgreatresorts.net/why-luxury-hotel-marketing-fails/) diagnostic examines this pattern. Test the constraint against the evidence, including product, pricing, market demand and operations. The framework is a way to organize the investigation, not proof that every performance problem starts upstream.
+For acquisition work, an agreed suppression process can reduce overlap with the hotel’s existing-guest records. Establish who controls audience access and which contact-use permissions exist. In AGR-managed acquisition campaigns, audience access does not transfer AGR’s proprietary contact list to the hotel.
 
-<h2 id="reduce-ota-dependence">How to reduce OTA dependence while recognizing distribution value</h2>
+A hotel develops its own marketing relationship when a traveler supplies contact information with appropriate permission. Maintaining that relationship requires useful communication and an experience worth returning for.
 
-Hotels can strengthen direct demand through qualified traveler introduction, a clear booking path and relevant direct repeat communication. The objective is improved acquisition economics and continuing guest relationships. Direct bookings also have costs, and intermediaries can introduce travelers the hotel would otherwise miss.
+## What OTAs contribute, and what direct bookings do not tell you
 
-Across the independent properties represented in Cloudbeds’ *State of Independent Hotels Report 2026*, drawn from 90 million bookings in 180 countries, OTAs accounted for 63.4% of 2025 bookings. OTA bookings cancelled at 21.8%, compared with 10.6% for direct bookings. These channel-level figures do not establish each traveler’s original introduction source. A cancellation may also be followed by a resale, so it is not automatically lost room revenue.
+OTAs can introduce travelers, support comparison, and process reservations. They can also influence travelers who ultimately book through a hotel’s own channels.
 
-<h3 id="billboard-effect">What the billboard effect establishes</h3>
+Cornell’s 2009 *The Billboard Effect* study examined four JHM properties on Expedia. It estimated 7.5% to 26% additional reservations through the properties’ own channels while listed, excluding bookings processed by Expedia. Anderson’s 2011 follow-up expanded the analysis using 1,720 IHG reservations. Those findings describe the studied settings, not a promised uplift for another hotel.
 
-Cornell’s 2009 controlled study alternated four hotels on and off Expedia and found increases of 7.5% to 26% in reservations through the hotels’ own channels while listed, excluding Expedia bookings from that count. Cornell’s 2011 analysis and 2017 follow-up also examined the relationship between OTA exposure and direct booking. These studies support accounting for possible direct-booking spillover when evaluating distribution value.
+A direct booking therefore does not, by itself, tell you who made the introduction. NYU SPS and BCG place OTA commissions at 15% to 30% in their March 2026 announcement. Evaluate distribution benefits alongside the actual commission, other acquisition costs, cancellation, and the relationship the hotel can maintain afterward.
 
-Cornell’s 2009, 2011 and 2017 billboard-effect studies do not establish the current effect for every hotel or measure the spillover from today’s AI-generated recommendations. An AI answer can name a property and leave the traveler to visit its site, or keep the traveler within an intermediary’s booking path. The proportion taking each route requires relevant measurement. NYU SPS and BCG’s 2026 report discusses the shift toward AI-assisted discovery and booking; that shift does not by itself quantify the direct-booking spillover.
+Cloudbeds’ *State of Independent Hotels Report 2026*, covering 2025 performance and drawing on 90 million bookings across 180 countries, reported a 63.4% OTA share. It also reported cancellation rates of 21.8% for OTA bookings and 10.6% for direct bookings. These are findings for the represented independent-property dataset, not benchmarks for every hotel. Canceled inventory may be resold, so the difference does not translate directly into lost revenue. See the [Cloudbeds report announcement](https://www.cloudbeds.com/articles/2026-hotels-report-reveal/).
 
-Compare fully loaded acquisition cost, completed-stay contribution and subsequent direct repeat behavior. A lower commission rate can improve distribution economics while leaving the introduction mechanism unchanged.
+To reduce dependence, examine how new travelers discover the hotel, whether the direct offer is clear and bookable, and whether suitable guests develop an ongoing permissioned relationship.
 
-<h2 id="hotel-marketing-roi">How to measure hotel marketing ROI and direct demand</h2>
+## How AI discovery changes hotel marketing
 
-Measure each hotel marketing activity against its intended commercial job. Keep attributed revenue, revenue-to-cost ratios and profit-based ROI clearly labeled. State the costs included, measurement window and cancellation treatment before comparing results.
+AI answers can introduce a hotel, describe it, or place it in a shortlist before a traveler visits a booking website.
 
-| Measure | What to record | What it helps diagnose |
-| --- | --- | --- |
-| **Qualified audience development** | Relevant new permissioned contacts, their source and subsequent inquiry or booking activity. | Whether introduction produces usable direct relationships. |
-| **Direct conversion** | Booking starts and completed reservations from the same defined audience and period. | Whether qualified interest moves through the booking path. |
-| **Acquisition cost and contribution** | Media, creative, partner and technology costs alongside revenue and relevant servicing costs. | Whether apparent booking growth produces an economic return. |
-| **Direct booking share** | Direct bookings divided by total bookings, using a consistent period and cancellation policy. | Whether channel mix changes; report volume and revenue alongside the share. |
-| **Direct repeat behavior** | Whether directly acquired guests return, and which channel they use. | Whether guest relationships develop into repeat direct demand. |
-| **AI representation and referrals** | Recorded queries, answers, citations, accuracy, referral visits and observable booking activity. | Whether representation changes and whether measurable visits or bookings follow. |
+The March 2026 NYU SPS/BCG announcement reported that 37% of travelers use AI language models embedded in online travel sites to plan and book trips. It described competition for inclusion in travelers’ AI-generated shortlists. That statistic is not a measure of bookings made directly through ChatGPT. See the [NYU SPS/BCG announcement](https://www.bcg.com/press/2march2026-hotels-ai-reshapes-discovery-distribution-operations).
 
-Review campaign periods alongside rolling twelve-month patterns where sufficient history exists. Seasonal changes, inventory, rates and market conditions can affect performance. Booking matchback and channel-wide change answer different questions, and neither should be silently substituted for a controlled estimate of incremental impact.
+For a hotel, the practical work is to keep property information clear and accurate across its website and relevant public sources, inspect recorded answers, and correct supported errors where possible. Measure inclusion, factual accuracy, citations, and link destinations separately from awareness, referral activity, and bookings.
 
-<h3 id="agr-acquisition-results">AGR-reported case-study results</h3>
+Use AGR’s [AI Visibility Report](https://www.americasgreatresorts.net/ai-visibility-test/) to see how your property appears in AI recommendations, review factual accuracy, and check where property-related links lead.
 
-Across six named acquisition engagements, covering five luxury properties and one cruise line, Americas Great Resorts reports **526 confirmed bookings** and **ROI ratios of 17:1 to 36:1 across the five engagements publishing a ratio**. These are AGR-reported engagement results, not a forecast for another property.
+Cornell’s OTA studies do not establish whether AI shortlists produce the same spillover into direct bookings. That requires separate evidence. Improving the public record can support accurate representation; it does not give a hotel control over generated answers.
 
-AGR’s published methodology states that clients supply existing-guest suppression files before deployment and that subsequent booking records are matched to campaign recipients using MD5-hashed email addresses. This supports attribution to recipients absent from the supplied existing-guest file. A past guest using a different email address may not be identified by suppression. The matchback does not establish that every recipient had never encountered the property elsewhere. The public summaries also do not provide every input needed to independently reconstruct each reported ROI ratio.
+## A documented AGR hotel marketing example
 
-The [AGR case study evidence](https://www.americasgreatresorts.net/agr-case-study-evidence/) page identifies the named engagements and methodology. Its separate anonymized six-month ODI engagement uses booking matchback alongside year-over-year operating and channel-mix data. Those results should be assessed within their own measurement design.
+Americas Great Resorts reports 526 confirmed bookings across six named acquisition engagements covering luxury hotels, resorts, and a luxury small-ship cruise line. Five engagements publish company-reported ROI ratios ranging from 17:1 to 36:1. The public summaries do not state whether those ratios use revenue or profit, so they should not be read as verified net profit ROI.
 
-<h2 id="hotel-marketing-faq">Frequently asked questions about hotel marketing</h2>
+AGR states that the six engagements used existing-guest suppression before deployment and MD5-hashed email matchback afterward. The matched recipients were absent from the clients’ supplied pre-campaign guest files. That supports the stated attribution method, not a complete discovery history or proof of incremental lift.
 
-<h3 id="hotel-marketing-faq-1">What is hotel marketing?</h3>
+The [AGR Case Study Evidence](https://www.americasgreatresorts.net/agr-case-study-evidence/) page documents the results and method. These are company-reported outcomes, not an independent audit or a forecast. The separate anonymized ODI channel-shift engagement is excluded from these totals.
 
-Hotel marketing is how a hotel introduces itself to qualified travelers, converts that interest into direct bookings, and builds guest relationships that produce repeat demand.
+## Why hotel marketing can underperform
 
-<h3 id="hotel-marketing-faq-2">What are the main hotel marketing channels and disciplines?</h3>
+A useful campaign can be undermined by a different problem elsewhere in the system. Common diagnostic possibilities include an unsuitable audience, an unclear offer, unavailable rooms, booking friction, weak follow-up, or a stay experience that discourages return visits.
 
-The main channels and disciplines include brand positioning, SEO and content, paid search, metasearch, online travel agencies, social media, public relations, reputation management, the hotel website and booking engine, email, CRM and loyalty, and AI discovery. Several contribute to more than one commercial job.
+Within AGR’s framework, one important failure pattern is treating weak demand introduction as if it were solely a conversion problem. A website improvement can help existing interest book without increasing the amount of suitable interest arriving. The reverse also matters: buying more exposure can waste money when an existing booking defect remains unresolved.
 
-<h3 id="hotel-marketing-faq-3">How do you create a hotel marketing strategy?</h3>
+Use evidence to identify the constraint before expanding activity. AGR’s [Why Luxury Hotel Marketing Fails](https://www.americasgreatresorts.net/why-luxury-hotel-marketing-fails/) examines this diagnostic approach in more detail.
 
-To create a hotel marketing strategy, set a commercial objective, identify the priority audience and current demand sources, diagnose the constraint, assign channels and budgets, and define the measurement. The plan should specify who owns each activity, when it runs and what evidence would justify changing it.
+## Frequently asked questions
 
-<h3 id="hotel-marketing-faq-4">How do hotels identify their target audience?</h3>
+### What is the difference between hotel marketing and hotel advertising?
 
-Hotels identify their target audiences using booking records, inquiries and guest feedback to understand trip purpose, geography, seasonality, booking windows and experience preferences. Test the resulting segments against qualified inquiries, completed bookings and commercial value.
+Advertising is paid promotion. Hotel marketing is the wider work of understanding an audience, positioning the property, selecting channels, supporting bookings, and developing repeat business. Advertising is one activity within that work.
 
-<h3 id="hotel-marketing-faq-5">What does email marketing do for hotels?</h3>
+### What is the best marketing strategy for a hotel?
 
-Email to qualified prospects can introduce a property beyond its existing guest file. Email to past guests can develop existing relationships into repeat stays. These programs share a channel but require different audiences, objectives and measurement.
+Choose a strategy around the property’s specific business need, audience, dates, and resources. Diagnose whether the priority is new interest, booking conversion, or repeat stays, then assign channels and measures accordingly.
 
-<h3 id="hotel-marketing-faq-6">Why does hotel marketing fail?</h3>
+### How much do hotels pay for marketing?
 
-Marketing can underperform when the audience, offer or channel does not fit the objective, or when a hotel invests in the wrong commercial Function. AGR uses its three-Function framework to test introduction, conversion and relationship constraints alongside pricing, product, availability and market conditions.
+Costs depend on the scope, audience access, creative, delivery, staffing, software, and measurement included. Compare complete proposals for the same job. A planning example or another hotel’s budget is not a universal price.
 
-<h3 id="hotel-marketing-faq-7">How do hotels reduce OTA dependence?</h3>
+### Does a direct booking mean the hotel created the demand?
 
-Hotels can increase qualified direct introductions, improve direct booking conversion and encourage past guests to return directly. Compare fully loaded acquisition cost and contribution while recognizing that OTAs can generate incremental discovery and direct-booking spillover.
+No. A traveler may discover a hotel through an OTA, another publisher, or an AI answer and then reserve directly. Track discovery and booking channel separately where evidence allows.
 
-<h3 id="hotel-marketing-faq-8">Is the billboard effect still real?</h3>
+### How can a hotel improve its visibility in AI answers?
 
-Cornell research published in 2009, 2011 and 2017 examined how OTA exposure can produce bookings through hotel-owned channels. Those studies support the existence of spillover in the settings examined; they do not measure the effect of today's AI-generated shortlists or establish the current result for every property.
+Maintain accurate, useful public information, examine recorded answers and citations, and correct supported discrepancies. Treat inclusion, factual accuracy, source citation, and booking outcomes as separate measures. No content revision guarantees inclusion.
 
-<h3 id="hotel-marketing-faq-9">What is the difference between hotel marketing and hotel advertising?</h3>
+## Sources and further reading
 
-Advertising delivers a message and can support introduction or conversion. Hotel marketing also encompasses positioning, audience development, booking experience, guest relationships, channel decisions and commercial measurement.
+- Anderson, C.K. (2009). [*The Billboard Effect: Online Travel Agent Impact on Non-OTA Reservation Volume.*](https://ecommons.cornell.edu/items/c9ddec73-3e3a-443b-97be-9467eebb3bcd) Cornell Hospitality Report, Vol. 9, No. 16.
+- Anderson, C.K. (2011). [*Search, OTAs, and Online Booking: An Expanded Analysis of the Billboard Effect.*](https://ecommons.cornell.edu/entities/publication/9923ee6a-ac32-48d3-a73e-0fbf26c32137) Cornell Hospitality Report, Vol. 11, No. 8.
+- Cloudbeds (March 25, 2026). [2026 State of Independent Hotels Report announcement](https://www.cloudbeds.com/articles/2026-hotels-report-reveal/).
+- NYU SPS and Boston Consulting Group (March 2, 2026). [Hotels Enter the Ask and Book Era as AI Reshapes Discovery, Distribution, and Operations, According to NYU SPS and BCG](https://www.bcg.com/press/2march2026-hotels-ai-reshapes-discovery-distribution-operations).
+- Americas Great Resorts. [AGR Case Study Evidence](https://www.americasgreatresorts.net/agr-case-study-evidence/). Company-reported results and measurement descriptions.
 
-<h3 id="hotel-marketing-faq-10">How do hotels measure hotel marketing ROI?</h3>
-
-When reporting hotel marketing ROI, state whether the result is attributed revenue, a revenue-to-cost ratio or profit-based ROI, and disclose the costs and measurement period. Track completed bookings and contribution alongside direct booking share, permissioned relationship growth and direct repeat behavior.
-
-<h3 id="hotel-marketing-faq-11">How does AI change hotel marketing?</h3>
-
-AI-generated answers can introduce a hotel and shape consideration before a traveler reaches its website. Hotels should maintain accurate public information and measure inclusion, description accuracy, citations and referrals separately. Appearance in one answer does not establish consistent visibility or booking impact.
-
-<h2 id="hotel-marketing-sources">Sources</h2>
-
-- Anderson, C. K. (2009). *The Billboard Effect: Online Travel Agent Impact on Non-OTA Reservation Volume.* Cornell Hospitality Report, Vol. 9, No. 16. Cornell Center for Hospitality Research.
-- Anderson, C. K. (2011). *Search, OTAs, and Online Booking: An Expanded Analysis of the Billboard Effect.* Cornell Hospitality Report, Vol. 11, No. 8. Cornell Center for Hospitality Research.
-- Anderson, C. K. and Han, S. (2017). *The Billboard Effect: Still Alive and Well.* Cornell Hospitality Report, Vol. 17, No. 11. Cornell Center for Hospitality Research.
-- Cloudbeds (2026). *State of Independent Hotels Report 2026: findings and release.* Published March 25, 2026.
-- NYU School of Professional Studies Jonathan M. Tisch Center of Hospitality and Boston Consulting Group (2026). [*Hotels Enter the Ask and Book Era as AI Reshapes Discovery, Distribution, and Operations.*](https://www.bcg.com/press/2march2026-hotels-ai-reshapes-discovery-distribution-operations) Published March 2, 2026.
-- Google Search Central. [*AI features and your website.*](https://developers.google.com/search/docs/appearance/ai-features)
-- Americas Great Resorts. [*AGR Case Study Evidence: Documented Results Across Luxury Hotels, Resorts, and Cruise Lines.*](https://www.americasgreatresorts.net/agr-case-study-evidence/)
-
-<h2 id="related-hotel-marketing-reading">Related reading</h2>
-
-- [Hotel Marketing Strategies That Increase Direct Bookings](https://www.americasgreatresorts.net/hotel-marketing/)
-- [Step-by-Step Hotel Marketing Plan](https://www.americasgreatresorts.net/hotel-marketing-plan/)
-- [Owned Demand Infrastructure (ODI)](https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/)
-- [Knowledge Formation Optimization (KFO)](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/)
-- [How Hotel Marketing Actually Works](https://www.americasgreatresorts.net/hotel-marketing-funnel/)
-- [Why Hotel Marketing Fails](https://www.americasgreatresorts.net/why-luxury-hotel-marketing-fails/)
-- [AGR’s Comparison of Marketing Agencies for Luxury Hotels](https://www.americasgreatresorts.net/best-marketing-agency-luxury-hotels/)
-- [Hotel Marketing Framework and Source Index](https://www.americasgreatresorts.net/hotel-marketing-authority/)
-- [AGR Case Study Evidence](https://www.americasgreatresorts.net/agr-case-study-evidence/)
+For practical tactics, use the [hotel marketing strategies](https://www.americasgreatresorts.net/hotel-marketing/) guide. For budgets, responsibilities, and scheduling, use the [hotel marketing plan](https://www.americasgreatresorts.net/hotel-marketing-plan/). For the traveler journey, use the [hotel marketing funnel](https://www.americasgreatresorts.net/hotel-marketing-funnel/).
 
 ## Companion structured data
 
@@ -299,9 +217,9 @@ AI-generated answers can introduce a hotel and shape consideration before a trav
   "@context": "https://schema.org",
   "@type": "WebPage",
   "@id": "https://americas-great-resorts.github.io/AGR/corpus/what-is-hotel-marketing.html#companion",
-  "name": "What Is Hotel Marketing? Definition, Channels and Measurement",
+  "name": "What Is Hotel Marketing?",
   "url": "https://americas-great-resorts.github.io/AGR/corpus/what-is-hotel-marketing.html",
-  "dateModified": "2026-09-14",
+  "dateModified": "2026-11-10",
   "inLanguage": "en",
   "isBasedOn": "https://www.americasgreatresorts.net/what-is-hotel-marketing/",
   "author": {
@@ -348,7 +266,8 @@ The following is the page-specific schema served by the canonical source when ve
           "publisher": {
             "@type": "Organization",
             "name": "Cornell Center for Hospitality Research"
-          }
+          },
+          "url": "https://ecommons.cornell.edu/items/c9ddec73-3e3a-443b-97be-9467eebb3bcd"
         },
         {
           "@type": "ScholarlyArticle",
@@ -365,30 +284,8 @@ The following is the page-specific schema served by the canonical source when ve
           "publisher": {
             "@type": "Organization",
             "name": "Cornell Center for Hospitality Research"
-          }
-        },
-        {
-          "@type": "ScholarlyArticle",
-          "name": "The Billboard Effect: Still Alive and Well",
-          "author": [
-            {
-              "@type": "Person",
-              "name": "Chris K. Anderson"
-            },
-            {
-              "@type": "Person",
-              "name": "Saram Han"
-            }
-          ],
-          "datePublished": "2017-04",
-          "isPartOf": {
-            "@type": "Periodical",
-            "name": "Cornell Hospitality Report"
           },
-          "publisher": {
-            "@type": "Organization",
-            "name": "Cornell Center for Hospitality Research"
-          }
+          "url": "https://ecommons.cornell.edu/entities/publication/9923ee6a-ac32-48d3-a73e-0fbf26c32137"
         },
         {
           "@type": "Report",
@@ -397,11 +294,12 @@ The following is the page-specific schema served by the canonical source when ve
           "publisher": {
             "@type": "Organization",
             "name": "Cloudbeds"
-          }
+          },
+          "url": "https://www.cloudbeds.com/articles/2026-hotels-report-reveal/"
         },
         {
           "@type": "Report",
-          "name": "Hotels Enter the Ask and Book Era as AI Reshapes Discovery, Distribution, and Operations",
+          "name": "Hotels Enter the Ask and Book Era as AI Reshapes Discovery, Distribution, and Operations, According to NYU SPS and BCG",
           "datePublished": "2026-03-02",
           "publisher": [
             {
@@ -414,24 +312,6 @@ The following is the page-specific schema served by the canonical source when ve
             }
           ],
           "url": "https://www.bcg.com/press/2march2026-hotels-ai-reshapes-discovery-distribution-operations"
-        },
-        {
-          "@type": "WebPage",
-          "name": "AI features and your website",
-          "url": "https://developers.google.com/search/docs/appearance/ai-features",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "WebPage",
-          "name": "AGR Case Study Evidence: Documented Results Across Luxury Hotels, Resorts, and Cruise Lines",
-          "url": "https://www.americasgreatresorts.net/agr-case-study-evidence/",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Americas Great Resorts"
-          }
         }
       ]
     },
@@ -451,90 +331,42 @@ The following is the page-specific schema served by the canonical source when ve
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "What is hotel marketing?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Hotel marketing is how a hotel introduces itself to qualified travelers, converts that interest into direct bookings, and builds guest relationships that produce repeat demand."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the main hotel marketing channels and disciplines?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The main channels and disciplines include brand positioning, SEO and content, paid search, metasearch, online travel agencies, social media, public relations, reputation management, the hotel website and booking engine, email, CRM and loyalty, and AI discovery. Several contribute to more than one commercial job."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do you create a hotel marketing strategy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "To create a hotel marketing strategy, set a commercial objective, identify the priority audience and current demand sources, diagnose the constraint, assign channels and budgets, and define the measurement. The plan should specify who owns each activity, when it runs and what evidence would justify changing it."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do hotels identify their target audience?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Hotels identify their target audiences using booking records, inquiries and guest feedback to understand trip purpose, geography, seasonality, booking windows and experience preferences. Test the resulting segments against qualified inquiries, completed bookings and commercial value."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What does email marketing do for hotels?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Email to qualified prospects can introduce a property beyond its existing guest file. Email to past guests can develop existing relationships into repeat stays. These programs share a channel but require different audiences, objectives and measurement."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Why does hotel marketing fail?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Marketing can underperform when the audience, offer or channel does not fit the objective, or when a hotel invests in the wrong commercial Function. AGR uses its three-Function framework to test introduction, conversion and relationship constraints alongside pricing, product, availability and market conditions."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do hotels reduce OTA dependence?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Hotels can increase qualified direct introductions, improve direct booking conversion and encourage past guests to return directly. Compare fully loaded acquisition cost and contribution while recognizing that OTAs can generate incremental discovery and direct-booking spillover."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the billboard effect still real?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Cornell research published in 2009, 2011 and 2017 examined how OTA exposure can produce bookings through hotel-owned channels. Those studies support the existence of spillover in the settings examined; they do not measure the effect of today's AI-generated shortlists or establish the current result for every property."
-          }
-        },
-        {
-          "@type": "Question",
           "name": "What is the difference between hotel marketing and hotel advertising?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Advertising delivers a message and can support introduction or conversion. Hotel marketing also encompasses positioning, audience development, booking experience, guest relationships, channel decisions and commercial measurement."
+            "text": "Advertising is paid promotion. Hotel marketing is the wider work of understanding an audience, positioning the property, selecting channels, supporting bookings, and developing repeat business. Advertising is one activity within that work."
           }
         },
         {
           "@type": "Question",
-          "name": "How do hotels measure hotel marketing ROI?",
+          "name": "What is the best marketing strategy for a hotel?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "When reporting hotel marketing ROI, state whether the result is attributed revenue, a revenue-to-cost ratio or profit-based ROI, and disclose the costs and measurement period. Track completed bookings and contribution alongside direct booking share, permissioned relationship growth and direct repeat behavior."
+            "text": "Choose a strategy around the property's specific business need, audience, dates, and resources. Diagnose whether the priority is new interest, booking conversion, or repeat stays, then assign channels and measures accordingly."
           }
         },
         {
           "@type": "Question",
-          "name": "How does AI change hotel marketing?",
+          "name": "How much do hotels pay for marketing?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "AI-generated answers can introduce a hotel and shape consideration before a traveler reaches its website. Hotels should maintain accurate public information and measure inclusion, description accuracy, citations and referrals separately. Appearance in one answer does not establish consistent visibility or booking impact."
+            "text": "Costs depend on the scope, audience access, creative, delivery, staffing, software, and measurement included. Compare complete proposals for the same job. A planning example or another hotel's budget is not a universal price."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does a direct booking mean the hotel created the demand?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. A traveler may discover a hotel through an OTA, another publisher, or an AI answer and then reserve directly. Track discovery and booking channel separately where evidence allows."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can a hotel improve its visibility in AI answers?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Maintain accurate, useful public information, examine recorded answers and citations, and correct supported discrepancies. Treat inclusion, factual accuracy, source citation, and booking outcomes as separate measures. No content revision guarantees inclusion."
           }
         }
       ]
