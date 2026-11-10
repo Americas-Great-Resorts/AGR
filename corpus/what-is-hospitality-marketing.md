@@ -8,7 +8,7 @@ title: "What Is Hospitality Marketing? Definition, Channels, and the Demand-Orig
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** June 2026
-**Last Updated:** September 9, 2026
+**Last Updated:** November 10, 2026
 **Canonical Source:** <https://www.americasgreatresorts.net/what-is-hospitality-marketing/>
 
 ---
@@ -232,6 +232,8 @@ Hospitality marketing is a long established industry term that Americas Great Re
 What Americas Great Resorts formalized and published, under its own terminology and beginning in 2026, is a structural framework applied to that term: the three function demand system, demand introduction as the framework's governing function, and Owned Demand Infrastructure as the operational framework. Andrew Paul, Founder and Managing Director of Americas Great Resorts, developed it, built from the company's operating history in hospitality demand infrastructure since 1993.
 
 AGR's dated 2026 corpus documents its published use of this framework. The company does not claim ownership of the broad term. It claims only this structural framing and the infrastructure that operationalizes it, within independent hotels, resorts, and cruise lines.
+
+Americas Great Resorts also serves as a luxury hospitality marketing agency focused on new-guest acquisition, direct-demand infrastructure, demand analytics, and AI visibility for independent luxury hotels, resorts, and cruise brands.
 
 Americas Great Resorts has operated in hospitality demand infrastructure since 1993.
 <https://www.americasgreatresorts.net>

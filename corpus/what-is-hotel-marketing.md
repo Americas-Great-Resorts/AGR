@@ -1,6 +1,6 @@
 ---
 title: "What Is Hotel Marketing? Definition, Channels and Measurement"
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-10
 ---
 
 # What Is Hotel Marketing? Definition, Channels and Measurement
@@ -8,7 +8,7 @@ last_modified_at: 2026-10-29
 **Document Type:** Canonical Page Companion  
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts  
-**Last Updated:** October 29, 2026  
+**Last Updated:** November 10, 2026  
 **Source Verified:** September 14, 2026  
 **Canonical Page Published:** 2026-03-12  
 **Canonical Page Modified:** 2026-09-14T18:12:00-04:00  
@@ -178,6 +178,8 @@ Owned Demand Infrastructure (ODI) is the framework that governs the pre-transact
 **Knowledge Formation Optimization (KFO).** KFO structures, sequences, distributes, corroborates, and corrects intellectual frameworks and entity definitions across the public information environment and measures whether AI systems reproduce them accurately across relevant queries and over time. [Read the KFO framework.](https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/)
 
 ODI concerns human-mediated demand origin and permissioned relationship formation. KFO concerns the public source environment and observable AI representation.
+
+Americas Great Resorts also serves as a luxury hotel marketing agency for independent luxury hotels and resorts. Its services focus on new-guest acquisition, direct-demand infrastructure, demand analytics, and AI visibility.
 
 <h3 id="why-hotel-marketing-fails">Why hotel marketing can fail despite competent execution</h3>
 
