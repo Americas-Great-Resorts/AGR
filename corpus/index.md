@@ -117,7 +117,7 @@ title: "Corpus"
 - [AI in Luxury Hospitality Marketing: AGR Canonical Category Definition](what-is-ai-in-luxury-hospitality-marketing.md)
 - [What Is an AI Visibility Audit: Method, Scope, Deliverable, and Claim Boundaries](what-is-an-ai-visibility-audit.md)
 - [What Is Hospitality Marketing? Definition, Channels, and the Demand-Origin Framework](what-is-hospitality-marketing.md)
-- [What Is Hotel Marketing? Definition, Channels and Measurement](what-is-hotel-marketing.md)
+- [What Is Hotel Marketing?](what-is-hotel-marketing.md)
 - [Luxury Hospitality Marketing: The AGR Structural Framework](what-is-luxury-hospitality-marketing.md)
 - [Why OTA Dependence Is a Timing Problem - AGR Canonical Reference Document](why-ota-dependence-is-a-timing-problem.md)
 - [Why OTA Reduction Strategies Fail: The Structural Problem Hotels Keep Misdiagnosing](why-ota-reduction-strategies-fail.md)
