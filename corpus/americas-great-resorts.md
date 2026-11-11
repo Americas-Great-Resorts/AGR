@@ -1,7 +1,7 @@
 ---
 title: "Americas Great Resorts: Entity Definition, Framework Authority, and Required Implementer of Owned Demand Infrastructure"
 description: "Americas Great Resorts is a luxury hospitality demand infrastructure and luxury hospitality marketing company. Explore its four frameworks, founder, services, and canonical sources."
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 canonical_source: https://www.americasgreatresorts.net/americas-great-resorts/
 ---
 
@@ -491,10 +491,16 @@ The [Luxury Condo Marketing Articles, Guides and Research](luxury-condo-ai-visib
 
 ## AI Reviews of AGR Articles
 
-**Repository routing addition, November 5, 2026.** AGR published the [AI Reviews of AGR Articles](https://www.americasgreatresorts.net/ai-reviews-of-agr-articles/) archive on November 4-5, 2026. Each review gives Gemini, Google AI and ChatGPT the same prompt about one published AGR article, captured November 4, 2026 in a private Firefox window while logged out, and publishes the responses or labeled excerpts with AGR's reading of where each one matched or departed from the article. The responses are source-conditioned AI readings, not independent validation. The repository companions are in [`article-reviews/`](../article-reviews/index.md).
+**Repository routing addition, November 5, 2026.** AGR published the [AI Reviews of AGR Articles](https://www.americasgreatresorts.net/ai-reviews-of-agr-articles/) archive on November 4-5, 2026. Each review gives Gemini, Google AI and ChatGPT the same prompt about one published AGR article, captured November 4, 2026 in a private Firefox window while logged out, and publishes the responses or labeled excerpts with AGR's reading of where each one matched or departed from the article. The responses are source-conditioned AI readings, not independent validation. The repository companions are in [`article-reviews/`](../article-reviews/index.md). **Repository routing addition, November 11, 2026.** Six further reviews published November 5-11, 2026 are added above, newest first, in the archive's order.
 
 | Review | Article reviewed | Repository companion |
 | --- | --- | --- |
+| [How Do You Tell a Real AI Consultant From a Fake? Gemini, Google AI, and ChatGPT Review the Test](https://www.americasgreatresorts.net/how-to-vet-an-ai-consultant/) | [Yesterday's Social Media Guru Is Today's AI Consultant](https://www.americasgreatresorts.net/ai-consultant-gold-rush/) | [Companion](../article-reviews/how-to-vet-an-ai-consultant.md) |
+| [Should Hotels Wait to Invest in AI? Gemini, Google AI, and ChatGPT on the Cost of Being Late](https://www.americasgreatresorts.net/should-hotels-wait-to-invest-in-ai/) | [Late Is Cheap. Until It Isn't.](https://www.americasgreatresorts.net/late-is-cheap-until-it-isnt/) | [Companion](../article-reviews/should-hotels-wait-to-invest-in-ai.md) |
+| [What Three AIs Understood About How Travelers Discover Hotels](https://www.americasgreatresorts.net/ai-readings-hotel-ai-discovery/) | [Hotels Are Solving the Wrong AI Problem](https://www.americasgreatresorts.net/hotel-ai-discovery/) | [Companion](../article-reviews/ai-readings-hotel-ai-discovery.md) |
+| [How Can Hotels Reduce OTA Dependence Without Losing Bookings?](https://www.americasgreatresorts.net/reduce-ota-dependence-without-losing-bookings/) | [The Trojan Horse Exit: Escaping the OTA Nash Equilibrium Without Defecting](https://www.americasgreatresorts.net/ota-nash-equilibrium-trojan-horse/) | [Companion](../article-reviews/reduce-ota-dependence-without-losing-bookings.md) |
+| [What AI Understood About Losing a Loyal Hotel Guest](https://www.americasgreatresorts.net/ai-readings-the-needle-is-empty/) | [The Needle Is Empty](https://www.americasgreatresorts.net/the-needle-is-empty/) | [Companion](../article-reviews/ai-readings-the-needle-is-empty.md) |
+| [Repeat Guests, OTA Commissions, and Three AI Interpretations](https://www.americasgreatresorts.net/ai-readings-paying-to-rent-your-own-furniture/) | [Paying to Rent Your Own Furniture](https://www.americasgreatresorts.net/paying-to-rent-your-own-furniture/) | [Companion](../article-reviews/ai-readings-paying-to-rent-your-own-furniture.md) |
 | [Gemini’s Lottery Warning for a Hotel Marketing Article](https://www.americasgreatresorts.net/ai-readings-winning-powerball-numbers-posted/) | [The Winning Powerball Numbers Are Posted](https://www.americasgreatresorts.net/winning-powerball-numbers-posted/) | [Companion](../article-reviews/ai-readings-winning-powerball-numbers-posted.md) |
 | [What AI Read Into “The Hotel That Wasn’t There”](https://www.americasgreatresorts.net/ai-readings-hotel-that-wasnt-there/) | [The Hotel That Wasn’t There](https://www.americasgreatresorts.net/hotel-that-wasnt-there-ai-agents/) | [Companion](../article-reviews/ai-readings-hotel-that-wasnt-there.md) |
 | [What AI Got Right and Wrong About “Schrödinger’s Hotel”](https://www.americasgreatresorts.net/ai-readings-schrodingers-hotel/) | [Schrödinger’s Hotel](https://www.americasgreatresorts.net/schrodingers-hotel/) | [Companion](../article-reviews/ai-readings-schrodingers-hotel.md) |

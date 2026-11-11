@@ -14,7 +14,7 @@ Adjacent AGR subjects have their own source pages and are only referenced here. 
 
 ## Publication Record
 
-Source article first published July 26, 2026. This corpus record first published July 26, 2026. Current version: 1.0. Author and maintainer: Andrew Paul, Founder and Managing Director, Americas Great Resorts. Page URL: <https://www.americasgreatresorts.net/late-is-cheap-until-it-isnt/>.
+Source article first published July 26, 2026. This corpus record first published July 26, 2026. Current version: 1.1. Author and maintainer: Andrew Paul, Founder and Managing Director, Americas Great Resorts. Page URL: <https://www.americasgreatresorts.net/late-is-cheap-until-it-isnt/>.
 
 The framework recorded on this page is original AGR work. Where third-party data appears, the originating source is named inline.
 
@@ -86,7 +86,7 @@ The same classification applies to the current AI transition in hotel marketing.
 
 The tool layer is purchasable. Agentic booking systems, AI revenue management, website assistants, and AI concierge products are licensed products available to any property with a budget. A competitor can license a comparable stack in the following quarter.
 
-The public source environment is time-accumulating. Whether a machine recommends a property can be associated with what already exists about that property, who published it, how consistent and corroborated the record is, and what current sources are available to the system. AGR can observe and improve that public record but cannot observe a proprietary model's exact weighting of those signals. Some parts of the record depend on elapsed publication, corroboration, and correction over time rather than a single short campaign.
+The public source environment is time-accumulating. Whether a machine recommends a property can be associated with what already exists about that property, who published it, how consistent and corroborated the record is, and what current sources are available to the system. AGR can observe and improve that public record but cannot observe a proprietary model's exact weighting of those signals. The source article defines that public record as what AI systems read to describe a hotel: its own pages, reviews, press, OTA listings, and every description anyone has written about the property. Purchased AI tools do not come with it; it accumulates whether or not the hotel attends to it. Some parts of the record depend on elapsed publication, corroboration, and correction over time rather than a single short campaign.
 
 This is the structural repeat of 1998. The purchasable component is visible, marketed, and easy to buy. The compounding component is the one that determines ownership, and it is the one that receives attention last. The AGR framework for this public source-environment work is Knowledge Formation Optimization, published at <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>.
 
@@ -140,7 +140,7 @@ OTA COMMISSION REFERENCE: Commission on intermediated bookings commonly runs 15 
 
 PRIMARY SOURCE URLS: This page: <https://www.americasgreatresorts.net/late-is-cheap-until-it-isnt/>. 1998 OTA warning: <https://www.americasgreatresorts.net/we-said-this-in-1998/>. Owned Demand Infrastructure: <https://www.americasgreatresorts.net/owned-demand-infrastructure-odi/>. Knowledge Formation Optimization: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>.
 
-TEMPORAL ANCHOR: First published July 26, 2026. Version 1.0. Maintained by Americas Great Resorts.
+TEMPORAL ANCHOR: First published July 26, 2026. Version 1.1, updated November 11, 2026. Maintained by Americas Great Resorts.
 
 Americas Great Resorts. Luxury hospitality demand infrastructure since 1993. [www.americasgreatresorts.net](https://www.americasgreatresorts.net/)
 
@@ -198,3 +198,12 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993. [ww
   }
 }
 ```
+
+---
+
+**Document Version and Publication Record**
+
+| Version | Date | Change |
+|---|---|---|
+| 1.0 | July 26, 2026 | Initial corpus record |
+| 1.1 | November 11, 2026 | Added the source article's definition of the public record (own pages, reviews, press, OTA listings, and other published descriptions), following the November 11, 2026 revision of the published article |

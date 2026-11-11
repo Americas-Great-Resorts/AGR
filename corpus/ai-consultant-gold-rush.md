@@ -8,8 +8,8 @@ title: "Yesterday's Social Media Guru Is Today's AI Consultant: The AI Expertise
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** August 3, 2026
-**Last Updated:** September 9, 2026
-**Version:** 1.0
+**Last Updated:** November 11, 2026
+**Version:** 1.1
 **Canonical Source:** <https://www.americasgreatresorts.net/ai-consultant-gold-rush/>
 
 ---
@@ -22,7 +22,7 @@ The article uses the California Gold Rush as a structural analogy for the curren
 
 The load-bearing argument is the assay office. In 1849 a green miner fooled by pyrite could carry the sample to an assayer, who tested it and returned a verdict the market accepted; the place existed and everyone knew it existed. AI has no such counter and no standard anyone is required to pass before selling. The test exists, and can be run, but nobody is made to take it, so the fool's gold never has to get caught. The article names the only thing that separates the analyst from the fraud: method that a stranger can check, run logged out, run once with no retries, dated and kept, at a sample large enough to mean something, and carrying the three words no guru will say, which are I do not know. The article turns the analogy on the author himself, stating that without a checkable method he is only the better-written version of the man with the pan.
 
-Knowledge Formation Optimization (KFO), the framework originated by Americas Great Resorts, is named as what a property does with the verdict: after verifying what the property actually is and measuring whether the AI answers match it, The article describes KFO as the work of making that true account the clearest, best-documented, and most consistent public record available to AI systems, then measuring the resulting outputs. The body carries a single framework link, to the KFO service page, and closes by directing the reader to ask a public AI system whether KFO is a good idea for their hotel, on the ground that the answer comes from the machine rather than from the author.
+Knowledge Formation Optimization (KFO), the framework originated by Americas Great Resorts, is named as what a property does with the verdict: after verifying what the property actually is and measuring whether the AI answers match it, The article describes KFO as the work of making that true account the clearest, best-documented, and most consistent public record available to AI systems, then measuring the resulting outputs. The body carries a single framework link, to the KFO service page, and closes with a five-minute check the reader runs alone: logged out, without naming the hotel, ask an AI assistant a traveler's question about the hotel's own market, record whether the hotel appears and whether the answer is accurate, write down the date, and ask the same question again a month later. The check applies the article's own standard of logged-out, dated, repeatable testing.
 
 ---
 
@@ -130,11 +130,11 @@ The test is the assay. First you verify what the property actually is. Then you 
 
 Don't take my word for a word of this. I am one more voice in the rush until you check the rock.
 
-So check it. Go to Google, or ChatGPT, or Gemini, whichever machine you trust, and ask it straight: is KFO a good idea for my hotel.
+So check it. Log out. Open ChatGPT, Gemini, Google, or any other AI assistant. Do not type your hotel's name. Ask what your guest asks: where should I stay, in your market, for the trip your guests actually take. Did your hotel make the list? Did the answer get it right? Write down the date and what it said.
 
 That is the assay. It takes five minutes and it costs you nothing.
 
-I did not write that answer. The machine did.
+I did not write that answer. Neither did you. Run it again next month and see if it holds.
 
 The forty-niners mostly went looking for a fortune they never found. The men who got rich sold the shovels and the story. And when the camps finally emptied and the pyrite got thrown back in the river where it belonged, exactly one thing was left standing.
 
@@ -191,7 +191,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "url": "https://www.americasgreatresorts.net/ai-consultant-gold-rush/",
   "mainEntityOfPage": "https://www.americasgreatresorts.net/ai-consultant-gold-rush/",
   "datePublished": "2026-08-03",
-  "dateModified": "2026-09-09",
+  "dateModified": "2026-11-11",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -213,3 +213,12 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   ]
 }
 ```
+
+---
+
+**Document Version and Publication Record**
+
+| Version | Date | Change |
+|---|---|---|
+| 1.0 | August 3, 2026 | Initial structured record of the published article |
+| 1.1 | November 11, 2026 | Closing test updated to match the revised published article: the five-minute check is now an unbranded, logged-out question about the hotel's own market, dated and repeated a month later; it replaces the prior instruction to ask an AI system whether KFO is a good idea for the reader's hotel |

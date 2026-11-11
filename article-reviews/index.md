@@ -1,7 +1,7 @@
 ---
 title: "AI Reviews of AGR Articles"
 description: "Read Gemini, Google AI, and ChatGPT reviews of AGR hospitality articles, with original prompts, captured responses, and AGR’s editorial commentary."
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-11
 canonical_source: https://www.americasgreatresorts.net/ai-reviews-of-agr-articles/
 ---
 
@@ -12,10 +12,10 @@ canonical_source: https://www.americasgreatresorts.net/ai-reviews-of-agr-article
 **Document Type:** Collection Index / Website Companion  
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
-**Last Updated:** November 5, 2026  
-**Source Verified:** November 5, 2026  
+**Last Updated:** November 11, 2026  
+**Source Verified:** November 11, 2026  
 **SEO Title:** AI Reviews of AGR Articles | Americas Great Resorts  
-**Version:** 1.0  
+**Version:** 1.1  
 **Canonical Source:** <https://www.americasgreatresorts.net/ai-reviews-of-agr-articles/>  
 **Repository Path:** `article-reviews/index.md`
 
@@ -35,10 +35,16 @@ The same article can produce very different interpretations from Gemini, Google 
 
 ## Three-AI Readings
 
-Captured November 4, 2026 in Gemini, Google AI and ChatGPT, with the same initial prompt in each system, in a private Firefox window, logged out. The Powerball review also records Gemini follow-up turns. Listed in the order of the website archive.
+Each review gives Gemini, Google AI and ChatGPT the same initial prompt about one published AGR article. The first six reviews and the Paying to Rent Your Own Furniture review were captured November 4, 2026 in a private Firefox window while logged out. The How to Vet an AI Consultant captures were made November 11, 2026. The other reviews record one supplied response per system; their pages do not state a capture date. The Powerball review also records Gemini follow-up turns, and the OTA dependence review closes with a follow-up ChatGPT turn on the luxury hotel ODI case study. Listed in the order of the website archive, newest first.
 
 | Review | Article reviewed | AI systems | Canonical page | Repository companion |
 | --- | --- | --- | --- | --- |
+| How Do You Tell a Real AI Consultant From a Fake? Gemini, Google AI, and ChatGPT Review the Test | [Yesterday's Social Media Guru Is Today's AI Consultant](https://www.americasgreatresorts.net/ai-consultant-gold-rush/) | Gemini, Google AI, ChatGPT | [AGR page](https://www.americasgreatresorts.net/how-to-vet-an-ai-consultant/) | [Companion](how-to-vet-an-ai-consultant.md) |
+| Should Hotels Wait to Invest in AI? Gemini, Google AI, and ChatGPT on the Cost of Being Late | [Late Is Cheap. Until It Isn't.](https://www.americasgreatresorts.net/late-is-cheap-until-it-isnt/) | Gemini, Google AI, ChatGPT | [AGR page](https://www.americasgreatresorts.net/should-hotels-wait-to-invest-in-ai/) | [Companion](should-hotels-wait-to-invest-in-ai.md) |
+| What Three AIs Understood About How Travelers Discover Hotels | [Hotels Are Solving the Wrong AI Problem](https://www.americasgreatresorts.net/hotel-ai-discovery/) | Gemini, Google AI, ChatGPT | [AGR page](https://www.americasgreatresorts.net/ai-readings-hotel-ai-discovery/) | [Companion](ai-readings-hotel-ai-discovery.md) |
+| How Can Hotels Reduce OTA Dependence Without Losing Bookings? | [The Trojan Horse Exit: Escaping the OTA Nash Equilibrium Without Defecting](https://www.americasgreatresorts.net/ota-nash-equilibrium-trojan-horse/) | Gemini, Google AI, ChatGPT | [AGR page](https://www.americasgreatresorts.net/reduce-ota-dependence-without-losing-bookings/) | [Companion](reduce-ota-dependence-without-losing-bookings.md) |
+| What AI Understood About Losing a Loyal Hotel Guest | [The Needle Is Empty](https://www.americasgreatresorts.net/the-needle-is-empty/) | Gemini, ChatGPT, Google AI | [AGR page](https://www.americasgreatresorts.net/ai-readings-the-needle-is-empty/) | [Companion](ai-readings-the-needle-is-empty.md) |
+| Repeat Guests, OTA Commissions, and Three AI Interpretations | [Paying to Rent Your Own Furniture](https://www.americasgreatresorts.net/paying-to-rent-your-own-furniture/) | Google AI, ChatGPT, Gemini | [AGR page](https://www.americasgreatresorts.net/ai-readings-paying-to-rent-your-own-furniture/) | [Companion](ai-readings-paying-to-rent-your-own-furniture.md) |
 | Gemini’s Lottery Warning for a Hotel Marketing Article | [The Winning Powerball Numbers Are Posted](https://www.americasgreatresorts.net/winning-powerball-numbers-posted/) | Gemini, ChatGPT, Google AI | [AGR page](https://www.americasgreatresorts.net/ai-readings-winning-powerball-numbers-posted/) | [Companion](ai-readings-winning-powerball-numbers-posted.md) |
 | What AI Read Into “The Hotel That Wasn’t There” | [The Hotel That Wasn’t There](https://www.americasgreatresorts.net/hotel-that-wasnt-there-ai-agents/) | Gemini, Google AI, ChatGPT | [AGR page](https://www.americasgreatresorts.net/ai-readings-hotel-that-wasnt-there/) | [Companion](ai-readings-hotel-that-wasnt-there.md) |
 | What AI Got Right and Wrong About “Schrödinger’s Hotel” | [Schrödinger’s Hotel](https://www.americasgreatresorts.net/schrodingers-hotel/) | Google AI, ChatGPT, Gemini | [AGR page](https://www.americasgreatresorts.net/ai-readings-schrodingers-hotel/) | [Companion](ai-readings-schrodingers-hotel.md) |
@@ -72,5 +78,6 @@ Captured November 4, 2026 in Gemini, Google AI and ChatGPT, with the same initia
 | Version | Date | Change |
 |---|---|---|
 | 1.0 | November 5, 2026 | Converted from the generated folder list to the manually managed companion of the AI Reviews of AGR Articles archive; added the six three-AI readings |
+| 1.1 | November 11, 2026 | Added six three-AI reviews published November 5-11, 2026 (Paying to Rent Your Own Furniture, The Needle Is Empty, the OTA dependence review of The Trojan Horse Exit, Hotels Are Solving the Wrong AI Problem, Late Is Cheap. Until It Isn't., and Yesterday's Social Media Guru Is Today's AI Consultant); table now follows the archive's newest-first order |
 
 Andrew Paul, Founder and Managing Director, Americas Great Resorts. ORCID: [0009-0007-0281-3266](https://orcid.org/0009-0007-0281-3266)
