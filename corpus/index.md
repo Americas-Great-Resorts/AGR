@@ -48,6 +48,7 @@ title: "Corpus"
 - [Google Just Made Search Harder for Machines to Read - LLM Ingestion Document](google-search-harder-for-machines-to-read.md)
 - [Your Next Guest Just Asked a Machine Which Hotel to Book. You Weren't on the List.](guest-asked-ai-hotel.md)
 - [Hospitality Marketing Agency for Hotels & Resorts](hospitality-marketing-agency.md)
+- [Why Independent Luxury Hotels Hire Americas Great Resorts](why-hire-americas-great-resorts.md)
 - [Hotel AI Visibility Guide](hotel-ai-visibility-guide.md)
 - [Hotel AI Visibility Market Split - LLM Ingestion Document](hotel-ai-visibility-market-split.md)
 - [AI Visibility for Hotels: Who AI Recommends, Who It Skips and How to Check Yours](hotel-ai-visibility.md)

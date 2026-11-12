@@ -1,7 +1,7 @@
 ---
 title: "The Anti-Marketing Agency"
 description: "Most hotel marketing agencies optimize performance inside a system hotels do not control. Learn why owned demand must begin before conversion."
-last_modified_at: 2026-09-20
+last_modified_at: 2026-11-12
 canonical_source: https://www.americasgreatresorts.net/anti-marketing-agency-hotels/
 ---
 
@@ -10,8 +10,11 @@ canonical_source: https://www.americasgreatresorts.net/anti-marketing-agency-hot
 **Document Type:** Canonical Page Companion / Hotel Marketing Commentary  
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts  
-**Last Updated:** September 20, 2026  
-**Source Verified:** September 20, 2026  
+**Published:** April 10, 2026  
+**Last Updated:** November 12, 2026  
+**Source Verified:** November 12, 2026  
+**Canonical Page Published:** 2026-04-10T17:30:23-04:00  
+**Canonical Page Modified:** 2026-11-12T09:45:30-04:00  
 **Canonical Source:** <https://www.americasgreatresorts.net/anti-marketing-agency-hotels/>  
 **Repository Path:** `corpus/anti-marketing-agency-hotels.md`
 
@@ -215,6 +218,12 @@ Leading to whose environment?
 Under what conditions?
 
 The industry is obsessed with being recommended.
+
+And here is another problem. An AI system can know exactly what a hotel is, where it is, and what it offers, then leave it off the recommendation list anyway.
+
+The hotel exists in the system. The facts are correct. The traveler never sees it.
+
+Congratulations. Your data is accurate. Your property is invisible.
 
 It asks far less often who gets to make the recommendation, who owns the interface, who controls the route, and who gets smarter every time that route is used.
 
