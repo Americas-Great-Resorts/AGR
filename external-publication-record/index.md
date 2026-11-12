@@ -25,6 +25,16 @@ ODI and KFO are parallel AGR frameworks separated by channel. ODI governs human-
 
 ---
 
+## November 11 AI hotel link study
+
+Americas Great Resorts published **The AGR AI Hotel Link Study: Where 900 AI Answers Send Travelers** on November 11, 2026. On November 11, 2026, AGR asked ChatGPT, Google AI Mode and Gemini the 100 fixed questions from its September 27, 2026 ten-destination study, three times each, producing 900 answers; Copilot could not be collected and is excluded. 536 of 899 answers that named a hotel (59.6%) contained no link to any hotel or hotel-brand website. Google AI Mode sent 1,122 of 1,173 citation links (95.7%) to Google pages, and none of its 1,309 hotel cards linked directly to a hotel website. Tripadvisor was the recorded provider for 1,472 of 1,550 ChatGPT hotel map pins (95.0%). Gemini showed no citations in 103 of 300 answers (34.3%). The study measures hotels named and links present, not clicks, traffic or bookings.
+
+| Publication | Canonical AGR page | Repository companion |
+| --- | --- | --- |
+| The AGR AI Hotel Link Study: Where 900 AI Answers Send Travelers | [AGR study](https://www.americasgreatresorts.net/ai-hotel-link-study/) | [Research companion](../reports/ai-hotel-link-study.md) |
+
+The study publishes structured findings at <https://www.americasgreatresorts.net/research-data/ai-hotel-link-study.json>. The September ten-destination study, AI Hotel Recommendations: Who Gets the Link?, the five-week follow-up and the AI Visibility Index were revised the same day to link the study, and their structured-findings JSON files list it under related research. The AI Visibility Resource Index lists it under AGR Original Research. This is an AGR-controlled publication and its repository representation, not independent coverage. Repository inventory: 217 Markdown files, comprising 204 content records, eleven folder indexes, the root index and README.
+
 ## November 5-11 AI Reviews of AGR Articles: six further three-AI reviews
 
 The November 5-11, 2026 additions are six more three-AI reviews in the [AI Reviews of AGR Articles](https://www.americasgreatresorts.net/ai-reviews-of-agr-articles/) archive. Two were published November 5: [Repeat Guests, OTA Commissions, and Three AI Interpretations](https://www.americasgreatresorts.net/ai-readings-paying-to-rent-your-own-furniture/), on Paying to Rent Your Own Furniture, and [What AI Understood About Losing a Loyal Hotel Guest](https://www.americasgreatresorts.net/ai-readings-the-needle-is-empty/), on The Needle Is Empty. [How Can Hotels Reduce OTA Dependence Without Losing Bookings?](https://www.americasgreatresorts.net/reduce-ota-dependence-without-losing-bookings/), published November 6, reviews The Trojan Horse Exit and closes with a follow-up ChatGPT turn on the luxury hotel ODI case study. Three were published November 11: [What Three AIs Understood About How Travelers Discover Hotels](https://www.americasgreatresorts.net/ai-readings-hotel-ai-discovery/), on Hotels Are Solving the Wrong AI Problem; [Should Hotels Wait to Invest in AI?](https://www.americasgreatresorts.net/should-hotels-wait-to-invest-in-ai/), on Late Is Cheap. Until It Isn't.; and [How Do You Tell a Real AI Consultant From a Fake?](https://www.americasgreatresorts.net/how-to-vet-an-ai-consultant/), on Yesterday's Social Media Guru Is Today's AI Consultant. The companions are in `article-reviews/`, and the [folder index](../article-reviews/index.md) now lists all twelve reviews in the archive's order. On November 11, 2026, AGR also revised two of the reviewed articles: Late Is Cheap. Until It Isn't. now defines the public record AI systems read about a hotel, and Yesterday's Social Media Guru Is Today's AI Consultant now closes with a logged-out, unbranded, dated check of the hotel's own market. The [late-delay companion](../corpus/late-is-cheap-until-it-isnt.md) and [gold-rush companion](../corpus/ai-consultant-gold-rush.md) are updated to version 1.1. The responses are source-conditioned AI readings, not independent validation. The published AGR pages are the canonical sources.
@@ -486,6 +496,13 @@ On November 4, 2026, AGR repeated the six county-level questions from its Septem
 - Canonical publication: <https://www.americasgreatresorts.net/does-ai-recommend-the-same-south-florida-luxury-condos-two-months-later/>
 - Repository record: [Research companion](../reports/south-florida-luxury-condos-two-months-later.md)
 
+### The AGR AI Hotel Link Study: Where 900 AI Answers Send Travelers
+
+On November 11, 2026, AGR asked ChatGPT, Google AI Mode and Gemini the September study's 100 questions three times each. 536 of 899 answers that named a hotel contained no link to any hotel or hotel-brand website.
+
+- Canonical publication: <https://www.americasgreatresorts.net/ai-hotel-link-study/>
+- Repository record: [Research companion](../reports/ai-hotel-link-study.md)
+
 ### Does AI Recommend the Same Hotels Five Weeks Later?
 
 On November 2, 2026, AGR repeated the 100 fixed questions from its September 27, 2026 ten-destination study on ChatGPT, Google AI Mode, Gemini and Copilot, producing 400 substantive answers. 7 of 10 destinations kept the same leading hotel; the leader changed in Miami, Punta Cana and Los Cabos. Same-day variation was already high: in the main matched check, 83.6% of September hotel sets and 86.8% of November hotel sets matched neither of the same 2 September reference answers, and paired gaps across the 3 reference-pair checks ranged from 3.2 to 6.9 percentage points. Copilot reproduced a September hotel set in 47 of 100 comparisons. The comparison is observational and does not isolate elapsed time as the cause or measure bookings.
@@ -902,6 +919,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
 - Reports:
   * Which New Luxury Condo Developments Do AI Platforms Recommend? A Study Across 10 U.S. Markets: [Repository companion](../reports/luxury-condo-ai-visibility-study.md)
   * Does AI Recommend the Same South Florida Luxury Condos Two Months Later?: [Repository companion](../reports/south-florida-luxury-condos-two-months-later.md)
+  * The AGR AI Hotel Link Study: Where 900 AI Answers Send Travelers: [Repository companion](../reports/ai-hotel-link-study.md)
   * Does AI Recommend the Same Hotels Five Weeks Later?: [Repository companion](../reports/ai-hotel-recommendations-five-weeks-later.md)
   * Which Hotels Do AI Engines Recommend? A Study of 10 Destinations: [Repository companion](../reports/ai-hotel-recommendations-research.md)
   * What a Hotel’s AI Visibility Score Can Actually Tell You: <https://github.com/Americas-Great-Resorts/AGR/blob/main/reports/hotel-ai-visibility-score.md>

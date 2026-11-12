@@ -8,8 +8,8 @@ title: "The AGR Luxury Hotel AI Visibility Index 2026: Complete Findings, Data, 
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Edition:** 2026, published July 29, 2026  
-**Version:** 1.1  
-**Last Updated:** November 2, 2026  
+**Version:** 1.2  
+**Last Updated:** November 11, 2026  
 **Canonical Source:** <https://www.americasgreatresorts.net/ai-visibility-index/>  
 **PDF Edition:** <https://www.americasgreatresorts.net/ai-visibility-index-2026.pdf>  
 
@@ -341,6 +341,8 @@ The September 27, 2026 [Which Hotels Do AI Engines Recommend? A Study of 10 Dest
 
 **Five-week follow-up.** On November 2, 2026, AGR repeated the September study's 100 questions across 4 AI engines. 7 of 10 destinations retained the same leading hotel, while individual recommendation lists frequently differed. [Does AI Recommend the Same Hotels Five Weeks Later?](ai-hotel-recommendations-five-weeks-later.md) compares those results with September's baseline and same-day variation. This follow-up belongs to the September research series, separate from the July Index; its counts should not be pooled with the Index. [Canonical follow-up report](https://www.americasgreatresorts.net/ai-hotel-recommendations-five-weeks-later/). The canonical Index page added this cross-reference on November 2, 2026; the Index figures, fieldwork dates and methodology are unchanged.
 
+**Link study.** On November 11, 2026, AGR asked the September study's 100 questions again, three times each on ChatGPT, Google AI Mode and Gemini. Of the 899 answers that named a hotel, 536 did not link to any hotel's own website. [The AGR AI Hotel Link Study: Where 900 AI Answers Send Travelers](ai-hotel-link-study.md) measures where those answers sent travelers. It belongs to the September research series, separate from the July Index; its counts should not be pooled with the Index. [Canonical study page](https://www.americasgreatresorts.net/ai-hotel-link-study/). The canonical Index page added this cross-reference on November 11, 2026; the Index figures, fieldwork dates and methodology are unchanged.
+
 ---
 
 ## Related Technical-Adoption Analysis
@@ -400,7 +402,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
       "url": "https://www.americasgreatresorts.net/ai-visibility-index/",
       "mainEntityOfPage": "https://www.americasgreatresorts.net/ai-visibility-index/",
       "datePublished": "2026-07-29",
-      "dateModified": "2026-11-02",
+      "dateModified": "2026-11-11",
       "inLanguage": "en",
       "isAccessibleForFree": true,
       "author": {"@type": "Person", "name": "Andrew Paul", "jobTitle": "Founder and Managing Director", "sameAs": "https://orcid.org/0009-0007-0281-3266"},

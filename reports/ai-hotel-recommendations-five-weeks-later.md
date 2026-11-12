@@ -1,7 +1,7 @@
 ---
 title: "AI Hotel Recommendations: Same Leaders, Changing Lists"
 description: "AGR repeated 100 hotel questions across 4 AI engines five weeks later. Compare persistent hotel visibility, changing lineups and same-day variation."
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-11
 canonical_source: https://www.americasgreatresorts.net/ai-hotel-recommendations-five-weeks-later/
 ---
 
@@ -11,12 +11,12 @@ canonical_source: https://www.americasgreatresorts.net/ai-hotel-recommendations-
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** November 2, 2026  
-**Last Updated:** November 2, 2026  
-**Source Verified:** November 2, 2026  
+**Last Updated:** November 11, 2026  
+**Source Verified:** November 11, 2026  
 **Fieldwork:** September 27 and November 2, 2026  
 **Canonical Page Published:** 2026-11-02T15:47:20-04:00  
-**Canonical Page Modified:** 2026-11-02T15:57:19-04:00  
-**Version:** 1.0  
+**Canonical Page Modified:** 2026-11-11T21:04:06-04:00  
+**Version:** 1.1  
 **Canonical Source:** <https://www.americasgreatresorts.net/ai-hotel-recommendations-five-weeks-later/>  
 **Repository Path:** `reports/ai-hotel-recommendations-five-weeks-later.md`
 
@@ -32,7 +32,7 @@ canonical_source: https://www.americasgreatresorts.net/ai-hotel-recommendations-
 
 ## Purpose and Evidence Boundary
 
-This file preserves the published AGR follow-up report as a research companion, including its headline figures, Quick Answers, all six exhibits, method, limitations and related links. Interactive chart graphics are represented by their published text summaries; their figures are reproduced in Exhibits 2 and 5. The canonical website page controls if the two differ. This is another representation of the same AGR publication, not independent corroboration.
+This file preserves the published AGR follow-up report as a research companion, including its headline figures, Quick Answers, all six exhibits, method, limitations and related links. Version 1.1 adds the Related AGR research paragraph the canonical page added on November 11, 2026, linking The AGR AI Hotel Link Study. Interactive chart graphics are represented by their published text summaries; their figures are reproduced in Exhibits 2 and 5. The canonical website page controls if the two differ. This is another representation of the same AGR publication, not independent corroboration.
 
 This follow-up belongs to the September ten-destination research series. It is not a new edition of the July 29, 2026 six-market AI Visibility Index, and its counts should not be pooled with that Index. Underlying answer-level records are retained internally; this companion publishes the report's aggregate findings.
 
@@ -298,6 +298,8 @@ The [September 10-destination study](https://www.americasgreatresorts.net/ai-hot
 
 The [AGR Luxury Hotel AI Visibility Index](https://www.americasgreatresorts.net/ai-visibility-index/) examines a separate July 29, 2026 6-market collection. Its 824 recommendation slots should not be pooled with this follow-up or treated as the same measurement.
 
+[The AGR AI Hotel Link Study: Where 900 AI Answers Send Travelers](https://www.americasgreatresorts.net/ai-hotel-link-study/) asked the same 100 questions again on November 11, 2026, three times each on ChatGPT, Google AI Mode and Gemini. Copilot was not included. Of the 899 answers that named a hotel, 536 did not link to any hotel’s own website, and 4 of the 10 September destination leaders held their position.
+
 **Publisher disclosure.** AGR provides hotel marketing and AI visibility services.
 
 ## How to cite this research
@@ -322,6 +324,7 @@ Paul, Andrew. "Does AI Recommend the Same Hotels Five Weeks Later?" Americas Gre
 
 - [Which Hotels Do AI Engines Recommend? A Study of 10 Destinations](ai-hotel-recommendations-research.md): the September 27, 2026 baseline repeated in this follow-up.
 - [AI Hotel Recommendations: Who Gets the Link?](ai-hotel-recommendation-links.md): source and link-destination analysis of the September answers.
+- [The AGR AI Hotel Link Study: Where 900 AI Answers Send Travelers](ai-hotel-link-study.md): November 11, 2026 three-engine collection of the same 100 questions, measuring where answer links point.
 - [The AGR Luxury Hotel AI Visibility Index](ai-visibility-index.md): separate July 29, 2026 six-market study with a different design and counting method.
 - [AI Visibility Report for Hotels and Condo Developments](../corpus/ai-visibility-test.md): AGR's real-time report tool.
 - [AI Visibility, KFO & Hospitality AI Resource Index](../corpus/ai-visibility-resources.md)
@@ -340,7 +343,7 @@ Paul, Andrew. "Does AI Recommend the Same Hotels Five Weeks Later?" Americas Gre
   "url": "https://americas-great-resorts.github.io/AGR/reports/ai-hotel-recommendations-five-weeks-later.html",
   "isBasedOn": "https://www.americasgreatresorts.net/ai-hotel-recommendations-five-weeks-later/",
   "datePublished": "2026-11-02T15:47:20-04:00",
-  "dateModified": "2026-11-02",
+  "dateModified": "2026-11-11",
   "inLanguage": "en-US",
   "temporalCoverage": "2026-09-27/2026-11-02",
   "author": {

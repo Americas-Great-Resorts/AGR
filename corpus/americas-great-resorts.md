@@ -434,6 +434,8 @@ This is a separate ten-destination baseline, not a new edition of the July 29 si
 
 **Repository research update, November 2, 2026.** AGR published [Does AI Recommend the Same Hotels Five Weeks Later?](https://www.americasgreatresorts.net/ai-hotel-recommendations-five-weeks-later/), a five-week follow-up repeating this study's 100 questions across the same four engines. 7 of 10 destinations kept the same leading hotel, while individual hotel lists frequently differed, including among answers collected on the same day. The [research companion](../reports/ai-hotel-recommendations-five-weeks-later.md) preserves the report. This routing addition does not assert that the canonical AGR entity page has been revised.
 
+**Repository research update, November 11, 2026.** AGR published [The AGR AI Hotel Link Study: Where 900 AI Answers Send Travelers](https://www.americasgreatresorts.net/ai-hotel-link-study/), repeating this study's 100 questions three times each on ChatGPT, Google AI Mode and Gemini to measure where answer links point. 536 of 899 answers that named a hotel contained no link to any hotel or hotel-brand website; Google AI Mode sent 95.7% of its citation links to Google pages, and Tripadvisor was the recorded provider for 95.0% of ChatGPT's hotel map pins. See the [research companion](../reports/ai-hotel-link-study.md).
+
 ---
 
 ## AI Hotel Recommendations and Booking Pathways

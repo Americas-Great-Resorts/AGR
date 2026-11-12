@@ -1,7 +1,7 @@
 ---
 title: "AI Hotel Recommendations: Who Gets the Link?"
 description: "AGR follow-up analysis of source and link destinations in 1,177 AI hotel recommendation answers across ten destinations on September 27, 2026."
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-11
 ---
 
 # AI Hotel Recommendations: Who Gets the Link?
@@ -10,16 +10,17 @@ last_modified_at: 2026-10-28
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts  
 **Published:** September 28, 2026  
-**Last Updated:** October 28, 2026  
+**Last Updated:** November 11, 2026  
 **Fieldwork:** September 27, 2026  
-**Source Verified:** October 11, 2026  
-**Version:** 1.1  
+**Source Verified:** November 11, 2026  
+**Canonical Page Modified:** 2026-11-11T20:58:49-04:00  
+**Version:** 1.2  
 **Canonical Source:** <https://www.americasgreatresorts.net/ai-hotel-recommendation-links/>  
 **Repository Path:** `reports/ai-hotel-recommendation-links.md`
 
 ## Purpose and Evidence Boundary
 
-This file preserves the published AGR article as a research companion, including its findings, tables, method and stated limits. The canonical website page controls if the two differ. This is another representation of the same AGR publication, not independent corroboration. Website navigation, styling and sharing controls are omitted.
+This file preserves the published AGR article as a research companion, including its findings, tables, method and stated limits. Version 1.2 adds the follow-up research paragraph the canonical page added on November 11, 2026, linking The AGR AI Hotel Link Study. The canonical website page controls if the two differ. This is another representation of the same AGR publication, not independent corroboration. Website navigation, styling and sharing controls are omitted.
 
 This is a follow-up analysis of the same 1,177 assessed answers and 6,110 hotel appearances collected September 27, 2026 for the [ten-destination study](ai-hotel-recommendations-research.md), not an independent sample. It examines the destinations attached to answers (hotel websites, publishers, rating guides, booking intermediaries and AI-platform travel interfaces). It does not measure clicks, bookings, commissions, training sources or why an engine selected a hotel, and a source associated with an answer is not proof of the answer's causal origin. Underlying answer-level records are retained internally; this companion publishes the article's aggregate findings.
 
@@ -28,6 +29,8 @@ This is a follow-up analysis of the same 1,177 assessed answers and 6,110 hotel 
 A hotel can earn an AI recommendation without receiving the accompanying link. Americas Great Resorts examined the source and link records associated with **1,177 assessed answers to 100 travel questions across ten destinations**, collected from ChatGPT, Google AI Mode, Gemini and Copilot on **September 27, 2026**. The answers featured hotels 6,110 times. This follow-up examines a different part of that visibility: whether the accompanying destinations were hotel websites, publishers, rating guides, booking intermediaries or the AI platform’s own travel interface.
 
 Our [first study examined which hotels appeared in AI recommendations](https://www.americasgreatresorts.net/ai-hotel-recommendations-research/). This analysis finds that a hotel’s appearance, its citation and its website link are separate things, and sometimes the same URL serves more than one role.
+
+**Follow-up research:** AGR asked the same 100 questions again on November 11, 2026, three times each on ChatGPT, Google AI Mode and Gemini. Of the 899 answers that named a hotel, 536 did not link to any hotel’s own website. In Google AI Mode, 1,122 of 1,173 displayed citation links pointed to Google, and none of 1,309 place cards linked directly to a hotel. Read [The AGR AI Hotel Link Study: Where 900 AI Answers Send Travelers](https://www.americasgreatresorts.net/ai-hotel-link-study/) for the full results.
 
 ## Findings at a glance
 
@@ -168,6 +171,7 @@ Paul, Andrew. "AI Hotel Recommendations: Who Gets the Link?" Americas Great Reso
 - [ai-hotel-link-trap](../corpus/ai-hotel-link-trap.md): Commercial analysis of the link-destination findings; not a new study sample.
 - [ai-referral-hotel-website-defects](../corpus/ai-referral-hotel-website-defects.md): Cites this study's displayed-destination figures, then documents what guests find when the AI does cite the hotel's own website; findings come from separate AGR AI Visibility Reports, not this sample.
 - [ai-hotel-recommendations-research](ai-hotel-recommendations-research.md): The ten-destination study whose answers this analysis re-examines.
+- [ai-hotel-link-study](ai-hotel-link-study.md): The AGR AI Hotel Link Study: November 11, 2026 link-destination collection on ChatGPT, Google AI Mode and Gemini, using a different collection method and link definition.
 - [ai-visibility-index](ai-visibility-index.md): AGR Luxury Hotel AI Visibility Index: six markets, three engines, July 29, 2026.
 - [perplexity-hotel-citations-study](perplexity-hotel-citations-study.md): AGR review of whether Perplexity citations supported hotel facts.
 - [how-to-get-hotel-recommended-by-ai](../corpus/how-to-get-hotel-recommended-by-ai.md): Operational playbook for hotel AI visibility.
@@ -185,7 +189,7 @@ Paul, Andrew. "AI Hotel Recommendations: Who Gets the Link?" Americas Great Reso
   "url": "https://americas-great-resorts.github.io/AGR/reports/ai-hotel-recommendation-links.html",
   "isBasedOn": "https://www.americasgreatresorts.net/ai-hotel-recommendation-links/",
   "datePublished": "2026-09-28",
-  "dateModified": "2026-10-21",
+  "dateModified": "2026-11-11",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
