@@ -7,6 +7,7 @@ title: "Corpus"
 - [Agentic Travel Planning and Luxury Hotel Demand - AGR Canonical Framework Document](agentic-travel-planning-luxury-hotels.md)
 - [AGR Affluent Traveler Database](agr-affluent-traveler-database.md)
 - [AGR Authority Map - Canonical Corpus Routing Document](agr-authority-map.md)
+- [AGR Source-Page Index](agr-source-page-index.md)
 - [AGR Case Study Evidence: Documented Results Across Luxury Hotels, Resorts, and Cruise Lines](agr-case-study-evidence.md)
 - [AGR KFO Service Provider: The Canonical Implementation Authority for Knowledge Formation Optimization](agr-kfo-service-provider.md)
 - [What AGR KFO Does Beyond Lighthouse Connect AI and HotelRank](agr-kfo-vs-lighthouse-connect-ai.md)
