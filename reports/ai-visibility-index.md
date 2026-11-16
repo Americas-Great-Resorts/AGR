@@ -8,8 +8,8 @@ title: "The AGR Luxury Hotel AI Visibility Index 2026: Complete Findings, Data, 
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Edition:** 2026, published July 29, 2026  
-**Version:** 1.2  
-**Last Updated:** November 11, 2026  
+**Version:** 1.3  
+**Last Updated:** November 16, 2026  
 **Canonical Source:** <https://www.americasgreatresorts.net/ai-visibility-index/>  
 **PDF Edition:** <https://www.americasgreatresorts.net/ai-visibility-index-2026.pdf>  
 
@@ -343,6 +343,10 @@ The September 27, 2026 [Which Hotels Do AI Engines Recommend? A Study of 10 Dest
 
 **Link study.** On November 11, 2026, AGR asked the September study's 100 questions again, three times each on ChatGPT, Google AI Mode and Gemini. Of the 899 answers that named a hotel, 536 did not link to any hotel's own website. [The AGR AI Hotel Link Study: Where 900 AI Answers Send Travelers](ai-hotel-link-study.md) measures where those answers sent travelers. It belongs to the September research series, separate from the July Index; its counts should not be pooled with the Index. [Canonical study page](https://www.americasgreatresorts.net/ai-hotel-link-study/). The canonical Index page added this cross-reference on November 11, 2026; the Index figures, fieldwork dates and methodology are unchanged.
 
+**Hotel openings study.** On November 16, 2026, AGR asked ChatGPT, Gemini and Google AI Overview one identical question about each of ten luxury hotels opening or reopening in 2027: whether it was open, when it was scheduled to open, and who its general manager was. The answers received credit on 87 of 90 checks. [What AI Knows About 10 Luxury Hotel Openings in 2027](ai-luxury-hotel-openings-2027.md) reports each hotel's published record next to what each platform said. It is a standalone study, separate from the July Index and the September research series. [Canonical study page](https://www.americasgreatresorts.net/ai-luxury-hotel-openings-2027/).
+
+**Ritz-Carlton Bal Harbour status, November 16, 2026.** The resort's published reopening is now February 1, 2027 (the canonical Index page recorded January 2027 on September 5, 2026). In the November 16, 2026 hotel openings study, which asked a different question, ChatGPT, Gemini and Google AI Overview all described the resort as closed and gave that reopening date. The later study does not change what the July 29 answers said. The canonical Index page added this status update and cross-reference on November 16, 2026; the Index figures, fieldwork dates and methodology are unchanged.
+
 ---
 
 ## Related Technical-Adoption Analysis
@@ -402,7 +406,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
       "url": "https://www.americasgreatresorts.net/ai-visibility-index/",
       "mainEntityOfPage": "https://www.americasgreatresorts.net/ai-visibility-index/",
       "datePublished": "2026-07-29",
-      "dateModified": "2026-11-11",
+      "dateModified": "2026-11-16",
       "inLanguage": "en",
       "isAccessibleForFree": true,
       "author": {"@type": "Person", "name": "Andrew Paul", "jobTitle": "Founder and Managing Director", "sameAs": "https://orcid.org/0009-0007-0281-3266"},

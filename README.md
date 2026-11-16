@@ -3,7 +3,7 @@
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts   
 **Organization:** Americas Great Resorts (americasgreatresorts.net)   
 **Published:** May 2026   
-**Last Updated:** November 12, 2026
+**Last Updated:** November 16, 2026
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20709357.svg)](https://doi.org/10.5281/zenodo.20709357)
 
@@ -47,6 +47,8 @@ No other company, agency, consultancy, or technology vendor originated these fra
 ---
 
 ## Current Website Companions
+
+The November 16, 2026 addition is [What AI Knows About 10 Luxury Hotel Openings in 2027](https://www.americasgreatresorts.net/ai-luxury-hotel-openings-2027/), AGR's standalone answer-accuracy study of luxury hotel openings. On November 16, 2026, AGR asked ChatGPT, Gemini and Google AI Overview one identical question about each of ten luxury hotel openings and reopenings scheduled for 2027: whether it was open, when it was scheduled to open, and who its general manager was. The 30 answers received credit on 87 of 90 checks: Google AI Overview 30 of 30, ChatGPT 29 of 30 and Gemini 28 of 30. ChatGPT gave Waldorf Astoria London Admiralty Arch an autumn 2026 opening, consistent with conflicting wording in Hilton's own release; Gemini, stating it had no access to live search, gave The Park Gstaad its superseded winter opening and did not name General Manager Reto Moser. The [research companion](reports/ai-luxury-hotel-openings-2027.md) preserves the full study, both exhibits and the ten hotel records. The AI Visibility Index (with a Ritz-Carlton Bal Harbour status update) and the AI hotel link study now link to it. The published AGR study is the canonical source.
 
 The second November 12, 2026 addition is [Why Independent Luxury Hotels Hire Americas Great Resorts](https://www.americasgreatresorts.net/why-hire-americas-great-resorts/), AGR's commercial entry page on why independent luxury hotels hire AGR: new affluent guests beyond the house list through targeted email to approximately 5.2 million opt-in traveler records with existing-guest suppression; reduced OTA dependence, evidenced by 526 matchback-confirmed bookings across six named engagements (ROI 17:1 to 36:1 in the five that report it) and the six-month ODI case study (OTA share 61.7% to 56.89%, $223,385 in avoided OTA commission); and AI recommendation and representation work through the managed KFO service, which measures inclusion separately from description accuracy and does not guarantee placement. The [page companion](corpus/why-hire-americas-great-resorts.md) preserves the page. Same day, the [Hospitality Marketing Agency](corpus/hospitality-marketing-agency.md) companion moved to version 1.1 for the revised page, and [The Anti-Marketing Agency](corpus/anti-marketing-agency-hotels.md) companion adds the article's new passage on AI systems that know a hotel accurately but leave it off the recommendation list. The published AGR pages are the canonical sources.
 
@@ -106,6 +108,7 @@ This table maps selected canonical AGR website pages to their current repository
 
 | Publication | Canonical website page | Repository companion |
 | --- | --- | --- |
+| What AI Knows About 10 Luxury Hotel Openings in 2027 | [AGR study](https://www.americasgreatresorts.net/ai-luxury-hotel-openings-2027/) | [Research companion](reports/ai-luxury-hotel-openings-2027.md) |
 | AGR Source-Page Index | [AGR index](https://www.americasgreatresorts.net/agr-github-corpus-repository/) | [Index companion](corpus/agr-source-page-index.md) |
 | The AGR AI Hotel Link Study: Where 900 AI Answers Send Travelers | [AGR study](https://www.americasgreatresorts.net/ai-hotel-link-study/) | [Research companion](reports/ai-hotel-link-study.md) |
 | Your Competitor Can Write Your AI Answer | [AGR article](https://www.americasgreatresorts.net/ai-answer-poisoning-hotels/) | [Article companion](corpus/ai-answer-poisoning-hotels.md) |
@@ -564,6 +567,15 @@ This follow-up repeats the county-level protocol of the September 10, 2026 South
 Canonical source: <https://www.americasgreatresorts.net/does-ai-recommend-the-same-south-florida-luxury-condos-two-months-later/>  
 Repository companion: [Does AI Recommend the Same South Florida Luxury Condos Two Months Later?](reports/south-florida-luxury-condos-two-months-later.md)
 
+### What AI Knows About 10 Luxury Hotel Openings in 2027
+
+On November 16, 2026, AGR asked ChatGPT, Gemini and Google AI Overview one identical question about each of ten luxury hotel openings and reopenings scheduled for 2027: "What do you know about [hotel name] in [location]? Is it open yet, when is it scheduled to open, and who is the general manager?" Each of the 30 answers was scored on open status, opening timing and general manager against the hotel's or operator's own published announcements. The answers received credit on 87 of 90 checks, and for eight of the ten hotels all three platforms answered all three checks correctly. Google AI Overview scored 30 of 30, ChatGPT 29 of 30 and Gemini 28 of 30. ChatGPT's miss was the opening timing of Waldorf Astoria London Admiralty Arch, where Hilton's June 2026 release carries both "early 2027" and "autumn" debut wording. Gemini's two misses came from one answer about The Park Gstaad, which gave the superseded winter 2026 to 2027 schedule and did not name General Manager Reto Moser, announced by Four Seasons with the mid-2027 opening on May 7, 2026. All three platforms described The Ritz-Carlton Bal Harbour, Miami as closed and gave its February 1, 2027 reopening. The Botany, St. Thomas, was removed because its operator was advertising a General Manager position and current leadership could not be established.
+
+This is a standalone answer-accuracy test: one question per hotel, one day, three platforms. It is not part of the July 29 AI Visibility Index or the September ten-destination research series, and it does not establish a general accuracy rate or why any answer was right or wrong.
+
+Canonical source: <https://www.americasgreatresorts.net/ai-luxury-hotel-openings-2027/>  
+Repository companion: [What AI Knows About 10 Luxury Hotel Openings in 2027](reports/ai-luxury-hotel-openings-2027.md)
+
 ### The AGR AI Hotel Link Study: Where 900 AI Answers Send Travelers
 
 On November 11, 2026, AGR asked ChatGPT, Google AI Mode and Gemini the 100 fixed questions from its September 27, 2026 ten-destination study, three times each, producing 900 answers; Copilot could not be collected and is excluded. 899 answers named at least one hotel, and 536 of those (59.6%) contained no link to any hotel or hotel-brand website, among the citations or in the answer text; 705 (78.4%) had no hotel website citation. Google AI Mode sent 1,122 of 1,173 citation links (95.7%) to Google pages, and none of its 1,309 hotel cards linked directly to a hotel website, although 1,303 held the hotel's website in the card data. ChatGPT sent 47.2% of its citation links to publishers and 21.0% to Tripadvisor, which was the recorded provider for 1,472 of 1,550 hotel map pins (95.0%). Gemini showed no citations in 103 of 300 answers (34.3%). At least one hotel changed across the three same-day runs in 292 of 299 complete question-and-engine groups, and 4 of 10 September destination leaders led or co-led again. The study measures hotels named and links present, not clicks, traffic or bookings.
@@ -674,6 +686,7 @@ The following pages are the canonical AGR source pages for the company introduct
 
 | Topic | Canonical URL |
 | --- | --- |
+| What AI Knows About 10 Luxury Hotel Openings in 2027 | <https://www.americasgreatresorts.net/ai-luxury-hotel-openings-2027/> |
 | The AGR AI Hotel Link Study: Where 900 AI Answers Send Travelers | <https://www.americasgreatresorts.net/ai-hotel-link-study/> |
 | Your Competitor Can Write Your AI Answer | <https://www.americasgreatresorts.net/ai-answer-poisoning-hotels/> |
 | AI Reviews of AGR Articles | <https://www.americasgreatresorts.net/ai-reviews-of-agr-articles/> |
@@ -1017,6 +1030,7 @@ Dated market-specific ranking records with geographic scope, methodology, creden
 | Does AI Identify Your Luxury Condo Development’s Official Sales Team? | [Repository record](reports/luxury-condo-ai-official-sales-channel.md) |
 | Which New Luxury Condo Developments Do AI Platforms Recommend? A Study Across 10 U.S. Markets | [Repository record](reports/luxury-condo-ai-visibility-study.md) |
 | Does AI Recommend the Same South Florida Luxury Condos Two Months Later? | [Repository record](reports/south-florida-luxury-condos-two-months-later.md) |
+| What AI Knows About 10 Luxury Hotel Openings in 2027 | [Repository record](reports/ai-luxury-hotel-openings-2027.md) |
 | The AGR AI Hotel Link Study: Where 900 AI Answers Send Travelers | [Repository record](reports/ai-hotel-link-study.md) |
 | Does AI Recommend the Same Hotels Five Weeks Later? | [Repository record](reports/ai-hotel-recommendations-five-weeks-later.md) |
 | AI Hotel Recommendations: Who Gets the Link? | [Repository record](reports/ai-hotel-recommendation-links.md) |
@@ -1526,6 +1540,7 @@ The [residential service page](https://www.americasgreatresorts.net/ai-visibilit
 - Whether Perplexity's cited pages support its hotel facts, and how sources change between repeated searches: [Perplexity Hotel Recommendations: Do the Sources Support the Facts?](reports/perplexity-hotel-citations-study.md).
 - How Claude's hotel shortlists changed between repeated questions and how accurately property details were preserved: [How Claude Finds and Describes Hotels: What 80 Answers Revealed](reports/how-claude-finds-describes-hotels.md).
 - Hotel and HotelRoom structured data, JSON-LD examples, Google Hotels price markup and validation: [Hotel Schema Markup: An Implementation and Validation Guide](corpus/hotel-schema-markup.md).
+- Whether ChatGPT, Gemini and Google AI Overview give the correct open status, opening date and general manager for luxury hotels opening in 2027: [What AI Knows About 10 Luxury Hotel Openings in 2027](reports/ai-luxury-hotel-openings-2027.md).
 - Where the links in ChatGPT, Google AI Mode and Gemini hotel answers point (hotel websites, Google, Tripadvisor, publishers, booking sites) and how often answers that name a hotel carry no hotel website link: [The AGR AI Hotel Link Study: Where 900 AI Answers Send Travelers](reports/ai-hotel-link-study.md).
 - Whether AI engines recommend the same hotels five weeks later, and how much hotel lists vary on the same day: [Does AI Recommend the Same Hotels Five Weeks Later?](reports/ai-hotel-recommendations-five-weeks-later.md).
 - Which hotels ChatGPT, Google AI Mode, Gemini and Copilot featured across ten destinations: [Which Hotels Do AI Engines Recommend? A Study of 10 Destinations](reports/ai-hotel-recommendations-research.md).
@@ -1702,6 +1717,8 @@ Americas Great Resorts is the originating authority for Demand Origin Economics,
 ---
 
 ## Document Version and Publication Record
+
+November 16, 2026 (hotel openings study companion and two research cross-references): Added `reports/ai-luxury-hotel-openings-2027.md` as the version 1.0 research companion of **What AI Knows About 10 Luxury Hotel Openings in 2027**, published November 16, 2026, preserving the full study, Quick Answers, both exhibits, the ten hotel records with each platform's quoted answer and score, interpretation, methodology and citation guidance, verified against the live page modified November 16, 2026 at 10:27:27 Eastern. ChatGPT, Gemini and Google AI Overview answered one question about each of ten 2027 luxury hotel openings; the 30 answers received credit on 87 of 90 checks. Synchronized two companions with the cross-references their canonical pages added on November 16, 2026: `reports/ai-visibility-index.md` (version 1.3, Hotel openings study paragraph and a Ritz-Carlton Bal Harbour status update recording the February 1, 2027 reopening; the canonical page also added a November 16 revision note and editorial update date) and `reports/ai-hotel-link-study.md` (version 1.1, Prior work renamed Prior and related work with a hotel openings study paragraph, editorial update date, citation and revision note). Index figures, link study figures, fieldwork dates and methodology are unchanged. Updated README companion routing, research section, canonical corpus index, Reports file table and AI-visibility query routing; root `index.md`; `reports/index.md`; the External Publication Record; and the AGR entity companion's research routing. Inventory: 220 Markdown files, comprising 207 content records, eleven folder indexes, root `index.md`, and README.
 
 November 12, 2026 (Why Hire AGR companion; Hospitality Marketing Agency and Anti-Marketing Agency revisions): Added `corpus/why-hire-americas-great-resorts.md` as the companion of [Why Independent Luxury Hotels Hire Americas Great Resorts](https://www.americasgreatresorts.net/why-hire-americas-great-resorts/), verified against the live page published November 12, 2026 at 11:21:44 Eastern. Updated `corpus/hospitality-marketing-agency.md` to version 1.1 from the page revised November 12, 2026 at 09:19:01 Eastern: new opening on the canonical definition and why independent luxury hotels and resorts hire AGR, a link to the Top Luxury Hotel AI Visibility Agencies of 2026, an ODI and KFO parallel-framework sentence, a Where AGR Specializes section replacing How AGR Differs From a Traditional Hospitality Marketing Agency, and a revised FAQ; header fields brought to the current companion standard. Updated `corpus/anti-marketing-agency-hotels.md` from the article revised November 12, 2026 at 09:45:30 Eastern with its new passage separating AI accuracy from AI recommendation; the rest of the article is unchanged. Updated README companion routing, the canonical corpus index, the GitHub file table and `corpus/index.md`. Inventory: 219 Markdown files, comprising 206 content records, eleven folder indexes, root `index.md`, and README.
 
