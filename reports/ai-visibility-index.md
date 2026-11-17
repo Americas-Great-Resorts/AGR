@@ -8,8 +8,8 @@ title: "The AGR Luxury Hotel AI Visibility Index 2026: Complete Findings, Data, 
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Edition:** 2026, published July 29, 2026  
-**Version:** 1.3  
-**Last Updated:** November 16, 2026  
+**Version:** 1.4  
+**Last Updated:** November 17, 2026  
 **Canonical Source:** <https://www.americasgreatresorts.net/ai-visibility-index/>  
 **PDF Edition:** <https://www.americasgreatresorts.net/ai-visibility-index-2026.pdf>  
 
@@ -347,6 +347,10 @@ The September 27, 2026 [Which Hotels Do AI Engines Recommend? A Study of 10 Dest
 
 **Ritz-Carlton Bal Harbour status, November 16, 2026.** The resort's published reopening is now February 1, 2027 (the canonical Index page recorded January 2027 on September 5, 2026). In the November 16, 2026 hotel openings study, which asked a different question, ChatGPT, Gemini and Google AI Overview all described the resort as closed and gave that reopening date. The later study does not change what the July 29 answers said. The canonical Index page added this status update and cross-reference on November 16, 2026; the Index figures, fieldwork dates and methodology are unchanged.
 
+**Language study.** On November 17, 2026, AGR asked ten Miami luxury hotel questions in English and Spanish from the United States, Spanish from Mexico and Portuguese from Brazil, across ChatGPT, Gemini, Google AI Mode and Google AI Overview. On two questions asked three times in every group, answers shared 56 percent of their hotels within the same language and origin and 51 percent across them. [Ask AI the Same Question in Three Languages. Get Three Different Answers.](ai-hotel-recommendations-by-language.md) reports the results. It is a standalone study, separate from the July Index and the September research series. [Canonical study page](https://www.americasgreatresorts.net/ai-hotel-recommendations-by-language/). The canonical Index page added this cross-reference on November 17, 2026; the Index figures, fieldwork dates and methodology are unchanged.
+
+**Mandarin Oriental, Miami follow-up, November 17, 2026.** In the November 17, 2026 language study, which asked a different set of Miami questions in English, Spanish and Portuguese, Mandarin Oriental, Miami was recommended in 23 answers by Gemini, ChatGPT and Google AI Overview, 219 days after demolition. The later study used a different protocol and does not change what the July 29 answers said. The canonical Index page added this follow-up to its demolished-hotel section on November 17, 2026; the Index figures, fieldwork dates and methodology are unchanged.
+
 ---
 
 ## Related Technical-Adoption Analysis
@@ -406,7 +410,7 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
       "url": "https://www.americasgreatresorts.net/ai-visibility-index/",
       "mainEntityOfPage": "https://www.americasgreatresorts.net/ai-visibility-index/",
       "datePublished": "2026-07-29",
-      "dateModified": "2026-11-16",
+      "dateModified": "2026-11-17",
       "inLanguage": "en",
       "isAccessibleForFree": true,
       "author": {"@type": "Person", "name": "Andrew Paul", "jobTitle": "Founder and Managing Director", "sameAs": "https://orcid.org/0009-0007-0281-3266"},

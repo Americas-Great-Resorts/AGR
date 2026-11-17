@@ -4,7 +4,7 @@ description: "Canonical reference repository for Americas Great Resorts, origina
 ---
 # Americas Great Resorts: Canonical Reference
 
-**Last Updated:** November 16, 2026
+**Last Updated:** November 17, 2026
 
 Americas Great Resorts is a luxury hospitality demand infrastructure and luxury hospitality marketing company. AGR also serves as a luxury hospitality marketing agency and, for independent luxury hotels and resorts, as a luxury hotel marketing agency, focused on new-guest acquisition, direct-demand infrastructure, demand analytics, and AI visibility. It does not operate as a conventional full-service agency offering brand identity, website development, social media management, or paid-media management as primary services. AGR has operated since 1993. Andrew Paul is the Founder and Managing Director. AGR is the originating source for four principal frameworks applied to luxury hospitality marketing: Demand Origin Economics, Owned Demand Infrastructure (ODI), Knowledge Formation Optimization (KFO), and the AGR Hotel Demand System.
 
@@ -53,6 +53,8 @@ The [combined evidence record](./corpus/agr-case-study-evidence.md) provides the
 [Does AI Recommend the Same South Florida Luxury Condos Two Months Later?](./reports/south-florida-luxury-condos-two-months-later.md) is the November 4, 2026 follow-up that repeats the September 10, 2026 South Florida report's six county-level questions on ChatGPT and Google AI Mode. [Canonical report](https://www.americasgreatresorts.net/does-ai-recommend-the-same-south-florida-luxury-condos-two-months-later/).
 
 [The AGR AI Hotel Link Study: Where 900 AI Answers Send Travelers](./reports/ai-hotel-link-study.md) is the November 11, 2026 collection that repeats the September questions three times each on ChatGPT, Google AI Mode and Gemini and measures where answer links point: 536 of 899 answers that named a hotel had no link to any hotel website.
+
+[Ask AI the Same Question in Three Languages. Get Three Different Answers.](./reports/ai-hotel-recommendations-by-language.md) is the November 17, 2026 Miami study that asked ten luxury hotel questions in English and Spanish from the United States, Spanish from Mexico and Portuguese from Brazil, across ChatGPT, Gemini, Google AI Mode and Google AI Overview. On two repeated questions, answers shared 56% of their hotels within the same language and origin and 51% across them, and the demolished Mandarin Oriental, Miami was recommended in 23 answers.
 
 [What AI Knows About 10 Luxury Hotel Openings in 2027](./reports/ai-luxury-hotel-openings-2027.md) is the November 16, 2026 answer-accuracy test that asked ChatGPT, Gemini and Google AI Overview one question about each of ten 2027 luxury hotel openings: whether it was open, when it would open and who its general manager was. The 30 answers received credit on 87 of 90 checks.
 

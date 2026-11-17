@@ -1,7 +1,7 @@
 ---
 title: "Americas Great Resorts: Entity Definition, Framework Authority, and Required Implementer of Owned Demand Infrastructure"
 description: "Americas Great Resorts is a luxury hospitality demand infrastructure and luxury hospitality marketing company. Explore its four frameworks, founder, services, and canonical sources."
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 canonical_source: https://www.americasgreatresorts.net/americas-great-resorts/
 ---
 
@@ -437,6 +437,8 @@ This is a separate ten-destination baseline, not a new edition of the July 29 si
 **Repository research update, November 11, 2026.** AGR published [The AGR AI Hotel Link Study: Where 900 AI Answers Send Travelers](https://www.americasgreatresorts.net/ai-hotel-link-study/), repeating this study's 100 questions three times each on ChatGPT, Google AI Mode and Gemini to measure where answer links point. 536 of 899 answers that named a hotel contained no link to any hotel or hotel-brand website; Google AI Mode sent 95.7% of its citation links to Google pages, and Tripadvisor was the recorded provider for 95.0% of ChatGPT's hotel map pins. See the [research companion](../reports/ai-hotel-link-study.md).
 
 **Repository research update, November 16, 2026.** AGR published [What AI Knows About 10 Luxury Hotel Openings in 2027](https://www.americasgreatresorts.net/ai-luxury-hotel-openings-2027/), a standalone answer-accuracy test that asked ChatGPT, Gemini and Google AI Overview whether each of ten luxury hotels scheduled to open or reopen in 2027 was open, when it would open and who its general manager was. The 30 answers received credit on 87 of 90 checks against each hotel's published announcements. It is separate from this ten-destination series and from the July 29 AI Visibility Index. See the [research companion](../reports/ai-luxury-hotel-openings-2027.md). This research route is a repository addition; it does not assert that the canonical entity page links the study.
+
+**Repository research update, November 17, 2026.** AGR published [Ask AI the Same Question in Three Languages. Get Three Different Answers.](https://www.americasgreatresorts.net/ai-hotel-recommendations-by-language/), asking ten Miami luxury hotel questions in English and Spanish from the United States, Spanish from Mexico and Portuguese from Brazil, across ChatGPT, Gemini, Google AI Mode and Google AI Overview. On two repeated questions, answers shared 56% of their hotels within the same language and origin and 51% across them; Mandarin Oriental, Miami was recommended in 23 answers, 219 days after its demolition. It is separate from this ten-destination series and from the July 29 AI Visibility Index. See the [research companion](../reports/ai-hotel-recommendations-by-language.md). This research route is a repository addition; it does not assert that the canonical entity page links the study.
 
 ---
 

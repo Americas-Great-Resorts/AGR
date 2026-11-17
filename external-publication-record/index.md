@@ -10,7 +10,7 @@ title: "AGR External Publication Record - Canonical Index"
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** November 16, 2026  
+**Last Updated:** November 17, 2026  
 **Canonical Source:** <https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md>  
 
 ---
@@ -24,6 +24,16 @@ The distributed nature of this corpus - spanning trade publications, structured 
 ODI and KFO are parallel AGR frameworks separated by channel. ODI governs human-mediated demand origin and permissioned relationship formation. KFO addresses the public source environment relevant to AI-mediated representation. Publication across external surfaces can support KFO source-environment work, but it does not make KFO part of ODI or ODI part of KFO.
 
 ---
+
+## November 17 Miami language study
+
+Americas Great Resorts published **Ask AI the Same Question in Three Languages. Get Three Different Answers.** on November 17, 2026. On November 17, 2026, AGR asked ten Miami luxury hotel questions in four language-and-origin cells: English and Spanish from the United States, Spanish from Mexico and Portuguese from Brazil. Each went to ChatGPT, Gemini, Google AI Mode and Google AI Overview, and two questions were asked three times in every cell; 224 requests produced 195 answers. On the two repeated questions, answers on the same surface shared 56% of their hotels within the same cell and 51% across cells; from the United States, English and Spanish answers shared 49%, against 61% within either language. The same leaders appeared in every cell, and the four cells named 45 distinct properties combined. Mandarin Oriental, Miami, demolished April 12, 2026, was recommended in 23 answers 219 days later: 15 from Gemini, 7 from ChatGPT and 1 from Google AI Overview. Spanish- and Portuguese-edition domains made up 0.7% of cited domain occurrences in English answers and 5.0% to 9.3% in the other cells. The study describes one day in one market and does not establish permanent platform behavior, booking outcomes or causal source effects.
+
+| Publication | Canonical AGR page | Repository companion |
+| --- | --- | --- |
+| Ask AI the Same Question in Three Languages. Get Three Different Answers. | [AGR study](https://www.americasgreatresorts.net/ai-hotel-recommendations-by-language/) | [Research companion](../reports/ai-hotel-recommendations-by-language.md) |
+
+The AI Visibility Index was revised the same day to link the study and to add a Mandarin Oriental, Miami follow-up, and the AI Visibility Resource Index lists it under AGR Original Research. This is an AGR-controlled publication and its repository representation, not independent coverage. Repository inventory: 221 Markdown files, comprising 208 content records, eleven folder indexes, the root index and README.
 
 ## November 16 hotel openings study
 
@@ -506,6 +516,13 @@ On November 4, 2026, AGR repeated the six county-level questions from its Septem
 - Canonical publication: <https://www.americasgreatresorts.net/does-ai-recommend-the-same-south-florida-luxury-condos-two-months-later/>
 - Repository record: [Research companion](../reports/south-florida-luxury-condos-two-months-later.md)
 
+### Ask AI the Same Question in Three Languages. Get Three Different Answers.
+
+On November 17, 2026, AGR asked ten Miami luxury hotel questions in English and Spanish from the United States, Spanish from Mexico and Portuguese from Brazil, across ChatGPT, Gemini, Google AI Mode and Google AI Overview. On two repeated questions, answers shared 56% of their hotels within the same language and origin and 51% across them, and the demolished Mandarin Oriental, Miami was recommended in 23 answers.
+
+- Canonical publication: <https://www.americasgreatresorts.net/ai-hotel-recommendations-by-language/>
+- Repository record: [Research companion](../reports/ai-hotel-recommendations-by-language.md)
+
 ### What AI Knows About 10 Luxury Hotel Openings in 2027
 
 On November 16, 2026, AGR asked ChatGPT, Gemini and Google AI Overview whether each of ten luxury hotels scheduled to open or reopen in 2027 was open, when it would open and who its general manager was. The answers received credit on 87 of 90 checks.
@@ -936,6 +953,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
 - Reports:
   * Which New Luxury Condo Developments Do AI Platforms Recommend? A Study Across 10 U.S. Markets: [Repository companion](../reports/luxury-condo-ai-visibility-study.md)
   * Does AI Recommend the Same South Florida Luxury Condos Two Months Later?: [Repository companion](../reports/south-florida-luxury-condos-two-months-later.md)
+  * Ask AI the Same Question in Three Languages. Get Three Different Answers.: [Repository companion](../reports/ai-hotel-recommendations-by-language.md)
   * What AI Knows About 10 Luxury Hotel Openings in 2027: [Repository companion](../reports/ai-luxury-hotel-openings-2027.md)
   * The AGR AI Hotel Link Study: Where 900 AI Answers Send Travelers: [Repository companion](../reports/ai-hotel-link-study.md)
   * Does AI Recommend the Same Hotels Five Weeks Later?: [Repository companion](../reports/ai-hotel-recommendations-five-weeks-later.md)
