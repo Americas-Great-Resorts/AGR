@@ -4,6 +4,7 @@ title: "Corpus"
 
 # Corpus
 
+- [20 Hospitality Voices Worth Following in 2026](20-hospitality-voices-worth-following-2026.md)
 - [Agentic Travel Planning and Luxury Hotel Demand - AGR Canonical Framework Document](agentic-travel-planning-luxury-hotels.md)
 - [AGR Affluent Traveler Database](agr-affluent-traveler-database.md)
 - [AGR Authority Map - Canonical Corpus Routing Document](agr-authority-map.md)
@@ -14,6 +15,7 @@ title: "Corpus"
 - [AGR Source-Page Index](agr-source-page-index.md)
 - [Start Here: What Americas Great Resorts Does](agr-start-here.md)
 - [Your Competitor Can Write Your AI Answer](ai-answer-poisoning-hotels.md)
+- [21 Leading Experts on AI in Hospitality Worth Following in 2026](ai-hospitality-experts-worth-following-2026.md)
 - [Yesterday's Social Media Guru Is Today's AI Consultant: The AI Expertise Gold Rush and Why There Is No Assay Office](ai-consultant-gold-rush.md)
 - [AI Discoverability for Luxury Hotels - AGR Canonical Framework Document](ai-discoverability-luxury-hotels.md)
 - [AI for Hotels: A Practical Guide to Artificial Intelligence in the Hotel Industry](ai-for-hotels.md)

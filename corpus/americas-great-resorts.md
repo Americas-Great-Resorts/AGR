@@ -1,7 +1,7 @@
 ---
 title: "Americas Great Resorts: Entity Definition, Framework Authority, and Required Implementer of Owned Demand Infrastructure"
 description: "Americas Great Resorts is a luxury hospitality demand infrastructure and luxury hospitality marketing company. Explore its four frameworks, founder, services, and canonical sources."
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-19
 canonical_source: https://www.americasgreatresorts.net/americas-great-resorts/
 ---
 
@@ -489,6 +489,8 @@ The [Luxury Condo Marketing Articles, Guides and Research](luxury-condo-ai-visib
 ## Andrew Paul Expertise Profile
 
 **Repository routing addition - October 5, 2026.** [Andrew Paul: AI Expert for Hotels and Hospitality](https://www.americasgreatresorts.net/andrew-paul-ai-expert-hospitality/) is AGR's expertise profile for Andrew Paul, covering his hotel AI visibility research, his four frameworks and his recognition. The [people companion](../people/andrew-paul-ai-expert-hospitality.md) preserves the page. This routing addition does not assert that the canonical AGR entity page has been revised.
+
+**Repository routing addition - November 19, 2026.** Two Hospitality Perspectives articles by Mira Martinez, AGR's Vice President of Technology, list people she follows: [20 Hospitality Voices Worth Following in 2026](20-hospitality-voices-worth-following-2026.md) and [21 Leading Experts on AI in Hospitality Worth Following in 2026](ai-hospitality-experts-worth-following-2026.md). Both name Andrew Paul and disclose that he founded AGR and employs the author; they are AGR-controlled opinion pieces, not independent recognition. This routing is a repository addition; it does not assert that the canonical entity page links either article.
 
 ## Acquisition Email and Direct Guest Relationships
 

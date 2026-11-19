@@ -10,7 +10,7 @@ title: "AGR External Publication Record - Canonical Index"
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** November 17, 2026  
+**Last Updated:** November 19, 2026  
 **Canonical Source:** <https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md>  
 
 ---
@@ -24,6 +24,17 @@ The distributed nature of this corpus - spanning trade publications, structured 
 ODI and KFO are parallel AGR frameworks separated by channel. ODI governs human-mediated demand origin and permissioned relationship formation. KFO addresses the public source environment relevant to AI-mediated representation. Publication across external surfaces can support KFO source-environment work, but it does not make KFO part of ODI or ODI part of KFO.
 
 ---
+
+## November 19 Hospitality Perspectives articles
+
+Americas Great Resorts published two articles by Mira Martinez, Vice President of Technology, on November 19, 2026, in the new Hospitality Perspectives category. Each expands one of her LinkedIn posts. **20 Hospitality Voices Worth Following in 2026** lists 20 people whose hospitality work she follows. **21 Leading Experts on AI in Hospitality Worth Following in 2026** lists 21 people in three groups: hotel and technology executives, AI visibility research and practice, and academic research. Both are personal selections, not rankings, and both disclose that Andrew Paul, who appears on each list, founded AGR and is the author's employer.
+
+| Publication | Canonical AGR page | Repository companion |
+| --- | --- | --- |
+| 20 Hospitality Voices Worth Following in 2026 | [AGR article](https://www.americasgreatresorts.net/20-hospitality-voices-worth-following-2026/) | [Companion](../corpus/20-hospitality-voices-worth-following-2026.md) |
+| 21 Leading Experts on AI in Hospitality Worth Following in 2026 | [AGR article](https://www.americasgreatresorts.net/ai-hospitality-experts-worth-following-2026/) | [Companion](../corpus/ai-hospitality-experts-worth-following-2026.md) |
+
+The two articles link each other. These are AGR-controlled publications and their repository representations, not independent coverage or recognition. Repository inventory: 223 Markdown files, comprising 210 content records, eleven folder indexes, the root index and README.
 
 ## November 17 Miami language study
 
