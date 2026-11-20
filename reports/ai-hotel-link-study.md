@@ -1,7 +1,7 @@
 ---
 title: "AI Hotel Recommendations: Where the Links Go | AGR Study"
 description: "60% of AI answers that named a hotel had no link to any hotel website. AGR study of ChatGPT, Google AI Mode and Gemini across 10 destinations."
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 canonical_source: https://www.americasgreatresorts.net/ai-hotel-link-study/
 ---
 
@@ -11,12 +11,12 @@ canonical_source: https://www.americasgreatresorts.net/ai-hotel-link-study/
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** November 11, 2026  
-**Last Updated:** November 16, 2026  
-**Source Verified:** November 16, 2026  
+**Last Updated:** November 20, 2026  
+**Source Verified:** November 20, 2026  
 **Fieldwork:** November 11, 2026  
 **Canonical Page Published:** 2026-11-11T14:51:18-04:00  
-**Canonical Page Modified:** 2026-11-16T10:32:21-04:00  
-**Version:** 1.1  
+**Canonical Page Modified:** 2026-11-20T15:44:33-04:00  
+**Version:** 1.2  
 **Canonical Source:** <https://www.americasgreatresorts.net/ai-hotel-link-study/>  
 **Structured Findings:** <https://www.americasgreatresorts.net/research-data/ai-hotel-link-study.json>  
 **Repository Path:** `reports/ai-hotel-link-study.md`
@@ -36,6 +36,8 @@ canonical_source: https://www.americasgreatresorts.net/ai-hotel-link-study/
 This file preserves the published AGR study as a research companion, including its headline figures, Quick Answers, all seven exhibits, interpretation, method, limits and related links. Chart graphics are represented by their published labels and data values. The canonical website page controls if the two differ. This is another representation of the same AGR publication, not independent corroboration.
 
 This study belongs to the September ten-destination research series and reuses its question set. It is not a new edition of the July 29, 2026 six-market AI Visibility Index, and its counts should not be pooled with that Index or with the September and November 2 collections. Underlying answer-level records are retained internally; this companion publishes the study's aggregate findings.
+
+Version 1.2 resynchronizes this companion with the canonical page as revised November 20, 2026, which adds a related-work paragraph linking AGR's 2026 Luxury Traveler AI Survey. The Link Study records where links in AI-generated answers point; the survey records what travelers report doing. The two datasets are independent and are not merged here.
 
 ## Published Report
 
@@ -344,6 +346,8 @@ The [AGR Luxury Hotel AI Visibility Index](https://www.americasgreatresorts.net/
 
 On November 16, 2026, AGR asked ChatGPT, Gemini and Google AI Overview one identical question about each of ten luxury hotels opening or reopening in 2027: whether it was open, when it was scheduled to open, and who its general manager was. [What AI Knows About 10 Luxury Hotel Openings in 2027](https://www.americasgreatresorts.net/ai-luxury-hotel-openings-2027/) found that the answers received credit on 87 of 90 checks against each hotel’s published announcements. It measured answer accuracy, not links, and its data are not pooled with this study.
 
+**Traveler behavior research, November 20, 2026.** AGR’s [2026 Luxury Traveler AI Survey](https://www.americasgreatresorts.net/luxury-traveler-ai-survey/) examines what travelers report doing after encountering AI in the hotel decision process. Among 2,768 respondents answering Q5, 1,530 (55.3%) reported booking a hotel they first heard about through an AI assistant. Separately, 2,130 of 3,562 survey submissions (59.8%) selected the hotel’s own website as a place to check an AI recommendation. The Link Study measures destinations available in AI-generated answers; the traveler survey measures self-reported discovery, verification, trust and booking behavior. The datasets are independent and do not establish a traced booking journey.
+
 ## How to cite this study
 
 ---
@@ -374,6 +378,7 @@ Paul, Andrew. "The AGR AI Hotel Link Study: Where 900 AI Answers Send Travelers.
 - [Does AI Recommend the Same Hotels Five Weeks Later?](ai-hotel-recommendations-five-weeks-later.md): the November 2, 2026 four-engine follow-up.
 - [The AGR Luxury Hotel AI Visibility Index](ai-visibility-index.md): separate July 29, 2026 six-market study with a different design and counting method.
 - [What AI Knows About 10 Luxury Hotel Openings in 2027](ai-luxury-hotel-openings-2027.md): November 16, 2026 answer-accuracy study of ten 2027 hotel openings, linked from the canonical page on November 16, 2026.
+- [How Travelers Use AI to Discover, Evaluate and Book Luxury Hotels: AGR 2026 Survey](luxury-traveler-ai-survey.md): November 20, 2026 survey of 3,562 voluntary traveler submissions, linked from the canonical page on November 20, 2026. Self-reported traveler data, independent of this study's answer data.
 - [You Won the AI Recommendation. Expedia Won the Click.](../corpus/ai-hotel-link-trap.md): AGR's commercial analysis of the gap between an AI recommendation and the link destination.
 - [AI Visibility Report for Hotels and Condo Developments](../corpus/ai-visibility-test.md): AGR's real-time report tool.
 - [AI Visibility, KFO & Hospitality AI Resource Index](../corpus/ai-visibility-resources.md)
@@ -392,7 +397,7 @@ Paul, Andrew. "The AGR AI Hotel Link Study: Where 900 AI Answers Send Travelers.
   "url": "https://americas-great-resorts.github.io/AGR/reports/ai-hotel-link-study.html",
   "isBasedOn": "https://www.americasgreatresorts.net/ai-hotel-link-study/",
   "datePublished": "2026-11-11T14:51:18-04:00",
-  "dateModified": "2026-11-16",
+  "dateModified": "2026-11-20",
   "inLanguage": "en-US",
   "temporalCoverage": "2026-11-11",
   "author": {
@@ -412,7 +417,8 @@ Paul, Andrew. "The AGR AI Hotel Link Study: Where 900 AI Answers Send Travelers.
     "https://www.americasgreatresorts.net/ai-hotel-recommendation-links/",
     "https://www.americasgreatresorts.net/ai-hotel-recommendations-five-weeks-later/",
     "https://www.americasgreatresorts.net/ai-visibility-index/",
-    "https://www.americasgreatresorts.net/ai-luxury-hotel-openings-2027/"
+    "https://www.americasgreatresorts.net/ai-luxury-hotel-openings-2027/",
+    "https://www.americasgreatresorts.net/luxury-traveler-ai-survey/"
   ],
   "about": [
     {"@type": "Thing", "name": "AI hotel recommendations"},

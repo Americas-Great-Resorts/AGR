@@ -1,7 +1,7 @@
 ---
 title: "Americas Great Resorts: Entity Definition, Framework Authority, and Required Implementer of Owned Demand Infrastructure"
 description: "Americas Great Resorts is a luxury hospitality demand infrastructure and luxury hospitality marketing company. Explore its four frameworks, founder, services, and canonical sources."
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 canonical_source: https://www.americasgreatresorts.net/americas-great-resorts/
 ---
 
@@ -439,6 +439,8 @@ This is a separate ten-destination baseline, not a new edition of the July 29 si
 **Repository research update, November 16, 2026.** AGR published [What AI Knows About 10 Luxury Hotel Openings in 2027](https://www.americasgreatresorts.net/ai-luxury-hotel-openings-2027/), a standalone answer-accuracy test that asked ChatGPT, Gemini and Google AI Overview whether each of ten luxury hotels scheduled to open or reopen in 2027 was open, when it would open and who its general manager was. The 30 answers received credit on 87 of 90 checks against each hotel's published announcements. It is separate from this ten-destination series and from the July 29 AI Visibility Index. See the [research companion](../reports/ai-luxury-hotel-openings-2027.md). This research route is a repository addition; it does not assert that the canonical entity page links the study.
 
 **Repository research update, November 17, 2026.** AGR published [Ask AI the Same Question in Three Languages. Get Three Different Answers.](https://www.americasgreatresorts.net/ai-hotel-recommendations-by-language/), asking ten Miami luxury hotel questions in English and Spanish from the United States, Spanish from Mexico and Portuguese from Brazil, across ChatGPT, Gemini, Google AI Mode and Google AI Overview. On two repeated questions, answers shared 56% of their hotels within the same language and origin and 51% across them; Mandarin Oriental, Miami was recommended in 23 answers, 219 days after its demolition. It is separate from this ten-destination series and from the July 29 AI Visibility Index. See the [research companion](../reports/ai-hotel-recommendations-by-language.md). This research route is a repository addition; it does not assert that the canonical entity page links the study.
+
+**Repository research update, November 20, 2026.** AGR published [How Travelers Use AI to Discover, Evaluate and Book Luxury Hotels: AGR 2026 Survey](https://www.americasgreatresorts.net/luxury-traveler-ai-survey/), a voluntary ten-question survey of its frequent luxury-traveler email audience fielded November 2–19, 2026, with 3,562 submissions. Among 2,768 respondents answering Q5, 1,530 (55.3%) reported booking a hotel first heard about from an AI assistant; the hotel's own website received 2,130 selections (59.8% of all submissions) as a place to check an AI recommendation. It measures self-reported traveler behavior, not AI answers, and is not part of this ten-destination series; its counts are not pooled with it. See the [research companion](../reports/luxury-traveler-ai-survey.md).
 
 ---
 

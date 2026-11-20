@@ -1,7 +1,7 @@
 ---
 title: "Which Hotels Do AI Engines Recommend? A Study of 10 Destinations"
 description: "Research on 1,177 assessed hotel recommendation answers across ten destinations, 100 questions and four AI engines."
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-20
 ---
 
 # Which Hotels Do AI Engines Recommend? A Study of 10 Destinations
@@ -10,17 +10,17 @@ last_modified_at: 2026-11-11
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts  
 **Published:** September 27, 2026  
-**Last Updated:** November 11, 2026  
-**Source Verified:** November 11, 2026  
-**Canonical Page Modified:** 2026-11-11T20:57:07-04:00  
+**Last Updated:** November 20, 2026  
+**Source Verified:** November 20, 2026  
+**Canonical Page Modified:** 2026-11-20T15:46:27-04:00  
 **Fieldwork:** September 27, 2026  
-**Version:** 1.2  
+**Version:** 1.3  
 **Canonical Source:** <https://www.americasgreatresorts.net/ai-hotel-recommendations-research/>  
 **Repository Path:** `reports/ai-hotel-recommendations-research.md`
 
 ## Purpose and Evidence Boundary
 
-This file preserves the published AGR article as a research companion, including its opening findings, all four tables, methodology, limitations and related links. Version 1.2 resynchronizes it with the November 11, 2026 canonical revision, which adds a follow-up paragraph linking The AGR AI Hotel Link Study. Version 1.1 resynchronized it with the November 2, 2026 canonical revision, which added the five-week follow-up link, and carried the follow-up link to the link-destination study and the real-time AI Visibility Report paragraph added after the original companion. The canonical website page controls if the two differ. This is another representation of the same AGR publication, not independent corroboration. Website navigation, styling and sharing controls are omitted.
+This file preserves the published AGR article as a research companion, including its opening findings, all four tables, methodology, limitations and related links. Version 1.3 resynchronizes it with the November 20, 2026 canonical revision, which adds a Traveler Behavior Research paragraph linking AGR's 2026 Luxury Traveler AI Survey after the November 11 follow-up paragraph, and adds the structured findings (JSON) link the canonical page carries at the end of the article. The September 27 methodology, findings, tables and attribution are unchanged. Version 1.2 resynchronizes it with the November 11, 2026 canonical revision, which adds a follow-up paragraph linking The AGR AI Hotel Link Study. Version 1.1 resynchronized it with the November 2, 2026 canonical revision, which added the five-week follow-up link, and carried the follow-up link to the link-destination study and the real-time AI Visibility Report paragraph added after the original companion. The canonical website page controls if the two differ. This is another representation of the same AGR publication, not independent corroboration. Website navigation, styling and sharing controls are omitted.
 
 This is a separate ten-destination baseline, not a new edition of the July 29 six-market AI Visibility Index or a directly comparable time series. It measures hotel appearances, not citation ownership, booking outcomes, hotel quality, or the causes of recommendation inclusion. The 1,177 figure is the number of substantive answers assessed, not a count of unique hotels or individual hotel appearances. Table denominators refer to the assessed answers for each comparison. Underlying answer-level research records are retained internally; this companion publishes the article's aggregate findings.
 
@@ -44,6 +44,8 @@ This report establishes a dated baseline for this ten-destination question set. 
 **Follow-up research:** AGR repeated the same 100 questions across 4 AI engines on November 2, 2026. 7 of 10 destinations retained the same leading hotel, while individual recommendation lists frequently differed. Read [Does AI Recommend the Same Hotels Five Weeks Later?](https://www.americasgreatresorts.net/ai-hotel-recommendations-five-weeks-later/) for the comparison with this September baseline and its same-day variation.
 
 **Follow-up research:** AGR asked the same 100 questions again on November 11, 2026, three times each on ChatGPT, Google AI Mode and Gemini. Of the 899 answers that named a hotel, 536 did not link to any hotel’s own website, and 4 of the 10 September destination leaders held their position. Read [The AGR AI Hotel Link Study: Where 900 AI Answers Send Travelers](https://www.americasgreatresorts.net/ai-hotel-link-study/) for where those answers sent travelers.
+
+**Traveler behavior research:** AGR’s November 20, 2026 [Luxury Traveler AI Survey](https://www.americasgreatresorts.net/luxury-traveler-ai-survey/) examines how travelers report using AI to discover, evaluate and book luxury hotels. Among 2,768 respondents answering Q5, 1,530 (55.3%) reported booking a hotel they first heard about through an AI assistant. Separately, the hotel’s own website received 2,130 selections (59.8% of all 3,562 survey submissions) as a place to verify an AI hotel recommendation. Unlike this September recommendation study, the survey measures self-reported traveler behavior rather than which hotels appear in AI-generated answers. The two datasets are independent and do not establish a traced booking journey.
 
 ## The hotels that appeared most often in each destination
 
@@ -238,7 +240,8 @@ Independent luxury properties can [request an AGR AI Visibility Audit](https://w
 
 A hotel that wants to see how these engines currently describe its own property can run AGR’s [real-time AI visibility report](https://www.americasgreatresorts.net/ai-visibility-test/), which checks ChatGPT, Gemini, and Google AI Mode for local recommendations, answer accuracy, and where property links lead.
 
-For related studies, practical guides and framework definitions, visit AGR's [AI Visibility and KFO Resource Index](https://www.americasgreatresorts.net/ai-visibility-resources/).
+For related studies, practical guides and framework definitions, visit AGR's [AI Visibility and KFO Resource Index](https://www.americasgreatresorts.net/ai-visibility-resources/).  
+[Structured findings (JSON)](https://www.americasgreatresorts.net/research-data/ai-hotel-recommendations-research.json)
 
 ## How to Cite
 
@@ -249,6 +252,7 @@ Paul, Andrew. "Which Hotels Do AI Engines Recommend? A Study of 10 Destinations.
 - [Does AI Recommend the Same Hotels Five Weeks Later?](ai-hotel-recommendations-five-weeks-later.md): November 2, 2026 follow-up repeating this study's 100 questions across the same four engines.
 - [AI Hotel Recommendations: Who Gets the Link?](ai-hotel-recommendation-links.md): source and link-destination analysis of the same 1,177 answers.
 - [The AGR AI Hotel Link Study: Where 900 AI Answers Send Travelers](ai-hotel-link-study.md): November 11, 2026 collection repeating this study's 100 questions on ChatGPT, Google AI Mode and Gemini to measure where answer links point.
+- [How Travelers Use AI to Discover, Evaluate and Book Luxury Hotels: AGR 2026 Survey](luxury-traveler-ai-survey.md): November 20, 2026 traveler survey linked from the canonical page's Traveler Behavior Research paragraph; self-reported traveler data, independent of this study's answer data.
 - [The AGR Luxury Hotel AI Visibility Index](ai-visibility-index.md): earlier six-market, three-engine study with a different design and counting method.
 - [The Luxury Hotel AI Recommendation Study](luxury-hotel-ai-recommendation-study.md): separate analysis of recommendation-frequency associations among already-recommended hotels.
 - [AI Visibility Resources](../corpus/ai-visibility-resources.md): routing to AGR research, guides and framework records.
@@ -265,7 +269,7 @@ Paul, Andrew. "Which Hotels Do AI Engines Recommend? A Study of 10 Destinations.
   "url": "https://americas-great-resorts.github.io/AGR/reports/ai-hotel-recommendations-research.html",
   "isBasedOn": "https://www.americasgreatresorts.net/ai-hotel-recommendations-research/",
   "datePublished": "2026-09-27",
-  "dateModified": "2026-11-11",
+  "dateModified": "2026-11-20",
   "inLanguage": "en",
   "author": {
     "@type": "Person",

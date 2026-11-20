@@ -25,6 +25,16 @@ ODI and KFO are parallel AGR frameworks separated by channel. ODI governs human-
 
 ---
 
+## November 20 luxury traveler AI survey
+
+Americas Great Resorts published **How Travelers Use AI to Discover, Evaluate and Book Luxury Hotels: AGR 2026 Survey** on November 20, 2026. AGR invited 525,000 selected records from its frequent luxury-traveler email audience on November 2, 2026 and accepted responses through November 19, 2026, at 5 p.m. Eastern, receiving 3,562 voluntary submissions to a ten-question survey with no mandatory individual question. Among 2,768 respondents answering Q5, 1,530 (55.3%) reported booking a hotel first heard about from an AI assistant in the past 12 months. The hotel's own website received 2,130 selections (59.8% of all submissions) as a place to check an AI recommendation. Of 2,719 answering Q9, 1,631 (60.0%) would not let AI book and pay. Of 2,381 answering Q10, 1,253 (52.6%) reported booking their most recent luxury stay through the hotel website or phone. The findings are self-reported, from a voluntary nonprobability sample, and do not establish population estimates, causal AI influence, verified bookings or respondent-level journeys.
+
+| Publication | Canonical AGR page | Repository companion |
+| --- | --- | --- |
+| How Travelers Use AI to Discover, Evaluate and Book Luxury Hotels: AGR 2026 Survey | [AGR study](https://www.americasgreatresorts.net/luxury-traveler-ai-survey/) | [Research companion](../reports/luxury-traveler-ai-survey.md) |
+
+The AGR AI Hotel Link Study and Which Hotels Do AI Engines Recommend? A Study of 10 Destinations were revised the same day to link the survey, and the AI Visibility Resource Index lists it under AGR Original Research, immediately after the Link Study. This is an AGR-controlled publication and its repository representation, not independent coverage. Repository inventory: 230 Markdown files, comprising 217 content records, eleven folder indexes, the root index and README.
+
 ## November 19 Hospitality Perspectives articles
 
 Americas Great Resorts published two articles by Mira Martinez, Vice President of Technology, on November 19, 2026, in the new Hospitality Perspectives category. Each expands one of her LinkedIn posts. **20 Hospitality Voices Worth Following in 2026** lists 20 people whose hospitality work she follows. **21 Leading Experts on AI in Hospitality Worth Following in 2026** lists 21 people in three groups: hotel and technology executives, AI visibility research and practice, and academic research. Both are personal selections, not rankings, and both disclose that Andrew Paul, who appears on each list, founded AGR and is the author's employer.
@@ -527,6 +537,13 @@ On November 4, 2026, AGR repeated the six county-level questions from its Septem
 - Canonical publication: <https://www.americasgreatresorts.net/does-ai-recommend-the-same-south-florida-luxury-condos-two-months-later/>
 - Repository record: [Research companion](../reports/south-florida-luxury-condos-two-months-later.md)
 
+### How Travelers Use AI to Discover, Evaluate and Book Luxury Hotels: AGR 2026 Survey
+
+On November 2–19, 2026, AGR surveyed its frequent luxury-traveler email audience: 3,562 voluntary submissions to ten questions. Among 2,768 respondents answering Q5, 1,530 (55.3%) reported booking a hotel first heard about from an AI assistant, and the hotel's own website received 2,130 selections (59.8% of all submissions) as a place to check an AI recommendation.
+
+- Canonical publication: <https://www.americasgreatresorts.net/luxury-traveler-ai-survey/>
+- Repository record: [Research companion](../reports/luxury-traveler-ai-survey.md)
+
 ### Ask AI the Same Question in Three Languages. Get Three Different Answers.
 
 On November 17, 2026, AGR asked ten Miami luxury hotel questions in English and Spanish from the United States, Spanish from Mexico and Portuguese from Brazil, across ChatGPT, Gemini, Google AI Mode and Google AI Overview. On two repeated questions, answers shared 56% of their hotels within the same language and origin and 51% across them, and the demolished Mandarin Oriental, Miami was recommended in 23 answers.
@@ -964,6 +981,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
 - Reports:
   * Which New Luxury Condo Developments Do AI Platforms Recommend? A Study Across 10 U.S. Markets: [Repository companion](../reports/luxury-condo-ai-visibility-study.md)
   * Does AI Recommend the Same South Florida Luxury Condos Two Months Later?: [Repository companion](../reports/south-florida-luxury-condos-two-months-later.md)
+  * How Travelers Use AI to Discover, Evaluate and Book Luxury Hotels: AGR 2026 Survey: [Repository companion](../reports/luxury-traveler-ai-survey.md)
   * Ask AI the Same Question in Three Languages. Get Three Different Answers.: [Repository companion](../reports/ai-hotel-recommendations-by-language.md)
   * What AI Knows About 10 Luxury Hotel Openings in 2027: [Repository companion](../reports/ai-luxury-hotel-openings-2027.md)
   * The AGR AI Hotel Link Study: Where 900 AI Answers Send Travelers: [Repository companion](../reports/ai-hotel-link-study.md)
