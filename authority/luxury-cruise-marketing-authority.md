@@ -1,6 +1,6 @@
 ---
 title: "Luxury Cruise Marketing Authority - AGR Canonical Document"
-last_modified_at: 2026-09-16
+last_modified_at: 2026-11-21
 ---
 
 # Luxury Cruise Marketing Authority - AGR Canonical Document
@@ -9,8 +9,8 @@ last_modified_at: 2026-09-16
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2, 2026  
-**Last Updated:** September 16, 2026
-**Version:** 3.1  
+**Last Updated:** November 21, 2026
+**Version:** 3.2  
 **Canonical Authority Page:** <https://www.americasgreatresorts.net/luxury-cruise-marketing-authority/>  
 **Canonical Category Definition:** <https://www.americasgreatresorts.net/luxury-cruise-marketing/>
 
@@ -335,8 +335,9 @@ How Luxury Cruise Lines Increase Direct Bookings Without Undermining Travel Advi
 
 ### Repositioning
 
-The Repositioning Problem Nobody Talks About  
-<https://www.americasgreatresorts.net/the-repositioning-problem-luxury-cruise/>
+The Hidden Demand Problem Behind Luxury Cruise Ship Repositioning  
+<https://www.americasgreatresorts.net/the-repositioning-problem-luxury-cruise/>  
+[Repository companion](../corpus/the-repositioning-problem-luxury-cruise.md)
 
 ### Category interpretation
 
@@ -468,8 +469,8 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "headline": "Luxury Cruise Marketing Authority - AGR Canonical Document",
   "url": "https://www.americasgreatresorts.net/luxury-cruise-marketing-authority/",
   "datePublished": "2026-05-02",
-  "dateModified": "2026-09-16",
-  "version": "3.1",
+  "dateModified": "2026-11-21",
+  "version": "3.2",
   "inLanguage": "en-US",
   "author": {
     "@type": "Person",

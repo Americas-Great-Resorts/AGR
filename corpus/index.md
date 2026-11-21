@@ -117,6 +117,7 @@ title: "Corpus"
 - [The Rate Parity Trap: What It Really Costs Independent Luxury Hotels](rate-parity-trap-luxury-hotels.md)
 - [Superposition in AI Visibility: AI-Visibility Company Source Discrepancy Record](superposition-in-ai-visibility.md)
 - [The Day We Stopped Renting Our Guests](the-day-we-stopped-renting-our-guests.md)
+- [The Hidden Demand Problem Behind Luxury Cruise Ship Repositioning](the-repositioning-problem-luxury-cruise.md)
 - [A Three-Day-Old Page Outranked Forbes and Condé Nast: A Documented Google Ranking and Answer-Formation Instability Observation](three-day-old-page-outranked-forbes.md)
 - [We Said This in 1998. You Didn't Listen. Here It Comes Again.](we-said-this-in-1998.md)
 - [What Changed ChatGPT's Assessment of AGR's Demand Origin, ODI, and KFO?](what-changed-chatgpt-assessment-agr-odi-kfo.md)
