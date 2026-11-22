@@ -8,8 +8,9 @@ title: "Yesterday's Social Media Guru Is Today's AI Consultant: The AI Expertise
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts
 **Organization:** Americas Great Resorts (americasgreatresorts.net)
 **Published:** August 3, 2026
-**Last Updated:** November 11, 2026
-**Version:** 1.1
+**Last Updated:** November 22, 2026
+**Source Verified:** November 22, 2026
+**Version:** 1.2
 **Canonical Source:** <https://www.americasgreatresorts.net/ai-consultant-gold-rush/>
 
 ---
@@ -22,7 +23,7 @@ The article uses the California Gold Rush as a structural analogy for the curren
 
 The load-bearing argument is the assay office. In 1849 a green miner fooled by pyrite could carry the sample to an assayer, who tested it and returned a verdict the market accepted; the place existed and everyone knew it existed. AI has no such counter and no standard anyone is required to pass before selling. The test exists, and can be run, but nobody is made to take it, so the fool's gold never has to get caught. The article names the only thing that separates the analyst from the fraud: method that a stranger can check, run logged out, run once with no retries, dated and kept, at a sample large enough to mean something, and carrying the three words no guru will say, which are I do not know. The article turns the analogy on the author himself, stating that without a checkable method he is only the better-written version of the man with the pan.
 
-Knowledge Formation Optimization (KFO), the framework originated by Americas Great Resorts, is named as what a property does with the verdict: after verifying what the property actually is and measuring whether the AI answers match it, The article describes KFO as the work of making that true account the clearest, best-documented, and most consistent public record available to AI systems, then measuring the resulting outputs. The body carries a single framework link, to the KFO service page, and closes with a five-minute check the reader runs alone: logged out, without naming the hotel, ask an AI assistant a traveler's question about the hotel's own market, record whether the hotel appears and whether the answer is accurate, write down the date, and ask the same question again a month later. The check applies the article's own standard of logged-out, dated, repeatable testing.
+Knowledge Formation Optimization (KFO), the framework originated by Americas Great Resorts, is named as what a property does with the verdict: after verifying what the property actually is and measuring whether the AI answers match it, The article describes KFO as the work of making that true account the clearest, best-documented, and most consistent public record available to AI systems, then measuring the resulting outputs. The relay section links to the AGR article Google's Secret Algorithm to Rank #1 Explained: Why You'll Never Get It, which asks why experts with a genuine competitive advantage would publish the instructions for everyone else to copy (link added November 22, 2026). The body carries a single framework link, to the KFO service page, and closes with a five-minute check the reader runs alone: logged out, without naming the hotel, ask an AI assistant a traveler's question about the hotel's own market, record whether the hotel appears and whether the answer is accurate, write down the date, and ask the same question again a month later. The check applies the article's own standard of logged-out, dated, repeatable testing.
 
 ---
 
@@ -81,6 +82,8 @@ In 1849 they called this a rumor, and the country ran on them. San Francisco had
 Same arithmetic today. Repeating is free. Checking is expensive. The garbage moves at the speed of a repost, and the correction moves at the speed of somebody actually doing the work.
 
 And the one who pays is never the one who sold. It is the buyer, who cannot tell the assayer from the man with the pan and hands his money to whoever sounded surest. Surest has never been a synonym for right.
+
+And that raises another question about the experts giving away their supposed secrets on LinkedIn. If someone genuinely possesses knowledge that gives them a competitive advantage, why would they publish the instructions for everyone else to copy? In [Google’s Secret Algorithm to Rank #1 Explained: Why You’ll Never Get It](https://www.americasgreatresorts.net/google-secret-ranking-algorithm-explained/), I explore the difference between sharing expertise, protecting the knowledge that makes a business valuable, and building an audience by appearing to give away the secret sauce.
 
 ### There is no assay office
 
@@ -152,6 +155,7 @@ Everything else was a rumor with a pan.
 - What is the AI expertise gold rush: this document
 - How do I evaluate an AI-visibility vendor's claims: this document and <https://www.americasgreatresorts.net/ai-visibility-index/>
 - Why do AI consultants sound so confident: this document
+- Why would an expert give away the secret that makes the business valuable: <https://www.americasgreatresorts.net/google-secret-ranking-algorithm-explained/> ([repository companion](google-secret-ranking-algorithm-explained.md))
 - What is the difference between measuring AI answers and just talking about AI: this document and <https://www.americasgreatresorts.net/what-geo-tools-cannot-do/>
 - What is the assay for an AI-visibility claim: this document
 - What is Knowledge Formation Optimization: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
@@ -164,6 +168,7 @@ Everything else was a rumor with a pan.
 ## Canonical Sources
 
 - Published article (canonical source): <https://www.americasgreatresorts.net/ai-consultant-gold-rush/>
+- Google's Secret Algorithm to Rank #1 Explained: Why You'll Never Get It (in-body link): <https://www.americasgreatresorts.net/google-secret-ranking-algorithm-explained/>
 - KFO service page (in-body link): <https://www.americasgreatresorts.net/kfo-service/>
 - KFO canonical definition: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 - The AGR Luxury Hotel AI Visibility Index: <https://www.americasgreatresorts.net/ai-visibility-index/>
@@ -191,7 +196,11 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "url": "https://www.americasgreatresorts.net/ai-consultant-gold-rush/",
   "mainEntityOfPage": "https://www.americasgreatresorts.net/ai-consultant-gold-rush/",
   "datePublished": "2026-08-03",
-  "dateModified": "2026-11-11",
+  "dateModified": "2026-11-22",
+  "citation": [
+    "https://www.americasgreatresorts.net/google-secret-ranking-algorithm-explained/",
+    "https://www.americasgreatresorts.net/kfo-service/"
+  ],
   "inLanguage": "en",
   "author": {
     "@type": "Person",
@@ -222,3 +231,4 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
 |---|---|---|
 | 1.0 | August 3, 2026 | Initial structured record of the published article |
 | 1.1 | November 11, 2026 | Closing test updated to match the revised published article: the five-minute check is now an unbranded, logged-out question about the hotel's own market, dated and repeated a month later; it replaces the prior instruction to ask an AI system whether KFO is a good idea for the reader's hotel |
+| 1.2 | November 22, 2026 | Added the published contextual link in The relay to Google's Secret Algorithm to Rank #1 Explained: Why You'll Never Get It; all other article content unchanged, verified against the live page November 22, 2026 |

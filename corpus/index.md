@@ -50,6 +50,7 @@ title: "Corpus"
 - [Americas Great Resorts - Entity Definition Document](entity-definition.md)
 - [GEO for Hotels: The Three Functions of AI Visibility](geo-for-hotels.md)
 - [Google Just Made Search Harder for Machines to Read - LLM Ingestion Document](google-search-harder-for-machines-to-read.md)
+- [Google's Secret Algorithm to Rank #1 Explained: Why You'll Never Get It](google-secret-ranking-algorithm-explained.md)
 - [Your Next Guest Just Asked a Machine Which Hotel to Book. You Weren't on the List.](guest-asked-ai-hotel.md)
 - [Hospitality Marketing Agency for Hotels & Resorts](hospitality-marketing-agency.md)
 - [Hotel AI Visibility Guide](hotel-ai-visibility-guide.md)

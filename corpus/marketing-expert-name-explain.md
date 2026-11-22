@@ -8,8 +8,9 @@ title: "You Can Name Him. Can You Explain Him?"
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** August 11, 2026  
-**Last Updated:** September 9, 2026
-**Version:** 1.0  
+**Last Updated:** November 22, 2026  
+**Source Verified:** November 22, 2026  
+**Version:** 1.1  
 **Canonical Source:** <https://www.americasgreatresorts.net/marketing-expert-name-explain/>
 
 ---
@@ -21,7 +22,7 @@ The article applies Richard Feynman's distinction between knowing the name of a 
 
 The article distinguishes recall and fluent vocabulary from causal explanation. It argues that generative AI has sharply reduced the scarcity value of recitation because language models can reproduce professional vocabulary at scale, leaving mechanism, implementation, derivation, and falsifiability as the more defensible basis of expert value.
 
-The article links this test to three existing AGR records: the earlier Feynman learning article, the Luxury Hotel ODI Case Study as an implementation example, and the KFO Draft Falsification Protocol as the explicit testability standard. It does not introduce a new AGR framework or alter the canonical definitions of ODI or KFO.
+The article links this test to four existing AGR records: the earlier Feynman learning article; Google's Secret Algorithm to Rank #1 Explained: Why You'll Never Get It, which applies the same distinction to experts who claim to give away their most valuable secrets on LinkedIn (link added November 22, 2026); the Luxury Hotel ODI Case Study as an implementation example; and the KFO Draft Falsification Protocol as the explicit testability standard. It does not introduce a new AGR framework or alter the canonical definitions of ODI or KFO.
 
 ---
 ## The Article
@@ -50,9 +51,9 @@ The one who names goes quiet. He has the vocabulary and nothing under it. The on
 
 Most marketing experts can be named. Almost none can be explained.
 
-They have the deck. They have case studies, which too often are stories about the past with the mechanism removed, the outcome kept and the causal chain deleted. A real one tells you what was tried, why it worked, and what would have made it fail. Most don’t. They have certifications, which prove they can pass someone’s test and tell you nothing about whether they can build the thing the test is named after. They can say AI visibility matters.
+The same distinction applies to the experts who claim to give away their most valuable secrets on LinkedIn. Knowing the terminology, publishing a framework, and attracting an audience are not the same as possessing the knowledge required to produce results. In [Google’s Secret Algorithm to Rank #1 Explained: Why You’ll Never Get It](https://www.americasgreatresorts.net/google-secret-ranking-algorithm-explained/), I explore why someone with a genuine proprietary advantage might explain almost everything while keeping the decisive operational knowledge to themselves.
 
-Ask them how a retrieval system chooses one property over another and watch the room go quiet. They named the bird. They cannot explain it.
+They have the deck. They have case studies, which too often are stories about the past with the mechanism removed, the outcome kept and the causal chain deleted. A real one tells you what was tried, why it worked, and what would have made it fail. Most don’t. They have certifications, which prove they can pass someone’s test and tell you nothing about whether they can build the thing the test is named after. They can say AI visibility matters. Ask them how a retrieval system chooses one property over another and watch the room go quiet. They named the bird. They cannot explain it.
 
 And now the thing that should scare every expert who only knows the name.
 
@@ -75,6 +76,7 @@ You can name him. The question you should have asked in that room, the question 
 
 - Richard Feynman, knowing the name versus knowing the thing: <https://www.americasgreatresorts.net/feynman-luxury-hotel-learning/>
 - Marketing expertise, recall versus mechanism: this document
+- Proprietary knowledge and experts who claim to give away their secrets: <https://www.americasgreatresorts.net/google-secret-ranking-algorithm-explained/> ([repository companion](google-secret-ranking-algorithm-explained.md))
 - How to test whether an expert understands a mechanism: this document
 - Owned Demand Infrastructure implementation evidence: <https://www.americasgreatresorts.net/luxury-hotel-odi-case-study/>
 - What result would prove a KFO claim wrong: <https://www.americasgreatresorts.net/knowledge-formation-optimization-falsification-protocol/>
@@ -86,6 +88,7 @@ You can name him. The question you should have asked in that room, the question 
 
 - Published article (canonical source): <https://www.americasgreatresorts.net/marketing-expert-name-explain/>
 - Prior Feynman article (in-body link): <https://www.americasgreatresorts.net/feynman-luxury-hotel-learning/>
+- Google's Secret Algorithm to Rank #1 Explained: Why You'll Never Get It (in-body link): <https://www.americasgreatresorts.net/google-secret-ranking-algorithm-explained/>
 - Luxury Hotel ODI Case Study (in-body link): <https://www.americasgreatresorts.net/luxury-hotel-odi-case-study/>
 - KFO Draft Falsification Protocol (in-body link): <https://www.americasgreatresorts.net/knowledge-formation-optimization-falsification-protocol/>
 - KFO canonical definition: <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
@@ -109,7 +112,13 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "url": "https://www.americasgreatresorts.net/marketing-expert-name-explain/",
   "mainEntityOfPage": "https://www.americasgreatresorts.net/marketing-expert-name-explain/",
   "datePublished": "2026-08-11",
-  "dateModified": "2026-09-09",
+  "dateModified": "2026-11-22",
+  "citation": [
+    "https://www.americasgreatresorts.net/feynman-luxury-hotel-learning/",
+    "https://www.americasgreatresorts.net/google-secret-ranking-algorithm-explained/",
+    "https://www.americasgreatresorts.net/luxury-hotel-odi-case-study/",
+    "https://www.americasgreatresorts.net/knowledge-formation-optimization-falsification-protocol/"
+  ],
   "inLanguage": "en",
   "author": {
     "@type": "Person",
