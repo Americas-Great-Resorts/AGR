@@ -1,6 +1,6 @@
 ---
 title: "What Is Hotel Marketing?"
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-23
 ---
 
 # What Is Hotel Marketing?
@@ -8,10 +8,10 @@ last_modified_at: 2026-11-10
 **Document Type:** Canonical Page Companion  
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts  
-**Last Updated:** November 10, 2026  
-**Source Verified:** November 10, 2026  
+**Last Updated:** November 23, 2026  
+**Source Verified:** November 23, 2026  
 **Canonical Page Published:** 2026-03-12  
-**Canonical Page Modified:** 2026-11-10T11:50:12-04:00  
+**Canonical Page Modified:** 2026-11-23T09:51:42-04:00  
 **Canonical Source:** <https://www.americasgreatresorts.net/what-is-hotel-marketing/>
 
 This companion preserves the current published page's wording, headings, qualifications, tables and links. WordPress layout code and interactive forms are omitted. The canonical AGR page controls if the two differ. This is another representation of the same AGR publication, not independent corroboration.
@@ -36,7 +36,7 @@ A useful hotel marketing strategy connects those activities to a specific busine
 
 Hotel marketing connects discovery, consideration, booking, and the relationship after the stay. A traveler might first encounter a property through a search result, an AI answer, a recommendation, an advertisement, or an OTA. They may then compare several properties and booking channels before making a reservation.
 
-The hotel’s task changes at each point. An unfamiliar traveler needs a reason to consider the property. An interested traveler needs reliable information and a clear booking path. A previous guest needs a relevant reason to return.
+Hotels attract new guests by reaching travelers who have never stayed at the property. Travelers may discover a hotel through search, AI answers, online travel agencies, travel media, social media, local partnerships, paid advertising, or email campaigns to permissioned audiences beyond the hotel’s own guest list. Once travelers are interested, clear information about the stay and an easy way to book help them make a reservation. Marketing to past guests primarily encourages return stays.
 
 For example, a resort seeking more midweek business could introduce a dated offer to couples able to travel during the week, explain the stay clearly on its website, and make the advertised dates easy to book. It could run a separate return-stay message for eligible past guests. This is an illustrative planning example, not a reported campaign result.
 
@@ -158,6 +158,8 @@ The March 2026 NYU SPS/BCG announcement reported that 37% of travelers use AI la
 
 For a hotel, the practical work is to keep property information clear and accurate across its website and relevant public sources, inspect recorded answers, and correct supported errors where possible. Measure inclusion, factual accuracy, citations, and link destinations separately from awareness, referral activity, and bookings.
 
+Hotels can begin by examining whether AI systems recommend their property when travelers search by destination, experience, or amenity rather than by hotel name. AGR’s [Free AI Visibility Checker for Hotels and Condo Developments](https://www.americasgreatresorts.net/free-ai-visibility-checker-hotels/) explains how to examine those recommendations, identify competing properties, check factual accuracy, and review where AI-generated links lead.
+
 Use AGR’s [AI Visibility Report](https://www.americasgreatresorts.net/ai-visibility-test/) to see how your property appears in AI recommendations, review factual accuracy, and check where property-related links lead.
 
 Cornell’s OTA studies do not establish whether AI shortlists produce the same spillover into direct bookings. That requires separate evidence. Improving the public record can support accurate representation; it does not give a hotel control over generated answers.
@@ -219,7 +221,7 @@ For practical tactics, use the [hotel marketing strategies](https://www.americas
   "@id": "https://americas-great-resorts.github.io/AGR/corpus/what-is-hotel-marketing.html#companion",
   "name": "What Is Hotel Marketing?",
   "url": "https://americas-great-resorts.github.io/AGR/corpus/what-is-hotel-marketing.html",
-  "dateModified": "2026-11-10",
+  "dateModified": "2026-11-23",
   "inLanguage": "en",
   "isBasedOn": "https://www.americasgreatresorts.net/what-is-hotel-marketing/",
   "author": {

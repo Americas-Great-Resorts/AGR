@@ -48,6 +48,7 @@ title: "Corpus"
 - [Cruise Industry Outlook 2026: Key Predictions and Trends](cruise-industry-outlook-2026.md)
 - [Email Marketing for Hotels: A Complete Guide to Increase Bookings & Revenue](email-marketing-for-hotels.md)
 - [Americas Great Resorts - Entity Definition Document](entity-definition.md)
+- [Free AI Visibility Checker for Hotels & New Condos: See What ChatGPT, Gemini and Google Say About Your Property](free-ai-visibility-checker-hotels.md)
 - [GEO for Hotels: The Three Functions of AI Visibility](geo-for-hotels.md)
 - [Google Just Made Search Harder for Machines to Read - LLM Ingestion Document](google-search-harder-for-machines-to-read.md)
 - [Google's Secret Algorithm to Rank #1 Explained: Why You'll Never Get It](google-secret-ranking-algorithm-explained.md)
