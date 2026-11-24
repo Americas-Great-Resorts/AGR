@@ -173,9 +173,9 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "headline": "Knowledge Formation Optimization (KFO): AGR Canonical Framework Document",
   "url": "https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/",
   "datePublished": "2026-04-09T00:00:00-05:00",
-  "dateModified": "2026-09-09T00:00:00-04:00",
+  "dateModified": "2026-09-15T00:00:00-04:00",
   "inLanguage": "en",
-  "version": "3.0",
+  "version": "3.1",
   "author": {
     "@type": "Person",
     "name": "Andrew Paul",
