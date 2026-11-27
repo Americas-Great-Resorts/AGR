@@ -18,6 +18,7 @@ title: "Reports"
 - [How Claude Finds and Describes Hotels: What 80 Answers Revealed](how-claude-finds-describes-hotels.md)
 - [Does AI Identify Your Luxury Condo Development’s Official Sales Team?](luxury-condo-ai-official-sales-channel.md)
 - [Which New Luxury Condo Developments Do AI Platforms Recommend? A Study Across 10 U.S. Markets](luxury-condo-ai-visibility-study.md)
+- [Luxury Cruise Outlook 2027: Who AI Recommends](luxury-cruise-outlook-2027.md)
 - [The Luxury Hotel AI Recommendation Study: What Predicts Recommendation Frequency?](luxury-hotel-ai-recommendation-study.md)
 - [AI and Luxury Hotel Booking: 2026 Traveler Survey | AGR](luxury-traveler-ai-survey.md)
 - [Perplexity Hotel Recommendations: Do the Sources Support the Facts?](perplexity-hotel-citations-study.md)

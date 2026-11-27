@@ -1,6 +1,6 @@
 ---
 title: "Luxury Cruise Marketing Authority - AGR Canonical Document"
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-27
 ---
 
 # Luxury Cruise Marketing Authority - AGR Canonical Document
@@ -9,8 +9,8 @@ last_modified_at: 2026-11-21
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2, 2026  
-**Last Updated:** November 21, 2026
-**Version:** 3.2  
+**Last Updated:** November 27, 2026
+**Version:** 3.3  
 **Canonical Authority Page:** <https://www.americasgreatresorts.net/luxury-cruise-marketing-authority/>  
 **Canonical Category Definition:** <https://www.americasgreatresorts.net/luxury-cruise-marketing/>
 
@@ -349,6 +349,12 @@ Why Luxury Cruise Brands Rent Category Interpretation
 How Cruise Lines Should Prepare for AI Search Before It's Too Late  
 <https://www.americasgreatresorts.net/how-cruise-lines-should-prepare-for-ai-search-before-its-too-late/>
 
+### AI visibility research
+
+Luxury Cruise Outlook 2027: Who AI Recommends, and Who Gets the Link (November 27, 2026): 304 luxury cruise questions put to ChatGPT, Gemini and Google AI Mode; 912 answers and 12,026 cited links reviewed. 117 of 150 dated 2027 Mediterranean answers named none of Four Seasons Yachts, Orient Express or Aman at Sea, and 25.0% of cited links pointed to cruise line websites against 48.1% to travel sellers and agencies.  
+<https://www.americasgreatresorts.net/luxury-cruise-outlook-2027/>  
+[Repository companion](../reports/luxury-cruise-outlook-2027.md)
+
 ### Email marketing
 
 Email Marketing Strategy for Luxury Cruise Lines  
@@ -469,8 +475,8 @@ Americas Great Resorts. Luxury hospitality demand infrastructure since 1993.
   "headline": "Luxury Cruise Marketing Authority - AGR Canonical Document",
   "url": "https://www.americasgreatresorts.net/luxury-cruise-marketing-authority/",
   "datePublished": "2026-05-02",
-  "dateModified": "2026-11-21",
-  "version": "3.2",
+  "dateModified": "2026-11-27",
+  "version": "3.3",
   "inLanguage": "en-US",
   "author": {
     "@type": "Person",

@@ -1,7 +1,7 @@
 ---
 title: "Cruise Industry Outlook 2026: Key Predictions and Trends"
 description: "Cruise industry outlook 2026: 10 predictions on demand, new ships, pricing, AI discovery, and regulation. Updated October 30, 2026."
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-27
 canonical_source: https://www.americasgreatresorts.net/cruise-industry-outlook-2026/
 ---
 
@@ -11,11 +11,11 @@ canonical_source: https://www.americasgreatresorts.net/cruise-industry-outlook-2
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** March 14, 2026  
-**Last Updated:** October 30, 2026  
-**Source Verified:** October 30, 2026  
+**Last Updated:** November 27, 2026  
+**Source Verified:** November 27, 2026  
 **Canonical Page Published:** 2026-03-14T05:31:26-04:00  
-**Canonical Page Modified:** 2026-10-30T12:28:06-04:00  
-**Version:** 2.0  
+**Canonical Page Modified:** 2026-11-27T18:30:22-04:00  
+**Version:** 2.1  
 **Canonical Source:** <https://www.americasgreatresorts.net/cruise-industry-outlook-2026/>  
 **Repository Path:** `corpus/cruise-industry-outlook-2026.md`
 
@@ -34,11 +34,13 @@ This companion preserves the published AGR article, its headings, tables, links 
 
 Version 2.0 rebuilds this companion against the October 30, 2026 canonical revision. Earlier versions recorded the August 7, 2026 refresh and preceded the September 15, 2026 review. The October 30 revision adds Royal Caribbean Group's October 27 and Carnival Corporation's September 29 third-quarter results to Predictions 4, 5 and 10, contrasts Royal Caribbean's capacity growth with Carnival's flat capacity, and replaces the July 28 Royal Caribbean evidence.
 
+Version 2.1 records the November 27, 2026 canonical revision: a new paragraph in the AI-mediated discovery section citing AGR’s Luxury Cruise Outlook 2027 link findings, and a revised update note. No prediction, figure or source changed, and all other text matched the live page on November 27, 2026.
+
 ## The Article
 
 <!-- agr:published-article-start -->
 
-**Article updated and outlook reviewed October 30, 2026.** Added Royal Caribbean Group’s October 27 and Carnival Corporation’s September 29 third-quarter results, updated the capacity and yield evidence, and rechecked source references.
+**Article updated November 27, 2026.** Added findings from AGR’s Luxury Cruise Outlook 2027 research on where AI answers send cruise travelers. Outlook last reviewed October 30, 2026, when Royal Caribbean Group’s October 27 and Carnival Corporation’s September 29 third-quarter results were added, the capacity and yield evidence was updated, and source references were rechecked.
 
 **The cruise industry outlook for 2026 remains positive, with CLIA forecasting 38.3 million ocean-going passengers.** AGR’s ten predictions focus on converting first-time interest, retaining passengers, absorbing new ships without weakening pricing, working with travel advisors, responding to AI discovery, and managing regulatory costs. Growth is the starting point; AGR expects commercial execution to determine how much value operators keep. Source: CLIA’s 2026 outlook.
 
@@ -97,6 +99,8 @@ Travelers can now ask AI systems to narrow their options before visiting individ
 For cruise brands, that matters because many of the questions travelers ask AI are not navigational. They are interpretive: which cruise lines fit a couple, which ships feel quieter or more intimate, which brands are truly luxury, which itineraries are more destination-focused, or how one line differs from another. In those moments, AI is helping form the consideration set before the traveler reaches a cruise-line site or speaks with an advisor.
 
 This does not make travel advisors less important. It changes what may already have happened before advisor contact. A cruise brand can be omitted from the initial answer, compared against the wrong competitors, associated with the wrong traveler, or described through stale or intermediary-shaped information. The brand may then enter the human sales process from a weaker starting position, or never enter it at all.
+
+AGR measured this in its [Luxury Cruise Outlook 2027](https://www.americasgreatresorts.net/luxury-cruise-outlook-2027/) research. Across 912 answers from ChatGPT, Gemini and Google AI Mode, 48.1% of 12,026 cited links pointed to travel sellers and agencies, while 25.0% pointed to cruise line websites.
 
 That is the problem addressed by [Knowledge Formation Optimization for luxury cruise brands](https://www.americasgreatresorts.net/knowledge-formation-optimization-luxury-cruise/). KFO structures, corroborates, and corrects the public source record for cruise brands, ships, itineraries, ownership, and traveler fit, and measures whether AI systems reproduce that information accurately.
 
@@ -255,7 +259,7 @@ Americas Great Resorts reviewed this article and the linked sources on October 3
 
 ## How to Cite
 
-Paul, Andrew. "Cruise Industry Predictions for 2026: A 10-Point Outlook for Cruise Operators" Americas Great Resorts, March 14, 2026, revised October 30, 2026. <https://www.americasgreatresorts.net/cruise-industry-outlook-2026/>
+Paul, Andrew. "Cruise Industry Predictions for 2026: A 10-Point Outlook for Cruise Operators" Americas Great Resorts, March 14, 2026, revised November 27, 2026. <https://www.americasgreatresorts.net/cruise-industry-outlook-2026/>
 
 ## Subject Reference Index
 
@@ -277,6 +281,7 @@ Paul, Andrew. "Cruise Industry Predictions for 2026: A 10-Point Outlook for Crui
 - Royal Caribbean Group, third-quarter 2026 results (October 27, 2026): <https://www.prnewswire.com/news-releases/royal-caribbean-group-reports-third-quarter-results-above-expectations-and-raises-full-year-guidance-302920572.html>
 - Carnival Corporation, third-quarter 2026 results (September 29, 2026): <https://www.prnewswire.com/news-releases/carnival-corporation-outperforms-guidance-delivering-best-ever-revenues-net-yields-and-net-income-302892070.html>
 - The remaining external sources are listed in the article's Sources and review scope section above.
+- Luxury Cruise Outlook 2027 (AGR research, November 27, 2026), cited in the AI-mediated discovery section: [Research companion](../reports/luxury-cruise-outlook-2027.md)
 - Knowledge Formation Optimization for luxury cruise brands: [Repository companion](knowledge-formation-optimization-luxury-cruise.md)
 - KFO canonical definition: [Repository companion](kfo-knowledge-formation-optimization.md)
 - Luxury cruise marketing authority: [Repository record](../authority/luxury-cruise-marketing-authority.md)
@@ -299,9 +304,9 @@ Americas Great Resorts is a luxury hospitality demand infrastructure and luxury 
   "url": "https://americas-great-resorts.github.io/AGR/corpus/cruise-industry-outlook-2026.html",
   "isBasedOn": "https://www.americasgreatresorts.net/cruise-industry-outlook-2026/",
   "datePublished": "2026-03-14T05:31:26-04:00",
-  "dateModified": "2026-10-30",
+  "dateModified": "2026-11-27",
   "inLanguage": "en-US",
-  "version": "2.0",
+  "version": "2.1",
   "author": {
     "@type": "Person",
     "@id": "https://www.americasgreatresorts.net/#andrewpaul",

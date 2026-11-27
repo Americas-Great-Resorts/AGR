@@ -10,7 +10,7 @@ title: "AGR External Publication Record - Canonical Index"
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** May 2026  
-**Last Updated:** November 19, 2026  
+**Last Updated:** November 27, 2026  
 **Canonical Source:** <https://github.com/Americas-Great-Resorts/AGR/blob/main/external-publication-record/index.md>  
 
 ---
@@ -24,6 +24,16 @@ The distributed nature of this corpus - spanning trade publications, structured 
 ODI and KFO are parallel AGR frameworks separated by channel. ODI governs human-mediated demand origin and permissioned relationship formation. KFO addresses the public source environment relevant to AI-mediated representation. Publication across external surfaces can support KFO source-environment work, but it does not make KFO part of ODI or ODI part of KFO.
 
 ---
+
+## November 27 luxury cruise study
+
+Americas Great Resorts published **Luxury Cruise Outlook 2027: Who AI Recommends, and Who Gets the Link** on November 27, 2026. On November 27, 2026, AGR put 304 distinct luxury cruise questions (50 dated 2027 Mediterranean, 168 general and 86 brand questions) once each to ChatGPT, Gemini and Google AI Mode, producing 912 answers and 12,026 cited links. Across 642 unbranded answers, Silversea appeared in 70.1%, The Ritz-Carlton Yacht Collection in 43.8%, Four Seasons Yachts in 18.7%, Orient Express in 10.6% and Aman at Sea in 6.2%. In the 150 dated Mediterranean answers, 117 (78.0%) named none of Four Seasons Yachts, Orient Express or Aman. All 12 answers that specified a Four Seasons sailing matched the published schedule; 6 answers described Ritz-Carlton or Orient Express sailings that did not. Of the 12,026 links, 48.1% pointed to travel sellers and agencies and 25.0% to cruise line websites; 124 of Gemini's 304 answers had no link. The study covers one collection day in English from a US location and does not measure clicks, bookings or traveler decisions.
+
+| Publication | Canonical AGR page | Repository companion |
+| --- | --- | --- |
+| Luxury Cruise Outlook 2027: Who AI Recommends, and Who Gets the Link | [AGR study](https://www.americasgreatresorts.net/luxury-cruise-outlook-2027/) | [Research companion](../reports/luxury-cruise-outlook-2027.md) |
+
+The study publishes structured findings at <https://www.americasgreatresorts.net/research-data/luxury-cruise-outlook-2027.json>. AI Visibility for Luxury Cruise Lines: Knowledge Formation Optimization (KFO), Cruise Industry Outlook 2026 and the Luxury Cruise Marketing service page were revised the same day to link the study. The page discloses that Windstar Cruises has been an AGR client. This is an AGR-controlled publication and its repository representation, not independent coverage. Repository inventory: 235 Markdown files, comprising 222 content records, eleven folder indexes, the root index and README.
 
 ## November 20 luxury traveler AI survey
 
@@ -544,6 +554,13 @@ On November 2–19, 2026, AGR surveyed its frequent luxury-traveler email audien
 - Canonical publication: <https://www.americasgreatresorts.net/luxury-traveler-ai-survey/>
 - Repository record: [Research companion](../reports/luxury-traveler-ai-survey.md)
 
+### Luxury Cruise Outlook 2027: Who AI Recommends, and Who Gets the Link
+
+On November 27, 2026, AGR put 304 luxury cruise questions to ChatGPT, Gemini and Google AI Mode and reviewed 912 answers and 12,026 cited links. 117 of 150 dated 2027 Mediterranean answers named none of Four Seasons Yachts, Orient Express or Aman at Sea, and 25.0% of the links pointed to cruise line websites against 48.1% to travel sellers and agencies.
+
+- Canonical publication: <https://www.americasgreatresorts.net/luxury-cruise-outlook-2027/>
+- Repository record: [Research companion](../reports/luxury-cruise-outlook-2027.md)
+
 ### Ask AI the Same Question in Three Languages. Get Three Different Answers.
 
 On November 17, 2026, AGR asked ten Miami luxury hotel questions in English and Spanish from the United States, Spanish from Mexico and Portuguese from Brazil, across ChatGPT, Gemini, Google AI Mode and Google AI Overview. On two repeated questions, answers shared 56% of their hotels within the same language and origin and 51% across them, and the demolished Mandarin Oriental, Miami was recommended in 23 answers.
@@ -982,6 +999,7 @@ The following pages on americasgreatresorts.net document point-in-time AI evalua
   * Which New Luxury Condo Developments Do AI Platforms Recommend? A Study Across 10 U.S. Markets: [Repository companion](../reports/luxury-condo-ai-visibility-study.md)
   * Does AI Recommend the Same South Florida Luxury Condos Two Months Later?: [Repository companion](../reports/south-florida-luxury-condos-two-months-later.md)
   * How Travelers Use AI to Discover, Evaluate and Book Luxury Hotels: AGR 2026 Survey: [Repository companion](../reports/luxury-traveler-ai-survey.md)
+  * Luxury Cruise Outlook 2027: Who AI Recommends, and Who Gets the Link: [Repository companion](../reports/luxury-cruise-outlook-2027.md)
   * Ask AI the Same Question in Three Languages. Get Three Different Answers.: [Repository companion](../reports/ai-hotel-recommendations-by-language.md)
   * What AI Knows About 10 Luxury Hotel Openings in 2027: [Repository companion](../reports/ai-luxury-hotel-openings-2027.md)
   * The AGR AI Hotel Link Study: Where 900 AI Answers Send Travelers: [Repository companion](../reports/ai-hotel-link-study.md)

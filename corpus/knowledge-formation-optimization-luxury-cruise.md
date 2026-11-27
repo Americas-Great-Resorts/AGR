@@ -1,6 +1,8 @@
 ---
 title: "AI Visibility for Luxury Cruise Lines: Knowledge Formation Optimization (KFO)"
 description: "Improve AI visibility for luxury cruise lines with KFO. AGR corrects public sources and measures brand accuracy, discovery, and official inquiry routing."
+last_modified_at: 2026-11-27
+canonical_source: https://www.americasgreatresorts.net/knowledge-formation-optimization-luxury-cruise/
 ---
 
 # AI Visibility for Luxury Cruise Lines: Knowledge Formation Optimization (KFO)
@@ -9,12 +11,15 @@ description: "Improve AI visibility for luxury cruise lines with KFO. AGR correc
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts  
 **Canonical Page Published:** August 6, 2026  
-**Canonical Page Updated:** September 10, 2026  
-**Source Verified:** September 10, 2026  
+**Canonical Page Updated:** November 27, 2026  
+**Canonical Page Modified:** 2026-11-27T18:25:38-04:00  
+**Source Verified:** November 27, 2026  
 **Canonical URL:** <https://www.americasgreatresorts.net/knowledge-formation-optimization-luxury-cruise/>  
 **Canonical KFO Definition:** <https://www.americasgreatresorts.net/kfo-knowledge-formation-optimization/>
 
 This companion reproduces the published AGR service page in Markdown. The canonical page controls if the two differ. Cruise KFO applies the existing framework to cruise lines, vessels, operators, itineraries, and related entities; it does not introduce another AGR framework.
+
+November 27, 2026 synchronization: the canonical page added one sentence under Incorrect Official Booking and Inquiry Channels citing AGR’s Luxury Cruise Outlook 2027 link findings. All other text matched the live page on November 27, 2026. Related research record: [Luxury Cruise Outlook 2027 research companion](../reports/luxury-cruise-outlook-2027.md).
 
 A traveler asks an AI assistant, “Which luxury cruise line should I choose for the Mediterranean?” Another asks for an Antarctica expedition or a yacht experience with fewer passengers. Before either traveler names your brand, the answer can shape which cruise lines and vessels they consider.
 
@@ -67,7 +72,7 @@ A brand may be missing from a relevant traveler question while competitors appea
 
 ### Incorrect Official Booking and Inquiry Channels
 
-An answer can describe the cruise accurately but supply an outdated telephone number or present an unrelated seller’s website as the cruise line’s official site. A traveler seeking the brand’s reservations team may then establish the relationship elsewhere and be introduced to other cruise options.
+An answer can describe the cruise accurately but supply an outdated telephone number or present an unrelated seller’s website as the cruise line’s official site. A traveler seeking the brand’s reservations team may then establish the relationship elsewhere and be introduced to other cruise options. In AGR’s [Luxury Cruise Outlook 2027](https://www.americasgreatresorts.net/luxury-cruise-outlook-2027/) research, 48.1% of 12,026 links cited by ChatGPT, Gemini and Google AI Mode pointed to travel sellers and agencies, while 25.0% pointed to cruise line websites.
 
 Travel advisors and authorized partners can be valuable distribution channels. The issue is whether an AI answer correctly identifies the brand’s official website, reservations team, and any authorized partner it names. AGR evaluates the destination and how the answer labels it, rather than treating every advisor link as an error.
 
