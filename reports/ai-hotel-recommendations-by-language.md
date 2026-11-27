@@ -1,7 +1,7 @@
 ---
 title: "AI Hotel Recommendations in English, Spanish and Portuguese: A Miami Study"
 description: "AGR asked ChatGPT, Gemini and Google's AI for Miami's best luxury hotels in English, Spanish and Portuguese. The lists didn't match, and a demolished hotel kept appearing."
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-26
 canonical_source: https://www.americasgreatresorts.net/ai-hotel-recommendations-by-language/
 ---
 
@@ -11,10 +11,11 @@ canonical_source: https://www.americasgreatresorts.net/ai-hotel-recommendations-
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts (americasgreatresorts.net)  
 **Published:** November 17, 2026  
-**Last Updated:** November 17, 2026  
-**Source Verified:** November 17, 2026  
+**Last Updated:** November 26, 2026  
+**Source Verified:** November 26, 2026  
 **Fieldwork:** November 17, 2026  
-**Version:** 1.0  
+**Canonical Page Modified:** 2026-11-26T21:17:33-04:00  
+**Version:** 1.1  
 **Canonical Source:** <https://www.americasgreatresorts.net/ai-hotel-recommendations-by-language/>  
 **Repository Path:** `reports/ai-hotel-recommendations-by-language.md`
 
@@ -30,7 +31,7 @@ canonical_source: https://www.americasgreatresorts.net/ai-hotel-recommendations-
 
 ## Purpose and Evidence Boundary
 
-This file preserves the published AGR study as a research companion, including its headline figures, Quick Answers, all five exhibits, interpretation, method, limits, prior work and citation guidance. Exhibit 2, a bar chart on the canonical page, is reproduced as a table of the same values; Exhibit 3, a timeline graphic, is reproduced as a dated list. The canonical website page controls if the two differ. This is another representation of the same AGR publication, not independent corroboration.
+This file preserves the published AGR study as a research companion, including its headline figures, Quick Answers, all five exhibits, interpretation, method, limits, prior work and citation guidance. Version 1.1 adds the Related analysis paragraph the canonical page added on November 26, 2026 under What this means for a luxury hotel, linking The Velvet Rope Problem; no finding, exhibit or method text changed. Exhibit 2, a bar chart on the canonical page, is reproduced as a table of the same values; Exhibit 3, a timeline graphic, is reproduced as a dated list. The canonical website page controls if the two differ. This is another representation of the same AGR publication, not independent corroboration.
 
 This study is a standalone language-and-origin study. It is not part of the July 29, 2026 AI Visibility Index or the September ten-destination research series, and its counts should not be pooled with those studies. The capture dataset and scoring ledger are retained by AGR and available on request; this companion publishes the study's findings.
 
@@ -249,6 +250,8 @@ The AI Overview gap affects visibility before any hotel is named. A Spanish or P
 
 A hotel that checks its AI visibility once, in English, has seen one draw from a moving list. The same question asked again, or asked in Spanish or Portuguese, can return a different set of hotels. A single answer shows whether a hotel appeared once. Repeated checks show how often it appears across the tested questions, languages and origins.
 
+**Related analysis:** In [The Velvet Rope Problem](https://www.americasgreatresorts.net/velvet-rope-problem-ai-luxury-hotels/), AGR argues that this variation is an opening for luxury hotels: the answer depends on the question, so the goal is to be described precisely enough to win the specific questions the right guest asks.
+
 For properties that sell to Latin American travelers, the regional citation layer is part of what those travelers are shown. Spanish and Portuguese answers cited regional editions of destination, booking and review sites and local travel blogs that English answers almost never cited. An English-only audit can miss that regional citation layer.
 
 The closed-hotel results show a second problem. Engines that describe a hotel’s status correctly when asked about it directly still list it in recommendations. Correcting a property record is necessary, but it does not guarantee that every answer will reflect the correction. This observational study does not show that any content change will improve recommendations or generate bookings.
@@ -313,6 +316,7 @@ Paul, Andrew. "Ask AI the Same Question in Three Languages. Get Three Different 
 - [AI Visibility Report for Hotels and Condo Developments](../corpus/ai-visibility-test.md): AGR's real-time report tool.
 - [AI Visibility, KFO & Hospitality AI Resource Index](../corpus/ai-visibility-resources.md)
 - [Americas Great Resorts](../corpus/americas-great-resorts.md): publisher and entity record.
+- [The Velvet Rope Problem: What Happens to Luxury When Everyone Has the Same Concierge?](../corpus/velvet-rope-problem-ai-luxury-hotels.md): November 26, 2026 AGR opinion article linked from the canonical page; an argument that cites this study's Mandarin Oriental and overlap figures, not additional data.
 
 ## Companion Structured Data
 
@@ -328,7 +332,7 @@ Paul, Andrew. "Ask AI the Same Question in Three Languages. Get Three Different 
   "url": "https://americas-great-resorts.github.io/AGR/reports/ai-hotel-recommendations-by-language.html",
   "isBasedOn": "https://www.americasgreatresorts.net/ai-hotel-recommendations-by-language/",
   "datePublished": "2026-11-17",
-  "dateModified": "2026-11-17",
+  "dateModified": "2026-11-26",
   "inLanguage": "en-US",
   "temporalCoverage": "2026-11-17",
   "spatialCoverage": "Miami, Florida",
@@ -344,7 +348,8 @@ Paul, Andrew. "Ask AI the Same Question in Three Languages. Get Three Different 
     "https://www.americasgreatresorts.net/ai-visibility-index/",
     "https://www.americasgreatresorts.net/ai-hotel-recommendations-research/",
     "https://www.americasgreatresorts.net/ai-hotel-recommendations-five-weeks-later/",
-    "https://www.americasgreatresorts.net/ai-luxury-hotel-openings-2027/"
+    "https://www.americasgreatresorts.net/ai-luxury-hotel-openings-2027/",
+    "https://www.americasgreatresorts.net/velvet-rope-problem-ai-luxury-hotels/"
   ],
   "about": [
     {"@type": "Thing", "name": "AI hotel recommendations"},

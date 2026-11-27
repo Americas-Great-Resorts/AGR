@@ -1,7 +1,7 @@
 ---
 title: "Which Hotels Do AI Engines Recommend? A Study of 10 Destinations"
 description: "Research on 1,177 assessed hotel recommendation answers across ten destinations, 100 questions and four AI engines."
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-26
 ---
 
 # Which Hotels Do AI Engines Recommend? A Study of 10 Destinations
@@ -10,17 +10,17 @@ last_modified_at: 2026-11-20
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts  
 **Organization:** Americas Great Resorts  
 **Published:** September 27, 2026  
-**Last Updated:** November 20, 2026  
-**Source Verified:** November 20, 2026  
-**Canonical Page Modified:** 2026-11-20T15:46:27-04:00  
+**Last Updated:** November 26, 2026  
+**Source Verified:** November 26, 2026  
+**Canonical Page Modified:** 2026-11-26T21:08:49-04:00  
 **Fieldwork:** September 27, 2026  
-**Version:** 1.3  
+**Version:** 1.4  
 **Canonical Source:** <https://www.americasgreatresorts.net/ai-hotel-recommendations-research/>  
 **Repository Path:** `reports/ai-hotel-recommendations-research.md`
 
 ## Purpose and Evidence Boundary
 
-This file preserves the published AGR article as a research companion, including its opening findings, all four tables, methodology, limitations and related links. Version 1.3 resynchronizes it with the November 20, 2026 canonical revision, which adds a Traveler Behavior Research paragraph linking AGR's 2026 Luxury Traveler AI Survey after the November 11 follow-up paragraph, and adds the structured findings (JSON) link the canonical page carries at the end of the article. The September 27 methodology, findings, tables and attribution are unchanged. Version 1.2 resynchronizes it with the November 11, 2026 canonical revision, which adds a follow-up paragraph linking The AGR AI Hotel Link Study. Version 1.1 resynchronized it with the November 2, 2026 canonical revision, which added the five-week follow-up link, and carried the follow-up link to the link-destination study and the real-time AI Visibility Report paragraph added after the original companion. The canonical website page controls if the two differ. This is another representation of the same AGR publication, not independent corroboration. Website navigation, styling and sharing controls are omitted.
+This file preserves the published AGR article as a research companion, including its opening findings, all four tables, methodology, limitations and related links. Version 1.4 resynchronizes it with the November 26, 2026 canonical revision, which adds a Related analysis paragraph after the Orlando example linking The Velvet Rope Problem; no finding, table or method text changed. Version 1.3 resynchronized it with the November 20, 2026 canonical revision, which adds a Traveler Behavior Research paragraph linking AGR's 2026 Luxury Traveler AI Survey after the November 11 follow-up paragraph, and adds the structured findings (JSON) link the canonical page carries at the end of the article. The September 27 methodology, findings, tables and attribution are unchanged. Version 1.2 resynchronizes it with the November 11, 2026 canonical revision, which adds a follow-up paragraph linking The AGR AI Hotel Link Study. Version 1.1 resynchronized it with the November 2, 2026 canonical revision, which added the five-week follow-up link, and carried the follow-up link to the link-destination study and the real-time AI Visibility Report paragraph added after the original companion. The canonical website page controls if the two differ. This is another representation of the same AGR publication, not independent corroboration. Website navigation, styling and sharing controls are omitted.
 
 This is a separate ten-destination baseline, not a new edition of the July 29 six-market AI Visibility Index or a directly comparable time series. It measures hotel appearances, not citation ownership, booking outcomes, hotel quality, or the causes of recommendation inclusion. The 1,177 figure is the number of substantive answers assessed, not a count of unique hotels or individual hotel appearances. Table denominators refer to the assessed answers for each comparison. Underlying answer-level research records are retained internally; this companion publishes the article's aggregate findings.
 
@@ -177,6 +177,8 @@ Four Seasons Orlando led the destination's combined total and was the most frequ
 
 For hotel marketers, the practical distinction is between being visible for a broad destination question and being visible for a specific reason to travel. A boutique property can lead a relevant question without leading an aggregate dominated by several different travel needs.
 
+**Related analysis:** [The Velvet Rope Problem](https://www.americasgreatresorts.net/velvet-rope-problem-ai-luxury-hotels/) argues that this distinction is the new velvet rope for luxury hotels: a property gains more by owning the specific question its guest would ask than by winning the generic destination question.
+
 AGR analyzed recommendation patterns for **all 100 questions** across the ten destinations. Orlando illustrates how those patterns can differ within a single market.
 
 ## Repeating the same question often changed the hotel list
@@ -257,6 +259,7 @@ Paul, Andrew. "Which Hotels Do AI Engines Recommend? A Study of 10 Destinations.
 - [The Luxury Hotel AI Recommendation Study](luxury-hotel-ai-recommendation-study.md): separate analysis of recommendation-frequency associations among already-recommended hotels.
 - [AI Visibility Resources](../corpus/ai-visibility-resources.md): routing to AGR research, guides and framework records.
 - [Americas Great Resorts](../corpus/americas-great-resorts.md): publisher and entity record.
+- [The Velvet Rope Problem: What Happens to Luxury When Everyone Has the Same Concierge?](../corpus/velvet-rope-problem-ai-luxury-hotels.md): November 26, 2026 AGR opinion article linked from the canonical page's Orlando section; an argument that cites this study's figures, not additional data.
 
 ## Companion Structured Data
 
@@ -269,7 +272,7 @@ Paul, Andrew. "Which Hotels Do AI Engines Recommend? A Study of 10 Destinations.
   "url": "https://americas-great-resorts.github.io/AGR/reports/ai-hotel-recommendations-research.html",
   "isBasedOn": "https://www.americasgreatresorts.net/ai-hotel-recommendations-research/",
   "datePublished": "2026-09-27",
-  "dateModified": "2026-11-20",
+  "dateModified": "2026-11-26",
   "inLanguage": "en",
   "author": {
     "@type": "Person",
