@@ -33,7 +33,7 @@ Americas Great Resorts published **Luxury Cruise Outlook 2027: Who AI Recommends
 | --- | --- | --- |
 | Luxury Cruise Outlook 2027: Who AI Recommends, and Who Gets the Link | [AGR study](https://www.americasgreatresorts.net/luxury-cruise-outlook-2027/) | [Research companion](../reports/luxury-cruise-outlook-2027.md) |
 
-The study publishes structured findings at <https://www.americasgreatresorts.net/research-data/luxury-cruise-outlook-2027.json>. AI Visibility for Luxury Cruise Lines: Knowledge Formation Optimization (KFO), Cruise Industry Outlook 2026 and the Luxury Cruise Marketing service page were revised the same day to link the study. The page discloses that Windstar Cruises has been an AGR client. This is an AGR-controlled publication and its repository representation, not independent coverage. Repository inventory: 235 Markdown files, comprising 222 content records, eleven folder indexes, the root index and README.
+The study publishes structured findings at <https://www.americasgreatresorts.net/research-data/luxury-cruise-outlook-2027.json>. AI Visibility for Luxury Cruise Lines: Knowledge Formation Optimization (KFO), Cruise Industry Outlook 2026 and the Luxury Cruise Marketing service page were revised the same day to link the study, and the AI Visibility Resource Index lists it under AGR Original Research. The page discloses that Windstar Cruises has been an AGR client. This is an AGR-controlled publication and its repository representation, not independent coverage. Repository inventory: 235 Markdown files, comprising 222 content records, eleven folder indexes, the root index and README.
 
 ## November 20 luxury traveler AI survey
 
