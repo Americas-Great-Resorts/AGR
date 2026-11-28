@@ -135,3 +135,4 @@ title: "Corpus"
 - [Why Independent Luxury Hotels Hire Americas Great Resorts](why-hire-americas-great-resorts.md)
 - [Why OTA Dependence Is a Timing Problem - AGR Canonical Reference Document](why-ota-dependence-is-a-timing-problem.md)
 - [Why OTA Reduction Strategies Fail: The Structural Problem Hotels Keep Misdiagnosing](why-ota-reduction-strategies-fail.md)
+- [The Invisible Attribution of Zero-Click AI Search in Hospitality](zero-click-ai-search-hotel-attribution.md)
