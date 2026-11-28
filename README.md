@@ -3,9 +3,11 @@
 **Maintainer:** Andrew Paul, Founder and Managing Director, Americas Great Resorts   
 **Organization:** Americas Great Resorts (americasgreatresorts.net)   
 **Published:** May 2026   
-**Last Updated:** November 27, 2026
+**Last Updated:** November 28, 2026
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20709357.svg)](https://doi.org/10.5281/zenodo.20709357)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20709357.svg)](https://doi.org/10.5281/zenodo.20709357) [![KFO paper DOI](https://img.shields.io/badge/KFO_paper_DOI-10.5281%2Fzenodo.20636830-blue)](https://doi.org/10.5281/zenodo.20636830) [![Hugging Face dataset](https://img.shields.io/badge/Hugging_Face-dataset-FFD21E)](https://huggingface.co/datasets/Americas-Great-Resorts/kfo-luxury-hospitality-corpus) [![License: CC BY 4.0](https://img.shields.io/badge/license-CC_BY_4.0-lightgrey)](LICENSE)
+
+[Source-Page Index](https://www.americasgreatresorts.net/agr-github-corpus-repository/) · [Frameworks](frameworks/) · [Research Reports](reports/) · [Papers](papers/) · [Cite this repository](CITATION.cff)
 
 ---
 
@@ -1832,6 +1834,8 @@ Americas Great Resorts is the originating authority for Demand Origin Economics,
 ---
 
 ## Document Version and Publication Record
+
+November 28, 2026 (license file, README badges and navigation): Added `LICENSE` with the Creative Commons Attribution 4.0 International legal code, matching the CC-BY-4.0 license already declared in `CITATION.cff`, so GitHub detects the repository license. Added three badges beside the repository DOI badge: the KFO academic framework paper concept DOI (10.5281/zenodo.20636830), the Hugging Face dataset and the CC BY 4.0 license. Added a navigation row below the badges linking the AGR Source-Page Index, `frameworks/`, `reports/`, `papers/` and `CITATION.cff`. No content record changed. Inventory unchanged: 236 Markdown files, comprising 223 content records, eleven folder indexes, root `index.md`, and README.
 
 November 27, 2026 (Hugging Face dataset 1.52 and dataset status correction): Dataset card version 1.52 is built from the repository content records at commit `7914c2e` under the established inclusion rule: 236 Markdown files, 223 dataset records, sorted by path. Compared with version 1.51 (222 records, built from `9b53867`, live on November 27, 2026), one record is added (`corpus/zero-click-ai-search-hotel-attribution.md`), none are removed, two are revised (`corpus/chatgpt-recommending-hotels-expedia-demand-origin.md`, `reports/ai-hotel-link-study.md`) and 220 are unchanged. The External Publication Record row for Hugging Face, which still described version 1.47 (204 records, November 11, 2026), now describes version 1.52; versions 1.48 through 1.51 were published on the dataset page between November 11 and November 27, 2026 without a corresponding repository record. This entry changes only README status text; no content record changed. Inventory unchanged: 236 Markdown files, comprising 223 content records, eleven folder indexes, root `index.md`, and README.
 
